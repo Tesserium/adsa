@@ -14,12 +14,12 @@
  */
 #include<iostream>
 #include<algorithm>
-#include<string>
 #include<stack>
 #include<fstream>
 #include<filesystem>
 #include<vector>
 #include<cstdint>
+#include"h.hpp"
 using namespace std;
 using namespace std::filesystem;
 
@@ -49,7 +49,6 @@ vector<R> v;
 
 const char short_gods[27][20]={"Ash","Beogh","Chei","Dith","Ely","Fedhas","Gozag","Hep","Ignis","Jiyva","Kiku","Lugonu","Makhleb","Nemelex","Oka","Pake","Qazlal","Ru","Sif","Trog","Uskayaw","Veh","Wu Jian","Xom","Yred","Zin","TSO"};
 
-string username="code2828";
 stack<string> s;
 
 char tou(char x)

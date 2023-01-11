@@ -10,4 +10,9 @@ a.*/
 *.map
 *.where
 *.txt
+.vscode/
+*.a
+*.o
+*.s
+*.i*
 code2828

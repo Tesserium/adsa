@@ -1,11 +1,7 @@
 #include<iostream>
-#include<curl/curl.h>
 #include<fstream>
-#include<string>
+#include"h.hpp"
 using namespace std;
-
-ifstream fi("code2828.akrasiac.html");
-CURL *curl_handle;
 
 static size_t write_data(void *ptr, size_t size, size_t nmemb, void *stream)
 {
@@ -29,10 +25,11 @@ void deal(string filename, string remote_name)
 		cout<<"The file \""<<filename<<"\" already exists, no need to download again.\n";
 		return;
 	}
+	if(filename[0]!='m')return;// not morgue file
 	/* set URL to get here */
 	curl_easy_setopt(curl_handle, CURLOPT_URL, remote_name.c_str());
 	/* Switch on full protocol/debug output while testing */
-	curl_easy_setopt(curl_handle, CURLOPT_VERBOSE, 0L);
+	curl_easy_setopt(curl_handle, CURLOPT_VERBOSE, 1L);
 	/* disable progress meter, set to 0L to enable it */
 	curl_easy_setopt(curl_handle, CURLOPT_NOPROGRESS, 0L);
 	/* send all data to this function  */
@@ -49,33 +46,27 @@ void deal(string filename, string remote_name)
 	}
 }
 
-int main(int argc, char* argv[])
+int download(CrawlSite site)
 {
-	curl_global_init(CURL_GLOBAL_ALL);
-	/* init the curl session */
-	curl_handle = curl_easy_init();
-	while(!fi.eof())
+	string path;
+	switch(site)
 	{
-		char pyy[1000];
-		fi.getline(pyy,1000);
-		string lxh=pyy;
-		size_t pos=lxh.find("</td><td><a href=");
-		if(pos==string::npos)continue;
-		lxh=lxh.substr(pos-1);
-		pos=19;
-		size_t pos2=lxh.find("\">")-1;
-		size_t len=pos2-pos+1;
-		string url=lxh.substr(pos,len);
-		if((pos=url.find("./"))!=string::npos)url.erase(pos,pos+2);
-		if(url[0]=='/')continue;
-		string path="http://crawl.akrasiac.org/rawdata/code2828/";
-		path.append(url);
-		cout<<"Fetching file "<<path<<"...\n";
-		deal(url,path);
+		case CAO:path="http://crawl.akrasiac.org/rawdata/";break;
+		case CKO:path="https://crawl.kelbi.org/crawl/morgue/";break;
+		case CPO:path="https://crawl.project357.org/morgue/";break;
+		default:path="";break;
 	}
+	path.append(username);
+	path.append(static_cast<string>("/"));
+	deal("akr.html",path);
+	/*while(!fi.eof())
+	{
+		char c=fi.get();
+		string url="";
+		deal(url,path);
+	}*/
 	/* cleanup curl stuff */
-	curl_easy_cleanup(curl_handle);
-	curl_global_cleanup();
+
 	return 0;
 }
 
