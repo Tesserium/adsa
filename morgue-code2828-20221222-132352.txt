@@ -1,0 +1,216 @@
+ Dungeon Crawl Stone Soup version 0.29.1-2-gbd0b4ee654 (webtiles) character file.
+
+Game seed: 4090143409730818887
+
+56 code2828 the Shooter (level 3, -1/21 HPs)
+             Began as a Tengu Hunter on Dec 22, 2022.
+             Succumbed to a scorpion's poison
+             ... on level 6 of the Dungeon.
+             The game lasted 00:12:48 (1636 turns).
+
+code2828 the Shooter (Tengu Hunter)                 Turns: 1636, Time: 00:12:49
+
+Health: -1/21      AC:  6    Str: 11    XL:     3   Next: 95%
+Magic:  4/4        EV: 11    Int:  9    God:    
+Gold:   89         SH:  0    Dex: 19    Spells: 2/2 levels left
+
+rFire   . . .      SeeInvis .   a - +0 shortbow
+rCold   . . .      Faith    .   (shield currently unavailable)
+rNeg    . . .      Spirit   .   o - +0 ring mail
+rPois   .          Reflect  .   (helmet restricted)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   d - +0 pair of gloves
+Will    .....                   (boots unavailable)
+Stlth   +.........              (no amulet)
+HPRegen 0.07/turn               (no ring)
+MPRegen 0.09/turn               (no ring)
+
+@: lethally poisoned (-1 -> -6)
+A: beak, talons 3
+a: no special abilities
+
+
+You were on level 6 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 89 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 shortbow (weapon)
+Armour
+ c - a +0 leather armour
+ d - a +0 pair of gloves (worn)
+ o - a +0 ring mail (worn)
+Scrolls
+ b - 3 scrolls of immolation
+ h - a scroll of teleportation {unknown}
+ i - a scroll of noise {unknown}
+ j - 2 scrolls of vulnerability {unknown}
+ l - 2 scrolls of enchant weapon {unknown}
+ m - a scroll of fear {unknown}
+ n - a scroll of enchant armour {unknown}
+Potions
+ e - a potion of curing {unknown}
+ f - a potion of mutation {unknown}
+ g - a potion of invisibility {unknown}
+ k - a potion of brilliance
+ p - a potion of heal wounds {unknown}
+
+
+   Skills:
+ + Level 2.3 Fighting
+ * Level 4.8 Ranged Weapons
+ + Level 0.8 Armour
+ * Level 2.9 Dodging
+ - Level 1.3 Stealth
+ + Level 0.6 Shields
+ + Level 0.3 Spellcasting
+ + Level 0.4 Hexes
+
+
+You had 2 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Tukima's Dance           Hex            0%         N/A       94%         3
+ Portal Projectile        Hex/Tloc       0%         N/A       95%         3
+ Blade Hands              Tmut           0%         N/A       100%        5
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)         Zot: 26969      
+Temple: D:4-7       
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+
+Message History
+
+Press: ? - help, Q - select action
+Shift-Dir - straight line, f/p - scorpion
+Aim: a scorpion (moderately wounded, 64% to hit)
+You shoot an arrow. The arrow hits the scorpion.
+The scorpion is heavily wounded.
+The scorpion stings you.
+The scorpion stings you but does no damage.
+Fire: a) +0 shortbow
+Press: ? - help, Q - select action
+Shift-Dir - straight line, f/p - scorpion
+Aim: a scorpion (heavily wounded, 64% to hit)
+You shoot an arrow. The arrow hits the scorpion.
+The scorpion is heavily wounded.
+The scorpion stings you.
+* * * LOW HITPOINT WARNING * * *
+You are lethally poisoned!
+The scorpion poisons you!
+The scorpion stings you but does no damage.
+Fire: a) +0 shortbow
+Press: ? - help, Q - select action
+Shift-Dir - straight line, f/p - scorpion
+Aim: a scorpion (heavily wounded, 64% to hit)
+You shoot an arrow.
+The arrow hits the scorpion but does no damage.
+The scorpion is heavily wounded.
+* * * LOW HITPOINT WARNING * * *
+You feel very sick.
+The scorpion barely misses you.
+Fire: a) +0 shortbow
+Press: ? - help, Q - select action
+Shift-Dir - straight line, f/p - scorpion
+Aim: a scorpion (heavily wounded, 64% to hit)
+You shoot an arrow. The arrow closely misses the scorpion.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+The scorpion stings you but does no damage.
+The scorpion completely misses you.
+Unknown command.
+Fire: a) +0 shortbow
+Press: ? - help, Q - select action
+Shift-Dir - straight line, f/p - scorpion
+Aim: a scorpion (heavily wounded, 64% to hit)
+You shoot an arrow. The arrow hits the scorpion.
+The scorpion is severely wounded.
+You die...
+
+           .
+        ....
+#######.....
+#..s@.......    .+
+#.####.....#####.#
+#.................
+#..#..............
+#..s##............
+##..#.#..........#
+ #...#.##...[..#
+ #....##.#....#.#
+ #....#.#.#..#.#
+
+
+You could see a scorpion.
+
+Vanquished Creatures
+  An adder (D:2)
+  A worm (D:2)
+  A dart slug (D:1)
+  5 bats
+  4 endoplasms
+  4 hobgoblins
+  4 quokkas
+  6 ball pythons
+  3 frilled lizards
+  3 goblins
+  7 rats
+39 creatures vanquished.
+
+Vanquished Creatures (others)
+  A fungus (D:6)
+  2 plants (D:6)
+3 creatures vanquished.
+
+Grand Total: 42 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Tengu Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 12/12 MP: 2/2
+    87 | D:1      | Reached XP level 2. HP: 17/17 MP: 3/3
+   377 | D:1      | Found a faded altar of an unknown god.
+   754 | D:2      | Reached XP level 3. HP: 21/21 MP: 4/4
+  1600 | D:2      | You fall into a shaft and drop 2 floors!
+  1609 | D:3      | You fall into a shaft and drop 3 floors!
+  1614 | D:6      | Noticed a scorpion
+  1635 | D:6      | HP: 1/21 [poisoned by a scorpion]
+  1636 | D:6      | Succumbed to a scorpion's poison
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      amcnicky_arrival_underground_garden, layout_loops_ring,
+          dreamdust_ecumenical_altar_statues
+D:2:      layout_basic
+D:3:      layout_basic, ebering_ghost_rock_garden, minmay_misc_feat_rows,
+          nicolae_wormholes
+D:4:      layout_gridville, nicolae_overflow_hidden_temple
+D:6:      layout_basic, fedhas_altar_3, mainiacjoe_overflow_surrounded_room,
+          minmay_temple_entry_waves, st_stairs_6, grunt_ministairs_9,
+          minmay_misc_feat_secret_circle, uniq_prince_ribbit1, uniq_menkaure
+
+Action                   || total
+-------------------------++-------
+ Fire: Shortbow          ||    92
+  Use: Potion            ||     1
+Armor: Leather armour    ||     6
+       Ring mail         ||     8
+Dodge: Dodged            ||    28
+

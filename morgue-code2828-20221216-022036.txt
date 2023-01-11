@@ -1,0 +1,605 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-459-g9104f0f (webtiles) character file.
+
+Game seed: 642876763874281428
+
+17938 code2828 the Geomancer (level 12, -2/59 HPs)
+             Began as a Gargoyle Earth Elementalist on Dec 16, 2022.
+             Was an Elder of Vehumet.
+             Succumbed to barbed spike wounds
+             ... on level 12 of the Dungeon.
+             The game lasted 00:48:47 (12420 turns).
+
+code2828 the Geomancer (GrEE)                      Turns: 12420, Time: 00:48:48
+
+Health: -2/59      AC: 15    Str: 12    XL:     12   Next: 53%
+Magic:  25/25      EV: 13    Int: 19    God:    Vehumet [****..]
+Gold:   896        SH:  0    Dex: 12    Spells: 1/25 levels left
+
+rFire   + + +      SeeInvis +   O - +9 falchion "Nur Sawn" {vorpal, *Rage rElec rF+++ SInv}
+rCold   + . .      Faith    .   (no shield)
+rNeg    + . .      Spirit   .   E - +0 leather armour
+rPois   ∞          Reflect  .   g - +0 helmet
+rElec   +          Harm     .   d - +1 cloak
+rCorr   .          Rampage  .   (no gloves)
+Will    .....      Rage     20% s - +0 pair of boots
+Stlth   ++++......              (no amulet)
+HPRegen 1.09/turn               h - ring of wizardry
+MPRegen 0.19/turn               l - ring of protection from cold
+
+@: spiked
+A: sickness immunity, AC +8, negative energy resistance 1, electricity
+resistance, torment resistance 1, petrification resistance, fangs 1, high MP 1,
+regeneration 1, no potion heal 1
+a: Renounce Religion
+
+
+You were on level 12 of the Dungeon.
+You worshipped Vehumet.
+Vehumet was greatly pleased with you.
+You visited 2 branches of the dungeon, and saw 13 of its levels.
+You also visited: Sewer and Ice Cave.
+
+You collected 896 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ q - a +0 short sword of venom
+ A - a +3 spear of flaming
+ O - the +9 falchion "Nur Sawn" (weapon) {vorpal, *Rage rElec rF+++ SInv}
+   (You found it on level 10 of the Dungeon)   
+   
+   It inflicts extra damage upon your enemies.
+   
+   rF:        It renders you almost immune to fire.
+   rElec:     It insulates you from electricity.
+   SInv:      It lets you see invisible.
+   *Rage:     It berserks you when you make melee attacks (+20% chance).
+Missiles
+ N - a throwing net
+Armour
+ d - a +1 cloak (worn)
+ g - a +0 helmet (worn)
+ s - a +0 pair of boots (worn)
+ E - a +0 leather armour (worn)
+Jewellery
+ h - a ring of wizardry (left hand)
+ l - a ring of protection from cold (right hand)
+ H - a ring of magical power
+ J - a +4 ring of protection
+ T - a +6 ring of dexterity
+ V - a +6 ring of strength
+ X - an amulet of guardian spirit
+ Z - a +4 ring of protection
+Wands
+ v - a wand of paralysis (17)
+ M - a wand of mindburst (19)
+ Q - a wand of polymorph (2)
+ R - a wand of flame (7)
+ W - a wand of digging (4)
+ Y - a wand of iceblast (12)
+Scrolls
+ a - 7 scrolls of identify
+ c - a scroll of enchant weapon {unknown}
+ e - 6 scrolls of fog {unknown}
+ k - 3 scrolls of teleportation
+ m - 2 scrolls of poison {unknown}
+ n - 3 scrolls of magic mapping {unknown}
+ o - 2 scrolls of vulnerability {unknown}
+ p - 3 scrolls of immolation {unknown}
+ x - a scroll of noise {unknown}
+ y - 4 scrolls of blinking
+ B - a scroll of enchant armour {unknown}
+ F - 2 scrolls of fear {unknown}
+ G - a scroll of torment {unknown}
+ L - 2 scrolls of silence {unknown}
+Potions
+ b - a potion of magic
+ f - 4 potions of mutation
+ i - 3 potions of curing
+ j - 2 potions of attraction
+ r - 3 potions of berserk rage
+ t - 4 potions of flight
+ u - 4 potions of degeneration {unknown}
+ w - 2 potions of might {unknown}
+ z - a potion of resistance {unknown}
+ C - a potion of brilliance
+ D - a potion of lignification {unknown}
+ I - a potion of invisibility
+ K - 3 potions of ambrosia {unknown}
+ P - a potion of haste {unknown}
+ S - 2 potions of heal wounds {unknown}
+ U - a potion of cancellation {unknown}
+
+
+   Skills:
+ + Level 3.5 Long Blades
+ - Level 4.3 Polearms
+ + Level 6.6 Dodging
+ + Level 9.4 Stealth
+ + Level 7.3 Spellcasting
+ + Level 7.2 Conjurations
+ - Level 0.7 Transmutations
+ + Level 5.8 Fire Magic
+ * Level 13.3 Earth Magic
+
+
+You had one spell level left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Sandblast             Erth           100%       2d20      1%          1
+b - Passwall              Tmut/Erth      27%        N/A       1%          2
+c - Stone Arrow           Conj/Erth      92%        3d12      1%          3
+d - Petrify               Tmut/Erth      33%        N/A       2%          4
+e - Searing Ray           Conj           68%        2d6       1%          2
+f - Scorch                Fire           58%        2d8       1%          2
+g - Flame Wave            Conj/Fire      31%        2d9       1%          4
+h - Momentum Strike       Conj/Tloc      40%        3d9       1%          2
+i - Slow                  Hex            24%        N/A       5%          1
+j - Confusing Touch       Hex            6%         N/A       16%         3
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Irradiate                Conj/Tmut      11%        3d15      8%          5
+ Lightning Bolt           Conj/Air       10%        1d23      9%          5
+ Airstrike                Air            3%         2d(1-17)  13%         4
+ Gell's Gravitas          Tloc           6%         N/A       16%         3
+ Lesser Beckoning         Tloc           12%        N/A       16%         3
+ Teleport Other           Tloc           6%         N/A       16%         3
+ Vampiric Draining        Necr           6%         2d6       16%         3
+ Summon Lightning Spire   Summ/Air       6%         N/A       43%         4
+ Summon Cactus Giant      Summ           3%         N/A       99%         6
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (12/15)        Zot: 26479       Temple (1/1) D:4      Zot: 5824       
+   Lair (0/5) D:8                          Orc (0/2) D:11                     
+  Sewer (visited)                        IceCv (visited)                      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:1 =   D:4 *
+
+Annotations:
+D:4 2 transporters
+D:9 3 runed translucent doors, birdsarechill's ghost, novice MiFi
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to sickness and miasma.
+Your stone body is resilient. (AC +8)
+You are immune to poison.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You are resistant to unholy torment.
+You are immune to petrification.
+You have very sharp teeth.
+You have an increased reservoir of magic. (+10% MP)
+Your natural rate of healing is unusually fast.
+Potions are less effective at restoring your health.
+
+Message History
+
+Moving in this stuff is going to be slow.
+Z - a +4 ring of protection
+You enter the shallow water.
+Moving in this stuff is going to be slow.
+Found an escape hatch in the ceiling.
+A manticore and 2 gnolls come into view.
+Found two stone staircases leading down.
+There are monsters nearby!
+A gnoll comes into view. It is wielding a +0 spear.
+A gnoll sergeant and a gnoll come into view.
+The blast of sand hits the manticore!
+The manticore is moderately wounded.
+The gnoll sergeant shouts! The gnoll shouts!
+An ice beast comes into view.
+The manticore flicks its tail.
+The volley of spikes hits you!
+The barbed spikes become lodged in your body.
+The manticore flicks its tail.
+The volley of spikes hits you!
+The barbed spikes become lodged in your body.
+The gnoll shouts!
+The barbs in your skin will harm you if you move. Continue? 
+Okay, then.
+There are monsters nearby!
+The barbs in your skin will harm you if you move. Continue? 
+The barbed spikes dig painfully into your body as you move.
+The barbed spikes dig painfully into your body as you move.
+The barbed spikes dig painfully into your body as you move.
+The barbed spikes dig painfully into your body as you move.
+The barbed spikes dig painfully into your body as you move.
+* * * LOW HITPOINT WARNING * * *
+The barbed spikes dig painfully into your body as you move.
+* * * LOW HITPOINT WARNING * * *
+The barbed spikes dig painfully into your body as you move.
+* * * LOW HITPOINT WARNING * * *
+The barbed spikes dig painfully into your body as you move.
+* * * LOW HITPOINT WARNING * * *
+There is an escape hatch in the ceiling here.
+The barbed spikes dig painfully into your body as you move.
+You die...
+
+   ....>>.g...#
+   ......H.##.#
+   ........##.###
+   ..I....g.....#
+         #.##g#.#
+      #.##.##.#.###########
+      #.=..H.Hg...........#
+   ........#.##g#########.#
+   #.#######.##.@.#     #.#   ###
+           #.##...#     #.#   #..
+           #........    #.#####.#
+           #..##.##.#   #.......~
+           #..##.# .#   ####.###~
+#         ........  #      #.# #~
+#        ###   #.#         #.# #~
+.              #.#         #.# #~
+#                          #.###.
+
+
+You could see a manticore, a gnoll sergeant and 2 gnolls.
+
+Vanquished Creatures
+  Erica (D:8)
+  2 two-headed ogres
+  A boulder beetle (D:11)
+  Sonja (D:10)
+  Nergalle (D:10)
+  A deep elf pyromancer (D:11)
+  A cyclops (D:11)
+  A manticore (D:11)
+  Joseph (D:8)
+  2 unseen horrors (D:11)
+  Maggie (D:8)
+  Psyche (D:10)
+  A komodo dragon (D:12)
+  A freezing wraith (IceCv)
+  A troll (D:11)
+  3 slime creatures (D:12)
+  Prince Ribbit (D:7)
+  Sigmund (D:2)
+  A wraith (D:10)
+  A wyvern (D:6)
+  A vampire (D:11)
+  4 shadows
+  19 yaks
+  Grum (D:8)
+  Menkaure (D:6)
+  2 steam dragons
+  Eustachio (D:4)
+  A death yak simulacrum (IceCv)
+  An acid dragon (D:11)
+  6 water moccasins
+  A black bear (D:8)
+  2 ice beasts
+  2 orc warriors (D:8)
+  3 sky beasts
+  2 ogres
+  2 centaurs
+  3 phantoms
+  3 wolves (D:8)
+  A kobold brigand (D:8)
+  3 bullfrogs
+  A necrophage (D:7)
+  A scorpion (D:5)
+  A cane toad simulacrum (IceCv)
+  20 wights
+  14 killer bees
+  2 troll zombies (D:11)
+  3 electric eels (D:12)
+  2 howler monkeys
+  3 hounds (D:6)
+  2 jellies
+  Crazy Yiuf (D:7)
+  4 orc priests
+  Jessica (D:2)
+  2 iguanas
+  Natasha (twice) (D:3)
+  Terence (D:3)
+  6 orc wizards
+  A wolf simulacrum (IceCv)
+  2 polar bear simulacra (IceCv)
+  2 ogre zombies (D:11)
+  Robin (D:3)
+  11 adders
+  A river rat (D:4)
+  2 shadow imps
+  15 white imps
+  3 ufetubi
+  A worm (D:2)
+  3 dart slugs
+  26 orcs
+  7 bats
+  5 endoplasms
+  14 giant cockroaches
+  15 goblins
+  11 hobgoblins
+  3 jackals (D:1)
+  4 quokkas
+  11 ball pythons
+  20 frilled lizards
+  3 goblin skeletons (D:11)
+  A goblin zombie (D:11)
+  A hobgoblin skeleton (D:11)
+  9 kobolds
+  13 orc zombies (D:11)
+  6 rats
+340 creatures vanquished.
+
+Vanquished Creatures (others)
+  A white imp (D:11)
+  2 plants (D:9)
+3 creatures vanquished.
+
+Grand Total: 343 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Gargoyle Earth Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 3/3
+   250 | D:1      | Found Miuskis's Jewellery Boutique.
+   346 | D:1      | Reached XP level 2. HP: 15/15 MP: 1/5
+   623 | D:1      | Reached skill level 4 in Earth Magic
+   999 | D:2      | Reached skill level 1 in Conjurations
+   999 | D:2      | Reached XP level 3. HP: 18/19 MP: 3/6
+  1129 | D:2      | Noticed Sigmund
+  1156 | D:2      | Killed Sigmund
+  1157 | D:2      | Reached skill level 5 in Earth Magic
+  1157 | D:2      | Reached XP level 4. HP: 12/24 MP: 0/8
+  1157 | D:2      | Reached XP level 5. HP: 14/28 MP: 0/9
+  1420 | D:2      | Found a sparkling altar of Nemelex Xobeh.
+  1932 | D:2      | Noticed Jessica
+  1937 | D:2      | Killed Jessica
+  1938 | D:2      | Reached XP level 6. HP: 31/32 MP: 6/10
+  2541 | D:3      | Noticed Robin
+  2551 | D:3      | Killed Robin
+  2634 | D:3      | Noticed Terence
+  2657 | D:3      | Gained mutation: Your natural rate of healing is unusually
+                  | fast. [potion of mutation]
+  2657 | D:3      | Gained mutation: You have very sharp teeth. [potion of
+                  | mutation]
+  2657 | D:3      | Gained mutation: Potions are less effective at restoring
+                  | your health. [potion of mutation]
+  2657 | D:3      | Gained mutation: You have an increased reservoir of magic.
+                  | (+10% MP) [potion of mutation]
+  2661 | D:3      | Killed Terence
+  2799 | D:3      | Noticed Natasha
+  2807 | D:3      | Killed Natasha
+  2837 | D:3      | Learned a level 2 spell: Passwall
+  2841 | D:3      | Learned a level 3 spell: Stone Arrow
+  2846 | D:3      | Learned a level 4 spell: Petrify
+  3030 | D:3      | Noticed Natasha
+  3032 | D:3      | Killed Natasha
+  3525 | D:4      | Noticed Eustachio
+  3533 | D:4      | Killed Eustachio
+  3534 | D:4      | Reached skill level 6 in Earth Magic
+  3534 | D:4      | Reached XP level 7. HP: 36/36 MP: 6/13
+  3748 | D:4      | Found a transporter.
+  3822 | D:4      | Found a white marble altar of Elyvilon.
+  3932 | D:4      | Found Qusaten's Serpentskin Sales.
+  3939 | D:4      | Reached skill level 7 in Earth Magic
+  3939 | D:4      | Reached XP level 8. HP: 35/41 MP: 9/14
+  3942 | D:4      | Reached skill level 5 in Stealth
+  4078 | D:4      | Found a transporter.
+  4134 | D:4      | Found a glowing drain.
+  4151 | Sewer    | Entered a sewer
+  4580 | D:4      | Reached skill level 8 in Earth Magic
+  4707 | D:4      | Found a staircase to the Ecumenical Temple.
+  4709 | D:4      | Found a faded altar of an unknown god.
+  4718 | Temple   | Entered the Ecumenical Temple
+  4882 | Temple   | Became a worshipper of Vehumet
+  4963 | D:5      | Entered Level 5 of the Dungeon
+  5457 | D:5      | Reached skill level 1 in Polearms
+  5927 | D:6      | Reached XP level 9. HP: 45/45 MP: 14/17
+  6143 | D:6      | Noticed Menkaure
+  6151 | D:6      | Killed Menkaure
+  6218 | D:6      | Reached skill level 9 in Earth Magic
+  6220 | D:6      | Reached skill level 5 in Conjurations
+  6658 | D:7      | Reached skill level 1 in Fire Magic
+  6753 | D:7      | Found a runed translucent door.
+  6754 | D:7      | Noticed Crazy Yiuf
+  6759 | D:7      | Killed Crazy Yiuf
+  6834 | D:7      | Reached skill level 5 in Spellcasting
+  6921 | D:7      | Noticed Prince Ribbit
+  6928 | D:7      | Killed Prince Ribbit
+  6988 | D:7      | Reached * piety under Vehumet
+  6988 | D:7      | Offered knowledge of Foxfire by Vehumet.
+  7472 | D:8      | Reached XP level 10. HP: 46/50 MP: 12/19
+  7676 | D:8      | Reached skill level 10 in Earth Magic
+  7976 | D:8      | Noticed Joseph
+  7981 | D:8      | Killed Joseph
+  8076 | D:8      | Noticed Erica
+  8081 | D:8      | Noticed Maggie
+  8180 | D:8      | Killed Erica
+  8181 | D:8      | Reached skill level 5 in Dodging
+  8212 | D:8      | Killed Maggie
+  8497 | D:8      | Noticed Grum
+  8508 | D:8      | Killed Grum
+  8649 | D:8      | Found a staircase to the Lair.
+  9010 | D:9      | Reached ** piety under Vehumet
+  9011 | D:9      | Offered knowledge of Searing Ray by Vehumet.
+  9021 | D:9      | Learned a level 2 spell: Searing Ray
+  9024 | D:9      | Learned a level 2 spell: Scorch
+  9031 | D:9      | Reached skill level 11 in Earth Magic
+  9083 | D:9      | Learned a level 4 spell: Flame Wave
+  9158 | D:9      | Reached XP level 11. HP: 54/54 MP: 18/21
+  9322 | D:9      | Noticed a boulder beetle
+  9322 | D:9      | Noticed an eight-headed hydra
+  9322 | D:9      | Noticed a six-headed hydra
+  9332 | D:9      | Noticed a cyclops
+  9424 | D:9      | Found a runed translucent gate.
+  9424 | D:9      | Found a runed translucent gate.
+  9424 | D:9      | Found a runed translucent gate.
+  9426 | D:9      | Noticed birdsarechill's ghost (novice MiFi)
+  9426 | D:9      | Noticed an 11-headed hydra
+  9911 | D:10     | Entered Level 10 of the Dungeon
+  9969 | D:9      | Offered knowledge of Momentum Strike by Vehumet.
+  9983 | D:9      | Learned a level 2 spell: Momentum Strike
+ 10020 | D:10     | Identified the +9 falchion "Nur Sawn" {vorpal, *Rage rElec
+                  | rF+++ SInv}
+ 10083 | D:10     | Noticed Sonja
+ 10093 | D:10     | Killed Sonja
+ 10153 | D:10     | Reached skill level 1 in Long Blades
+ 10246 | D:10     | Noticed Psyche
+ 10252 | D:10     | Killed Psyche
+ 10273 | D:10     | Noticed Nergalle
+ 10280 | D:10     | Killed Nergalle
+ 10281 | D:10     | Reached skill level 12 in Earth Magic
+ 10423 | D:10     | Noticed a two-headed ogre
+ 10431 | D:10     | Killed a two-headed ogre
+ 10473 | D:10     | Found an ancient bone altar of Kikubaaqudgha.
+ 10473 | D:10     | Found a stormy altar of Qazlal.
+ 10715 | D:11     | Reached *** piety under Vehumet
+ 10727 | D:11     | Noticed a manticore
+ 10732 | D:11     | Killed a manticore
+ 10760 | D:11     | Noticed a cyclops
+ 10765 | D:11     | Killed a cyclops
+ 10766 | D:11     | Reached skill level 5 in Fire Magic
+ 11022 | D:11     | Reached XP level 12. HP: 56/59 MP: 24/24
+ 11135 | D:11     | Noticed a two-headed ogre
+ 11138 | D:11     | Learned a level 1 spell: Slow
+ 11142 | D:11     | Learned a level 3 spell: Confusing Touch
+ 11152 | D:11     | Killed a two-headed ogre
+ 11274 | D:11     | Offered knowledge of Frozen Ramparts by Vehumet.
+ 11377 | D:11     | Found a staircase to the Orcish Mines.
+ 11456 | D:11     | Noticed a boulder beetle
+ 11472 | D:11     | Killed a boulder beetle
+ 11473 | D:11     | Reached skill level 13 in Earth Magic
+ 11729 | D:11     | Reached **** piety under Vehumet
+ 11795 | D:12     | Found a frozen archway.
+ 11800 | D:12     | Offered knowledge of Irradiate by Vehumet.
+ 11865 | IceCv    | Entered an ice cave
+ 12418 | D:12     | HP: 2/59 [barbs]
+ 12420 | D:12     | Succumbed to barbed spike wounds
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      giann_bridges, layout_basic, serial_shops, nicolae_square_shop,
+          chequers_serial_rivers_micro_c
+D:2:      layout_loops_ring, basic_altar, serial_aquarium,
+          aquarium_bridge_square [aquarium_subvault_wall,
+          aquarium_subvault_bridge, aquarium_subvault_wall,
+          aquarium_subvault_wall], aquarium_bridge_straight
+          [aquarium_subvault_bridge, aquarium_subvault_wall,
+          aquarium_subvault_bridge, aquarium_subvault_wall],
+          aquarium_window_corridor_2, aquarium_window_1, aquarium_window_fake,
+          aquarium_window_fake, aquarium_view_2f, aquarium_view_2c,
+          aquarium_pool_2, uniq_sigmund, uniq_jessica
+D:3:      layout_basic, corexii_hall_statues_i, guppyfry_early_orc_mine,
+          uniq_robin, uniq_terence, uniq_natasha
+D:4:      gammafunk_steamed_eel, layout_rooms, nicolae_overflow_crystal_walls,
+          nicolae_temple_entry_ecumenical, portal_sewer_entry_b,
+          guppyfry_shop_venom, uniq_eustachio
+D:5:      layout_loops_ring, minmay_statues_item
+D:6:      layout_basic, uniq_menkaure
+D:7:      layout_basic, minmay_a_box_with_orc_wizards_in_it,
+          uniq_crazy_yiuf_cottage, uniq_prince_ribbit1
+D:8:      layout_basic, lair_entry_dummy, uniq_joseph, uniq_grum, uniq_maggie,
+          uniq_erica
+D:9:      layout_irregular_city, gammafunk_ghost_hydra_chop,
+          onia_ninara_dug_in_and_dangerous
+D:10:     layout_rooms, amethyst_overflow_temple_binary, uniq_psyche,
+          uniq_sonja, uniq_nergalle
+D:11:     layout_loops_ring, zombieorc1_lemuel
+D:12:     layout_loops_ring, serial_ice, serial_ice_k, serial_ice_a,
+          serial_ice_h, serial_ice_b, serial_ice_m, serial_ice_f, serial_ice_e,
+          portal_ice_cave_entry_imps
+Temple:   nicolae_temple_bog_church
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 |
+---------------+-------------------------------------+-----
+Earth Magic    |     4  5        6  7  8  9 11 12 13 | 13.3
+Conjurations   |     1  2           3  4  5  6     7 |  7.2
+Dodging        |        2           3  4     5  6    |  6.6
+Stealth        |        3        4     5  6  7  8  9 |  9.4
+Spellcasting   |                 3     4  5     6  7 |  7.3
+Polearms       |                       1  2  4       |  4.3
+Fire Magic     |                          1  3  5    |  5.8
+Long Blades    |                                2  3 |  3.5
+Transmutations |                                     |  0.7
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Unarmed           |     1 |       |       |       ||     1
+       Short sword       |     8 |    11 |    10 |       ||    29
+       Punch             |       |     1 |     1 |     2 ||     4
+       Bite              |       |     1 |       |    13 ||    14
+       Spear             |       |       |     8 |     3 ||    11
+       Falchion          |       |       |       |    83 ||    83
+ Cast: Sandblast         |    36 |    77 |   188 |   280 ||   581
+       Stone Arrow       |       |       |       |    41 ||    41
+  Use: Scroll            |       |     3 |     2 |     1 ||     6
+       Potion            |       |     2 |       |     4 ||     6
+ Stab: Sleeping          |       |       |     1 |       ||     1
+Armor: Robe              |    10 |    16 |    38 |       ||    64
+       Leather armour    |       |       |    53 |   125 ||   178
+Dodge: Dodged            |    21 |    18 |    69 |   226 ||   334
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  12849 |  12381 |    468 |    771 |   9057 |  15 |  856.6 |
+       Dungeon |  12067 |  11615 |    452 |    719 |   8676 |  12 | 1005.6 |
+        Temple |    175 |    159 |     16 |      0 |    143 |   1 |  175.0 |
+         Sewer |    436 |    436 |      0 |      0 |    238 |   1 |  436.0 |
+      Ice Cave |    169 |    169 |      0 |     52 |      0 |   1 |  169.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:8: 1637 daAuts
+     D:3: 1358 daAuts
+     D:2: 1260 daAuts
+    D:11: 1257 daAuts
+     D:7: 1110 daAuts
+     D:9: 997 daAuts
+     D:1: 955 daAuts
+     D:4: 928 daAuts
+     D:5: 927 daAuts
+    D:10: 665 daAuts
+     D:6: 490 daAuts
+    D:12: 480 daAuts
+   Sewer: 436 daAuts
+  Temple: 175 daAuts
+   IceCv: 169 daAuts
+

@@ -1,0 +1,275 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-568-g124715a (webtiles) character file.
+
+Game seed: 3160305066530822785
+
+340 code2828 the Trooper (level 6, -12/55 HPs)
+             Began as a Ghoul Monk on Dec 29, 2022.
+             Was a Priest of Qazlal.
+             Mangled by an ogre
+             ... wielding a +0 giant club
+              (14 damage)
+             ... on level 5 of the Dungeon.
+             The game lasted 00:05:56 (3451 turns).
+
+code2828 the Trooper (Ghoul Monk)                   Turns: 3451, Time: 00:05:57
+
+Health: -12/55     AC: 10    Str: 17    XL:     6   Next: 56%
+Magic:  6/6        EV:  5    Int:  5    God:    Qazlal [***...]
+Gold:   230        SH:  4    Dex: 11    Spells: 5/5 levels left
+
+rFire   . . .      SeeInvis .     - Unarmed
+rCold   + . .      Faith    .   (no shield)
+rNeg    + + +      Spirit   .   e - +0 plate armour
+rPois   ∞          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth                           (no amulet)
+HPRegen 0.00/turn               (no ring)
+MPRegen 0.10/turn               (no ring)
+
+@: inhibited regen
+A: claws 1, cold resistance 1, negative energy resistance 3, inhibited
+regeneration, torment resistance 2, devour on kill
+a: Renounce Religion, Upheaval, Elemental Force
+
+
+You were on level 5 of the Dungeon.
+You worshipped Qazlal.
+Qazlal was most pleased with you.
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 269 gold pieces.
+You spent 39 gold pieces at shops.
+
+Inventory:
+
+Armour
+ a - a +0 robe
+ e - a +0 plate armour (worn)
+Wands
+ p - a wand of quicksilver (12)
+Scrolls
+ d - a scroll of fear {unknown}
+ g - 2 scrolls of enchant armour {unknown}
+ i - a scroll of silence {unknown}
+ k - 5 scrolls of teleportation
+ l - a scroll of immolation {unknown}
+ n - 2 scrolls of vulnerability {unknown}
+ o - 3 scrolls of identify {unknown}
+ q - a scroll of amnesia {unknown}
+ s - a scroll of noise {unknown}
+ u - a scroll of magic mapping {unknown}
+Potions
+ b - a potion of ambrosia
+ c - a potion of flight {unknown}
+ f - a potion of might {unknown}
+ h - 2 potions of brilliance {unknown}
+ j - 2 potions of curing {unknown}
+ m - a potion of magic {unknown}
+ r - 2 potions of attraction {unknown}
+ t - a potion of mutation {unknown}
+
+
+   Skills:
+ * Level 4.8 Fighting
+ + Level 3.7 Dodging
+ + Level 4.0 Stealth
+ * Level 4.8 Unarmed Combat
+ * Level 1.9 Invocations
+
+
+You had 5 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)         Zot: 26569      
+Temple: D:4-7       
+
+Altars:
+Dithmenos
+Qazlal
+Sif Muna
+
+Shops:
+D:2 ?
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to poison.
+You have sharp fingernails.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+You thrive by killing the living.
+
+Message History
+
+You claw the necrophage!
+You destroy the necrophage!
+Qazlal accepts your kill.
+Your Stealth skill increases to level 4!
+You claw the dart slug!
+The dart slug is severely wounded.
+The dart slug barely misses you.
+You scratch the dart slug.
+The dart slug is almost dead.
+You scratch the dart slug.
+You kill the dart slug!
+Qazlal accepts your kill.
+No target in view!
+No target in view!
+No target in view!
+You see here a dart slug corpse.
+k - 5 scrolls of teleportation (gained 1)
+You now have 230 gold pieces (gained 16).
+Found a dagger.
+Found a stone staircase leading down.
+You hear a shout!
+An ogre comes into view. It is wielding a +0 giant club.
+An ogre is nearby!
+An ogre is nearby!
+An ogre is nearby!
+An ogre is nearby!
+You claw the ogre!
+The ogre is moderately wounded.
+The ogre hits you with a +0 giant club!!
+You scratch the ogre.
+The ogre is moderately wounded.
+The ogre hits you with a +0 giant club!!
+Ouch! That really hurt!
+* * * LOW HITPOINT WARNING * * *
+You scratch the ogre but do no damage.
+The ogre is moderately wounded.
+You scratch the ogre but do no damage.
+The ogre is moderately wounded.
+The ogre hits you with a +0 giant club!
+You die...
+
+     ###
+     #)..#
+     #.#.#
+     #.#.####
+     #.#.#>.####
+     #.#.#.....#
+######.#.#...#.#
+.......#.#...#.#####
+##...#.....#.#..@O.#
+ #.#.#.#...#.#####....#
+ #.#.#.#####.#     ##.#
+ #.#.#..   ..#
+ #.#.#.#   #.#
+ #.#.#.#   #.#
+ #.#.#.#    ..
+ #.#...#
+   ###
+
+
+You could see an ogre.
+
+Vanquished Creatures
+  A necrophage (D:5)
+  3 orc priests
+  2 iguanas
+  3 adders
+  A worm (D:3)
+  2 dart slugs
+  13 orcs
+  8 endoplasms
+  5 giant cockroaches
+  9 goblins
+  9 hobgoblins
+  2 jackals (D:4)
+  11 kobolds
+  3 quokkas
+  6 ball pythons
+  7 bats
+  A frilled lizard (D:3)
+  4 rats
+90 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Ghoul Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+    54 | D:1      | Found a faded altar of an unknown god.
+   232 | D:1      | Reached XP level 2. HP: 26/26 MP: 1/1
+   947 | D:1      | Reached XP level 3. HP: 31/31 MP: 2/2
+  1131 | D:2      | Found Eras's Magic Scroll Boutique.
+  1142 | D:2      | Bought a scroll of teleportation for 39 gold pieces
+  1318 | D:2      | You fall into a shaft and drop 1 floor!
+  1442 | D:3      | Found a stormy altar of Qazlal.
+  1442 | D:3      | Noticed an air elemental
+  1446 | D:3      | Noticed an earth elemental
+  1446 | D:3      | Noticed a water elemental
+  1446 | D:3      | Noticed a fire elemental
+  1475 | D:3      | Reached XP level 4. HP: 40/40 MP: 3/3
+  1513 | D:3      | Became a worshipper of Qazlal Stormbringer
+  1513 | D:3      | Reached * piety under Qazlal
+  1513 | D:3      | Reached ** piety under Qazlal
+  1561 | D:3      | Found a shadowy altar of Dithmenos.
+  1877 | D:3      | Reached XP level 5. HP: 46/46 MP: 4/4
+  2416 | D:4      | Reached skill level 1 in Invocations
+  2419 | D:4      | Found a shimmering blue altar of Sif Muna.
+  2937 | D:4      | Reached *** piety under Qazlal
+  2939 | D:4      | Reached XP level 6. HP: 27/53 MP: 4/6
+  3311 | D:5      | Entered Level 5 of the Dungeon
+  3449 | D:5      | HP: 2/55 [ogre/+0 giant club (32)]
+  3451 | D:5      | Mangled by an ogre
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      amcnicky_arrival_feature_with_door, layout_basic,
+          shapermc_ecumenical_altar_notcrosses, minmay_misc_feat_x
+D:2:      layout_rooms, serial_shops, nicolae_shop_hallway_plus
+D:3:      layout_rooms, mainiacjoe_overflow_surrounded_room,
+          nicolae_qazlal_style_of_elements
+D:4:      layout_basic, nicolae_sif_muna_condensation, serial_glass,
+          glass_columns_c, glass_columns_a
+D:5:      layout_basic
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Dodging        |     3             |  3.7
+Stealth        |        3        4 |  4.0
+Fighting       |           4       |  4.8
+Unarmed Combat |           4       |  4.8
+Invocations    |              1    |  1.9
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |    99 |   169 ||   268
+       Punch             |     4 |     1 ||     5
+Armor: Plate armour      |    52 |    88 ||   140
+       Robe              |     1 |       ||     1
+Dodge: Dodged            |    30 |    42 ||    72
+Block: Other             |       |    14 ||    14
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   3429 |   3279 |    150 |     53 |   2648 |   5 |  685.8 |
+       Dungeon |   3429 |   3279 |    150 |     53 |   2648 |   5 |  685.8 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 1117 daAuts
+     D:4: 970 daAuts
+     D:3: 749 daAuts
+     D:2: 453 daAuts
+     D:5: 138 daAuts
+

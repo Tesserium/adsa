@@ -1,0 +1,190 @@
+ Dungeon Crawl Stone Soup version 0.25.1-11-g244df3a (webtiles) character file.
+
+Game seed: 8215288411361580741
+
+49 code2828 the Charmwright (level 4, -5/29 HPs)
+             Began as a Halfling Skald on Dec 14, 2022.
+             Slain by Natasha (7 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:07:55 (2050 turns).
+
+code2828 the Charmwright (Halfling Skald)           Turns: 2050, Time: 00:07:56
+
+Health: -5/29      AC:  3    Str: 12    XL:     4   Next: 1%
+Magic:  6/6        EV: 15    Int: 11    God:    
+Gold:   96         SH:  0    Dex: 14    Spells: 3/6 levels left
+
+rFire    . . .     SeeInvis .   a - +0 falchion
+rCold    . . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.09/turn              (no ring)
+MPRegen  0.10/turn              (no ring)
+
+@: slowed, very slow
+A: small, mutation resistance 1
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 96 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 falchion (weapon)
+ c - a +1 hunting sling of freezing
+Armour
+ b - a +0 leather armour (worn)
+Wands
+ j - a wand of iceblast (6)
+Scrolls
+ e - 5 scrolls of teleportation {unknown}
+ i - 3 scrolls of identify {unknown}
+ k - 3 scrolls of blinking {unknown}
+ l - a scroll of fear {unknown}
+Potions
+ f - 3 potions of lignification {unknown}
+ h - 2 potions of mutation {unknown}
+Comestibles
+ d - 5 rations
+
+
+   Skills:
+ + Level 1.8 Fighting
+ + Level 2.6 Long Blades
+ + Level 1.9 Armour
+ + Level 2.9 Dodging
+ + Level 1.6 Spellcasting
+ + Level 3.7 Charms
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Infusion              Chrm           #...         9%          1    ##.....
+b - Song of Slaying       Chrm           #.......     13%         2    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Shroud of Golubria       Chrm/Tloc      #.....       26%         2    ###....
+ Ozocubu's Armour         Chrm/Ice       #.......     47%         3    ####...
+ Spectral Weapon          Hex/Chrm       #.......     47%         3    ####...
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+Ru
+
+Annotations:
+D:2 Natasha
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are small and have problems with some larger weapons.
+You are somewhat resistant to further mutation.
+
+
+Message History
+
+The goblin barely misses you.
+You closely miss the goblin.
+The goblin is moderately wounded.
+The goblin barely misses you. You riposte. You hit the goblin.
+The goblin is heavily wounded.
+The goblin hits you but does no damage.
+You slash the goblin!
+You kill the goblin!
+You have reached level 4!
+Natasha claws you!
+You hit Natasha.
+Natasha is moderately wounded.
+Natasha claws you. Natasha claws you!
+* * * LOW HITPOINT WARNING * * *
+You barely miss Natasha.
+Natasha is lightly wounded.
+Natasha claws you.
+* * * LOW HITPOINT WARNING * * *
+Natasha claws you!
+You die...
+
+     #........# #.# #.........
+   ...........###.###.........
+   ####+#####.................
+            #.................
+            #.................
+            #........######...
+            #.........#####.##
+            +............##.##
+###+#####   #@##.##...#.......
+#.....#.##  #h#..###....#####.
+#..)..#..## #K#........#######
++.$.g.'...###555..............
+#..[..#.K..##...........##..##
+#..g..#.....#.........#####...
+###+####..÷.#.........#   ####
+       ##...'..########
+        ##..#((#
+
+
+You could see Natasha, 2 crimson imps and a kobold.
+
+Vanquished Creatures
+  3 dart slugs (D:1)
+  A leopard gecko (D:2)
+  2 bats (D:1)
+  A giant cockroach (D:1)
+  7 goblins
+  4 hobgoblins
+  6 jackals
+  3 kobolds
+  A quokka (D:2)
+  3 frilled lizards
+  6 rats
+37 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Halfling Skald began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 3/3
+   462 | D:1      | Reached XP level 2. HP: 18/19 MP: 4/4
+   947 | D:1      | Reached XP level 3. HP: 14/24 MP: 5/5
+  1703 | D:2      | Learned a level 2 spell: Song of Slaying
+  1894 | D:2      | Found a sacrificial altar of Ru.
+  2031 | D:2      | Noticed Natasha
+  2048 | D:2      | Reached XP level 4. HP: 27/29 MP: 6/6
+  2050 | D:2      | Slain by Natasha
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      sevenhm_arrival_forest_fort_small_3, layout_loops_ring
+D:2:      layout_rooms, nicolae_ru_the_path_less_chosen, minmay_quadrilaterals,
+          uniq_natasha
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Falchion          |   126 |     2 ||   128
+ Cast: Infusion          |     1 |       ||     1
+ Stab: Sleeping          |     2 |       ||     2
+  Eat: Chunk             |     4 |       ||     4
+Armor: Leather armour    |    34 |       ||    34
+Dodge: Dodged            |   111 |       ||   111
+Rpst.: Falchion          |    32 |       ||    32
+

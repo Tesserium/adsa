@@ -1,0 +1,447 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-462-gd5975ef (webtiles) character file.
+
+Game seed: 6596382679883858955
+
+5965 code2828 the Covert (level 10, 0/50 HPs)
+             Began as a Gargoyle Earth Elementalist on Dec 16, 2022.
+             Was a Follower of Uskayaw.
+             Slain by a howler monkey (3 damage)
+             ... on level 10 of the Dungeon on Dec 17, 2022.
+             The game lasted 00:38:39 (10117 turns).
+
+code2828 the Covert (Gargoyle Earth Elementalist)  Turns: 10117, Time: 00:38:40
+
+Health: 0/50       AC: 14    Str: 11    XL:     10   Next: 84%
+Magic:  14/18      EV: 13    Int: 19    God:    Uskayaw [*.....]
+Gold:   450        SH:  5    Dex: 14    Spells: 12/20 levels left
+
+rFire   . . .      SeeInvis +   q - +7 mace of Flying Disembowelment {venom, Contam rC+ Dex+2}
+rCold   + . .      Faith    .   g - +0 buckler
+rNeg    + . .      Spirit   .   G - +0 steam dragon scales
+rPois   ∞          Reflect  .   (no helmet)
+rElec   +          Harm     .   (no cloak)
+rCorr   +          Rampage  .   r - +0 pair of gloves
+Will    .....                   J - +0 pair of boots
+Stlth   +++++.....              I - amulet of regeneration
+HPRegen 1.08/turn               c - ring of see invisible
+MPRegen 0.16/turn               m - ring of resist corrosion
+
+@: no status effects
+A: sickness immunity, AC +7, negative energy resistance 1, electricity
+resistance, torment resistance 1, petrification resistance
+a: Renounce Religion, Stomp
+
+
+You were on level 10 of the Dungeon.
+You worshipped Uskayaw.
+Uskayaw was noncommittal.
+You visited 2 branches of the dungeon, and saw 11 of its levels.
+
+You collected 450 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ q - the +7 mace of Flying Disembowelment (weapon) {venom, Contam rC+ Dex+2}
+   (You found it on level 3 of the Dungeon)   
+   
+   It poisons the flesh of those it strikes.
+   
+   Dex:       It affects your dexterity (+2).
+   rC:        It protects you from cold.
+   Contam:    It causes magical contamination when unequipped.
+Armour
+ g - a +0 buckler (worn)
+ r - a +0 pair of gloves (worn)
+ G - +0 steam dragon scales (worn)
+ J - a +0 pair of boots (worn)
+Jewellery
+ c - a ring of see invisible (left hand)
+ m - a ring of resist corrosion (right hand)
+ t - a ring of willpower
+ I - an amulet of regeneration (around neck)
+ K - a ring of protection from cold
+Wands
+ d - a wand of iceblast (8)
+ H - a wand of digging (5)
+Scrolls
+ a - a scroll of magic mapping {unknown}
+ j - 4 scrolls of teleportation
+ k - 5 scrolls of vulnerability
+ n - 4 scrolls of fear
+ p - 2 scrolls of blinking {unknown}
+ s - a scroll of immolation {unknown}
+ u - a scroll of enchant weapon {unknown}
+ x - a scroll of butterflies {unknown}
+ y - a scroll of amnesia {unknown}
+ z - 2 scrolls of poison
+ C - a scroll of brand weapon {unknown}
+ E - a scroll of noise {unknown}
+ F - a scroll of acquirement {unknown}
+Potions
+ b - 2 potions of magic
+ e - 3 potions of lignification
+ f - a potion of curing
+ h - 2 potions of flight
+ i - a potion of ambrosia {unknown}
+ l - 5 potions of haste
+ v - 3 potions of mutation
+ w - 2 potions of cancellation
+ A - a potion of degeneration {unknown}
+ B - a potion of berserk rage {unknown}
+ D - 2 potions of brilliance {unknown}
+ L - a potion of resistance {unknown}
+
+
+   Skills:
+ + Level 5.2 Dodging
+ * Level 10.6 Stealth
+ - Level 4.0 Shields
+ + Level 5.9 Spellcasting
+ - Level 4.2 Conjurations
+ + Level 3.7 Translocations
+ - Level 0.7 Transmutations
+ + Level 9.6 Earth Magic
+
+
+You had 12 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Sandblast             Erth           84%        2d18      1%          1
+b - Passwall              Tmut/Erth      20%        N/A       2%          2
+c - Stone Arrow           Conj/Erth      64%        3d11      2%          3
+d - Blink                 Tloc           38%        N/A       4%          2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Beastly Appendage        Tmut           16%        N/A       11%         1
+ Freeze                   Ice            20%        1d4       14%         1
+ Wereblood                Tmut           8%         N/A       16%         2
+ Petrify                  Tmut/Erth      25%        N/A       17%         4
+ Hailstorm                Conj/Ice       13%        3d5       19%         3
+ Manifold Assault         Tloc           19%        N/A       30%         4
+ Passage of Golubria      Tloc           19%        N/A       30%         4
+ Spider Form              Tmut/Pois      7%         N/A       36%         3
+ Frozen Ramparts          Ice            10%        1d2       41%         3
+ Ozocubu's Armour         Ice            5%         N/A       41%         3
+ Tukima's Dance           Hex            5%         N/A       41%         3
+ Borgnjor's Vile Clutch   Necr/Erth      11%        N/A       50%         5
+ Animate Dead             Necr           5%         N/A       82%         4
+ Yara's Violent Unravell  Hex/Tmut       3%         3d4       98%         5
+ Death Channel            Necr           2%         N/A       100%        6
+ Storm Form               Tmut/Air       3%         N/A       100%        7
+ Polar Vortex             Ice            2%         N/A       100%        9
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (10/15)        Zot: 26698       Temple (1/1) D:6      Zot: 5743       
+   Lair (0/5) D:8                      
+   Orc: D:9-12      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Annotations:
+D:6 3 runed translucent doors, Dragor's ghost, novice TrGl
+D:9 exclusion: obsidian statue
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to sickness and miasma.
+Your stone body is resilient. (AC +7)
+You are immune to poison.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You are resistant to unholy torment.
+You are immune to petrification.
+
+Message History
+
+You block the howler monkey's attack.
+A troll comes into view.
+The howler monkey closely misses you.
+The troll bites you but does no damage. The troll claws you but does no damage.
+The troll claws you!
+You completely miss the troll.
+The howler monkey hoots and howls with incredible vigour!
+The troll barely misses you. The troll closely misses you. The troll claws you.
+The howler monkey misses you.
+You hear a bellow! You hear a shout! You hear a bellow! You hear an angry hiss.
+Aiming: Sandblast (safe; 1% risk of failure)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f - troll, p - orc priest
+Aim: a troll (85% to hit)
+The blast of sand hits the troll.
+The troll is lightly wounded.
+The troll bites you! The troll claws you. The troll claws you!
+The howler monkey hits you but does no damage.
+The troll barely misses you. The troll closely misses you.
+You block the troll's attack.
+The orc priest calls down the wrath of Beogh upon you.
+Beogh smites you!
+* * * LOW HITPOINT WARNING * * *
+You feel much better.
+The howler monkey completely misses you.
+The troll bites you!
+* * * LOW HITPOINT WARNING * * *
+The troll claws you.
+* * * LOW HITPOINT WARNING * * *
+The troll claws you!
+* * * LOW HITPOINT WARNING * * *
+You block the howler monkey's attack.
+You feel better. The troll bites you.
+* * * LOW HITPOINT WARNING * * *
+The troll claws you but does no damage. x2; The howler monkey misses you.
+You feel better. The troll bites you.
+* * * LOW HITPOINT WARNING * * *
+The troll misses you. The troll claws you.
+* * * LOW HITPOINT WARNING * * *
+The howler monkey hits you.
+You die...
+
+###      ###############
+...      ...............
+..#      ........T.....#
+..#            #@#
+..#            #h#
+..#            #h#
+<.#        #.. #o#
+..#        #..##o#   ..#YYY#
+..##...#   #..##h#  #..#ooo#
+..##...#   #..##.#  #..#...#  ..
+..##...#   #..##.#  #.h#...# ...
+..##...#   #..##.#  #..#...#....
+
+
+You could see a troll, 3 howler monkeys, an orc priest and an orc wizard
+(invisible).
+
+Vanquished Creatures
+  2 hornets
+  Grinder (D:3)
+  Prince Ribbit (D:5)
+  A wraith (D:10)
+  6 yaks
+  2 steam dragons
+  2 vampire mosquitoes (D:9)
+  2 water moccasins
+  An ice beast (D:5)
+  3 black bears
+  An ogre (D:4)
+  A centaur (D:9)
+  4 kobold brigands
+  4 bullfrogs
+  4 scorpions
+  11 wights
+  6 killer bees (D:9)
+  5 electric eels
+  3 howler monkeys (D:9)
+  2 hounds
+  7 orc priests
+  A jelly (D:7)
+  2 iguanas
+  Ijyb (D:3)
+  17 orc wizards
+  3 gnolls (D:6)
+  7 adders
+  3 ufetubi
+  2 dart slugs
+  32 orcs
+  6 endoplasms
+  5 giant cockroaches
+  13 goblins
+  4 hobgoblins
+  8 jackals
+  24 kobolds
+  4 quokkas
+  9 ball pythons
+  6 bats
+  2 frilled lizards (D:3)
+  11 rats
+229 creatures vanquished.
+
+Vanquished Creatures (others)
+  A fungus (D:6)
+  17 plants
+18 creatures vanquished.
+
+Grand Total: 247 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Gargoyle Earth Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 3/3
+   206 | D:1      | Reached XP level 2. HP: 15/15 MP: 1/5
+   540 | D:1      | Reached XP level 3. HP: 19/19 MP: 4/6
+   717 | D:1      | Learned a level 2 spell: Passwall
+   721 | D:1      | Learned a level 3 spell: Stone Arrow
+   732 | D:1      | Reached skill level 1 in Conjurations
+  1305 | D:2      | Reached XP level 4. HP: 24/24 MP: 3/7
+  1477 | D:2      | Reached skill level 3 in Stealth
+  1963 | D:3      | Reached XP level 5. HP: 28/28 MP: 3/8
+  2010 | D:3      | Noticed Ijyb
+  2041 | D:3      | Killed Ijyb
+  2162 | D:3      | Noticed Grinder
+  2166 | D:3      | Paralysed by Grinder for 5 turns
+  2190 | D:3      | Killed Grinder
+  2191 | D:3      | Reached skill level 4 in Stealth
+  2191 | D:3      | Reached skill level 1 in Shields
+  2191 | D:3      | Reached skill level 5 in Earth Magic
+  2191 | D:3      | Reached XP level 6. HP: 32/32 MP: 0/10
+  2689 | D:3      | Identified the +7 mace of Flying Disembowelment {venom,
+                  | Contam rC+ Dex+2}
+  2972 | D:4      | Reached XP level 7. HP: 36/36 MP: 9/11
+  3310 | D:4      | Reached skill level 5 in Stealth
+  3767 | D:5      | Entered Level 5 of the Dungeon
+  3931 | D:5      | Reached XP level 8. HP: 34/41 MP: 6/13
+  4157 | D:5      | Noticed a +0 falchion
+  4158 | D:5      | Noticed a +0 short sword
+  4158 | D:5      | Noticed a +0 dagger
+  4159 | D:5      | Noticed a +0 spear
+  4159 | D:5      | Noticed a +0 falchion
+  4159 | D:5      | Noticed a +0 dagger
+  4159 | D:5      | Noticed a +0 spear
+  4160 | D:5      | Noticed a +0 short sword
+  4191 | D:5      | Found a hide-covered altar of Uskayaw.
+  4208 | D:5      | Became a worshipper of Uskayaw the Reveller
+  4281 | D:5      | Reached * piety under Uskayaw
+  4468 | D:5      | Got the Tome of Congelation
+  4478 | D:5      | Noticed Prince Ribbit
+  4483 | D:5      | Reached ** piety under Uskayaw
+  4486 | D:5      | Killed Prince Ribbit
+  4486 | D:5      | Reached *** piety under Uskayaw
+  4487 | D:5      | Reached skill level 6 in Stealth
+  5009 | D:6      | Found a runed translucent gate.
+  5011 | D:6      | Found a runed translucent gate.
+  5011 | D:6      | Found a runed translucent gate.
+  5013 | D:6      | Noticed a kobold demonologist
+  5015 | D:6      | Noticed Dragor's ghost (novice TrGl)
+  5380 | D:6      | Noticed a hornet
+  5392 | D:6      | Killed a hornet
+  5472 | D:6      | Reached skill level 7 in Stealth
+  5617 | D:6      | Found a staircase to the Ecumenical Temple.
+  5624 | D:6      | Reached XP level 9. HP: 31/45 MP: 10/15
+  5628 | Temple   | Entered the Ecumenical Temple
+  6595 | D:7      | Reached skill level 1 in Translocations
+  6656 | D:7      | Reached skill level 8 in Stealth
+  7517 | D:7      | Reached skill level 5 in Spellcasting
+  7519 | D:7      | Reached skill level 9 in Stealth
+  7519 | D:7      | Reached XP level 10. HP: 14/50 MP: 13/17
+  7782 | D:8      | Found a staircase to the Lair.
+  8156 | D:8      | Reached **** piety under Uskayaw
+  8870 | D:8      | Learned a level 2 spell: Blink
+  9090 | D:9      | Reached skill level 10 in Stealth
+  9134 | D:9      | Reached skill level 5 in Dodging
+  9384 | D:9      | Noticed an obsidian statue
+  9609 | D:9      | Found a blossoming altar of Fedhas.
+  9834 | D:10     | Entered Level 10 of the Dungeon
+ 10117 | D:10     | Slain by a howler monkey
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      heliophobic_arrival_ceremonial_halls, layout_loops_ring, hex_large,
+          hangedman_decor_lopped
+D:2:      layout_rooms, kennysheep_generic_room_3
+D:3:      kennysheep_the_goblin_king, layout_basic, st_stairs_12,
+          amcnicky_mini_pool_small, hex_medium, bh_walls_and_bars, uniq_grinder
+D:4:      layout_loops_cross
+D:5:      layout_cave_pods, nicolae_uskayaw_en_pointe,
+          chequers_serial_rivers_micro_c, uniq_prince_ribbit1, uniq_ijyb
+D:6:      layout_loops_corners, minmay_temple_entry_drinking_statues,
+          gammafunk_ghost_nasty_kobolds
+D:7:      layout_loops_ring
+D:8:      lemuel_ice_spiral_2, layout_basic, dpeg_oklobed_lair,
+          serial_bayou_lagoon_b
+D:9:      layout_rooms, lemuel_round_altar, dreamdust_princess_bridge,
+          supply_closet_lemuel, dreamdust_wishing_well, serial_bayou_pond_b,
+          minivault_16
+D:10:     layout_long_grid, st_stairs_1, uniq_maurice
+Temple:   nicolae_temple_bog_church
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Earth Magic    |     4        5     6  7  8  9 |  9.6
+Conjurations   |        1     2     3  4       |  4.2
+Dodging        |           2        3     4  5 |  5.2
+Stealth        |           3  4     5  7  9 10 | 10.6
+Shields        |              1     2  3  4    |  4.0
+Spellcasting   |                 3     4  5    |  5.9
+Translocations |                          2  3 |  3.7
+Transmutations |                               |  0.7
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Unarmed           |     2 |       |       |       ||     2
+       Whip              |     6 |       |       |       ||     6
+       Morningstar       |       |     1 |       |       ||     1
+       Mace              |       |     1 |    45 |     5 ||    51
+ Cast: Sandblast         |    51 |    53 |   164 |   123 ||   391
+       Stone Arrow       |       |     2 |     5 |     1 ||     8
+Invok: Stomp             |       |       |       |     1 ||     1
+  Use: Potion            |       |       |     3 |     3 ||     6
+       Scroll            |       |       |       |     9 ||     9
+ Stab: Paralysed         |       |       |     1 |       ||     1
+Armor: Robe              |    11 |    10 |     3 |       ||    24
+       Leather armour    |       |       |    48 |    13 ||    61
+       Skin              |       |       |    15 |       ||    15
+       Steam dragon scal |       |       |       |    28 ||    28
+Dodge: Dodged            |    11 |     9 |    79 |    60 ||   159
+Block: Buckler           |     2 |     2 |    38 |    21 ||    63
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  10376 |  10125 |    251 |    655 |   7734 |  11 |  943.3 |
+       Dungeon |  10120 |   9881 |    239 |    655 |   7503 |  10 | 1012.0 |
+        Temple |    256 |    245 |     11 |      0 |    231 |   1 |  256.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:7: 1540 daAuts
+     D:3: 1441 daAuts
+     D:8: 1305 daAuts
+     D:6: 1085 daAuts
+     D:5: 1026 daAuts
+     D:9: 987 daAuts
+     D:1: 967 daAuts
+     D:4: 833 daAuts
+     D:2: 632 daAuts
+    D:10: 300 daAuts
+  Temple: 256 daAuts
+

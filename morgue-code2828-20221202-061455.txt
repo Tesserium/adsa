@@ -1,0 +1,185 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-381-g6ea064c (webtiles) character file.
+
+Game seed: 10253911166745806912
+
+0 code2828 the Grasshopper (level 1, 0/18 HPs)
+             Began as an Armataur Warper on Dec 2, 2022.
+             Slain by a kobold
+             ... wielding a +2 dagger of speed
+              (4 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:00:40 (45 turns).
+
+code2828 the Grasshopper (Armataur Warper)            Turns: 45, Time: 00:00:40
+
+Health: 0/18       AC:  4    Str: 16    XL:     1   Next: 0%
+Magic:  3/3        EV:  9    Int: 13    God:    
+Gold:   4          SH:  0    Dex:  9    Spells: 3/3 levels left
+
+rFire   . . .      SeeInvis .   a - +0 short sword
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   b - +0 leather armour
+rPois   .          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Roll     +   (no gloves)
+Will    .....                   (no barding)
+Stlth   +.........              (no amulet)
+HPRegen 0.23/turn               (no ring)
+MPRegen 0.08/turn               (no ring)
+
+@: no status effects
+A: large, rugged brown scales 3, deformed body, armoured tail, roll, long
+tongue, awkward tongue
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 4 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 short sword (weapon)
+Missiles
+ d - 7 boomerangs of dispersal (quivered)
+Armour
+ b - a +0 leather armour (worn)
+Scrolls
+ c - 2 scrolls of blinking
+ e - a scroll of identify {unknown}
+
+
+   Skills:
+ + Level 1.7 Fighting
+ + Level 1.7 Short Blades
+ + Level 0.8 Throwing
+ + Level 1.2 Armour
+ + Level 1.3 Dodging
+ + Level 1.7 Spellcasting
+ + Level 3.0 Translocations
+
+
+You had 3 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Blink                    Tloc           16%        N/A       14%         2
+ Lesser Beckoning         Tloc           16%        N/A       28%         3
+ Teleport Other           Tloc           8%         N/A       28%         3
+ Vhi's Electric Charge    Tloc/Air       10%        N/A       45%         3
+ Manifold Assault         Tloc           8%         N/A       67%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are completely covered in rugged brown scales. (AC +3, +7% HP)
+Armour fits poorly on your strangely shaped body.
+You have a long armoured tail.
+You roll when moving toward enemies. (Rampage)
+Your long tongue fully drains potion bottles. (2x potion effects)
+Your tongue gives you trouble enunciating. (1.5x scroll delay)
+
+Message History
+
+Welcome, code2828 the Armataur Warper.
+They say the Orb of Zot lies within this dungeon, but they say a lot of things.
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+You open the door.
+There is an open door here.
+c - 2 scrolls of blinking (gained 1)
+You now have 4 gold pieces.
+e - a scroll labelled YLOW YNELAS
+A kobold comes into view. It is wielding a +2 dagger of speed.
+You roll towards the kobold! Found a dented golden amulet.
+A hobgoblin comes into view.
+The hobgoblin shouts!
+You roll towards the kobold! Found a coppery potion. The hobgoblin hits you.
+The kobold closely misses you.
+You hit the kobold but do no damage. The kobold barely misses you.
+You hit the kobold but do no damage. The hobgoblin hits you.
+The kobold hits you but does no damage.
+You hit the kobold but do no damage. The kobold hits you but does no damage.
+The hobgoblin hits you.
+The kobold hits you with a +2 dagger of speed.
+You closely miss the kobold. Your tail-slap misses the kobold.
+The hobgoblin barely misses you.
+The kobold hits you with a +2 dagger of speed.
+You hit the kobold but do no damage. Your tail-slap misses the kobold.
+The hobgoblin hits you.
+The kobold hits you with a +2 dagger of speed.
+* * * LOW HITPOINT WARNING * * *
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You hit the hobgoblin but do no damage.
+The kobold hits you with a +2 dagger of speed.
+You die...
+
+..###.......#....#
+..##...........#.#
+..≈#......######.#
+..≈#......#    #.#
+..≈###..###    #.#
+..≈# ##..      #.#
+<.≈#  ##.  #####.#
+..##    ...#.....##
+.##      .......@g#
+##       .......K..#
+         ..........#
+         ..."......#
+         ..........#
+         ..........#
+         .....!....#
+         .........##
+
+
+You could see a hobgoblin and a kobold.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Armataur Warper began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 3/3
+    45 | D:1      | Slain by a kobold
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      wander_arrival_chamber, layout_rooms, minmay_gold_behind_fungi
+
+Action                   || total
+-------------------------++-------
+Melee: Short sword       ||     6
+Armor: Leather armour    ||     2
+Dodge: Dodged            ||     3
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |     44 |     44 |      0 |      0 |     36 |   1 |   44.0 |
+       Dungeon |     44 |     44 |      0 |      0 |     36 |   1 |   44.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 44 daAuts
+

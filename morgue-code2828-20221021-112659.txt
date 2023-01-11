@@ -1,0 +1,221 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-304-gdc4b735 (webtiles) character file.
+
+Game seed: 16588830953383590813
+
+14 code2828 the Chiller (level 2, -1/20 HPs)
+             Began as a Draconian Ice Elementalist on Oct 21, 2022.
+             Slain by Terence
+             ... wielding a +0 short sword
+              (4 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:04:07 (175 turns).
+
+code2828 the Chiller (Draconian Ice Elementalist)    Turns: 175, Time: 00:04:09
+
+Health: -1/20      AC:  4    Str: 10    XL:     2   Next: 27%
+Magic:  1/5        EV: 12    Int: 15    God:    
+Gold:   13         SH:  0    Dex: 11    Spells: 4/5 levels left
+
+rFire   . . .      SeeInvis .   b - +0 flail
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   (body armour unavailable)
+rPois   .          Reflect  .   (helmet restricted)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   ++........              (no amulet)
+HPRegen 0.23/turn               (no ring)
+MPRegen 0.09/turn               (no ring)
+
+@: no status effects
+A: AC +4, unfitting armour, cold-blooded
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 13 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ b - a +0 flail (weapon)
+ f - a +0 short sword
+Scrolls
+ c - a scroll of enchant armour {unknown}
+ d - a scroll of amnesia {unknown}
+ e - a scroll of brand weapon {unknown}
+Potions
+ a - a potion of magic
+
+
+   Skills:
+ + Level 2.0 Dodging
+ + Level 2.1 Stealth
+ + Level 2.2 Spellcasting
+ + Level 4.1 Ice Magic
+
+
+You had 4 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Freeze                Ice            56%        1d7       4%          1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Frozen Ramparts          Ice            28%        1d5       12%         3
+ Ozocubu's Armour         Ice            14%        N/A       12%         3
+ Summon Ice Beast         Ice/Summ       7%         N/A       67%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+Kikubaaqudgha
+
+Annotations:
+D:2 Terence
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your plain brown scales are hard. (AC +4)
+You cannot fit into any form of body armour.
+You are cold-blooded and may be slowed by cold attacks.
+
+Message History
+
+You kill the ball python!
+Found an ancient bone altar of Kikubaaqudgha.
+Found 12 gold pieces.
+Terence the Incautious comes into view. He is wielding a +0 short sword.
+Terence shouts!
+Found a stone staircase leading down.
+A kobold comes into view. It is wielding a +0 short sword.
+The kobold shouts!
+You freeze Terence.
+Terence is lightly wounded.
+Terence misses you.
+You freeze Terence!
+Terence is heavily wounded.
+Terence hits you but does no damage.
+You freeze Terence.
+Terence is heavily wounded.
+Terence hits you with a +0 short sword.
+You are out of magic!
+You barely miss Terence.
+Terence is heavily wounded.
+Terence hits you with a +0 short sword. x2
+You completely miss Terence.
+Terence is heavily wounded.
+Terence closely misses you.
+The kobold hits you with a +0 short sword.
+You closely miss Terence.
+Terence is heavily wounded.
+Terence closely misses you. The kobold misses you.
+Terence hits you with a +0 short sword!
+* * * LOW HITPOINT WARNING * * *
+The kobold barely misses you.
+You completely miss the kobold. Terence barely misses you.
+The kobold barely misses you.
+You barely miss Terence.
+Terence is heavily wounded.
+Terence hits you with a +0 short sword.
+* * * LOW HITPOINT WARNING * * *
+The kobold hits you but does no damage.
+You miss the kobold. Terence hits you with a +0 short sword.
+You die...
+
+#......>..#####
+#.............#
+..............#
+.....$........#
+..............#
+......._.......
+......K@.......
+.......@..#.#
+.....###..#.#
+...    ##.#.#
+.       #.#.#
+        #...#
+        ###.####........
+          #.............
+          #.###.........
+   ########'###.........
+
+
+You could see Terence and a kobold.
+
+Vanquished Creatures
+  An adder (D:2)
+  A giant cockroach (D:1)
+  A quokka (D:1)
+  A ball python (D:2)
+  A frilled lizard (D:1)
+  A rat (D:1)
+6 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Draconian Ice Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 3/3
+   141 | D:2      | Reached XP level 2. HP: 20/20 MP: 1/5
+   158 | D:2      | Found an ancient bone altar of Kikubaaqudgha.
+   163 | D:2      | Noticed Terence
+   175 | D:2      | Slain by Terence
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      amcnicky_arrival_feature_with_door, layout_rooms,
+          ebering_ecumenical_altar_mist, serial_co_window_serial,
+          co_window_paths_a, co_window_paths_a, co_window_paths_b,
+          co_window_paths_a, co_window_paths_a, co_window_corner_a,
+          co_window_corner_b, co_window_corner_b, co_window_corner_cb,
+          co_window_cross_2, co_window_corner_b, co_window_paths_d,
+          glass_columns_a, glass_columns_b, glass_columns_a, glass_columns_b,
+          glass_columns_b
+D:2:      layout_basic, basic_altar, uniq_terence, uniq_crazy_yiuf_cottage
+
+Skill      XL: |  1 |
+---------------+----+-----
+Dodging        |  2 |  2.0
+Stealth        |  2 |  2.1
+Spellcasting   |    |  2.2
+Ice Magic      |    |  4.1
+
+Action                   || total
+-------------------------++-------
+Melee: Flail             ||    20
+       Tailslap          ||     3
+ Cast: Freeze            ||     6
+ Stab: Sleeping          ||     1
+Armor: Skin              ||     4
+Dodge: Dodged            ||    20
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |    182 |     87 |     95 |      0 |      0 |   2 |   91.0 |
+       Dungeon |    182 |     87 |     95 |      0 |      0 |   2 |   91.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 130 daAuts
+     D:2: 51 daAuts
+

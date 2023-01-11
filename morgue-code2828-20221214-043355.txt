@@ -1,0 +1,322 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-457-g4b7bca3 (webtiles) character file.
+
+Game seed: 12065229512297765378
+
+802 code2828 the Poker (level 7, -1/61 HPs)
+             Began as a Minotaur Berserker on Dec 14, 2022.
+             Was a Priest of Trog.
+             Slain by a gnoll
+             ... wielding a +0 spear
+             ... led by a gnoll sergeant
+              (4 damage)
+             ... on level 5 of the Dungeon.
+             The game lasted 00:07:11 (3538 turns).
+
+code2828 the Poker (Minotaur Berserker)             Turns: 3538, Time: 00:07:11
+
+Health: -1/61      AC:  9    Str: 27    XL:     7   Next: 59%
+Magic:  6/6        EV: 12    Int:  4    God:    Trog [***...]
+Gold:   309        SH:  0    Dex: 12    Spells: 6/6 levels left
+
+rFire   . . .      SeeInvis .   a - +0 spear
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   h - +2 ring mail of Imumeu {+Blink Fly Str+4 Dex+2}
+rPois   .          Reflect  .   (helmet restricted)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   s - +0 pair of boots
+Stlth   +.........              (no amulet)
+HPRegen 0.30/turn               (no ring)
+MPRegen 0.10/turn               (no ring)
+
+@: mighty, attractive, flying
+A: horns 2, retaliatory headbutt
+a: Renounce Religion, Evoke Blink, Berserk, Trog's Hand
+
+
+You were on level 5 of the Dungeon.
+You worshipped Trog.
+Trog was most pleased with you.
+You visited 2 branches of the dungeon, and saw 6 of its levels.
+
+You collected 309 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 spear (weapon)
+Missiles
+ t - 2 poisoned darts (quivered)
+ B - 2 throwing nets
+Armour
+ e - a +0 scale mail
+ h - the +2 ring mail of Imumeu (worn) {+Blink Fly Str+4 Dex+2}
+   (You found it on level 2 of the Dungeon)   
+   
+   Str:       It affects your strength (+4).
+   Dex:       It affects your dexterity (+2).
+   Fly:       It grants you flight.
+   +Blink:    It lets you blink.
+ s - a +0 pair of boots (worn)
+Jewellery
+ p - a ring of willpower
+ y - a ring of flight
+Wands
+ n - a wand of flame (10)
+ q - a wand of digging (6)
+ r - a wand of paralysis (8)
+Scrolls
+ b - a scroll of magic mapping {unknown}
+ c - 3 scrolls of fear {unknown}
+ f - 5 scrolls of teleportation
+ j - a scroll of brand weapon {unknown}
+ l - 4 scrolls of identify {unknown}
+ m - a scroll of blinking {unknown}
+ o - a scroll of immolation {unknown}
+ u - a scroll of noise {unknown}
+ v - a scroll of amnesia {unknown}
+Potions
+ i - a potion of cancellation {unknown}
+ k - a potion of degeneration {unknown}
+ w - a potion of haste {unknown}
+ z - a potion of flight {unknown}
+ A - a potion of heal wounds {unknown}
+
+
+   Skills:
+ + Level 5.5 Fighting
+ * Level 6.9 Polearms
+ * Level 6.2 Armour
+ + Level 4.5 Dodging
+
+
+You had 6 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)         Zot: 26874       Temple (1/1) D:4      Zot: 5439       
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:5 *
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+You kill the gnoll!
+Trog accepts your kill.
+The gnoll sergeant hits you from afar with a +2 spear of freezing.
+The gnoll sergeant freezes you.
+The gnoll shouts!
+The gnoll barely misses you.
+The gnoll hits you from afar with a +0 spear.
+The gnoll sergeant hits you with a +2 spear of freezing.
+The gnoll sergeant freezes you.
+You see here a +0 vampiric whip.
+The gnoll sergeant attacks as you move away!
+The gnoll sergeant hits you with a +2 spear of freezing.
+The gnoll sergeant freezes you.
+The gnoll sergeant hits you from afar with a +2 spear of freezing.
+The gnoll sergeant freezes you.
+The gnoll hits you with a +0 club.
+* * * LOW HITPOINT WARNING * * *
+The gnoll hits you from afar with a +0 spear.
+* * * LOW HITPOINT WARNING * * *
+The gnoll sergeant barely misses you.
+You see here a +0 vampiric whip.
+It was a potion of might.
+You feel very mighty all of a sudden.
+The gnoll barely misses you. The gnoll completely misses you.
+The gnoll misses you.
+The gnoll sergeant hits you with a +2 spear of freezing.
+* * * LOW HITPOINT WARNING * * *
+The gnoll sergeant freezes you.
+* * * LOW HITPOINT WARNING * * *
+It was a potion of curing. You feel better. The gnoll completely misses you. x2
+The gnoll hits you but does no damage.
+The gnoll sergeant hits you with a +2 spear of freezing!
+* * * LOW HITPOINT WARNING * * *
+The gnoll sergeant freezes you.
+* * * LOW HITPOINT WARNING * * *
+It was a potion of attraction.
+You feel attractive to monsters.
+The gnoll misses you.
+The gnoll hits you from afar with a +0 spear.
+You die...
+
+       .......$ ..
+        #..#..  .# #
+     .###....###.#.#
+  .  .....#†......<#
+#... ............###
+......#####..#...#
+......#####...###.#
+.........##.<#### ..
+...... #.##gg@#.#  ##
+ .....##...gg#.#
+    #.......#.##
+    ##..†...##.#
+     #....#.# ..#
+#...........#  ##
+##.............
+ #.##.^#.#...##
+ #  #.#...#..#
+
+
+You could see a gnoll sergeant and 3 gnolls.
+
+Vanquished Creatures
+  A water moccasin (D:5)
+  A sky beast (D:4)
+  An ogre (D:4)
+  A black bear (D:5)
+  Blork the orc (D:4)
+  A hound (D:4)
+  An orc priest (D:4)
+  3 iguanas
+  2 orc wizards (D:4)
+  A gnoll (D:5)
+  3 adders
+  An ufetubus (D:4)
+  4 worms
+  4 dart slugs
+  8 orcs
+  9 endoplasms
+  6 giant cockroaches
+  5 goblins
+  6 hobgoblins
+  4 jackals (D:1)
+  A quokka (D:4)
+  7 ball pythons
+  5 bats
+  3 frilled lizards
+  9 kobolds
+  8 rats
+96 creatures vanquished.
+
+Vanquished Creatures (others)
+  An orc wizard (D:4)
+  5 plants (D:3)
+6 creatures vanquished.
+
+Grand Total: 102 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Minotaur Berserker began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   401 | D:1      | Reached XP level 2. HP: 25/27 MP: 1/1
+  1071 | D:2      | Identified the +2 ring mail of Imumeu {+Blink Fly Str+4
+                  | Dex+2}
+  1074 | D:2      | Reached XP level 3. HP: 33/33 MP: 2/2
+  1170 | D:2      | Reached ** piety under Trog
+  1580 | D:3      | Reached XP level 4. HP: 40/40 MP: 3/3
+  1831 | D:3      | Found a faded altar of an unknown god.
+  1979 | D:3      | Found the +0 staff of Battle
+  2179 | D:4      | Noticed a sky beast
+  2191 | D:4      | Killed a sky beast
+  2192 | D:4      | Reached skill level 5 in Polearms
+  2192 | D:4      | Reached XP level 5. HP: 47/47 MP: 4/4
+  2221 | D:4      | Noticed an ogre
+  2228 | D:4      | Found a staircase to the Ecumenical Temple.
+  2252 | D:4      | Killed an ogre
+  2253 | D:4      | Reached XP level 6. HP: 53/53 MP: 5/5
+  2347 | D:4      | Reached skill level 5 in Armour
+  2423 | D:4      | Reached *** piety under Trog
+  2424 | D:4      | Reached skill level 5 in Fighting
+  2485 | Temple   | Entered the Ecumenical Temple
+  3408 | D:5      | Entered Level 5 of the Dungeon
+  3413 | D:5      | Noticed Blork the orc
+  3419 | D:5      | Reached XP level 7. HP: 58/61 MP: 6/6
+  3434 | D:4      | Killed Blork the orc
+  3507 | D:5      | Found Getsoth's Overcharged Wands.
+  3537 | D:5      | HP: 2/61 [gnoll sergeant/+2 spear of freezing (4)]
+  3538 | D:5      | Slain by a gnoll
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      nicolae_arrival_somewhat_less_tricky_arrival, layout_loops_corners
+D:2:      layout_rooms
+D:3:      layout_rooms, shapermc_ecumenical_altar_hornbeckon,
+          minmay_quadrilaterals
+D:4:      layout_rooms, minmay_temple_entry_statues_pillars
+D:5:      layout_loops_cross, nicolae_shop_overcharged_wands, uniq_blork_the_orc
+Temple:   mainiacjoe_temple_starburst
+
+Skill      XL: |  1  2  3  4  5  6  7 |
+---------------+----------------------+-----
+Polearms       |     4     5     6    |  6.9
+Fighting       |     4           5    |  5.5
+Armour         |     3     4     5  6 |  6.2
+Dodging        |           3     4    |  4.5
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Spear             |   108 |   141 |    25 ||   274
+       Headbutt          |    13 |    20 |     5 ||    38
+       Punch             |     2 |     1 |     2 ||     5
+Throw: Dart              |       |     5 |       ||     5
+Invok: Berserk           |       |     2 |       ||     2
+  Use: Scroll            |       |     1 |       ||     1
+       Potion            |       |       |     3 ||     3
+Armor: Ring mail         |    16 |    37 |    13 ||    66
+       Animal skin       |     1 |       |       ||     1
+       Scale mail        |     3 |       |       ||     3
+Dodge: Dodged            |    44 |    43 |    32 ||   119
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   3522 |   3302 |    220 |    128 |   2534 |   6 |  587.0 |
+       Dungeon |   2961 |   2787 |    174 |    128 |   2027 |   5 |  592.2 |
+        Temple |    560 |    514 |     46 |      0 |    507 |   1 |  560.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 1047 daAuts
+     D:4: 790 daAuts
+     D:3: 626 daAuts
+  Temple: 560 daAuts
+     D:2: 439 daAuts
+     D:5: 58 daAuts
+

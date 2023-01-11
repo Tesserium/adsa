@@ -1,0 +1,418 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-558-gfc1376d (webtiles) character file.
+
+Game seed: 8016007730988975275
+
+3923 code2828 the Destroyer (level 10, -1/80 HPs)
+             Began as a White Draconian Conjurer on Dec 28, 2022.
+             Was a Follower of the Shining One.
+             Slain by a four-headed hydra (14 damage)
+             ... on level 7 of the Dungeon.
+             The game lasted 00:44:58 (11851 turns).
+
+code2828 the Destroyer (White Draconian Conjurer)  Turns: 11851, Time: 00:44:59
+
+Health: -1/80      AC:  8    Str: 18    XL:     10   Next: 1%
+Magic:  16/19      EV: 15    Int: 22    God:    the Shining One [*.....]
+Gold:   272        SH:  0    Dex:  9    Spells: 1/21 levels left
+
+rFire   . . .      SeeInvis .   k - +8 dagger "Pasugil" {heavy, Str+4}
+rCold   + . .      Faith    .   n - +0 kite shield
+rNeg    . . .      Spirit   .   (body armour unavailable)
+rPois   .          Reflect  .   (helmet restricted)
+rElec   .          Harm     .   (no cloak)
+rCorr   +          Rampage  .   w - +0 pair of gloves
+Will    +++..                   (no boots)
+Stlth   +                       (no amulet)
+HPRegen 0.33/turn               s - +4 ring of evasion
+MPRegen 0.16/turn               l - ring of Fonif Lia {+Blink Will+++ rCorr Str+5 Dex-2}
+
+@: confused, ambrosia-drunk, glowing
+A: breathe frost, AC +7, unfitting armour, cold resistance 1, cold-blooded
+a: Breathe Frost, Renounce Religion, Evoke Blink, Divine Shield
+
+
+You were on level 7 of the Dungeon.
+You worshipped the Shining One.
+The Shining One was aware of your devotion.
+You visited 2 branches of the dungeon, and saw 9 of its levels.
+
+You collected 272 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ k - the +8 dagger "Pasugil" (weapon) {heavy, Str+4}
+   (You took it off a goblin on level 2 of the Dungeon)   
+   
+   It deals dramatically more damage, but attacks with it are much slower.
+   
+   Str:       It affects your strength (+4).
+Missiles
+ j - a throwing net
+Armour
+ n - a +0 kite shield (worn)
+ w - a +0 pair of gloves (worn)
+Jewellery
+ l - the ring of Fonif Lia (right hand) {+Blink Will+++ rCorr Str+5 Dex-2}
+   (You found it on level 5 of the Dungeon)   
+   
+   [ring of resist corrosion]
+   
+   Str:       It affects your strength (+5).
+   Dex:       It affects your dexterity (-2).
+   +Blink:    It lets you blink.
+   rCorr:     It protects you from acid and corrosion.
+   Will:      It greatly increases your willpower.
+ s - a +4 ring of evasion (left hand)
+Wands
+ c - a wand of roots (8)
+ t - a wand of digging (6)
+Scrolls
+ d - a scroll of vulnerability
+ e - a scroll of enchant armour
+ g - a scroll of fog
+ h - 2 scrolls of magic mapping
+ i - 3 scrolls of fear
+ u - a scroll of amnesia
+ v - a scroll of enchant weapon {unknown}
+ x - a scroll of blinking {unknown}
+ y - 3 scrolls of identify
+Potions
+ a - 2 potions of magic
+ b - a potion of might {unknown}
+ m - a potion of attraction {unknown}
+ o - a potion of ambrosia
+ q - 3 potions of haste
+ r - a potion of degeneration {unknown}
+ z - a potion of brilliance {unknown}
+ A - a potion of cancellation {unknown}
+
+
+   Skills:
+ + Level 4.5 Fighting
+ - Level 1.0 Short Blades
+ + Level 4.9 Dodging
+ + Level 5.2 Stealth
+ + Level 4.4 Shields
+ * Level 6.4 Spellcasting
+ * Level 8.2 Conjurations
+ + Level 4.1 Translocations
+
+
+You had one spell level left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Magic Dart            Conj           100%       1d8       1%          1
+b - Searing Ray           Conj           86%        2d7       1%          2
+c - Dazzling Flash        Conj/Hex       50%        N/A       14%         3
+d - Blink                 Tloc           50%        N/A       7%          2
+e - Momentum Strike       Conj/Tloc      68%        3d9       3%          2
+f - Gell's Gravitas       Tloc           25%        N/A       14%         3
+g - Teleport Other        Tloc           25%        N/A       14%         3
+h - Iskenderun's Mystic   Conj/Tloc      34%        2d8       21%         4
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Lesser Beckoning         Tloc           50%        N/A       14%         3
+ Fulminant Prism          Conj/Hex       12%        3d9       43%         4
+ Sticky Flame             Conj/Fire      25%        2d5       43%         4
+ Ignite Poison            Fire/Tmut/Pois 7%         N/A       58%         3
+ Agony                    Necr           7%         N/A       100%        5
+ Silence                  Hex/Air        3%         N/A       100%        5
+ Dispersal                Tloc           12%        N/A       100%        6
+ Ignition                 Fire           3%         3d4       100%        8
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)         Zot: 26261       Temple (1/1) D:7      Zot: 5910       
+  Lair: D:8-11      
+
+Altars:
+Cheibriados
+Dithmenos
+Elyvilon
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Annotations:
+D:5 exclusion: downstairs
+
+
+Innate Abilities, Weirdness & Mutations
+
+You can breathe waves of freezing cold which knock back foes.
+Your icy white scales are hard. (AC +7)
+You cannot fit into any form of body armour.
+Your flesh is cold resistant. (rC+)
+You are cold-blooded and may be slowed by cold attacks.
+
+Message History
+
+The four-headed hydra misses you.
+The searing ray hits the four-headed hydra!
+The four-headed hydra is moderately wounded.
+The searing ray hits the manticore!
+The manticore is moderately wounded.
+You finish channelling your searing ray.
+You block the four-headed hydra's attack.
+The four-headed hydra bites you but does no damage. x2
+The four-headed hydra closely misses you.
+The four-headed hydra bites you but does no damage.
+The four-headed hydra closely misses you.
+You block the four-headed hydra's attack.
+The four-headed hydra bites you.
+The four-headed hydra bites you! x2
+You block the four-headed hydra's attack.
+The four-headed hydra bites you.
+You climb upwards.
+There is a stone staircase leading down here.
+Casting: Searing Ray (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Searing Ray (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f - four-headed hydra
+Aim: a four-headed hydra (moderately wounded, haloed, 95% to hit)
+The searing ray hits the four-headed hydra!
+The four-headed hydra is heavily wounded.
+(Press . to maintain the ray.)
+You block the four-headed hydra's attack.
+The four-headed hydra bites you but does no damage.
+The four-headed hydra bites you! x2
+The searing ray hits the four-headed hydra!
+The four-headed hydra is heavily wounded.
+You block the four-headed hydra's attack.
+The four-headed hydra bites you. The four-headed hydra bites you!
+* * * LOW HITPOINT WARNING * * *
+The four-headed hydra bites you!
+* * * LOW HITPOINT WARNING * * *
+It was a potion of ambrosia.
+You are confused.
+You feel invigorated. The four-headed hydra bites you!
+You die...
+
+#........##      #..#..........##
+##.....###       ##......#...#...
+ ##...##    ########...#.......#.
+  #...##  ###....# #.#.....>.....
+ ##.#..####......# #...#.......#.
+ #..##..##..###### ###...#...#...
+##.####..#.###...##  ###.........
+...#  ##...##{.).{##  #...#.#....
+...#   ##..#{.>[@.{#  #.#........
+...#    #..#{.[..D{####.##.#.....
+...##  ##..#{.)>..{#.....#..)###.
+....## #...##{...{###.......## #.
+.....# #######...########..##  ##
+...###       #'''#.#   ##.##    #
+.###         #.....#   #..#     #
+.##          ####..#####.##     #
+..###    ####   #........#     ##
+
+
+You could see a four-headed hydra.
+
+Vanquished Creatures
+  A tengu warrior (D:8)
+  A cyclops (D:6)
+  A hornet (D:6)
+  An acid dragon (D:7)
+  3 black bears
+  A sky beast (D:6)
+  3 ogres (D:5)
+  2 phantoms
+  A bullfrog (D:6)
+  A kobold brigand (D:6)
+  Blork the orc (D:6)
+  5 necrophages
+  3 scorpions
+  2 killer bees (D:7)
+  9 hounds
+  A jelly (D:4)
+  2 gnoll boudas
+  4 orc priests
+  3 orc wizards
+  5 iguanas
+  Robin (D:2)
+  9 adders
+  23 gnolls
+  2 shadow imps
+  A white imp (D:7)
+  2 ufetubi
+  A worm (D:3)
+  5 dart slugs
+  13 orcs
+  8 endoplasms
+  2 giant cockroaches (D:2)
+  11 goblins
+  6 hobgoblins
+  3 jackals (D:1)
+  13 kobolds
+  2 quokkas
+  8 ball pythons
+  6 bats
+  4 frilled lizards
+  2 rats
+172 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A gnoll (D:4)
+1 creature vanquished.
+
+Grand Total: 173 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Draconian Conjurer began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 3/3
+   593 | D:1      | Reached XP level 2. HP: 20/20 MP: 3/5
+  1245 | D:2      | Noticed Robin
+  1401 | D:2      | Reached XP level 3. HP: 26/26 MP: 3/6
+  1406 | D:2      | Learned a level 2 spell: Searing Ray
+  1410 | D:2      | Learned a level 3 spell: Dazzling Flash
+  2062 | D:2      | Found a hide-covered altar of Uskayaw.
+  2305 | D:2      | Identified the +8 dagger "Pasugil" {heavy, Str+4}
+  2318 | D:2      | Killed Robin
+  2319 | D:2      | Reached XP level 4. HP: 23/33 MP: 0/7
+  2770 | D:3      | Found a faded altar of an unknown god.
+  3330 | D:3      | Reached XP level 5. HP: 38/38 MP: 3/9
+  3458 | D:3      | Reached skill level 5 in Conjurations
+  3639 | D:3      | Reached skill level 1 in Short Blades
+  4221 | D:3      | Reached skill level 1 in Shields
+  4320 | D:4      | Reached XP level 6. HP: 46/46 MP: 3/10
+  4453 | D:4      | Reached skill level 1 in Fighting
+  4607 | D:4      | Reached skill level 1 in Translocations
+  4700 | D:4      | Your scales start taking on an icy white colour.
+  4700 | D:4      | Reached XP level 7. HP: 52/52 MP: 3/12
+  4700 | D:4      | Gained mutation: Your flesh is cold resistant. (rC+) [White
+                  | Draconian growth]
+  4910 | D:4      | Learned a level 2 spell: Blink
+  5168 | D:4      | Found a bloodstained altar of Trog.
+  5310 | D:4      | Found a glowing golden altar of the Shining One.
+  5310 | D:4      | Found an ancient bone altar of Kikubaaqudgha.
+  5417 | D:4      | Became a worshipper of the Shining One
+  5439 | D:5      | Entered Level 5 of the Dungeon
+  5649 | D:5      | Reached skill level 6 in Conjurations
+  5766 | D:5      | Identified the +1 scale mail "Tunynt" {Harm MP+9 Dex+2}
+  6092 | D:5      | Reached XP level 8. HP: 61/61 MP: 5/14
+  6259 | D:5      | Found a sacrificial altar of Ru.
+  6272 | D:5      | Found a shimmering altar of Xom.
+  6605 | D:5      | Found a hide-covered altar of Uskayaw.
+  6697 | D:5      | Identified the ring of Fonif Lia {+Blink Will+++ rCorr
+                  | Str+5 Dex-2}
+  6775 | D:5      | Learned a level 2 spell: Momentum Strike
+  6779 | D:5      | Learned a level 3 spell: Gell's Gravitas
+  6783 | D:5      | Learned a level 3 spell: Teleport Other
+  7142 | D:6      | Noticed a cyclops
+  7332 | D:6      | Noticed Blork the orc
+  7338 | D:6      | Killed Blork the orc
+  7400 | D:6      | Found a white marble altar of Elyvilon.
+  7471 | D:6      | Reached * piety under the Shining One
+  7530 | D:6      | Reached skill level 5 in Spellcasting
+  7608 | D:6      | Reached skill level 7 in Conjurations
+  7960 | D:6      | Reached XP level 9. HP: 60/70 MP: 10/16
+  8749 | D:6      | Killed a cyclops
+  9786 | D:7      | Learned a level 4 spell: Iskenderun's Mystic Blast
+  9925 | D:7      | Reached skill level 5 in Stealth
+ 10556 | D:7      | Found a staircase to the Ecumenical Temple.
+ 11005 | Temple   | Entered the Ecumenical Temple
+ 11400 | D:8      | Noticed a two-headed ogre
+ 11473 | D:8      | Noticed a tengu warrior
+ 11492 | D:8      | Killed a tengu warrior
+ 11493 | D:8      | Reached skill level 8 in Conjurations
+ 11688 | D:8      | Noticed a cyclops
+ 11707 | D:8      | Noticed a cyclops
+ 11741 | D:7      | Reached XP level 10. HP: 53/80 MP: 13/19
+ 11832 | D:8      | Noticed a four-headed hydra
+ 11832 | D:8      | Noticed a manticore
+ 11851 | D:7      | Slain by a four-headed hydra
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      sevenhm_arrival_forest_fort_large_2, layout_basic
+D:2:      layout_rooms, basic_altar, amethyst_killhole, uniq_robin
+D:3:      layout_basic, dreamdust_ecumenical_altar_statues
+D:4:      layout_loops_ring, bloody_trog, amethyst_overflow_temple_binary,
+          abandoned_shop
+D:5:      layout_loops_ring, kennysheep_mini_moat, mainiacjoe_overflow_swirl
+D:6:      layout_cave_pods, elyvilon_altar_5, kennysheep_crisscross,
+          minmay_manual_moon, uniq_blork_the_orc
+D:7:      layout_layer_cave, minmay_temple_entry_sparse_star,
+          kennysheep_windowed_goal
+D:8:      minmay_diamond_stairs, layout_layer_cave, grunt_ashenzari_visionary
+          [grunt_ashenzari_visionary_shoals, grunt_ashenzari_visionary_snake]
+Temple:   jpeg_temple_clearing
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Stealth        |  2              3     4  5 |  5.2
+Dodging        |     2           3     4    |  4.9
+Conjurations   |              5     6  7  8 |  8.2
+Short Blades   |              1             |  1.0
+Shields        |              1     2  3  4 |  4.4
+Spellcasting   |              3     4  5  6 |  6.4
+Fighting       |                 1  2  3  4 |  4.5
+Translocations |                 1  2  3  4 |  4.1
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Unarmed           |     7 |       |       |       ||     7
+       Staff             |     4 |       |       |       ||     4
+       Dagger            |     3 |    10 |    22 |     2 ||    37
+       Tailslap          |     2 |     2 |     2 |       ||     6
+ Cast: Magic Dart        |    83 |    87 |   150 |       ||   320
+       Searing Ray       |       |    16 |    55 |     2 ||    73
+       Blink             |       |       |     2 |       ||     2
+       Iskenderun's Myst |       |       |     2 |       ||     2
+Invok: Divine Shield     |       |       |     2 |       ||     2
+ Abil: Breathe Frost     |       |       |     1 |       ||     1
+  Use: Scroll            |     1 |     8 |     5 |       ||    14
+       Potion            |       |     4 |     5 |     1 ||    10
+Armor: Skin              |    12 |    17 |    58 |     5 ||    92
+Dodge: Dodged            |    45 |    46 |   162 |     6 ||   259
+Block: Kite shield       |       |       |    71 |     7 ||    78
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  11891 |  11241 |    650 |   1504 |   7942 |   9 | 1321.2 |
+       Dungeon |  11801 |  11163 |    638 |   1504 |   7877 |   8 | 1475.1 |
+        Temple |     89 |     77 |     12 |      0 |     65 |   1 |   89.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:7: 2140 daAuts
+     D:6: 2026 daAuts
+     D:5: 1782 daAuts
+     D:3: 1701 daAuts
+     D:1: 1468 daAuts
+     D:4: 1191 daAuts
+     D:2: 1092 daAuts
+     D:8: 399 daAuts
+  Temple: 89 daAuts
+

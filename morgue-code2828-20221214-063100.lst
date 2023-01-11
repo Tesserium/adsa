@@ -1,0 +1,532 @@
+code2828
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 leather armour
+(17, 20, D:1)
+  a +0 club
+  3 stones
+(18, -14, D:1)
+  a +0 hand axe
+(21, -16, D:1)
+  an Everburning Encyclopedia
+(23, 10, D:1)
+  a +0 club
+(29, 15, D:1)
+  a +0 whip
+  5 stones
+(42, -12, D:1)
+  a +0 club
+(44, -23, D:1)
+  a +0 dagger
+(44, -18, D:1)
+  a +0 hand axe
+(44, 13, D:1)
+  a +0 flail
+(48, 9, D:1)
+  3 stones
+(58, -15, D:1)
+  a +0 dagger
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 whip
+  5 stones
+(4, 9, D:2)
+  a +0 ring mail
+(14, -19, D:2)
+  a +0 spear
+(15, -20, D:2)
+  a +0 whip
+  a +1 whip of electrocution
+  a +0 flail
+(17, -3, D:2)
+  a +0 animal skin
+(22, -11, D:2)
+  a +0 dagger
+  3 stones
+(27, -26, D:2)
+  a +0 dagger
+(34, 1, D:2)
+  a +0 dagger
+(35, 2, D:2)
+  a +0 whip
+(38, 1, D:2)
+  a +0 falchion
+(38, 2, D:2)
+  a +0 whip
+  a +0 leather armour
+(38, 3, D:2)
+  a +0 club
+  a +0 leather armour
+(38, 4, D:2)
+  a +0 dagger
+  a +0 ring mail
+  a +0 war axe
+  a +0 chain mail
+(54, -31, D:2)
+  a +1 leather armour of fire resistance
+(55, -22, D:2)
+  a +0 whip
+  3 stones
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 dagger
+(1, 26, D:3)
+  a +0 spear
+(2, 26, D:3)
+  a +0 flail
+  a +0 whip
+(3, 26, D:3)
+  a +0 club
+(7, 24, D:3)
+  a book of Conjurations
+(15, 14, D:3)
+  a +0 short sword
+  a +0 ring mail
+(15, 17, D:3)
+  a +0 ring mail
+  a +0 club
+  a +0 mace
+(15, 18, D:3)
+  a +2 vampiric dagger
+  a +0 chain mail
+  a +0 dagger
+  a +0 robe
+  a +0 mace
+  a +0 dagger
+  a +0 leather armour
+(19, -1, D:3)
+  a +0 club
+(19, 1, D:3)
+  a +0 dagger
+  4 stones
+(24, 26, D:3)
+  a +0 war axe
+  a +0 club
+(25, -8, D:3)
+  a +0 whip
+(25, 0, D:3)
+  a +0 dagger
+(25, 26, D:3)
+  a +0 trident
+  3 boomerangs
+(26, -5, D:3)
+  a +0 dagger
+(26, 26, D:3)
+  a +0 club
+(27, 24, D:3)
+  a +0 dagger
+  a +0 ring mail
+(54, -9, D:3)
+  a +0 club
+  a +0 hand axe
+  a +0 leather armour
+  a +0 hand axe
+(55, -9, D:3)
+  a +1 mace of holy wrath
+  a +0 leather armour
+  a +0 dagger
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 glaive
+(15, 33, D:4)
+  4 stones
+(17, 31, D:4)
+  a +0 leather armour
+(19, 33, D:4)
+  a +0 war axe
+(21, 0, D:4)
+  a +0 club
+(21, 1, D:4)
+  a +0 short sword
+  4 stones
+(21, 2, D:4)
+  a +0 whip
+  a +0 spear
+(28, 45, D:4)
+  a +0 club
+(36, 19, D:4)
+  a +0 dagger
+  a +0 robe
+(36, 20, D:4)
+  a +0 dagger
+  a +0 robe
+(37, 19, D:4)
+  a +1 mace of protection
+(40, 21, D:4)
+  a +0 trident
+(42, 11, D:4)
+  a +0 mace
+(55, 39, D:4)
+  5 boomerangs
+(57, 41, D:4)
+  a +0 club
+(63, 32, D:4)
+  a +0 club
+  a +0 ring mail
+
+Level 5 of the Dungeon
+[Shop] Moczonux's Antique Armour Shoppe
+  a +1 helmet of see invisible (330 gold)
+  a +0 ring mail (80 gold)
+  a +0 chain mail (90 gold)
+  a +0 ring mail of poison resistance (160 gold)
+  a +0 chain mail (90 gold)
+  a +0 chain mail (90 gold)
+(0, 0, D:5)
+  8 stones
+(1, -43, D:5)
+  a +0 flail
+(4, -42, D:5)
+  a scarf of shadows
+(14, -8, D:5)
+  a +0 hand axe
+  a +0 ring mail
+  a +0 dagger
+  a +0 ring mail
+  a +0 dagger
+  3 boomerangs
+  a +0 hand axe
+(15, -8, D:5)
+  a +1 mace of holy wrath
+(17, -33, D:5)
+  a +0 robe
+(21, 14, D:5)
+  a +0 leather armour
+(24, -18, D:5)
+  a +0 dagger
+  a curare-tipped dart
+(34, 10, D:5)
+  a book of Spatial Translocations
+(37, -18, D:5)
+  a +0 short sword
+  a curare-tipped dart
+  a +0 dagger
+  5 stones
+(37, -17, D:5)
+  a +0 short sword
+  a +0 club
+  a +0 dagger
+  a +0 whip
+  2 poisoned darts
+(38, -33, D:5)
+  2 stones
+(38, 0, D:5)
+  a +0 halberd
+(39, 0, D:5)
+  a +0 club
+  a +0 robe
+  a +0 flail
+  a +0 flail
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a staff of conjuration
+(5, -2, D:6)
+  a book of Frost
+(6, 6, D:6)
+  a +0 whip
+  a +0 short sword
+  a +0 whip
+(6, 7, D:6)
+  a +0 whip
+  a +0 leather armour
+(6, 9, D:6)
+  a +0 flail
+(10, -38, D:6)
+  a +0 hand axe
+  a +0 dagger of protection
+  a +0 robe
+  a +0 war axe
+  a +1 ring mail of positive energy
+(10, -11, D:6)
+  a +0 spear
+  a +0 scale mail
+  a +0 buckler
+  a +0 club
+  a +0 whip
+(10, -9, D:6)
+  a +0 halberd
+(12, -7, D:6)
+  a +0 flail
+(33, 10, D:6)
+  a +0 spear
+(40, -17, D:6)
+  a +0 giant spiked club
+(50, -40, D:6)
+  a +0 vampiric spear
+  a +0 quarterstaff
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a +0 ring mail
+(7, 25, D:7)
+  a +0 leather armour
+(20, -16, D:7)
+  a +0 giant club
+(21, -16, D:7)
+  a +0 robe
+  a +0 scimitar
+(21, 13, D:7)
+  a +0 short sword
+  a +0 whip
+  8 poisoned darts
+(22, -10, D:7)
+  a +0 scale mail
+(24, 1, D:7)
+  a +4 dagger
+  a +0 robe
+(24, 2, D:7)
+  a +0 halberd
+  a +0 robe
+(24, 11, D:7)
+  a +0 dagger
+  a stone
+(26, -17, D:7)
+  a +2 shortbow of electrocution
+  a +0 chain mail
+  a +0 mace
+(26, 11, D:7)
+  a +0 dagger
+  a stone
+(27, -19, D:7)
+  a +0 leather armour
+  a +0 trident
+(27, -18, D:7)
+  a +0 ring mail
+  a +0 short sword
+(27, -17, D:7)
+  +0 steam dragon scales
+  a +2 broad axe of flaming
+(29, -19, D:7)
+  3 boomerangs
+  a +0 falchion
+(34, 23, D:7)
+  a +0 shortbow
+  a +0 long sword
+  5 stones
+(36, -14, D:7)
+  a +0 halberd
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a +0 flail
+  a +0 leather armour
+  a +2 dagger of electrocution
+  a +0 robe
+(0, 2, D:8)
+  a +0 flail
+(1, 0, D:8)
+  a +0 dagger
+  a +0 robe
+(9, 9, D:8)
+  a +0 falchion
+  a +0 chain mail
+(22, -9, D:8)
+  a +0 short sword
+  5 stones
+  a +0 short sword
+(22, -8, D:8)
+  a +0 whip
+  a +0 short sword
+  a +0 club
+  2 poisoned darts
+(22, -7, D:8)
+  a +0 club
+  a +0 short sword
+  4 stones
+  a +0 short sword
+(23, -14, D:8)
+  a +0 flail
+(29, -40, D:8)
+  a +0 pair of boots
+(33, -43, D:8)
+  7 stones
+(34, -34, D:8)
+  a +0 dagger
+(39, -39, D:8)
+  a book of Changes
+(53, -7, D:8)
+  a +0 dagger
+  a +0 robe
+(57, -6, D:8)
+  a +0 dagger
+  a +0 robe
+(61, -6, D:8)
+  a +0 dagger
+  a +0 robe
+
+Level 9 of the Dungeon
+(5, 7, D:9)
+  a +0 chain mail
+(7, 15, D:9)
+  a +4 great sword
+  a +0 robe of positive energy
+  a +0 long sword
+  a +0 robe
+(9, 12, D:9)
+  a +0 long sword
+  a +0 robe
+  a +2 great sword
+  a +0 robe
+(9, 14, D:9)
+  a +0 dire flail
+  a +1 robe of fire resistance
+(13, 2, D:9)
+  a +0 short sword
+(14, -29, D:9)
+  a +0 robe
+(14, 2, D:9)
+  a +0 short sword
+  5 poisoned darts
+(16, -1, D:9)
+  a +0 dagger
+(21, 10, D:9)
+  a +0 mace
+(22, -6, D:9)
+  a +1 dagger of speed
+  a +0 robe
+  a +0 hand axe
+(24, -6, D:9)
+  a +0 whip of venom
+  a +0 dagger
+(29, -29, D:9)
+  a +0 trident
+(32, 9, D:9)
+  a +1 mace of protection
+(37, -7, D:9)
+  a +0 dagger
+  a +0 robe
+(38, -8, D:9)
+  a +0 dagger
+  a +0 robe
+(38, -4, D:9)
+  2 stones
+(40, -6, D:9)
+  a book of Weapons
+(41, -4, D:9)
+  a +0 leather armour
+
+Level 10 of the Dungeon
+(0, 0, D:10)
+  a +0 whip
+(1, 0, D:10)
+  a +0 spear
+  a +0 ring mail
+  a +0 spear
+  a +0 whip
+(11, 36, D:10)
+  a +0 rapier
+(17, 1, D:10)
+  a +0 leather armour
+(18, -9, D:10)
+  a +4 dagger
+  a +0 robe
+(38, -12, D:10)
+  5 stones
+(38, 5, D:10)
+  a +0 long sword
+(39, 20, D:10)
+  a +0 robe
+(41, -6, D:10)
+  6 curare-tipped darts
+(45, 16, D:10)
+  6 stones
+(45, 35, D:10)
+  a +0 dagger of draining
+  a +0 robe
+(46, 14, D:10)
+  a potion of brilliance
+
+Level 11 of the Dungeon
+[Shop] Vaan's Assorted Antiques
+  a +0 mace (75 gold)
+  a potion of might (100 gold)
+  a +1 leather armour of poison resistance (275 gold)
+  a +0 war axe (87 gold)
+  a +2 leather armour of cold resistance (475 gold)
+  a +0 leather armour (50 gold)
+  a +0 war axe (87 gold)
+(0, 0, D:11)
+  Great Wizards, Vol. II
+(3, -17, D:11)
+  7 stones
+(5, 2, D:11)
+  a +4 scimitar of flaming
+(6, 2, D:11)
+  3 large rocks
+(20, 14, D:11)
+  a +0 shortbow
+(23, 18, D:11)
+  2 potions of degeneration
+(24, 13, D:11)
+  a +0 shortbow
+  a centaur corpse (skeletalised by now)
+(24, 14, D:11)
+  a +0 shortbow
+  a centaur corpse (skeletalised by now)
+(24, 15, D:11)
+  a +0 spear
+(30, 8, D:11)
+  a +1 demon trident of electrocution
+(30, 9, D:11)
+  a +0 robe
+  a +0 dagger of chaos
+(33, 11, D:11)
+  a +0 shortbow
+(34, 1, D:11)
+  a +0 giant club
+  a +2 robe of willpower
+(45, 30, D:11)
+  a potion of brilliance
+(54, -8, D:11)
+  4 large rocks
+(55, -3, D:11)
+  a +0 ring mail
+(55, 6, D:11)
+  a +0 sling
+(57, 5, D:11)
+  a +0 troll leather armour
+
+Level 12 of the Dungeon
+[Shop] Kotwor's Weapon Boutique
+  the +8 whip "Hellblazer" {flame, Will++ Int+4 Dex+2} (937 gold)
+    It burns those it strikes, dealing additional fire damage.
+    
+    Int:       It affects your intelligence (+4).
+    Dex:       It affects your dexterity (+2).
+    Will:      It greatly increases your willpower.
+  a +3 trident of protection (254 gold)
+  a +2 broad axe of electrocution (264 gold)
+  a +0 shortbow (36 gold)
+  8 stones (9 gold)
+  a +2 vorpal halberd (216 gold)
+  a +0 flail (42 gold)
+  the +11 short sword "Xiynyh" {spect, Dex+7} (1010 gold)
+    When its wielder attacks, the weapon's spirit leaps out and strikes again.
+    The spirit shares a part of any damage it takes with its wielder.
+    
+    Dex:       It affects your dexterity (+7).
+(0, 0, D:12)
+  the +3 quarterstaff of a Thousand Eyes {vorpal, rF+}
+    It inflicts extra damage upon your enemies.
+    
+    rF:        It protects you from fire.
+(1, -36, D:12)
+  a +0 chain mail
+(9, -41, D:12)
+  a yak corpse
+  a yak corpse
+(9, -40, D:12)
+  a +4 short sword of draining (still there?)
+  2 curare-tipped darts (still there?)
+(10, -17, D:12)
+  a book of Iron
+(12, -35, D:12)
+  a +0 mace
+(14, -45, D:12)
+  a potion of resistance
+

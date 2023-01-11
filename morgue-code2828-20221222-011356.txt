@@ -1,0 +1,317 @@
+ Dungeon Crawl Stone Soup version 0.29.1-2-gbd0b4ee654 (webtiles) character file.
+
+Game seed: 3853642901949108021
+
+1098 code2828 the Poker (level 8, -2/62 HPs)
+             Began as a Merfolk Berserker on Dec 22, 2022.
+             Was an Elder of Trog.
+             Slain by an ogre
+             ... wielding a +0 giant club
+              (17 damage)
+             ... on level 5 of the Dungeon.
+             The game lasted 00:16:24 (5634 turns).
+
+code2828 the Poker (Merfolk Berserker)              Turns: 5634, Time: 00:16:25
+
+Health: -2/62      AC:  0    Str: 19    XL:     8   Next: 32%
+Magic:  8/8        EV: 17    Int:  7    God:    Trog [****..]
+Gold:   211        SH:  5    Dex: 13    Spells: 7/7 levels left
+
+rFire   . . .      SeeInvis .   (weapon currently unavailable)
+rCold   . . .      Faith    .   (shield currently unavailable)
+rNeg    . . .      Spirit   .   (body armour currently unavailable)
+rPois   .          Reflect  +   (helmet currently unavailable)
+rElec   .          Harm     .   (cloak currently unavailable)
+rCorr   .          Rampage  .   (gloves currently unavailable)
+Will    ++...                   (boots currently unavailable)
+Stlth   +++.......              B - amulet of reflection
+HPRegen 1.20/turn               (ring currently unavailable)
+MPRegen 0.11/turn               (ring currently unavailable)
+
+@: pig-form (expiring), strong-willed, on berserk cooldown, regenerating, slowed
+A: fast, no casting, small, (nimble swimmer 2), (mertail)
+a: Renounce Religion, Berserk, Trog's Hand, Brothers in Arms
+
+
+You were on level 5 of the Dungeon.
+You worshipped Trog.
+Trog was greatly pleased with you.
+You were a filthy swine.
+
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 211 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ G - a +2 spear of flaming (melded)
+Missiles
+ y - 3 poisoned darts (quivered)
+Armour
+ n - a +0 chain mail (melded)
+ v - a +0 pair of gloves (melded)
+ H - a +0 buckler (melded)
+Jewellery
+ a - a ring of willpower
+ w - a ring of see invisible (melded)
+ B - an amulet of reflection (around neck)
+ E - a +6 ring of intelligence (melded)
+Wands
+ C - a wand of charming (2)
+Scrolls
+ b - 2 scrolls of blinking {unknown}
+ f - 2 scrolls of immolation {unknown}
+ i - 2 scrolls of fog {unknown}
+ k - a scroll of torment {unknown}
+ l - 3 scrolls of identify {unknown}
+ o - a scroll of vulnerability {unknown}
+ p - a scroll of silence {unknown}
+ r - a scroll of enchant armour {unknown}
+ t - a scroll of brand weapon {unknown}
+ u - a scroll of fear {unknown}
+ x - 4 scrolls of enchant weapon {unknown}
+ z - a scroll of teleportation {unknown}
+ F - a scroll of amnesia {unknown}
+Potions
+ c - 6 potions of curing {unknown}
+ d - 3 potions of might {unknown}
+ e - a potion of ambrosia {unknown}
+ g - a potion of flight {unknown}
+ h - 4 potions of brilliance {unknown}
+ j - a potion of magic {unknown}
+ m - 2 potions of heal wounds {unknown}
+ q - 3 potions of mutation {unknown}
+ s - 4 potions of haste {unknown}
+ A - a potion of lignification {unknown}
+ D - 2 potions of degeneration {unknown}
+
+
+   Skills:
+ + Level 5.0 Fighting
+ * Level 7.2 Polearms
+ + Level 2.7 Armour
+ * Level 6.8 Dodging
+ * Level 5.6 Stealth
+
+
+You had 7 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)         Zot: 24471      
+Temple: D:4-7       
+
+Altars:
+Ashenzari
+Fedhas
+Gozag
+Makhleb
+Okawaru
+Qazlal
+Ru
+Trog
+Xom
+Yredelemnul
+
+Annotations:
+D:5 Dowan
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are a filthy swine.
+You move quickly.
+Your equipment is almost entirely melded.
+You are incapable of wielding weapons or throwing items.
+You cannot cast spells.
+((You are very nimble when in or above water. (Stealth+, EV+, Speed+++)))
+((Your lower body shifts to a powerful aquatic tail in water.))
+
+Message History
+
+Your Fighting skill increases to level 5!
+You barely miss Dowan. Dowan misses you.
+You hit Dowan.
+Dowan is moderately wounded.
+You closely miss Dowan.
+Dowan is moderately wounded.
+Dowan mumbles some strange words.
+Dowan blinks!
+An ogre comes into view. It is wielding a +0 giant club.
+The ogre shouts!
+Dowan casts a spell.
+Dowan blinks!
+Things that are here:
+a +0 short sword; a +0 leather armour; the elf corpse of Duvessa
+You feel a strong urge to attack something.
+Your transformation is almost over. You are no longer berserk.
+You are exhausted.
+You feel yourself slow down.
+Dowan completely misses you.
+You hit Dowan but do no damage.
+Dowan is moderately wounded.
+You block Dowan's attack. Dowan hits you with a +0 dagger!
+You hit Dowan.
+Dowan is heavily wounded.
+Dowan barely misses you. You block Dowan's attack.
+You hit Dowan but do no damage.
+Dowan is heavily wounded.
+Dowan closely misses you. x2
+You hit Dowan.
+Dowan is severely wounded.
+The ogre hits you with a +0 giant club!!
+Dowan closely misses you. Dowan barely misses you.
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+Your skin crawls.
+You feel strong-willed.
+Dowan hits you with a +0 dagger!
+* * * LOW HITPOINT WARNING * * *
+The ogre hits you with a +0 giant club!
+You die...
+
+ ##.###.#####......
+ #.........##..#...
+ ##.###........#.##
+  #.# #..#.......##
+  #.# #............
+###)####.##.#.#####
+#......#.##.#... ..
+#.............#####
+#.hO##..#.....#
+#.e.....#.....#
+#..##...#.....#
+#..# ...#.<. .#
+#...  ..#
+####  ###
+
+
+You could see an ogre and Dowan (fast).
+
+Vanquished Creatures
+  Grinder (D:3)
+  Duvessa (D:5)
+  An ice beast (D:5)
+  An ogre (D:5)
+  A necrophage (D:4)
+  A gnoll sergeant (D:5)
+  2 vampire bats (D:4)
+  A jelly (D:4)
+  An orc priest (D:4)
+  A hound (D:5)
+  2 orc wizards (D:4)
+  Robin (D:4)
+  8 gnolls
+  3 adders
+  An ufetubus (D:4)
+  5 dart slugs
+  11 orcs
+  8 endoplasms
+  3 giant cockroaches
+  24 goblins
+  9 hobgoblins
+  11 jackals
+  2 quokkas (D:3)
+  8 ball pythons
+  14 bats
+  5 frilled lizards
+  12 kobolds
+  6 rats
+  A spectral goblin (D:2)
+145 creatures vanquished.
+
+Vanquished Creatures (others)
+  7 fungi (D:3)
+  3 plants (D:3)
+10 creatures vanquished.
+
+Grand Total: 155 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Merfolk Berserker began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 1/1
+   341 | D:1      | Reached XP level 2. HP: 17/24 MP: 2/2
+   571 | D:1      | Reached skill level 1 in Stealth
+   897 | D:1      | Reached XP level 3. HP: 29/29 MP: 3/3
+   974 | D:1      | Reached ** piety under Trog
+  1655 | D:2      | Reached XP level 4. HP: 37/37 MP: 4/4
+  2005 | D:2      | Found a faded altar of an unknown god.
+  2056 | D:2      | Found an opulent altar of Gozag.
+  2191 | D:3      | Noticed Grinder
+  2191 | D:3      | Found a basalt altar of Yredelemnul.
+  2191 | D:3      | Found a bloodstained altar of Trog.
+  2202 | D:3      | Paralysed by Grinder for 5 turns
+  2221 | D:3      | Found a stormy altar of Qazlal.
+  2222 | D:3      | Found a burning altar of Makhleb.
+  2249 | D:3      | Killed Grinder
+  2250 | D:3      | Reached skill level 5 in Polearms
+  2250 | D:3      | Reached XP level 5. HP: 42/42 MP: 5/5
+  2250 | D:3      | Reached XP level 6. HP: 48/48 MP: 6/6
+  2415 | D:3      | Reached skill level 5 in Dodging
+  2422 | D:3      | Found a blossoming altar of Fedhas.
+  2708 | D:3      | Found a shimmering altar of Xom.
+  2708 | D:3      | Found a broken altar of Ashenzari.
+  2819 | D:3      | Found a sacrificial altar of Ru.
+  3087 | D:3      | Reached *** piety under Trog
+  3448 | D:4      | Reached XP level 7. HP: 52/55 MP: 7/7
+  3498 | D:4      | Reached skill level 6 in Polearms
+  4000 | D:4      | Noticed Robin
+  4122 | D:4      | Reached **** piety under Trog
+  4213 | D:4      | Killed Robin
+  4905 | D:4      | Found an iron altar of Okawaru.
+  5117 | D:5      | Entered Level 5 of the Dungeon
+  5249 | D:5      | Reached skill level 5 in Stealth
+  5249 | D:5      | Reached XP level 8. HP: 52/61 MP: 8/8
+  5472 | D:5      | Identified the +2 spear of Atoajueg {venom, rC- rN+ Will+
+                  | rCorr}
+  5554 | D:5      | Reached skill level 7 in Polearms
+  5604 | D:5      | Noticed Duvessa
+  5604 | D:5      | Noticed Dowan
+  5622 | D:5      | Killed Duvessa
+  5623 | D:5      | Reached skill level 5 in Fighting
+  5634 | D:5      | Slain by an ogre
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_refuge, layout_loops_ring, minmay_split_cup_small
+D:2:      minmay_kobold_bridge, layout_rooms, basic_altar,
+          dreamdust_ecumenical_altar_drowned_temple, item_on_display_a
+D:3:      minmay_chambers_of_threes, layout_rooms,
+          nicolae_overflow_crystal_walls, fedhas_altar_3,
+          chequers_temple_overflow_statue_of_worship,
+          gammafunk_temple_overflow_wave, kennysheep_generic_room_5,
+          uniq_grinder
+D:4:      kennysheep_goblin_castle, layout_basic,
+          mainiacjoe_overflow_small_starburst, roderic_batcave
+D:5:      layout_loops_cross, minmay_ogre_servants, uniq_duvessa
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Dodging        |  3        4     5  6    |  6.8
+Stealth        |     1  2  3     4  5    |  5.6
+Fighting       |           4           5 |  5.0
+Polearms       |           5        6  7 |  7.2
+Armour         |           2             |  2.7
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Spear             |   166 |   206 |   200 ||   572
+       Punch             |     2 |     2 |     2 ||     6
+       Tailslap          |       |     7 |     2 ||     9
+       Unarmed           |       |       |    20 ||    20
+Invok: Berserk           |     1 |     1 |     4 ||     6
+       Trog's Hand       |       |     1 |     1 ||     2
+ Stab: Sleeping          |     2 |       |       ||     2
+Armor: Animal skin       |     8 |       |       ||     8
+       Ring mail         |     6 |       |       ||     6
+       Chain mail        |    32 |    79 |    62 ||   173
+Dodge: Dodged            |    72 |    85 |    82 ||   239
+Block: Other             |       |       |    32 ||    32
+

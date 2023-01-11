@@ -1,0 +1,274 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-377-g5cb311b (webtiles) character file.
+
+Game seed: 13392155224981552973
+
+273 code2828 the Gusty (level 6, 0/33 HPs)
+             Began as a Tengu Air Elementalist on Dec 1, 2022.
+             Slain by Edmund
+             ... wielding a +0 vorpal dire flail
+              (8 damage)
+             ... on level 4 of the Dungeon.
+             The game lasted 00:09:08 (3302 turns).
+
+code2828 the Gusty (Tengu Air Elementalist)         Turns: 3302, Time: 00:09:08
+
+Health: 0/33       AC:  4    Str:  8    XL:     6   Next: 24%
+Magic:  0/11       EV: 14    Int: 17    God:    
+Gold:   180        SH:  0    Dex: 15    Spells: 1/11 levels left
+
+rFire   . . .      SeeInvis +   u - +0 short sword
+rCold   + . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   p - +1 leather armour {rC+}
+rPois   .          Reflect  .   (helmet restricted)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (boots unavailable)
+Stlth   ++........              (no amulet)
+HPRegen 0.25/turn               j - ring of see invisible
+MPRegen 0.12/turn               (no ring)
+
+@: flying quickly and evasively, quick
+A: beak, talons 3, nimble flight
+a: no special abilities
+
+
+You were on level 4 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 180 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ u - a +0 short sword (weapon)
+Armour
+ p - a +1 leather armour of cold resistance (worn)
+Jewellery
+ j - a ring of see invisible (left hand)
+ n - an amulet of faith
+ r - an amulet of the acrobat
+ t - an amulet of guardian spirit
+Scrolls
+ b - a scroll of immolation {unknown}
+ c - a scroll of fog {unknown}
+ d - 3 scrolls of enchant weapon {unknown}
+ e - a scroll of enchant armour {unknown}
+ f - 4 scrolls of identify {unknown}
+ g - a scroll of teleportation {unknown}
+ h - a scroll of silence {unknown}
+ i - a scroll of fear {unknown}
+ m - 2 scrolls of magic mapping {unknown}
+Potions
+ a - a potion of mutation {unknown}
+ k - a potion of flight {unknown}
+ o - a potion of lignification {unknown}
+ s - a potion of heal wounds {unknown}
+
+
+   Skills:
+ + Level 0.3 Fighting
+ - Level 1.0 Maces & Flails
+ + Level 1.7 Armour
+ + Level 3.2 Dodging
+ + Level 2.1 Stealth
+ + Level 3.1 Spellcasting
+ + Level 3.2 Conjurations
+ * Level 6.1 Air Magic
+
+
+You had one spell level left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Shock                 Conj/Air       72%        1d7       3%          1
+b - Static Discharge      Conj/Air       36%        2-4/arc   5%          2
+c - Swiftness             Air            23%        N/A       6%          3
+d - Airstrike             Air            11%        2d(2-18)  21%         4
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+
+Annotations:
+D:4 Edmund
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+Your magical nature lets you fly swiftly and evasively.
+
+Message History
+
+Edmund misses you.
+Casting: Static Discharge (safe; 5% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Edmund is struck by an arc of lightning.
+Edmund is moderately wounded.
+You are struck by an arc of lightning. The lightning grounds out.
+Edmund hits you with a +0 vorpal dire flail.
+Unknown command.
+Casting: Static Discharge (safe; 5% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Edmund is struck by an arc of lightning.
+Edmund is moderately wounded.
+You are struck by an arc of lightning. The lightning grounds out.
+Edmund hits you with a +0 vorpal dire flail.
+It was a potion of curing. You feel better.
+Edmund hits you with a +0 vorpal dire flail!
+* * * LOW HITPOINT WARNING * * *
+You feel better. Edmund closely misses you.
+You are too injured to fight recklessly!
+Aiming: Shock (safe; 3% risk of failure)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, p - Edmund
+The zap hits Edmund.
+Edmund is moderately wounded.
+Edmund barely misses you.
+You hit Edmund but do no damage. Your kick misses Edmund.
+Edmund is moderately wounded.
+Edmund hits you with a +0 vorpal dire flail.
+You hit Edmund. Your peck misses Edmund.
+Edmund is moderately wounded.
+Edmund barely misses you.
+Aiming: Shock (safe; 3% risk of failure)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line
+The zap hits Edmund.
+Edmund is heavily wounded.
+Edmund hits you with a +0 vorpal dire flail.
+* * * LOW HITPOINT WARNING * * * x2
+You hit Edmund. You peck Edmund, but do no damage.
+Edmund is heavily wounded.
+Edmund hits you with a +0 vorpal dire flail!
+You die...
+
+        #.# .#.#
+######  #.##.#.# .#
+.>...####....#.##.#
+##.#..†.........#.##
+##.#.....†.........
+ #.#...##..###..#)# #
+ #.#.......#....#.#.#
+ #.##..............>#
+ ...#..<...#.#..@...#
+#.#.#.##.###.####@#.#
+#. .####.....#   .#
+.. ..  #######   .#
+.# #.            ##
+.   ..
+
+
+You could see Edmund.
+
+Vanquished Creatures
+  A black bear (D:4)
+  2 orc wizards (D:3)
+  An iguana (D:3)
+  3 adders
+  3 dart slugs
+  3 orcs
+  3 ball pythons
+  7 endoplasms
+  6 giant cockroaches
+  8 goblins
+  10 hobgoblins
+  2 jackals (D:4)
+  6 kobolds
+  A quokka (D:2)
+  5 bats
+  3 frilled lizards
+  6 rats
+70 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Tengu Air Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+   112 | D:1      | Reached XP level 2. HP: 15/15 MP: 3/6
+   600 | D:1      | Reached XP level 3. HP: 19/19 MP: 5/7
+  1335 | D:2      | Reached skill level 5 in Air Magic
+  1416 | D:2      | Reached skill level 1 in Armour
+  1640 | D:2      | Reached XP level 4. HP: 22/24 MP: 1/8
+  2149 | D:3      | Gained mutation: Your magical nature lets you fly swiftly
+                  | and evasively. [Tengu growth]
+  2149 | D:3      | Reached XP level 5. HP: 18/28 MP: 3/10
+  2157 | D:3      | Learned a level 2 spell: Static Discharge
+  2161 | D:3      | Learned a level 3 spell: Swiftness
+  3037 | D:4      | Noticed a black bear
+  3053 | D:4      | Killed a black bear
+  3054 | D:4      | Reached skill level 1 in Maces & Flails
+  3054 | D:4      | Reached skill level 6 in Air Magic
+  3054 | D:4      | Reached XP level 6. HP: 10/33 MP: 9/11
+  3282 | D:4      | Noticed Edmund
+  3290 | D:4      | Learned a level 4 spell: Airstrike
+  3302 | D:4      | Slain by Edmund
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      giann_wishing_wells, layout_basic, serial_bayou_crossing
+D:2:      layout_loops_ring
+D:3:      layout_basic
+D:4:      minmay_general_purpose_star, layout_basic,
+          nicolae_overflow_crystal_walls, chequers_decorated_corner,
+          uniq_edmund, uniq_robin, uniq_natasha
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Air Magic      |        5     6 |  6.1
+Armour         |        1       |  1.7
+Conjurations   |           2  3 |  3.2
+Dodging        |              3 |  3.2
+Maces & Flails |              1 |  1.0
+Spellcasting   |              3 |  3.1
+Fighting       |                |  0.3
+Stealth        |                |  2.1
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |     4 |       ||     4
+       Kick              |     7 |     9 ||    16
+       Peck              |     5 |     7 ||    12
+       Club              |    29 |    22 ||    51
+       Short sword       |       |    10 ||    10
+ Cast: Shock             |    54 |    63 ||   117
+       Static Discharge  |       |     5 ||     5
+       Airstrike         |       |     1 ||     1
+  Use: Potion            |       |     3 ||     3
+Armor: Leather armour    |    11 |    10 ||    21
+       Robe              |     4 |       ||     4
+Dodge: Dodged            |    27 |    38 ||    65
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   3266 |   3168 |     98 |      0 |   2752 |   4 |  816.5 |
+       Dungeon |   3266 |   3168 |     98 |      0 |   2752 |   4 |  816.5 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 1043 daAuts
+     D:3: 1012 daAuts
+     D:2: 889 daAuts
+     D:4: 321 daAuts
+

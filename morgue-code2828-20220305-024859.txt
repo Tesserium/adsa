@@ -1,0 +1,203 @@
+ Dungeon Crawl Stone Soup version 0.29-a0-243-g602b31c (webtiles) character file.
+
+Game seed: 16201106150997559892
+
+7 code2828 the Chiller (level 2, 0/20 HPs)
+             Began as a Ghoul Ice Elementalist on Mar 5, 2022.
+             Slain by a goblin
+             ... wielding a +0 club
+              (3 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:03:22 (337 turns).
+
+code2828 the Chiller (Ghoul Ice Elementalist)        Turns: 337, Time: 00:03:22
+
+Health: 0/20       AC:  6    Str: 11    XL:     2   Next: 4%
+Magic:  1/3        EV:  8    Int: 10    God:    
+Gold:   20         SH:  0    Dex:  9    Spells: 3/4 levels left
+
+rFire   . . .      SeeInvis .   (no weapon)
+rCold   + . .      Faith    .   (no shield)
+rNeg    + + +      Spirit   .   b - +0 scale mail
+rPois   ∞          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   ..........              (no amulet)
+HPRegen 0.00/turn               (no ring)
+MPRegen 0.08/turn               (no ring)
+
+@: inhibited regen
+A: claws 1, cold resistance 1, negative energy resistance 3, inhibited
+regeneration, torment resistance 2
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 20 gold pieces.
+
+Inventory:
+
+Armour
+ a - a +0 robe
+ b - a +0 scale mail (worn)
+
+
+   Skills:
+ + Level 2.0 Dodging
+ + Level 2.4 Stealth
+ + Level 1.9 Spellcasting
+ + Level 4.5 Ice Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Freeze                Ice            36%        1d6       32%         1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Frozen Ramparts          Ice            18%        1d3       67%         3
+ Ozocubu's Armour         Ice            9%         N/A       67%         3
+ Hailstorm                Conj/Ice       5%         3d4       100%        4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You thrive by killing the living.
+You are immune to poison.
+You have sharp fingernails.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+
+Message History
+
+The hobgoblin is almost dead.
+The bat barely misses you. The bat hits you.
+* * * LOW HITPOINT WARNING * * *
+The giant cockroach closely misses you.
+The hobgoblin hits you but does no damage.
+You scratch the hobgoblin but do no damage.
+The hobgoblin is almost dead.
+The bat barely misses you.
+The giant cockroach bites you but does no damage.
+The hobgoblin hits you.
+* * * LOW HITPOINT WARNING * * *
+It was a potion of curing. You feel better.
+The bat hits you but does no damage.
+The giant cockroach bites you but does no damage.
+The hobgoblin closely misses you. The giant cockroach barely misses you.
+Found a scroll labelled NIQO PENIHEUMNIS.
+The bat hits you but does no damage.
+You scratch the giant cockroach but do no damage.
+The giant cockroach is heavily wounded.
+The bat hits you but does no damage. The giant cockroach bites you.
+The hobgoblin barely misses you.
+Your magical contamination has completely faded away.
+You barely miss the hobgoblin.
+The hobgoblin is almost dead.
+The bat closely misses you. The giant cockroach barely misses you.
+The hobgoblin hits you.
+* * * LOW HITPOINT WARNING * * *
+The bat closely misses you. The bat hits you but does no damage.
+The giant cockroach barely misses you. The hobgoblin closely misses you.
+The bat hits you but does no damage. The hobgoblin hits you.
+* * * LOW HITPOINT WARNING * * *
+There is an escape hatch in the floor here.
+The bat completely misses you.
+The hobgoblin hits you but does no damage.
+The giant cockroach closely misses you.
+You slide downwards. The hatch slams shut behind you.
+The goblin shouts!
+Found a murky emerald potion.
+The goblin hits you with a +0 club.
+You die...
+
+            .##
+         ## ..
+         ....
+   ##    .#.
+   #.#   !.#
+ #. #.#  w.#
+##...#g##..#
+#......@Bg.#
+....#####.##
+#        .#
+         .#
+         .#
+         .#
+         .#
+         ##
+
+
+You could see a giant cockroach, a hobgoblin and a goblin.
+
+Vanquished Creatures
+  2 dart slugs (D:1)
+  A giant cockroach (D:1)
+  A bat (D:1)
+4 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Ghoul Ice Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 2/2
+   293 | D:1      | Reached XP level 2. HP: 20/20 MP: 0/3
+   328 | D:1      | HP: 1/20 [hobgoblin (2)]
+   337 | D:2      | Slain by a goblin
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_castle, layout_basic
+D:2:      layout_loops_ring, basic_altar, shapermc_ecumenical_altar_notcrosses
+
+Skill      XL: |  1 |
+---------------+----+-----
+Dodging        |  2 |  2.0
+Stealth        |    |  2.4
+Spellcasting   |    |  1.9
+Ice Magic      |    |  4.5
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||    43
+ Cast: Freeze            ||     5
+  Use: Potion            ||     1
+Armor: Scale mail        ||    78
+Dodge: Dodged            ||    54
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |    340 |    336 |      4 |      0 |    119 |   2 |  170.0 |
+       Dungeon |    340 |    336 |      4 |      0 |    119 |   2 |  170.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 340 daAuts
+     D:2: 0 daAuts
+

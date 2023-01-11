@@ -1,0 +1,276 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-459-g9104f0f (webtiles) character file.
+
+Game seed: 17699635311822442647
+
+188 code2828 the Grave Robber (level 5, -4/28 (31) HPs)
+             Began as a Vampire Necromancer on Dec 16, 2022.
+             Slain by a wight
+             ... wielding a +5 morningstar of freezing
+              (5 damage)
+             ... on level 4 of the Dungeon.
+             The game lasted 00:11:27 (2610 turns).
+
+code2828 the Grave Robber (Vampire Necromancer)     Turns: 2610, Time: 00:11:28
+
+HP:   -4/28 (31)    AC:  4    Str:  5 (7)  XL:     5   Next: 39%
+MP:   9/9           EV: 13    Int: 17 (19) God:    
+Gold: 179           SH:  0    Dex: 13 (15) Spells: 5/9 levels left
+
+rFire   . . .      SeeInvis +   m - +0 falchion
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   a - +0 robe
+rPois   .          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   +++.......              (no amulet)
+HPRegen 0.44/turn               (no ring)
+MPRegen 0.11/turn               (no ring)
+
+@: mighty, healing quickly, drained
+A: alive, fangs 3, see invisible, vampiric 2, iridescent scales 1, [frail 1]
+a: Exsanguinate
+
+
+You were on level 4 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 179 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ d - a +0 short sword
+ m - a +0 falchion (weapon)
+Missiles
+ i - 13 poisoned darts
+Armour
+ a - a +0 robe (worn)
+Scrolls
+ f - 4 scrolls of identify {unknown}
+ h - 2 scrolls of fear {unknown}
+ n - a scroll of immolation {unknown}
+ p - a scroll of enchant weapon {unknown}
+ q - a scroll of teleportation {unknown}
+Potions
+ b - a potion of magic
+ c - a potion of brilliance
+ e - a potion of mutation
+ g - a potion of curing {unknown}
+ j - a potion of heal wounds {unknown}
+ k - a potion of degeneration {unknown}
+ l - a potion of lignification
+ o - a potion of might
+
+
+   Skills:
+ + Level 0.6 Long Blades
+ * Level 3.9 Dodging
+ + Level 4.5 Stealth
+ + Level 2.7 Spellcasting
+ * Level 5.4 Necromancy
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Necrotise             Necr           80%        1d8       1%          1
+b - Vampiric Draining     Necr           20%        2d7       5%          3
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Animate Dead             Necr           20%        N/A       19%         4
+ Agony                    Necr           20%        N/A       45%         5
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)         Zot: 21393      
+Temple: D:4-7       
+
+Altars:
+Vehumet
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your natural rate of healing is accelerated.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You are afflicted with vampirism and can become a bat while bloodless.
+You are partially covered in iridescent scales. (AC +2)
+[You are frail. (-10% HP)]
+
+Message History
+
+You finish memorising. Spell assigned to 'b'.
+You closely miss the wight. The wight closely misses you.
+You hit the wight.
+The wight is moderately damaged.
+The wight barely misses you.
+You hit the wight.
+The wight is heavily damaged.
+The wight barely misses you.
+You barely miss the wight.
+The wight is heavily damaged.
+The wight closely misses you.
+The wight hits you with a +5 morningstar of freezing!
+The wight freezes you.
+Casting: Necrotise (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You can't see any susceptible monsters within range! (Use Z to cast anyway.)
+Casting: Necrotise (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You can't see any susceptible monsters within range! (Use Z to cast anyway.)
+Unknown command.
+Casting: Necrotise (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+The spell is dangerous to miscast (5% risk of failure)! Continue anyway? 
+[Y]es or [N]o only, please.
+The spell is dangerous to miscast (5% risk of failure)! Continue anyway? 
+[Y]es or [N]o only, please.
+The spell is dangerous to miscast (5% risk of failure)! Continue anyway? 
+Aiming: Vampiric Draining (dangerous; 5% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f - wight
+Aim: a wight, wielding a +5 morningstar of freezing and wearing a +0 robe
+(heavily damaged, not susceptible)
+Okay, then.
+Unknown command.
+It was a potion of might.
+You feel very mighty all of a sudden.
+The wight hits you with a +5 morningstar of freezing!
+* * * LOW HITPOINT WARNING * * *
+You feel drained.
+* * * LOW HITPOINT WARNING * * *
+The wight freezes you.
+You die...
+
+#.........##.......+
+#######..)##.......#
+..........##.......#
+########...........#
+       ##.##.#######
+        #..(........
+        #..#.#######
+   #.####W.#(...#
+   #.....@.####.#
+   #.###......#.#
+       #.#.#....#
+       #.#.######
+       #.#..
+       #.####
+       #.#
+       ..#
+       ##
+
+
+You could see a wight.
+
+Vanquished Creatures
+  An orc priest (D:3)
+  Natasha (thrice) (D:2)
+  An orc wizard (D:3)
+  A worm (D:3)
+  4 orcs (D:3)
+  4 endoplasms
+  3 giant cockroaches (D:3)
+  5 goblins
+  7 hobgoblins
+  5 kobolds
+  2 quokkas
+  2 ball pythons (D:2)
+  8 bats
+  A frilled lizard (D:2)
+  4 rats
+51 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A goblin (D:2)
+  A frilled lizard (D:1)
+2 creatures vanquished.
+
+Grand Total: 53 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Vampire Necromancer began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   243 | D:1      | Reached XP level 2. HP: 19/19 MP: 3/5
+  1092 | D:2      | Gained mutation: You are afflicted with vampirism and can
+                  | become a bat while bloodless. [Vampire growth]
+  1092 | D:2      | Reached XP level 3. HP: 21/21 MP: 3/6
+  1096 | D:2      | Noticed Natasha
+  1106 | D:2      | Gained mutation: You are partially covered in iridescent
+                  | scales. (AC +2) [potion of mutation]
+  1110 | D:2      | Killed Natasha
+  1234 | D:2      | Noticed Natasha
+  1241 | D:2      | Killed Natasha
+  1242 | D:2      | Reached skill level 5 in Necromancy
+  1242 | D:2      | Reached XP level 4. HP: 10/27 MP: 1/7
+  1386 | D:2      | Noticed Natasha
+  1394 | D:2      | Killed Natasha
+  1590 | D:3      | Found a faded altar of an unknown god.
+  2072 | D:3      | Reached XP level 5. HP: 31/31 MP: 3/9
+  2421 | D:3      | Found a radiant altar of Vehumet.
+  2606 | D:4      | Learned a level 3 spell: Vampiric Draining
+  2610 | D:4      | HP: 1/28 [wight/+5 morningstar of freezing (5)]
+  2610 | D:4      | Slain by a wight
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      wander_arrival_estate, layout_rooms
+D:2:      layout_rooms, uniq_natasha
+D:3:      layout_rooms, general_overflow_altar,
+          dreamdust_ecumenical_altar_statues
+D:4:      layout_basic, lightli_temple_of_fire, mainiacjoe_overflow_catwalk,
+          lemuel_flame_loot_1
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Dodging        |        3 |  3.9
+Stealth        |        4 |  4.5
+Necromancy     |        5 |  5.4
+Long Blades    |          |  0.6
+Spellcasting   |          |  2.7
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |     5 |       ||     5
+       Short sword       |     3 |       ||     3
+       Falchion          |     7 |    17 ||    24
+       Bite              |       |     1 ||     1
+ Cast: Necrotise         |    48 |    46 ||    94
+ Abil: Exsanguinate      |     1 |     1 ||     2
+       Revivify          |     1 |     1 ||     2
+       Bat Form          |       |     1 ||     1
+  Use: Potion            |     2 |     1 ||     3
+Armor: Robe              |     3 |     8 ||    11
+       Skin              |     4 |       ||     4
+Dodge: Dodged            |    20 |    16 ||    36
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   2605 |   2520 |     85 |     51 |   2003 |   4 |  651.2 |
+       Dungeon |   2605 |   2520 |     85 |     51 |   2003 |   4 |  651.2 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:3: 925 daAuts
+     D:2: 831 daAuts
+     D:1: 717 daAuts
+     D:4: 131 daAuts
+

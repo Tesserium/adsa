@@ -1,0 +1,228 @@
+code2828
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 leather armour
+(2, -37, D:1)
+  a +1 robe of fire resistance
+(4, -36, D:1)
+  7 stones
+(5, -5, D:1)
+  4 stones
+(7, -9, D:1)
+  a +0 robe
+(9, -34, D:1)
+  a +0 dagger
+(25, -6, D:1)
+  9 stones
+(31, 3, D:1)
+  6 poisoned darts
+
+Level 2 of the Dungeon
+(11, -19, D:2)
+  5 stones
+(18, -39, D:2)
+  a +0 ring mail
+(20, -12, D:2)
+  5 stones
+(23, 17, D:2)
+  8 stones
+(28, -18, D:2)
+  a +0 scale mail
+(28, 11, D:2)
+  3 stones
+(38, 14, D:2)
+  a +0 dagger
+  a +0 sling
+(39, -4, D:2)
+  a +0 whip
+(46, 6, D:2)
+  a +0 dagger
+(46, 9, D:2)
+  a +0 club
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 club
+(7, 23, D:3)
+  a +0 dagger
+(11, 34, D:3)
+  a +0 hand axe
+  a +0 ring mail
+  a +0 club
+  a +0 leather armour
+  a +0 club
+  a +0 war axe
+  a +0 hand axe
+(20, 26, D:3)
+  a +0 club
+  a +0 leather armour
+  a +0 mace
+(20, 27, D:3)
+  a +0 trident
+(20, 28, D:3)
+  a +0 mace
+  a +0 hand axe
+  a +0 dagger
+  a +0 robe
+  a +0 club
+(31, -7, D:3)
+  a +0 club
+(31, 23, D:3)
+  5 poisoned darts
+(38, 13, D:3)
+  8 stones
+(42, 13, D:3)
+  a +0 short sword
+(44, 7, D:3)
+  a +0 dagger
+(45, 7, D:3)
+  a +0 long sword
+(45, 40, D:3)
+  a +0 hammer
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 whip
+(6, -11, D:4)
+  a +0 short sword
+  a +0 leather armour
+(8, -13, D:4)
+  a +0 flail
+(8, -12, D:4)
+  a +0 hand axe
+  a +0 leather armour
+(11, -5, D:4)
+  a +0 dagger
+(12, -14, D:4)
+  a +0 short sword
+(13, -14, D:4)
+  a +0 chain mail
+(13, -8, D:4)
+  a +0 chain mail
+(16, -15, D:4)
+  a +0 shortbow
+  a +0 giant club
+  a +0 short sword
+  a +0 leather armour
+  a +0 short sword
+  2 stones
+(17, -15, D:4)
+  a +0 shortbow
+(17, 0, D:4)
+  a +0 flail
+(18, 0, D:4)
+  a +0 leather armour
+  a +2 dagger of speed
+  a +0 robe
+  a +0 flail
+  a +0 leather armour
+(19, -12, D:4)
+  a +0 club
+  3 stones
+(23, 14, D:4)
+  a +0 flail
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 war axe
+(3, 45, D:5)
+  a +0 chain mail
+(5, 32, D:5)
+  the +1 dagger of the Solemn God {protect, rElec rC- Will++ Int+2}
+    It grants its wielder temporary protection when it strikes (+7 to AC).
+    
+    Int:       It affects your intelligence (+2).
+    rC:        It makes you vulnerable to cold.
+    rElec:     It insulates you from electricity.
+    Will:      It greatly increases your willpower.
+(6, 29, D:5)
+  a +0 whip
+(29, 10, D:5)
+  a +0 sling
+(29, 43, D:5)
+  a +0 leather armour
+(40, 13, D:5)
+  a +0 flail
+  a +0 flail of protection
+  a +0 club
+  a +0 leather armour
+  a +0 club
+  a +0 whip
+(50, 48, D:5)
+  7 stones
+(55, -4, D:5)
+  3 stones
+(59, 18, D:5)
+  a +0 falchion
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 plate armour
+(0, 3, D:6)
+  a +0 ring mail
+(4, -7, D:6)
+  a +2 war axe of distortion
+(5, -8, D:6)
+  a +3 dagger
+  a +0 robe
+(5, 7, D:6)
+  2 potions of degeneration
+(9, -13, D:6)
+  a +0 whip
+  a +0 club
+  a +0 leather armour
+(11, -41, D:6)
+  4 stones
+(19, -38, D:6)
+  a +2 scimitar of draining
+  a +0 robe
+(23, -17, D:6)
+  6 stones
+(25, -21, D:6)
+  a +0 trident
+  a +0 ring mail
+(26, -20, D:6)
+  a +0 short sword of venom
+  a +0 leather armour
+  a +0 dagger
+  a +0 robe
+(28, -33, D:6)
+  a +0 trident
+(28, -12, D:6)
+  a +0 club
+(33, -12, D:6)
+  a +0 dagger
+(41, -24, D:6)
+  a +0 giant club
+
+Level 7 of the Dungeon
+(1, 3, D:7)
+  a +0 sling
+(1, 5, D:7)
+  a +0 short sword
+  a +0 dagger
+  4 stones
+  a +0 dagger
+  5 poisoned darts
+  a +0 short sword
+(3, 5, D:7)
+  a +0 club
+  a +1 leather armour of fire resistance
+  a +0 giant club
+(4, 5, D:7)
+  a +0 short sword
+  a +0 short sword
+  a +0 leather armour
+  a +0 war axe
+  a +0 leather armour
+(8, -1, D:7)
+  a +0 trident
+  a +0 scale mail
+  a +0 buckler
+(8, 0, D:7)
+  a +0 club
+  a +1 whip of flaming
+(9, 1, D:7)
+  a +0 halberd
+

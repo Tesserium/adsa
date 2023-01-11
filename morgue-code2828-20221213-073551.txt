@@ -1,0 +1,186 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-457-g4b7bca3 (webtiles) character file.
+
+Game seed: 1196739760553575503
+
+0 code2828 the Stinger (level 1, 0/13 HPs)
+             Began as a Formicid Venom Mage on Dec 13, 2022.
+             Slain by a kobold
+             ... wielding a +1 whip of freezing
+              (1 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:00:44 (25 turns).
+
+code2828 the Stinger (Formicid Venom Mage)            Turns: 25, Time: 00:00:45
+
+Health: 0/13       AC:  2    Str: 12    XL:     1   Next: 11%
+Magic:  0/3        EV: 12    Int: 14    God:    
+Gold:   0          SH:  0    Dex: 14    Spells: 3/4 levels left
+
+rFire   . . .      SeeInvis +   (no weapon)
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   a - +0 robe
+rPois   .          Reflect  .   (helmet unavailable)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   ++........              (no amulet)
+HPRegen 0.22/turn               (no ring)
+MPRegen 0.08/turn               (no ring)
+
+@: no status effects
+A: permanent stasis, dig shafts and tunnels, antennae 3, four strong arms
+a: Dig, Shaft Self
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Scrolls
+ c - a scroll of identify {unknown}
+Potions
+ b - a potion of magic
+
+
+   Skills:
+ + Level 1.7 Dodging
+ + Level 2.4 Stealth
+ + Level 2.2 Spellcasting
+ + Level 1.1 Transmutations
+ + Level 4.0 Poison Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Sting                 Tmut/Pois      32%        1d4       9%          1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Poisonous Vapours        Pois/Air       14%        N/A       16%         2
+ Mephitic Cloud           Conj/Pois/Air  5%         N/A       38%         3
+ Olgreb's Toxic Radiance  Pois           12%        N/A       41%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)         Zot: 5974       
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot be hasted, slowed, berserked, paralysed or teleported.
+You can dig through walls and to a lower floor.
+You have a pair of large antennae on your head. (SInv)
+Your four strong arms can wield two-handed weapons with a shield.
+
+Message History
+
+Press ? for a list of commands and other information.
+Found a dagger, a scroll labelled QOGISUITYRGH and 14 gold pieces.
+Found a staircase leading out of the dungeon.
+Unknown command.
+Unknown command.
+c - a scroll labelled QOGISUITYRGH
+A rat comes into view.
+A kobold comes into view. It is wielding a +1 whip of freezing.
+The sting hits the rat. The rat is poisoned.
+The rat is heavily wounded.
+The kobold shouts!
+The sting hits the rat. The rat looks even sicker.
+You kill the rat!
+The sting misses the kobold.
+You are out of magic!
+You hit the kobold.
+The kobold is moderately wounded.
+The kobold barely misses you.
+You hit the kobold but do no damage. The kobold completely misses you.
+You hit the kobold but do no damage.
+The kobold hits you with a +1 whip of freezing.
+The kobold freezes you.
+You closely miss the kobold. The kobold barely misses you.
+You hit the kobold but do no damage. The kobold barely misses you.
+You hit the kobold.
+The kobold is heavily wounded.
+The kobold hits you with a +1 whip of freezing.
+The kobold freezes you.
+You are too injured to fight recklessly!
+You don't have enough magic to cast this spell.
+You don't have enough magic to cast this spell.
+You closely miss the kobold.
+The kobold is heavily wounded.
+The kobold closely misses you.
+You hit the kobold.
+The kobold is severely wounded.
+The kobold hits you with a +1 whip of freezing.
+* * * LOW HITPOINT WARNING * * *
+The kobold freezes you.
+You die...
+
+..$.................#
+....................#
+.......<..........#
+.......).........#
+.................#
+.................#
+###.........###..#
+  ##.......## ##.#
+   #.......#   #@#
+   #.......#   #K#
+  #.........   .†#
+  ..........  ...#
+   #........ ....#
+            ######
+
+
+You could see a kobold.
+
+Vanquished Creatures
+  A rat (D:1)
+1 creature vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Formicid Venom Mage began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+    25 | D:1      | Slain by a kobold
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      minmay_arrival_four_circles, layout_loops_ring, serial_shops,
+          nicolae_square_shop
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||     8
+ Cast: Sting             ||     3
+Dodge: Dodged            ||     5
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |     25 |     25 |      0 |      0 |      0 |   1 |   25.0 |
+       Dungeon |     25 |     25 |      0 |      0 |      0 |   1 |   25.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 25 daAuts
+

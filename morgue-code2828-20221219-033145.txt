@@ -1,0 +1,341 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-465-g8901f6c (webtiles) character file.
+
+Game seed: 15180244442176596194
+
+564 code2828 the Digger (level 7, -15/36 HPs)
+             Began as a Gargoyle Earth Elementalist on Dec 19, 2022.
+             Was a Believer of Zin.
+             Killed by an exploding adder (29 damage)
+             ... ignited by their inner flame
+             ... on level 6 of the Dungeon.
+             The game lasted 00:14:33 (4289 turns).
+
+code2828 the Digger (Gargoyle Earth Elementalist)   Turns: 4289, Time: 00:14:35
+
+Health: -15/36     AC:  8    Str: 11    XL:     7   Next: 32%
+Magic:  17/20      EV: 12    Int: 18    God:    Zin [**....]
+Gold:   144        SH:  0    Dex: 10    Spells: 4/12 levels left
+
+rFire   . . .      SeeInvis .   e - +0 mace
+rCold   . . .      Faith    +   (no shield)
+rNeg    + . .      Spirit   .   i - +0 leather armour
+rPois   ∞          Reflect  .   (no helmet)
+rElec   +          Harm     .   (no cloak)
+rCorr   .          Rampage  .   l - +0 pair of gloves
+Will    .....                   (no boots)
+Stlth   +++.......              r - amulet of faith
+HPRegen 0.26/turn               j - ring of wizardry
+MPRegen 0.17/turn               m - ring of magical power
+
+@: no status effects
+A: sickness immunity, AC +4, negative energy resistance 1, electricity
+resistance, torment resistance 1, petrification resistance
+a: Renounce Religion, Recite, Vitalisation, Donate Gold
+
+
+You were on level 6 of the Dungeon.
+You worshipped Zin.
+Zin was pleased with you.
+You visited 2 branches of the dungeon, and saw 7 of its levels.
+
+You collected 160 gold pieces.
+You donated 16 gold pieces to Zin.
+
+Inventory:
+
+Hand Weapons
+ e - a +0 mace (weapon)
+Armour
+ i - a +0 leather armour (worn)
+ l - a +0 pair of gloves (worn)
+Jewellery
+ j - a ring of wizardry (left hand)
+ m - a ring of magical power (right hand)
+ r - an amulet of faith (around neck)
+Scrolls
+ d - 2 scrolls of noise
+ k - a scroll of immolation
+ n - 2 scrolls of enchant weapon
+Potions
+ a - 3 potions of ambrosia {unknown}
+ b - a potion of magic
+ f - 2 potions of degeneration {unknown}
+ g - a potion of flight {unknown}
+ o - a potion of attraction {unknown}
+ p - 3 potions of might
+ s - 3 potions of curing
+ t - a potion of mutation {unknown}
+ u - a potion of brilliance {unknown}
+
+
+   Skills:
+ + Level 2.8 Dodging
+ * Level 5.5 Stealth
+ + Level 3.3 Spellcasting
+ - Level 0.8 Transmutations
+ * Level 1.0 Air Magic
+ * Level 6.3 Earth Magic
+
+
+You had 4 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Sandblast             Erth           50%        2d12      1%          1
+b - Passwall              Tmut/Erth      12%        N/A       3%          2
+c - Stone Arrow           Conj/Erth      28%        3d8       7%          3
+d - Poisonous Vapours     Pois/Air       8%         N/A       11%         2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Shock                    Conj/Air       16%        1d4       7%          1
+ Sting                    Tmut/Pois      16%        1d3       8%          1
+ Swiftness                Air            6%         N/A       16%         3
+ Petrify                  Tmut/Erth      15%        N/A       19%         4
+ Leda's Liquefaction      Hex/Erth       7%         N/A       22%         4
+ Call Canine Familiar     Summ           2%         N/A       26%         3
+ Portal Projectile        Hex/Tloc       4%         N/A       26%         3
+ Airstrike                Air            3%         2d(1-17)  45%         4
+ Cause Fear               Hex            1%         N/A       61%         4
+ Olgreb's Toxic Radiance  Pois           2%         N/A       61%         4
+ Irradiate                Conj/Tmut      2%         3d12      86%         5
+ Iskenderun's Battlesphe  Conj           2%         2d6       90%         5
+ Iron Shot                Conj/Erth      7%         9d2       96%         6
+ Dragon Form              Tmut           2%         N/A       100%        7
+ Spellforged Servitor     Conj/Summ      1%         N/A       100%        7
+ Dragon's Call            Summ           1%         N/A       100%        9
+ Sublimation of Blood     Necr           Unusable   N/A       N/A         2
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)         Zot: 26993       Temple (1/1) D:4      Zot: 5927       
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Sif Muna
+Trog
+Vehumet
+Xom
+Yredelemnul
+Zin
+
+Shops:
+D:6 [
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to sickness and miasma.
+Your stone body is resilient. (AC +4)
+You are immune to poison.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You are resistant to unholy torment.
+You are immune to petrification.
+
+Message History
+
+The orc priest hits you with a +0 war axe.
+The necrophage hits you but does no damage.
+The orc hits you but does no damage.
+An orc comes into view. It is wielding a +0 morningstar.
+An orc wizard comes into view. It is wielding a +0 dagger.
+You barely miss the orc. The adder bites you but does no damage.
+The orc priest barely misses you. The necrophage misses you.
+The orc hits you but does no damage.
+An ogre comes into view. It is wielding a +0 giant club.
+The adder bites you but does no damage.
+Aiming: Sandblast (safe; 1% risk of failure)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f - adder
+Aim: an adder (inner flame, 72% to hit)
+The blast of sand misses the adder.
+The ogre shouts!
+The orc priest barely misses you. The adder bites you but does no damage.
+The necrophage closely misses you. The orc hits you but does no damage.
+A hound comes into view.
+The orc barely misses you.
+The necrophage hits you but does no damage.
+The adder barely misses you.
+An adder comes into view.
+The orc priest barely misses you.
+Aiming: Sandblast (safe; 1% risk of failure)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f/p - adder
+Aim: an adder (inner flame, 72% to hit)
+The blast of sand misses the adder.
+The adder hisses angrily.
+The hound barks!
+The adder barely misses you. The orc barely misses you.
+The orc priest hits you but does no damage.
+The necrophage hits you. The adder misses you.
+Aiming: Sandblast (safe; 1% risk of failure)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f/p - adder
+Aim: an adder (inner flame, 72% to hit)
+The blast of sand hits the adder!
+The adder explodes!
+The fiery explosion engulfs you!!
+Ouch! That really hurt!
+You die...
+
+     .. ....#
+     .. ....  .
+    ##. S..# ..
+    #.. O..#h#.
+     .o ..S....
+     #o#.o...#.
+     #noo......
+      #@o......
+     #§§§......
+    #.§.§......
+   ....#.......
+  ....# .......
+...∩##  .......
+....    #......
+...      ...#..
+
+
+You could see an ogre, a necrophage (inner flame), a hound, an orc priest (inner
+flame), an orc wizard, 2 adders and 4 orcs.
+
+Vanquished Creatures
+  Sigmund (D:3)
+  A hound (D:4)
+  A jelly (D:3)
+  Ijyb (D:4)
+  Natasha (thrice) (D:3)
+  An orc wizard (D:7)
+  5 gnolls
+  6 adders
+  A shadow imp (D:4)
+  A white imp (D:7)
+  A worm (D:3)
+  4 dart slugs
+  12 orcs
+  6 ball pythons
+  9 endoplasms
+  A giant cockroach (D:1)
+  6 goblins
+  11 hobgoblins
+  3 jackals
+  5 kobolds
+  3 quokkas
+  5 bats
+  3 frilled lizards
+  9 rats
+99 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Gargoyle Earth Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 3/3
+   280 | D:1      | Reached XP level 2. HP: 15/15 MP: 1/5
+   656 | D:1      | Reached skill level 4 in Earth Magic
+   747 | D:1      | Reached XP level 3. HP: 19/19 MP: 1/6
+  1220 | D:2      | Learned a level 2 spell: Passwall
+  1224 | D:2      | Learned a level 3 spell: Stone Arrow
+  1270 | D:2      | Found a faded altar of an unknown god.
+  1601 | D:2      | Reached XP level 4. HP: 24/24 MP: 2/7
+  1963 | D:3      | Noticed Sigmund
+  2315 | D:3      | Reached XP level 5. HP: 10/28 MP: 6/8
+  2317 | D:3      | Reached skill level 5 in Earth Magic
+  2571 | D:3      | Noticed Natasha
+  2574 | D:3      | Killed Natasha
+  2663 | D:3      | Noticed Natasha
+  2670 | D:3      | Killed Natasha
+  2717 | D:3      | Killed Sigmund
+  2718 | D:3      | Reached XP level 6. HP: 32/32 MP: 10/10
+  2780 | D:3      | Found a blossoming altar of Fedhas.
+  2800 | D:3      | Reached skill level 5 in Stealth
+  2910 | D:3      | Found a glowing silver altar of Zin.
+  2946 | D:3      | Became a worshipper of Zin the Law-Giver
+  2959 | D:3      | Noticed Natasha
+  2964 | D:3      | Killed Natasha
+  2965 | D:3      | Reached skill level 6 in Earth Magic
+  3435 | D:4      | Reached * piety under Zin
+  3620 | D:4      | Reached XP level 7. HP: 36/36 MP: 11/11
+  3640 | D:4      | Reached ** piety under Zin
+  3649 | D:4      | Learned a level 2 spell: Poisonous Vapours
+  3673 | D:4      | Found a staircase to the Ecumenical Temple.
+  3684 | Temple   | Entered the Ecumenical Temple
+  3835 | D:4      | Noticed Ijyb
+  3848 | D:4      | Killed Ijyb
+  4109 | D:4      | You fall into a shaft and drop 3 floors!
+  4135 | D:7      | Reached skill level 1 in Air Magic
+  4284 | D:6      | Found Omodwyth's Antique Armour Boutique.
+  4289 | D:6      | Killed by an exploding adder... ignited by their inner
+                  | flame
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      zaba_arrival_water, layout_loops_cross, minmay_pentomino_t2
+D:2:      layout_rooms, chequers_ecumenical_altar_island, serial_bayou_pond_d
+D:3:      layout_basic, mainiacjoe_overflow_concentric_impassable, zin_treasury,
+          minmay_misc_feat_tiny, uniq_sigmund, uniq_natasha
+D:4:      minmay_inner_zag, layout_basic, minmay_temple_entry_arrows, uniq_ijyb
+D:6:      layout_cave_pools, nicolae_wu_jian_wuxing_cycle, serial_shops, shop
+D:7:      layout_loops_cross, nicolae_qazlal_style_of_elements,
+          marbit_many_paths
+Temple:   eino_wide_crystal_templ
+
+Skill      XL: |  1  2  3  4  5  6  7 |
+---------------+----------------------+-----
+Earth Magic    |     4        5  6    |  6.3
+Stealth        |        3     4  5    |  5.5
+Dodging        |        2             |  2.8
+Spellcasting   |              3       |  3.3
+Air Magic      |                    1 |  1.0
+Transmutations |                      |  0.8
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Mace              |     1 |       |     5 ||     6
+ Cast: Sandblast         |    56 |    70 |    36 ||   162
+       Stone Arrow       |       |     4 |     5 ||     9
+  Use: Potion            |       |     1 |     2 ||     3
+       Scroll            |       |       |    11 ||    11
+Armor: Robe              |     1 |       |       ||     1
+       Leather armour    |     7 |    26 |    34 ||    67
+Dodge: Dodged            |     6 |    56 |    23 ||    85
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   4374 |   4194 |    180 |    178 |   3221 |   7 |  624.9 |
+       Dungeon |   4302 |   4143 |    159 |    178 |   3181 |   6 |  717.0 |
+        Temple |     72 |     51 |     21 |      0 |     40 |   1 |   72.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:3: 1422 daAuts
+     D:1: 1125 daAuts
+     D:2: 849 daAuts
+     D:4: 715 daAuts
+     D:7: 184 daAuts
+  Temple: 72 daAuts
+     D:6: 6 daAuts
+

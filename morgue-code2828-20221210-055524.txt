@@ -1,0 +1,333 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-424-g7412bad (webtiles) character file.
+
+Game seed: 11897113405048455984
+
+907 code2828 the Caller (level 7, -2/38 HPs)
+             Began as a Deep Elf Summoner on Dec 10, 2022.
+             Was an Initiate of Hepliaklqana.
+             Slain by Duvessa
+             ... wielding a +1 short sword of venom
+              (14 damage)
+             ... on level 4 of the Dungeon.
+             The game lasted 00:31:33 (4806 turns).
+
+code2828 the Caller (Deep Elf Summoner)             Turns: 4806, Time: 00:31:34
+
+Health: -2/38      AC:  9    Str: 12    XL:     7   Next: 81%
+Magic:  19/19      EV: 13    Int: 22    God:    Hepliaklqana [......]
+Gold:   198        SH:  0    Dex: 15    Spells: 14/20 levels left
+
+rFire   . . .      SeeInvis .   m - +2 quarterstaff (chaos)
+rCold   . . .      Faith    .   (shield currently unavailable)
+rNeg    . . .      Spirit   .   v - +2 leather armour of the Hot Ocelot {*Slow Str+7}
+rPois   .          Reflect  .   x - +0 helmet
+rElec   .          Harm     .   n - +0 cloak
+rCorr   .          Rampage  .   (no gloves)
+Will    +....                   g - +1 pair of boots
+Stlth   ++........              (no amulet)
+HPRegen 0.26/turn               h - ring of willpower {AgCl}
+MPRegen 0.16/turn               (no ring)
+
+@: lethally poisoned (-2 -> -17)
+A: no striking features
+a: Renounce Religion
+
+
+You were on level 4 of the Dungeon.
+You worshipped Hepliaklqana.
+Hepliaklqana was noncommittal.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+You also visited: Sewer.
+
+You collected 198 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ j - a +0 hand axe {AgOH}
+ m - a +2 quarterstaff of chaos (weapon)
+Missiles
+ i - 2 boomerangs of dispersal
+Armour
+ g - a +1 pair of boots (worn)
+ n - a +0 cloak (worn)
+ v - the +2 leather armour of the Hot Ocelot (worn) {*Slow Str+7}
+   (You found it on level 4 of the Dungeon)   
+   
+   Str:       It affects your strength (+7).
+   *Slow:     It may slow you when you take damage.
+ x - a +0 helmet (worn)
+Jewellery
+ h - a ring of willpower (left hand) {AgCl}
+ u - an amulet of the acrobat
+Scrolls
+ c - 3 scrolls of teleportation
+ e - 4 scrolls of identify
+ l - a scroll of enchant weapon {unknown}
+ q - a scroll of summoning {unknown}
+ t - a scroll of brand weapon {unknown}
+ w - a scroll of fog {unknown}
+Potions
+ a - a potion of attraction {unknown}
+ b - 2 potions of magic
+ d - 3 potions of mutation
+ f - a potion of brilliance
+ k - a potion of invisibility
+ o - a potion of ambrosia {unknown}
+ p - 2 potions of haste
+
+
+   Skills:
+ + Level 1.2 Fighting
+ + Level 0.3(0.4) Axes
+ + Level 0.2(1.4) Maces & Flails
+ + Level 3.2 Staves
+ + Level 1.1 Armour
+ + Level 3.9 Dodging
+ + Level 3.3 Stealth
+ + Level 7.0 Spellcasting
+ + Level 7.0 Summonings
+
+
+You had 14 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Summon Small Mammal   Summ           100%       N/A       1%          1
+b - Call Imp              Summ           38%        N/A       1%          2
+c - Call Canine Familiar  Summ           38%        N/A       1%          3
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Summon Guardian Golem    Hex/Summ       23%        N/A       8%          3
+ Animate Armour           Summ/Erth      46%        N/A       24%         4
+ Summon Lightning Spire   Summ/Air       23%        N/A       24%         4
+ Stone Arrow              Conj/Erth      14%        3d7       30%         3
+ Lehudib's Crystal Spear  Conj/Erth      3%         10d3      100%        8
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)         Zot: 19453        Sewer (visited)                      
+Temple: D:4-7       
+
+Altars:
+Hepliaklqana
+
+Annotations:
+D:4 Duvessa
+Abyss:1 Pargi
+
+Message History
+
+You hear a shout!
+There is an open door here.
+You hear a shout!
+You hear a shout! x2
+You hear a shout!
+There is an open door here.
+You hear a shout!
+There is an open door here.
+You hear a shout!
+You hear a shout!
+There is an open door here.
+You hear a shout!
+You hear a shout!
+You hear a shout!
+You hear a shout!
+You hear a shout!
+You hear a shout!
+You hear a shout!
+You see here a +0 club.
+Things that are here:
+a +0 club; a +0 club
+You hear a shout!
+Things that are here:
+a +0 whip; a +0 club
+You hear a shout!
+Items here: ))) [.
+Duvessa hits you with a +1 short sword of venom!
+You are poisoned.
+Duvessa misses you.
+You hit Duvessa but do no damage.
+Duvessa is moderately wounded.
+You feel very sick.
+Duvessa hits you with a +1 short sword of venom.
+You are lethally poisoned!
+You closely miss Duvessa.
+Duvessa is moderately wounded.
+You feel very sick.
+Duvessa closely misses you.
+Duvessa hits you with a +1 short sword of venom!
+You die...
+
+           #.##..#.).#      #....
+           #.....#...#      #.###
+        ####..#.###)##      #.# #
+        #........##.#       #.# #
+        #.#...#..##.####### #o# #
+#########.........#)#.....# #.# #
+..........#...#...#.#####.# #.###
+####.#######..#####.#   #.# #....
+####..#    #...e@...#   #.# #####
+..###§#    #.########   #.#     #
+..# #§#   ##'##         #.#     #
+..###§## ##...##        #.#     #
+...#...###.....##    ####.#     #
+...#._.##.......##  ##.##.##
+...#...#.........####...#..######
+...#####.........'...............
+#.<.#  #.........####...##.######
+
+
+You could see Duvessa (berserk).
+
+Vanquished Creatures
+  An orc warrior (D:4)
+  Dowan (D:4)
+  2 killer bees (D:4)
+  3 hounds
+  A gnoll bouda (D:4)
+  Natasha (D:4)
+  An iguana (D:4)
+  4 gnolls (D:3)
+  6 adders
+  An ufetubus (D:4)
+  A worm (D:3)
+  4 orcs
+  A bat (D:3)
+  2 endoplasms
+  6 hobgoblins
+  5 kobolds
+  5 quokkas
+  4 ball pythons
+  A rat (D:3)
+50 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  2 killer bees (D:4)
+  An orc priest (D:4)
+  Crazy Yiuf (D:2)
+  Jessica (D:3)
+  5 gnolls (D:4)
+  2 worms (D:2)
+  3 dart slugs
+  3 orcs
+  5 ball pythons
+  3 bats
+  2 endoplasms
+  2 giant cockroaches (D:3)
+  6 goblins
+  6 hobgoblins
+  2 kobolds
+  4 quokkas
+  6 frilled lizards
+  3 rats (D:1)
+57 creatures vanquished.
+
+Grand Total: 107 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Deep Elf Summoner began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   540 | D:1      | Reached XP level 2. HP: 15/15 MP: 8/8
+  1044 | D:1      | Reached XP level 3. HP: 20/20 MP: 8/10
+  1203 | D:2      | Reached skill level 5 in Summonings
+  1354 | D:2      | Learned a level 2 spell: Call Imp
+  1391 | D:2      | Reached XP level 4. HP: 24/24 MP: 10/12
+  1434 | D:2      | Found a runed translucent door.
+  1435 | D:2      | Noticed Crazy Yiuf
+  1863 | D:2      | Killed Crazy Yiuf
+  2005 | D:3      | Found a faded altar of an unknown god.
+  2196 | D:3      | Reached XP level 5. HP: 18/28 MP: 13/13
+  2347 | D:3      | Found a glowing drain.
+  2402 | Sewer    | Entered a sewer
+  2444 | Sewer    | Noticed Pargi
+  2467 | Sewer    | Banished Pargi
+  2468 | Sewer    | Reached skill level 1 in Staves
+  2468 | Sewer    | Reached skill level 5 in Spellcasting
+  2552 | Sewer    | Reached XP level 6. HP: 33/33 MP: 15/15
+  2556 | Sewer    | Learned a level 3 spell: Call Canine Familiar
+  3072 | D:3      | Noticed Jessica
+  3087 | D:3      | Killed Jessica
+  3605 | D:4      | Identified the +2 leather armour of the Hot Ocelot {*Slow
+                  | Str+7}
+  3666 | D:4      | Noticed Natasha
+  3674 | D:4      | Killed Natasha
+  3742 | D:4      | Reached skill level 1 in Fighting
+  3881 | D:4      | Reached XP level 7. HP: 38/38 MP: 11/17
+  4220 | D:4      | Reached skill level 1 in Armour
+  4492 | D:4      | Found a hazy altar of Hepliaklqana.
+  4496 | D:4      | Became a worshipper of Hepliaklqana the Forgotten
+  4538 | D:4      | Noticed Duvessa
+  4538 | D:4      | Noticed Dowan
+  4573 | D:4      | Killed Dowan
+  4806 | D:4      | Slain by Duvessa
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_rooms_a, layout_basic
+D:2:      layout_rooms, uniq_crazy_yiuf_cottage
+D:3:      layout_loops_ring, gup_sewer_entry_pipe, ebering_ecumenical_altar_box,
+          kennysheep_jessica_study
+D:4:      minmay_general_purpose_star, layout_loops_corners,
+          nzn_hepliaklqana_mist_gate, uniq_natasha, uniq_duvessa
+
+Skill      XL: |  1  2  3  4  5  6  7 |
+---------------+----------------------+-----
+Summonings     |        5     6     7 |  7.0
+Stealth        |        3             |  3.3
+Spellcasting   |        4     5     7 |  7.0
+Dodging        |              3       |  3.9
+Staves         |              1  2  3 |  3.2
+Fighting       |                 1    |  1.2
+Armour         |                    1 |  1.1
+Axes           |                      |  0.3
+Maces & Flails |                      |  0.2
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Club              |    25 |       |       ||    25
+       Unarmed           |     3 |       |       ||     3
+       Punch             |     2 |       |       ||     2
+       Hand axe          |    17 |    13 |       ||    30
+       Quarterstaff      |       |    87 |    54 ||   141
+ Cast: Summon Small Mamm |    24 |    40 |     7 ||    71
+       Call Imp          |       |    12 |     5 ||    17
+       Call Canine Famil |       |     6 |     9 ||    15
+  Use: Scroll            |     3 |       |     1 ||     4
+       Potion            |       |     1 |     6 ||     7
+ Stab: Sleeping          |     1 |     1 |     1 ||     3
+       Distracted        |     1 |       |       ||     1
+       Petrified         |       |       |     2 ||     2
+Armor: Robe              |    12 |    29 |       ||    41
+       Leather armour    |       |     7 |    14 ||    21
+Dodge: Dodged            |    41 |    98 |    46 ||   185
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   4833 |   4702 |    131 |    288 |   2931 |   5 |  966.6 |
+       Dungeon |   4545 |   4414 |    131 |    288 |   2779 |   4 | 1136.2 |
+         Sewer |    287 |    287 |      0 |      0 |    152 |   1 |  287.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:4: 1367 daAuts
+     D:3: 1173 daAuts
+     D:1: 1170 daAuts
+     D:2: 833 daAuts
+   Sewer: 287 daAuts
+

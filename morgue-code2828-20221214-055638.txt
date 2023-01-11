@@ -1,0 +1,212 @@
+ Dungeon Crawl Stone Soup version 0.28.0-55-gcd9437b (webtiles) character file.
+
+Game seed: 4236189320571617466
+
+32 code2828 the Firebug (level 3, 22/30 HPs)
+             Began as a Deep Dwarf Fire Elementalist on Dec 14, 2022.
+             Got out of the dungeon alive.
+             The game lasted 00:05:29 (1665 turns).
+
+code2828 the Firebug (Deep Dwarf Fire Elementalist) Turns: 1665, Time: 00:05:30
+
+Health: 22/30      AC:  2    Str: 11    XL:     3   Next: 10%
+Magic:  6/6        EV: 12    Int: 17    God:    
+Gold:   45         SH:  0    Dex: 13    Spells: 5/6 levels left
+
+rFire   . . .      SeeInvis .   d - +0 whip
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   a - +0 robe
+rPois   .          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   ++........              (no amulet)
+HPRegen 0.00/turn               (no ring)
+MPRegen 0.10/turn               (no ring)
+
+@: no status effects
+A: damage resistance, heal wounds, sense surroundings 1, no regeneration
+a: Heal Wounds
+
+
+You escaped.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 45 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ d - a +0 whip (weapon)
+Missiles
+ e - 6 poisoned darts
+Armour
+ a - a +0 robe (worn)
+Scrolls
+ b - 2 scrolls of magic mapping {unknown}
+ c - a scroll of teleportation {unknown}
+
+
+   Skills:
+ + Level 0.4 Fighting
+ + Level 2.2 Dodging
+ + Level 2.5 Stealth
+ + Level 1.0 Unarmed Combat
+ + Level 2.0 Spellcasting
+ + Level 1.0 Conjurations
+ + Level 3.1 Fire Magic
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      32%        2x1d5     9%          1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Scorch                   Fire           24%        2d6       8%          2
+ Conjure Flame            Conj/Fire      8%         6-21      24%         3
+ Inner Flame              Hex/Fire       7%         N/A       30%         3
+ Flame Wave               Conj/Fire      8%         2d5       63%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to damage.
+You can heal yourself by infusing magical energy.
+You passively map a small area around you.
+You do not regenerate.
+
+Message History
+
+Partly explored, can't reach some places.
+Partly explored, can't reach some places.
+Partly explored, can't reach some places.
+Partly explored, can't reach some places.
+You hit the fungus. The fungus begins to die.
+The fungus is lightly damaged.
+You hit the fungus.
+The fungus is lightly damaged.
+You completely miss the fungus.
+The fungus is lightly damaged.
+You hit the fungus.
+The fungus is lightly damaged.
+A nearby fungus withers and dies.
+You enter the shallow water.
+Moving in this stuff is going to be slow.
+Partly explored, can't reach some places.
+Partly explored, can't reach some places.
+Partly explored, can't reach some places.
+Partly explored, can't reach some places.
+Why would you want to do that?
+You hit the fungus but do no damage.
+You hit the fungus. The fungus begins to die.
+The fungus is lightly damaged.
+A nearby fungus withers and dies.
+You enter the shallow water.
+Moving in this stuff is going to be slow.
+Why would you want to do that?
+Why would you want to do that?
+Why would you want to do that?
+You enter the shallow water.
+Moving in this stuff is going to be slow.
+Why would you want to do that?
+Why would you want to do that?
+Why would you want to do that?
+You enter the shallow water.
+Moving in this stuff is going to be slow.
+There is an open door here.
+There is a staircase leading out of the dungeon here.
+Are you sure you want to leave the Dungeon? This will make you lose the game! 
+You have escaped!
+
+#......#..⌠.......#...### ##..
+#....>.##...#.######..#   ##..
+#...†..########    #'##   #.##
+#......#           ##'## ###..
+#.>.#..#           ###.###....
+#......#          ##....#.....
+#......#   #####  #..#.....###
+##.....#  ##...####.###...## #
+ #.....#  #..@..##..#.##..## #
+ ###...#  #.....#.#..###...###
+   #...#  ##...##.#...###.....
+   #...#  #..#####...## ##....
+  ##...#  #...###...##   ##..#
+  #..#.#  ##...#...##   ####..
+ ##..#.#   #.....###   ##..##.
+ #.....# #######'##   ##.#..#.
+ #...#.###...####'## ##..##...
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A dart slug (D:1)
+  5 ball pythons (D:1)
+  A bat (D:1)
+  4 endoplasms (D:1)
+  4 goblins (D:1)
+  2 hobgoblins (D:1)
+  2 quokkas (D:1)
+  3 frilled lizards (D:1)
+  3 kobolds (D:1)
+  3 rats (D:1)
+28 creatures vanquished.
+
+Vanquished Creatures (others)
+  46 foxfires (D:1)
+  2 fungi (D:1)
+48 creatures vanquished.
+
+Grand Total: 76 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Deep Dwarf Fire Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 3/3
+   277 | D:1      | Reached skill level 3 in Fire Magic
+   282 | D:1      | Reached XP level 2. HP: 14/22 MP: 1/4
+   806 | D:1      | Reached skill level 1 in Conjurations
+  1238 | D:1      | Reached skill level 1 in Unarmed Combat
+  1436 | D:1      | Reached XP level 3. HP: 22/30 MP: 2/6
+  1665 | D:$      | Got out of the dungeon alive.
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_cavernosity, layout_basic
+
+Skill      XL: |  1  2 |
+---------------+-------+-----
+Fire Magic     |  3    |  3.1
+Spellcasting   |     2 |  2.0
+Conjurations   |     1 |  1.0
+Unarmed Combat |     1 |  1.0
+Fighting       |       |  0.4
+Dodging        |       |  2.2
+Stealth        |       |  2.5
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||    77
+       Whip              ||    17
+ Cast: Foxfire           ||    31
+ Abil: Heal Wounds       ||     1
+  Use: Potion            ||     1
+ Stab: Sleeping          ||     2
+Armor: Robe              ||    12
+Dodge: Dodged            ||    62
+

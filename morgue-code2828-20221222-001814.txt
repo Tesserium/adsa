@@ -1,0 +1,245 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-476-g330ca2e (webtiles) character file.
+
+Game seed: 10468152400815567904
+
+72 code2828 the Digger (level 4, -3/24 HPs)
+             Began as a Gargoyle Earth Elementalist on Dec 22, 2022.
+             Killed by divine providence
+             ... invoked by an orc priest
+              (11 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:04:25 (2105 turns).
+
+code2828 the Digger (Gargoyle Earth Elementalist)   Turns: 2105, Time: 00:04:26
+
+Health: -3/24      AC: 10    Str: 11    XL:     4   Next: 26%
+Magic:  1/7        EV: 11    Int: 18    God:    
+Gold:   66         SH:  0    Dex: 10    Spells: 1/7 levels left
+
+rFire   . . .      SeeInvis .   l - +0 sling
+rCold   . . .      Faith    .   (no shield)
+rNeg    + . .      Spirit   .   c - +3 leather armour
+rPois   ∞          Reflect  .   (no helmet)
+rElec   +          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   k - +0 pair of boots
+Stlth   ++........              (no amulet)
+HPRegen 0.24/turn               (no ring)
+MPRegen 0.10/turn               (no ring)
+
+@: no status effects
+A: sickness immunity, AC +3, negative energy resistance 1, electricity
+resistance, torment resistance 1, petrification resistance
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 66 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ l - a +0 sling (weapon)
+Armour
+ c - a +3 leather armour (worn)
+ k - a +0 pair of boots (worn)
+Scrolls
+ a - 2 scrolls of teleportation {unknown}
+ d - a scroll of amnesia {unknown}
+ e - a scroll of identify {unknown}
+ g - a scroll of acquirement {unknown}
+ h - a scroll of fog {unknown}
+ i - 4 scrolls of silence {unknown}
+ j - a scroll of enchant weapon {unknown}
+Potions
+ b - a potion of magic
+ f - a potion of curing {unknown}
+ m - a potion of resistance {unknown}
+ n - a potion of degeneration {unknown}
+ o - 2 potions of invisibility {unknown}
+ p - a potion of heal wounds {unknown}
+
+
+   Skills:
+ + Level 0.3 Ranged Weapons
+ + Level 1.8 Dodging
+ * Level 3.2 Stealth
+ + Level 2.3 Spellcasting
+ + Level 1.1 Conjurations
+ + Level 1.1 Transmutations
+ * Level 4.3 Earth Magic
+
+
+You had one spell level left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Sandblast             Erth           34%        2d9       3%          1
+b - Passwall              Tmut/Erth      9%         N/A       12%         2
+c - Stone Arrow           Conj/Erth      24%        3d8       22%         3
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Petrify                  Tmut/Erth      11%        N/A       58%         4
+ Summon Ice Beast         Ice/Summ       2%         N/A       93%         4
+ Summon Mana Viper        Hex/Summ       2%         N/A       100%        5
+ Monstrous Menagerie      Summ           1%         N/A       100%        7
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)         Zot: 15846      
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to sickness and miasma.
+Your stone body is resilient. (AC +3)
+You are immune to poison.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You are resistant to unholy torment.
+You are immune to petrification.
+
+Message History
+
+Done exploring.
+There is an escape hatch in the floor here.
+You slide downwards. The hatch slams shut behind you.
+You hear the sound of rushing water.
+There is an entrance to a sewer on this level. Hurry and find it before the
+portal rusts away!
+The blast of sand hits the orc!
+The orc is almost dead.
+The orc shouts! x2; The orc priest shouts!
+The orc misses you.
+The blast of sand hits the orc!
+You kill the orc!
+The orc hits you but does no damage. x2
+Aiming: Sandblast (safe; 3% risk of failure)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f - orc priest
+Aim: an orc priest, wielding a +0 whip (82% to hit)
+The blast of sand hits the orc.
+The orc is heavily wounded.
+The orc barely misses you.
+Aiming: Sandblast (safe; 3% risk of failure)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f/p - orc priest
+Aim: an orc priest, wielding a +0 whip (82% to hit)
+The blast of sand hits the orc!
+You kill the orc!
+The orc priest invokes the aid of Beogh against you.
+Beogh smites you!
+Ouch! That really hurt!
+Aiming: Sandblast (safe; 3% risk of failure)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f/p - orc priest
+Aim: an orc priest, wielding a +0 whip (82% to hit)
+The blast of sand hits the orc priest.
+The orc priest is heavily wounded.
+The orc priest hits you with a +0 whip.
+Aiming: Sandblast (safe; 3% risk of failure)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f/p - orc priest
+Aim: an orc priest, wielding a +0 whip (heavily wounded, 82% to hit)
+The blast of sand hits the orc priest.
+The orc priest is almost dead.
+The orc priest invokes the aid of Beogh against you.
+Beogh smites you!
+You die...
+
+#.########.#
+#..o@).....#
+############
+
+
+You could see an orc priest.
+
+Vanquished Creatures
+  3 adders (D:2)
+  A worm (D:2)
+  A dart slug (D:1)
+  2 orcs (D:3)
+  4 endoplasms
+  A giant cockroach (D:2)
+  3 goblins
+  3 hobgoblins (D:1)
+  2 kobolds (D:1)
+  3 quokkas
+  5 ball pythons
+  A bat (D:1)
+  2 frilled lizards
+  6 rats
+37 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Gargoyle Earth Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 3/3
+   193 | D:1      | You fall into a shaft and drop 1 floor!
+   237 | D:2      | Reached skill level 1 in Transmutations
+   237 | D:2      | Reached XP level 2. HP: 8/15 MP: 3/5
+   368 | D:2      | Reached skill level 4 in Earth Magic
+   368 | D:2      | Reached XP level 3. HP: 19/19 MP: 2/6
+   811 | D:2      | Reached skill level 1 in Conjurations
+  1376 | D:1      | Reached XP level 4. HP: 24/24 MP: 7/7
+  1856 | D:1      | Learned a level 2 spell: Passwall
+  1860 | D:1      | Learned a level 3 spell: Stone Arrow
+  2105 | D:3      | Killed from afar by an orc priest
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_court, layout_loops_ring, nicolae_hexahallways,
+          serial_bayou_ford_a
+D:2:      minmay_wonky_spiral, layout_basic, palyth_stone_intersect,
+          minmay_fractal_squares_gapless_5
+D:3:      layout_loops_ring, gup_sewer_entry_pipe, uniq_robin
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Transmutations |  1       |  1.1
+Earth Magic    |     4    |  4.3
+Stealth        |        3 |  3.2
+Conjurations   |        1 |  1.1
+Ranged Weapons |          |  0.3
+Dodging        |          |  1.8
+Spellcasting   |          |  2.3
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |    32 |       ||    32
+       Punch             |     1 |       ||     1
+ Fire: Sling             |     9 |    26 ||    35
+ Cast: Sandblast         |    30 |     8 ||    38
+Armor: Leather armour    |    10 |     6 ||    16
+Dodge: Dodged            |    29 |    11 ||    40
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   2151 |   2081 |     70 |      0 |   1812 |   3 |  717.0 |
+       Dungeon |   2151 |   2081 |     70 |      0 |   1812 |   3 |  717.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:2: 1134 daAuts
+     D:1: 1009 daAuts
+     D:3: 8 daAuts
+

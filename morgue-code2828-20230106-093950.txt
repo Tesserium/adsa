@@ -1,0 +1,542 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-591-g3c58d2b (webtiles) character file.
+
+Game seed: 14616135948124590616
+
+12516 code2828 the Nimble (level 11, -2/74 HPs)
+             Began as a Red Draconian Ice Elementalist on Jan 5, 2023.
+             Was an Elder of Vehumet.
+             Slain by a death yak simulacrum (37 damage)
+             ... in an ice cave on Jan 6, 2023.
+             The game lasted 01:30:09 (13898 turns).
+
+code2828 the Nimble (DrIE)                         Turns: 13898, Time: 01:30:10
+
+Health: -2/74      AC: 18    Str: 10    XL:     11   Next: 63%
+Magic:  19/21      EV: 21    Int: 19    God:    Vehumet [****..]
+Gold:   521        SH:  0    Dex: 13    Spells: 2/24 levels left
+
+rFire   + . .      SeeInvis +   I - +4 spear (flame)
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   (body armour unavailable)
+rPois   .          Reflect  .   n - +2 hat
+rElec   .          Harm     .   s - +0 cloak
+rCorr   .          Rampage  .   P - +0 pair of gloves
+Will    .....      Clarity  +   (no boots)
+Stlth   ++++                    (no amulet)
+HPRegen 0.32/turn               g - ring of see invisible
+MPRegen 0.17/turn               o - +5 ring of evasion
+
+@: ice-armoured, short of breath, slowed, studying Unarmed Combat, very slow
+A: breathe fire, AC +7, unfitting armour, fire resistance 1, cold-blooded,
+clarity, screaming 1
+a: Breathe Fire, Renounce Religion
+
+
+You were in an ice cave.
+You worshipped Vehumet.
+Vehumet was greatly pleased with you.
+You visited 2 branches of the dungeon, and saw 12 of its levels.
+You also visited: Ossuary and Ice Cave.
+
+You collected 798 gold pieces.
+You spent 277 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ I - a +4 spear of flaming (weapon)
+ N - a +5 mace
+Missiles
+ w - a throwing net
+Armour
+ n - a +2 hat (worn)
+ s - a +0 cloak (worn)
+ P - a +0 pair of gloves (worn)
+Magical Staves
+ K - a staff of fire
+Jewellery
+ g - a ring of see invisible (left hand)
+ o - a +5 ring of evasion (right hand)
+Wands
+ D - a wand of charming (19)
+ H - a wand of mindburst (21)
+ M - a wand of flame (6)
+ O - a wand of acid (3)
+Scrolls
+ b - 2 scrolls of immolation {unknown}
+ c - 3 scrolls of enchant armour
+ d - 2 scrolls of fog
+ h - 3 scrolls of teleportation
+ i - 2 scrolls of blinking
+ k - a scroll of silence {unknown}
+ p - 2 scrolls of fear
+ y - 2 scrolls of noise
+ E - a scroll of torment {unknown}
+ F - a scroll of brand weapon {unknown}
+ G - 3 scrolls of vulnerability {unknown}
+ J - a scroll of amnesia {unknown}
+ L - 2 scrolls of poison {unknown}
+ Q - a scroll of magic mapping {unknown}
+Potions
+ a - 4 potions of magic
+ e - 3 potions of invisibility
+ f - 3 potions of lignification
+ j - a potion of experience {unknown}
+ q - a potion of berserk rage {unknown}
+ r - a potion of ambrosia {unknown}
+ t - 2 potions of cancellation
+ u - 2 potions of mutation
+ v - 2 potions of degeneration
+ x - a potion of flight {unknown}
+ z - 2 potions of resistance {unknown}
+ A - 6 potions of haste
+ B - 2 potions of might {unknown}
+ C - a potion of attraction {unknown}
+
+
+   Skills:
+ * Level 9.9 Dodging
+ + Level 7.6 Stealth
+ + Level 7.0 Spellcasting
+ + Level 6.3 Conjurations
+ + Level 0.0 Necromancy
+ + Level 5.2 Fire Magic
+ - Level 8.0 Ice Magic
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Freeze                Ice            100%       1d10      1%          1
+b - Frozen Ramparts       Ice            74%        1d12      1%          3
+c - Ozocubu's Armour      Ice            37%        N/A       1%          3
+d - Searing Ray           Conj           60%        2d6       1%          2
+e - Mephitic Cloud        Conj/Pois/Air  14%        N/A       3%          3
+f - Hailstorm             Conj/Ice       34%        3d9       1%          3
+g - Flame Wave            Conj/Fire      28%        2d9       2%          4
+h - Stone Arrow           Conj/Erth      36%        3d9       2%          3
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Yara's Violent Unravell  Hex/Tmut       3%         3d4       54%         5
+ Magic Dart               Conj           100%       1d8       1%          1
+ Necrotise                Necr           24%        1d5       10%         1
+ Call Imp                 Summ           6%         N/A       16%         2
+ Summon Ice Beast         Ice/Summ       22%        N/A       19%         4
+ Vampiric Draining        Necr           6%         2d6       30%         3
+ Agony                    Necr           6%         N/A       95%         5
+ Lehudib's Crystal Spear  Conj/Erth      9%         10d4      100%        8
+ Animate Armour           Summ/Erth      Unusable   N/A       N/A         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (11/15)        Zot: 26442       Temple (1/1) D:4      Zot: 5770       
+   Lair (0/5) D:10                         Orc (0/2) D:9                      
+Ossuary (visited)                        IceCv (1/1)          Zot: 5785       
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:5 ?   D:7 *   D:8 *   D:9 [
+
+
+Innate Abilities, Weirdness & Mutations
+
+You can breathe blasts of fire.
+Your fiery red scales are hard. (AC +7)
+You cannot fit into any form of body armour.
+Your flesh is heat resistant. (rF+)
+You are cold-blooded and may be slowed by cold attacks.
+You possess an exceptional clarity of mind.
+You occasionally shout uncontrollably at your foes.
+
+Message History
+
+Reach: I) +4 spear (flame)
+Press: ? - help, Dir - move target, f/p - death yak simulacrum
+Aim: a death yak simulacrum (about 2% to evade your +4 spear of flaming)
+Okay, then.
+Unknown command.
+Press: ? - help, v - describe, . - travel
+Here: a death yak simulacrum
+The floor.
+Unknown command.
+Unknown command.
+Reach: I) +4 spear (flame)
+Press: ? - help, Dir - move target, f/p - death yak simulacrum
+Aim: a death yak simulacrum (about 2% to evade your +4 spear of flaming)
+You reach to attack! You hit the death yak simulacrum.
+You melt the death yak simulacrum.
+The death yak simulacrum is lightly damaged.
+Reach: I) +4 spear (flame)
+Press: ? - help, Dir - move target, f/p - death yak simulacrum
+Aim: a death yak simulacrum (lightly damaged, about 2% to evade your +4 spear
+of flaming)
+You hit the death yak simulacrum. You melt the death yak simulacrum.
+The death yak simulacrum is moderately damaged.
+The death yak simulacrum misses you.
+Reach: I) +4 spear (flame)
+Press: ? - help, Dir - move target, f/p - death yak simulacrum
+Aim: a death yak simulacrum (moderately damaged, about 2% to evade your +4
+spear of flaming)
+You hit the death yak simulacrum. You melt the death yak simulacrum.
+You tail-slap the death yak simulacrum.
+The death yak simulacrum is heavily damaged.
+The death yak simulacrum gores you. The death yak simulacrum freezes you!!
+Okay, then.
+Unknown command.
+Reach: I) +4 spear (flame)
+Press: ? - help, Dir - move target, f/p - death yak simulacrum
+Aim: a death yak simulacrum (heavily damaged, about 2% to evade your +4 spear
+of flaming)
+You hit the death yak simulacrum. You melt the death yak simulacrum.
+The death yak simulacrum is severely damaged.
+The death yak simulacrum gores you. The death yak simulacrum freezes you!!!
+You feel yourself slow down.
+Ouch! That really hurt!
+You die...
+
+           #####
+####       #[#.##
+#..####### ##.#.#
+#.∩....#.###.#.## ####
+##..∩.....###..###..Z##
+ ###........###@#.....#
+   ####.###..#.#Z.5#
+      ### ##..○..###
+           ##...##
+           #°#.##
+           #.###
+           ○.
+          ##.
+           (.
+
+
+You could see a white imp and a death yak simulacrum.
+
+Vanquished Creatures
+  Harold (D:8)
+  Erolcha (D:9)
+  3 two-headed ogres
+  Pikel (D:4)
+  A cyclops (D:11)
+  Maggie (D:7)
+  2 rime drakes
+  3 komodo dragons (D:10)
+  A hornet (D:9)
+  The ghost of IttyBitty the Grave Robber, an amateur DsNe (D:4)
+  Sigmund (D:4)
+  A wraith (D:10)
+  A wyvern (D:10)
+  A basilisk (D:10)
+  2 steam dragons
+  9 yaks
+  4 wargs (D:9)
+  An acid dragon (D:8)
+  A water moccasin (D:6)
+  Duvessa (D:4)
+  2 orc warriors
+  A swamp drake (D:10)
+  5 ogres
+  5 centaurs
+  A kobold brigand (D:9)
+  An elf zombie (Ossuary)
+  A phantom (D:5)
+  2 lemures (D:4)
+  Blork the orc (D:4)
+  A gnoll sergeant (D:8)
+  4 scorpions
+  3 necrophages
+  2 two-headed ogre simulacra (IceCv)
+  5 wights (D:7)
+  The ghost of rock0head132 the Trooper, a weakling HOFi (D:4)
+  Dowan (D:4)
+  A vampire bat (D:8)
+  3 howler monkeys (D:7)
+  3 centaur zombies (Ossuary)
+  A human zombie (Ossuary)
+  5 orc priests
+  5 hounds
+  Jessica (D:3)
+  3 iguanas
+  16 orc wizards
+  2 ogre zombies (Ossuary)
+  7 mummies (Ossuary)
+  4 gnolls
+  8 adders
+  3 shadow imps
+  5 white imps
+  2 ufetubi
+  5 adder zombies (Ossuary)
+  2 worms
+  2 dart slugs
+  32 orcs
+  5 bat zombies (D:8)
+  5 endoplasms
+  5 giant cockroaches
+  6 goblins
+  4 hobgoblins (D:1)
+  2 jackals (D:5)
+  7 kobolds
+  5 quokkas
+  4 ball pythons
+  3 bats
+  4 frilled lizards
+  4 goblin zombies (Ossuary)
+  5 hobgoblin zombies (Ossuary)
+  3 kobold zombies (Ossuary)
+  4 quokka zombies (Ossuary)
+  A rat (D:1)
+  2 rat zombies (Ossuary)
+252 creatures vanquished.
+
+Vanquished Creatures (others)
+  3 plants (D:3)
+3 creatures vanquished.
+
+Grand Total: 255 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Draconian Ice Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 3/3
+   145 | D:1      | Reached skill level 2 in Dodging
+   197 | D:1      | Reached XP level 2. HP: 20/20 MP: 0/5
+   522 | D:1      | Reached XP level 3. HP: 26/26 MP: 4/6
+   914 | D:1      | Learned a level 3 spell: Frozen Ramparts
+   957 | D:2      | Found a faded altar of an unknown god.
+  1678 | D:3      | Noticed Jessica
+  1811 | D:2      | Reached XP level 4. HP: 28/33 MP: 0/7
+  2304 | D:2      | Learned a level 3 spell: Ozocubu's Armour
+  2412 | D:3      | Found a radiant altar of Vehumet.
+  2435 | D:3      | Became a worshipper of Vehumet
+  2539 | D:3      | Reached skill level 3 in Dodging
+  2637 | D:3      | Found a white marble altar of Elyvilon.
+  2656 | D:3      | Killed Jessica
+  2657 | D:3      | Reached XP level 5. HP: 37/38 MP: 0/9
+  2812 | D:3      | Found a sparkling altar of Nemelex Xobeh.
+  2889 | D:3      | Found a bloodstained altar of Trog.
+  3080 | D:4      | Found a sand-covered staircase.
+  3085 | D:4      | Noticed Blork the orc
+  3098 | D:4      | Killed Blork the orc
+  3099 | D:4      | Reached skill level 5 in Ice Magic
+  3180 | Ossuary  | Entered an ossuary
+  3372 | Ossuary  | Reached XP level 6. HP: 40/45 MP: 10/10
+  3485 | Ossuary  | Reached * piety under Vehumet
+  3485 | Ossuary  | Offered knowledge of Magic Dart by Vehumet.
+  3770 | Ossuary  | Reached skill level 4 in Dodging
+  4111 | Ossuary  | Your scales start taking on a fiery red colour.
+  4111 | Ossuary  | Reached XP level 7. HP: 29/50 MP: 8/12
+  4111 | Ossuary  | Gained mutation: Your flesh is heat resistant. (rF+) [Red
+                  | Draconian growth]
+  4375 | D:4      | Found a staircase to the Ecumenical Temple.
+  4382 | D:4      | Reached skill level 5 in Ice Magic
+  4405 | Temple   | Entered the Ecumenical Temple
+  4798 | D:4      | Reached ** piety under Vehumet
+  4910 | D:4      | Found a runed translucent gate.
+  4911 | D:4      | Found a runed translucent gate.
+  4912 | D:4      | Found a runed translucent gate.
+  4913 | D:4      | Noticed IttyBitty's ghost (amateur DsNe)
+  4914 | D:4      | Noticed rock0head132's ghost (weakling HOFi)
+  4922 | D:4      | Offered knowledge of Searing Ray by Vehumet.
+  4936 | D:4      | Learned a level 2 spell: Searing Ray
+  4970 | D:4      | Killed IttyBitty's ghost
+  4971 | D:4      | Reached skill level 5 in Dodging
+  4991 | D:4      | Killed rock0head132's ghost
+  4992 | D:4      | Reached skill level 1 in Conjurations
+  4992 | D:4      | Reached XP level 8. HP: 57/57 MP: 2/13
+  5308 | D:4      | Found a glowing golden altar of the Shining One.
+  5332 | D:4      | Noticed Duvessa
+  5332 | D:4      | Noticed Dowan
+  5343 | D:4      | Killed Duvessa
+  5345 | D:4      | Killed Dowan
+  5502 | D:4      | Noticed Sigmund
+  5523 | D:4      | Killed Sigmund
+  5722 | D:4      | Noticed Pikel
+  5754 | D:4      | Killed Pikel
+  5755 | D:4      | Reached skill level 6 in Dodging
+  5930 | D:4      | Learned a level 3 spell: Mephitic Cloud
+  5931 | D:5      | Entered Level 5 of the Dungeon
+  5971 | D:5      | Reached XP level 9. HP: 62/62 MP: 6/15
+  6365 | D:5      | Offered knowledge of Hailstorm by Vehumet.
+  6371 | D:5      | Learned a level 3 spell: Hailstorm
+  6461 | D:5      | Found a stormy altar of Qazlal.
+  6463 | D:5      | Found an iron altar of Okawaru.
+  6468 | D:5      | Reached skill level 5 in Stealth
+  6734 | D:5      | Found Fiwiy's Magic Scroll Shoppe.
+  6742 | D:5      | Bought a scroll of fear for 60 gold pieces
+  6742 | D:5      | Bought a scroll of blinking for 112 gold pieces
+  6742 | D:5      | Bought a scroll of fog for 60 gold pieces
+  7552 | D:6      | Reached skill level 7 in Dodging
+  7552 | D:6      | Reached skill level 5 in Spellcasting
+  7682 | D:6      | Found an opulent altar of Gozag.
+  7940 | D:6      | Reached *** piety under Vehumet
+  8379 | D:6      | Found a shimmering altar of Xom.
+  8601 | D:7      | Noticed Maggie
+  8629 | D:7      | Killed Maggie
+  9213 | D:7      | Found Jurous's General Store.
+  9234 | D:7      | Reached XP level 10. HP: 67/69 MP: 18/18
+  9564 | D:7      | Offered knowledge of Flame Wave by Vehumet.
+  9571 | D:7      | Learned a level 4 spell: Flame Wave
+  9571 | D:7      | Found a blossoming altar of Fedhas.
+  9572 | D:7      | Found a shadowy altar of Dithmenos.
+  9579 | D:7      | Found an ornate altar of the Wu Jian Council.
+  9719 | D:8      | Reached skill level 8 in Dodging
+  9719 | D:8      | Reached skill level 1 in Fire Magic
+ 10203 | D:8      | Found an ancient bone altar of Kikubaaqudgha.
+ 10213 | D:8      | Reached **** piety under Vehumet
+ 10281 | D:8      | Found Sasicezo's Gadget Gallery.
+ 10293 | D:8      | Identified the +1 leather armour of Tomorrow {rCorr Int+5}
+ 10414 | D:9      | Found Ushof's Armour Shoppe.
+ 10417 | D:9      | Bought a +0 pair of gloves for 45 gold pieces
+ 10482 | D:9      | Found a staircase to the Orcish Mines.
+ 10706 | D:9      | Noticed Erolcha
+ 10971 | D:9      | Killed Erolcha
+ 10972 | D:9      | Reached skill level 5 in Conjurations
+ 11145 | D:9      | Noticed Harold
+ 11311 | D:8      | Gained mutation: You occasionally shout uncontrollably at
+                  | your foes. [potion of mutation]
+ 11311 | D:8      | Gained mutation: You possess an exceptional clarity of
+                  | mind. [potion of mutation]
+ 11327 | D:8      | Killed Harold
+ 11438 | D:9      | Offered knowledge of Airstrike by Vehumet.
+ 11690 | D:9      | Reached skill level 9 in Dodging
+ 12037 | D:10     | Entered Level 10 of the Dungeon
+ 12037 | D:10     | Noticed a two-headed ogre
+ 12052 | D:10     | Killed a two-headed ogre
+ 12053 | D:10     | Reached XP level 11. HP: 74/74 MP: 13/20
+ 12272 | D:10     | Noticed a two-headed ogre
+ 12968 | D:10     | Killed a two-headed ogre
+ 13043 | D:10     | Found a staircase to the Lair.
+ 13197 | D:11     | Noticed a two-headed ogre
+ 13208 | D:11     | Killed a two-headed ogre
+ 13334 | D:10     | Reached skill level 5 in Fire Magic
+ 13549 | D:11     | Found a frozen archway.
+ 13691 | IceCv    | Entered an ice cave
+ 13701 | IceCv    | Reached ***** piety under Vehumet
+ 13703 | IceCv    | Offered knowledge of Yara's Violent Unravelling by Vehumet.
+ 13708 | IceCv    | Learned a level 3 spell: Stone Arrow
+ 13898 | IceCv    | Slain by a death yak simulacrum
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      minmay_arrival_split_and_join, layout_basic
+D:2:      layout_loops_ring, ebering_ecumenical_altar_hall,
+          kennysheep_generic_room_16
+D:3:      layout_rooms, nemelex_diamond_rough_becter,
+          mainiacjoe_overflow_boulevard, lemuel_crystal_altar,
+          mainiacjoe_overflow_alcove_4, gup_sewer_entry_glass, uniq_jessica
+D:4:      layout_gridville, mainiacjoe_overflow_paths,
+          minmay_temple_entry_statues, gammafunk_ghost_cemetery,
+          nicolae_ossuary_entry_monument, uniq_duvessa, uniq_pikel,
+          uniq_blork_the_orc, uniq_sigmund
+D:5:      layout_basic, chequers_temple_overflow_statue_of_worship,
+          serial_shops, shop, minmay_manual_mess
+D:6:      layout_basic, grunt_gozag_statues, mainiacjoe_overflow_alcove_1,
+          ebering_dispersal_statue_hall
+D:7:      layout_loops_ring, minitemple, serial_shops,
+          nicolae_shop_hallway_plus, uniq_maggie
+D:8:      layout_rooms, kennysheep_vampire_church, nicolae_shop_gadgets
+D:9:      minmay_flawed_box, layout_loops_ring, minmay_orc_entry_guard_dogs,
+          serial_shops, nicolae_stop_n_shop_2, glass_columns_c, uniq_harold,
+          uniq_erolcha
+D:10:     layout_long_grid, erik_lair_dragon
+D:11:     layout_loops_ring, portal_ice_cave_rime, elyvilon_altar_5
+Temple:   chequers_temple_sunken
+IceCv:    ice_cave_caverns_02
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Dodging        |  2        3     4  5  6  7  9    |  9.9
+Stealth        |     2        3     4     5  6  7 |  7.6
+Ice Magic      |              5  4  5  6  7     8 |  8.0
+Spellcasting   |              3        4  5  6  7 |  7.0
+Conjurations   |                    1  2  4  5  6 |  6.3
+Fire Magic     |                             3  5 |  5.2
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Unarmed           |     8 |       |       |       ||     8
+       Tailslap          |     3 |    78 |    27 |    41 ||   149
+       Dagger            |    25 |   406 |    87 |       ||   518
+       Punch             |       |     8 |     1 |     4 ||    13
+       Halberd           |       |       |    11 |       ||    11
+       Falchion          |       |       |    60 |       ||    60
+       Mace              |       |       |       |    86 ||    86
+       Spear             |       |       |       |   123 ||   123
+ Cast: Freeze            |    56 |    35 |    63 |     9 ||   163
+       Ozocubu's Armour  |       |    21 |    21 |    29 ||    71
+       Frozen Ramparts   |       |     4 |    37 |    34 ||    75
+       Hailstorm         |       |       |     7 |     2 ||     9
+       Searing Ray       |       |       |     5 |     5 ||    10
+       Mephitic Cloud    |       |       |     1 |       ||     1
+ Abil: Breathe Fire      |       |       |    19 |    16 ||    35
+  Use: Potion            |       |     3 |     2 |     9 ||    14
+       Scroll            |       |       |       |    10 ||    10
+ Stab: Sleeping          |       |     1 |       |       ||     1
+       Distracted        |       |       |       |     1 ||     1
+Armor: Skin              |    30 |   102 |    59 |    78 ||   269
+Dodge: Dodged            |    86 |   275 |   235 |   275 ||   871
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  14050 |  13641 |    409 |   2113 |   7565 |  14 | 1003.6 |
+       Dungeon |  12431 |  12022 |    409 |   1672 |   7324 |  11 | 1130.1 |
+        Temple |    229 |    229 |      0 |      0 |    190 |   1 |  229.0 |
+       Ossuary |   1175 |   1175 |      0 |    302 |     51 |   1 | 1175.0 |
+      Ice Cave |    213 |    213 |      0 |    139 |      0 |   1 |  213.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:4: 1462 daAuts
+     D:9: 1381 daAuts
+     D:6: 1350 daAuts
+     D:5: 1339 daAuts
+     D:2: 1306 daAuts
+    D:10: 1224 daAuts
+ Ossuary: 1175 daAuts
+     D:7: 1111 daAuts
+     D:8: 994 daAuts
+     D:1: 935 daAuts
+     D:3: 889 daAuts
+    D:11: 436 daAuts
+  Temple: 229 daAuts
+   IceCv: 213 daAuts
+

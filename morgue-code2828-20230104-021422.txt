@@ -1,0 +1,372 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-586-g23e55c9 (console) character file.
+
+Game seed: 12380014886047005892
+
+5550 code2828 the Basher (level 10, -6/91 HPs)
+             Began as a Minotaur Berserker on Jan 4, 2023.
+             Was a High Priest of Trog.
+             Killed from afar by Erica (21 damage)
+             ... with a lance of force
+             ... on level 8 of the Dungeon.
+             The game lasted 00:19:53 (7538 turns).
+
+code2828 the Basher (Minotaur Berserker)            Turns: 7538, Time: 00:19:53
+
+Health: -6/91      AC: 11    Str: 25    XL:     10   Next: 44%
+Magic:  9/9        EV: 12    Int:  4    God:    Trog [*****.]
+Gold:   342        SH:  0    Dex: 17    Spells: 9/9 levels left
+
+rFire   + . .      SeeInvis .   C - +0 morningstar (heavy)
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   i - +0 storm dragon scales
+rPois   .          Reflect  .   (helmet restricted)
+rElec   +          Harm     .   J - +0 cloak
+rCorr   .          Rampage  .   (no gloves)
+Will    ++...                   (no boots)
+Stlth                           (no amulet)
+HPRegen 1.35/turn               e - ring of protection from fire
+MPRegen 0.11/turn               G - +6 ring of dexterity
+
+@: strong-willed, corroded, regenerating
+A: horns 2, retaliatory headbutt
+a: Renounce Religion, Berserk, Trog's Hand, Brothers in Arms
+
+
+You were on level 8 of the Dungeon.
+You worshipped Trog.
+Trog was extremely pleased with you.
+You visited 1 branch of the dungeon, and saw 8 of its levels.
+You also visited: Ossuary.
+
+You collected 517 gold pieces.
+You spent 175 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ b - a +0 mace of protection
+ C - a +0 heavy morningstar (weapon)
+Missiles
+ j - 4 throwing nets (quivered)
+Armour
+ i - +0 storm dragon scales (worn)
+ J - a +0 cloak (worn)
+ K - a +2 tower shield of resistance
+Jewellery
+ e - a ring of protection from fire (left hand)
+ G - a +6 ring of dexterity (right hand)
+Wands
+ c - a wand of flame (14)
+ E - a wand of polymorph (7)
+ H - a wand of acid (6)
+Scrolls
+ d - 3 scrolls of fog
+ f - 2 scrolls of enchant weapon {unknown}
+ g - 3 scrolls of poison {unknown}
+ h - 3 scrolls of enchant armour {unknown}
+ k - a scroll of magic mapping {unknown}
+ o - 4 scrolls of teleportation {unknown}
+ r - 2 scrolls of brand weapon {unknown}
+ u - 2 scrolls of immolation {unknown}
+ y - a scroll of vulnerability {unknown}
+ A - a scroll of fear {unknown}
+ B - 2 scrolls of noise {unknown}
+ D - a scroll of torment {unknown}
+ I - a scroll of blinking {unknown}
+Potions
+ l - 4 potions of heal wounds
+ m - a potion of berserk rage
+ n - a potion of mutation {unknown}
+ p - 2 potions of lignification
+ q - a potion of curing
+ t - 3 potions of attraction
+ v - a potion of haste
+ w - 3 potions of invisibility
+ x - a potion of cancellation {unknown}
+ z - 4 potions of flight
+ F - 2 potions of ambrosia
+
+
+   Skills:
+ + Level 9.6 Fighting
+ * Level 11.4 Maces & Flails
+ - Level 8.4 Armour
+ + Level 7.6 Dodging
+ * Level 5.1 Shields
+
+
+You had 9 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)         Zot: 25670       Temple (0/1) D:7                      
+Ossuary (visited)                      
+  Lair: D:8-11      
+
+Altars:
+Elyvilon
+Makhleb
+Uskayaw
+Yredelemnul
+The Shining One
+
+Shops:
+D:4 (   D:7 =
+
+Annotations:
+D:8 Erica, Grum
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+Unknown command.
+Press: ? - help, v - describe, . - travel
+The floor.
+Unknown command.
+Unknown command.
+Unknown command.
+Unknown command.
+Unknown command.
+You see here a wolf corpse.
+You barely miss something. Something hits you but does no damage. Grum closely
+misses you.
+You barely miss something.
+You hear a zap.
+A bolt of acid appears from out of thin air!
+The bolt of acid hits you!
+Grum looks in disgust and snarls, "You ain't no friend of mine."
+Grum closely misses you. Grum misses you. Something hits you. Something burns
+you.
+You closely miss something. Something hits you but does no damage. Grum barely
+misses you.
+You pound something like an anvil!!! Your headbutt misses something. Something
+hits you. Grum barely misses you.
+You miss something. You headbutt something! Something hits you! Something burns
+you.
+Grum hits you from afar with a -2 halberd!
+You barely miss something. Something hits you! Something burns you.
+Grum hits you from afar with a -2 halberd! x2
+* * * LOW HITPOINT WARNING * * *
+You hear a zap.
+A bolt of acid appears from out of thin air!
+The bolt of acid misses you.
+You miss something. Your headbutt misses something.
+You hear some strange, mumbled words.
+A bolt of poison appears from out of thin air!
+The bolt of poison hits you!!
+You are poisoned.
+* * * LOW HITPOINT WARNING * * *
+Grum asks, "What kind of bones do Minotaurs have? My dogs are dying to find
+out."
+Grum hits you from afar with a -2 halberd.
+* * * LOW HITPOINT WARNING * * *
+You feel better.
+You hear some strange, mumbled words.
+A lance of force appears from out of thin air!
+The lance of force hits you!!
+You die...
+
+   ....#..# #.##..............###
+    #.....# #.##.####.#.....#.#
+ #####.#..###.##.####.#[.##.#.###
+ ...................>....##.#....
+ .............##.####....##.#.##.
+ .................##..#.###.#####
+ ...(....#.#..##.##..##.# #.##..~
+ ...................###.###.##.♣.
+ .......####.##..#### #......#..♣
+ ######.# #......#    #.###.##.♣.
+      #.###.#..#@#    #.###.##...
+      #.##..#..#~#### #......##''
+      #.#..###..g...# #####.##...
+      #...## ##.....#     #.##...
+     ##..##   ##....#     #..####
+   ###..##..8..+#...##    #.##
+####...##..8.8. ##...#    #.#
+.....### .8._.8  ###...#  ###
+####...##..8.8.    ....#
+#  #.#..##..8..   .......
+#  #.....##...#  .........#
+
+
+You could see Grum.
+
+Vanquished Creatures
+  A hydra (D:8)
+  2 dream sheep (D:8)
+  An orc warrior (D:7)
+  2 black bears
+  2 ogres (D:4)
+  2 wolves (D:8)
+  A centaur (D:7)
+  2 phantoms
+  3 kobold brigands (D:8)
+  A bullfrog (D:7)
+  5 gnoll sergeants (D:7)
+  2 necrophages
+  17 scorpions
+  9 wights (D:7)
+  An electric eel (D:7)
+  4 gnoll boudas (D:7)
+  A bullfrog zombie (D:4)
+  6 hounds
+  3 orc priests
+  2 centaur zombies (Ossuary)
+  A jelly (D:6)
+  2 iguanas
+  6 orc wizards
+  5 scorpion zombies
+  A hound zombie (D:4)
+  3 mummies (Ossuary)
+  51 gnolls
+  7 adders
+  3 white imps
+  An adder zombie (D:4)
+  4 worms
+  A dart slug (D:2)
+  19 orcs
+  4 ball pythons
+  5 bats
+  4 endoplasms
+  4 giant cockroaches
+  4 goblins
+  8 hobgoblins
+  10 jackals
+  2 quokkas
+  7 frilled lizards
+  2 goblin zombies (Ossuary)
+  4 hobgoblin zombies (Ossuary)
+  7 kobolds
+  3 kobold zombies (Ossuary)
+  2 orc zombies (Ossuary)
+  6 rats
+243 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Minotaur Berserker began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   242 | D:1      | Reached XP level 2. HP: 25/27 MP: 1/1
+   879 | D:2      | Reached skill level 4 in Maces & Flails
+   920 | D:2      | Reached XP level 3. HP: 31/33 MP: 2/2
+   939 | D:2      | Reached ** piety under Trog
+   946 | D:2      | Reached XP level 4. HP: 39/41 MP: 3/3
+  1491 | D:3      | Reached XP level 5. HP: 36/47 MP: 4/4
+  1692 | D:3      | Found a faded altar of an unknown god.
+  2249 | D:4      | Found a sand-covered staircase.
+  2256 | Ossuary  | Entered an ossuary
+  2273 | Ossuary  | Reached skill level 5 in Fighting
+  2273 | Ossuary  | Reached skill level 5 in Maces & Flails
+  2290 | Ossuary  | Reached XP level 6. HP: 56/56 MP: 5/5
+  2291 | Ossuary  | Reached *** piety under Trog
+  2341 | Ossuary  | Reached skill level 5 in Armour
+  2478 | Ossuary  | Reached XP level 7. HP: 41/62 MP: 6/6
+  2484 | Ossuary  | Reached skill level 6 in Maces & Flails
+  2816 | Ossuary  | Reached XP level 8. HP: 70/71 MP: 7/7
+  2913 | D:4      | Reached skill level 7 in Maces & Flails
+  3012 | D:4      | Reached skill level 5 in Dodging
+  3218 | D:4      | Found Batathomp's Antique Weapon Shoppe.
+  3304 | D:4      | Found a basalt altar of Yredelemnul.
+  3356 | D:4      | Reached **** piety under Trog
+  3377 | D:4      | Bought a runed morningstar for 175 gold pieces
+  3993 | D:5      | Entered Level 5 of the Dungeon
+  4006 | D:5      | Reached skill level 8 in Maces & Flails
+  4138 | D:5      | Found a burning altar of Makhleb.
+  4469 | D:5      | Reached XP level 9. HP: 71/81 MP: 8/8
+  5091 | D:6      | Reached skill level 9 in Maces & Flails
+  5232 | D:6      | Found a hide-covered altar of Uskayaw.
+  5518 | D:7      | Reached ***** piety under Trog
+  5989 | D:7      | Identified the +0 trident "Zaonar" {flame, rN+}
+  6024 | D:7      | Reached skill level 10 in Maces & Flails
+  6280 | D:7      | Found a staircase to the Ecumenical Temple.
+  6337 | D:7      | Reached skill level 1 in Shields
+  6349 | D:7      | HP: 2/82 [gnoll sergeant/+0 trident of protection (3)]
+  6685 | D:7      | Found Imorarut's Jewellery Shoppe.
+  6850 | D:7      | Reached XP level 10. HP: 78/83 MP: 9/9
+  7232 | D:8      | Found a glowing golden altar of the Shining One.
+  7282 | D:8      | Found a white marble altar of Elyvilon.
+  7335 | D:8      | Reached skill level 11 in Maces & Flails
+  7365 | D:8      | Noticed a three-headed hydra
+  7370 | D:8      | Killed a three-headed hydra
+  7516 | D:8      | Noticed Erica
+  7516 | D:8      | Noticed Grum
+  7525 | D:8      | Reached skill level 5 in Shields
+  7537 | D:8      | HP: 4/91 [Grum/-2 halberd (5)]
+  7538 | D:8      | Killed from afar by Erica
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      giann_wishing_wells, layout_loops_ring
+D:2:      layout_basic, minmay_misc_feat_cross
+D:3:      layout_loops_ring, shapermc_ecumenical_altar_venn
+D:4:      layout_basic, nicolae_yredelemnul_corpse_copse, enter_ossuary_3,
+          serial_shops, shop
+D:5:      layout_rooms, bloody_makhleb
+D:6:      layout_basic, lemuel_round_altar, chequers_decorated_corner
+D:7:      layout_cave_pools, minmay_temple_entry_large_hall, serial_shops,
+          nicolae_shop_behind_doors, serial_gnoll_camp, gnoll_camp_mini_hut,
+          gnoll_camp_mini_basic, gnoll_camp_medium_02, gnoll_camp_huts_moat,
+          abandoned_shop, item_on_display_a
+D:8:      layout_basic, nicolae_elyvilon_peaceful_grove, tso_metal_star,
+          hangedman_ranch, uniq_erica, uniq_maggie, uniq_grum
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Fighting       |     4        5     6  8  9    |  9.6
+Maces & Flails |     4        5     6  8 10 11 | 11.4
+Armour         |     3        4  5  6  7  8    |  8.4
+Dodging        |        3        4     5  7    |  7.6
+Shields        |                          2  5 |  5.1
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Mace              |    62 |   130 |   123 |       ||   315
+       Headbutt          |     8 |    29 |    56 |     7 ||   100
+       Punch             |       |     1 |     5 |       ||     6
+       Morningstar       |       |       |   195 |    69 ||   264
+Invok: Berserk           |       |       |     2 |       ||     2
+       Trog's Hand       |       |       |       |     1 ||     1
+  Use: Potion            |       |     2 |     3 |     1 ||     6
+       Scroll            |       |       |     4 |     7 ||    11
+ Stab: Sleeping          |     1 |       |       |       ||     1
+Armor: Animal skin       |     5 |       |       |       ||     5
+       Storm dragon scal |    22 |   122 |   333 |    53 ||   530
+Dodge: Dodged            |    40 |    56 |   314 |    64 ||   474
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   7726 |   7339 |    387 |    240 |   5431 |   9 |  858.4 |
+       Dungeon |   7072 |   6685 |    387 |    188 |   5053 |   8 |  884.0 |
+       Ossuary |    654 |    654 |      0 |     52 |    378 |   1 |  654.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:7: 1753 daAuts
+     D:4: 1239 daAuts
+     D:3: 811 daAuts
+     D:6: 808 daAuts
+     D:1: 784 daAuts
+     D:2: 678 daAuts
+ Ossuary: 654 daAuts
+     D:5: 604 daAuts
+     D:8: 391 daAuts
+

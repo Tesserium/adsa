@@ -1,0 +1,178 @@
+ Dungeon Crawl Stone Soup version 0.29-a0-243-g602b31c (webtiles) character file.
+
+Game seed: 11994795385388107578
+
+7 code2828 the Chiller (level 2, 0/19 HPs)
+             Began as a Human Ice Elementalist on Mar 5, 2022.
+             Slain by an endoplasm (3 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:02:31 (126 turns).
+
+code2828 the Chiller (Human Ice Elementalist)        Turns: 126, Time: 00:02:32
+
+Health: 0/19       AC:  2    Str:  8    XL:     2   Next: 5%
+Magic:  2/5        EV: 12    Int: 15    God:    
+Gold:   0          SH:  0    Dex: 13    Spells: 4/5 levels left
+
+rFire   . . .      SeeInvis .   (no weapon)
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   a - +0 robe
+rPois   .          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   ++........              (no amulet)
+HPRegen 0.06/turn               (no ring)
+MPRegen 0.09/turn               (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+
+
+   Skills:
+ + Level 2.1 Dodging
+ + Level 2.2 Stealth
+ + Level 2.1 Spellcasting
+ + Level 4.1 Ice Magic
+
+
+You had 4 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Freeze                Ice            52%        1d7       4%          1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Frozen Ramparts          Ice            26%        1d4       12%         3
+ Ozocubu's Armour         Ice            13%        N/A       12%         3
+ Hailstorm                Conj/Ice       7%         3d4       67%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+The endoplasm is almost dead.
+The endoplasm freezes you.
+You are frozen.
+You hit the endoplasm but do no damage.
+The endoplasm is almost dead.
+The endoplasm barely misses you.
+You are too injured to fight recklessly!
+Aiming: Freeze (safe; 4% risk of failure)
+Press: ? - help, Q - select action
+Shift-Dir - straight line, f/p - endoplasm
+Aim: an endoplasm (almost dead)
+You freeze the endoplasm.
+You kill the endoplasm!
+You start resting.
+Magic restored.
+You start resting.
+An endoplasm is nearby!
+An endoplasm is nearby!
+Welcome back, code2828 the Human Ice Elementalist.
+Press ? for a list of commands and other information.
+You see here a +0 club.
+A goblin comes into view. It is wielding a +0 club.
+The goblin shouts!
+The endoplasm quivers.
+The goblin hits you with a +0 club.
+* * * LOW HITPOINT WARNING * * *
+You are too injured to fight recklessly!
+Aiming: Freeze (safe; 4% risk of failure)
+Press: ? - help, Q - select action
+Shift-Dir - straight line, f - goblin
+Aim: a goblin, wielding a +0 club
+You freeze the goblin!
+You kill the goblin!
+The endoplasm closely misses you.
+You have reached level 2!
+Aiming: Freeze (safe; 4% risk of failure)
+Press: ? - help, Q - select action
+Shift-Dir - straight line, f - endoplasm
+Aim: an endoplasm
+You freeze the endoplasm.
+The endoplasm is severely wounded.
+The endoplasm hits you.
+You die...
+
+ #.......#
+ #.......#
+##.......#.#
+.........#.#
+##.......#.#
+#........#.#
+......J..#.#
+#.....)@.#.#
+#....###...#
+... #......#
+#   #.###)##
+    #   #..#
+        ##.##
+         #..#
+         ##.##
+          #..#
+
+
+You could see an endoplasm.
+
+Vanquished Creatures
+  2 bats (D:1)
+  An endoplasm (D:1)
+  2 goblins (D:1)
+5 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Human Ice Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   126 | D:1      | Reached XP level 2. HP: 2/19 MP: 3/5
+   126 | D:1      | Slain by an endoplasm
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      eino_arrival_tree_alley, layout_basic, glass_columns_a
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||     3
+ Cast: Freeze            ||     9
+Dodge: Dodged            ||     5
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |    126 |    126 |      0 |     76 |     17 |   1 |  126.0 |
+       Dungeon |    126 |    126 |      0 |     76 |     17 |   1 |  126.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 126 daAuts
+

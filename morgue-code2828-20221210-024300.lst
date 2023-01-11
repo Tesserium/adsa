@@ -1,0 +1,165 @@
+code2828
+
+Level 1 of the Dungeon
+(5, 0, D:1)
+  a +0 ring mail
+(12, -39, D:1)
+  a +0 pair of boots
+(25, -14, D:1)
+  a book of Weapons
+(30, -44, D:1)
+  a +0 dagger
+(33, -4, D:1)
+  7 stones
+(33, 3, D:1)
+  a +0 ring mail
+(45, -39, D:1)
+  a +0 short sword
+(46, -27, D:1)
+  7 stones
+(49, -11, D:1)
+  a +0 dagger
+  5 stones
+(53, -20, D:1)
+  a +0 leather armour
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 dagger
+(8, -12, D:2)
+  a +0 ring mail
+(11, 15, D:2)
+  a +0 robe
+(24, -16, D:2)
+  a +0 quarterstaff
+(27, 15, D:2)
+  a +0 ring mail
+  a +0 dagger of draining
+(29, 12, D:2)
+  a +0 club
+  a +0 sling
+(35, 1, D:2)
+  a +0 dagger
+  2 stones
+(35, 31, D:2)
+  a +0 leather armour
+(42, 28, D:2)
+  5 poisoned darts
+(46, 14, D:2)
+  a +0 short sword
+
+Level 3 of the Dungeon
+[Shop] Pokapa's Book Boutique
+  Tyedep's Directory of Noxious Assembling (576 gold)
+    Spells                            Type                      Level
+     a - Summon Small Mammal           Summoning                     1
+     b - Spider Form                   Transmutation/Poison          3
+     c - Summon Hydra                  Summoning                     7
+     d - Dragon's Call                 Summoning                     9
+  a book of Power (504 gold)
+  a book of Dreams (288 gold)
+  a book of Blood (336 gold)
+  a book of Vapours (240 gold)
+  a book of Flames (336 gold)
+  a book of the Hunter (312 gold)
+  the Unrestrained Analects (528 gold)
+  Keijem Koix's Lessons on Transposed Impurities (576 gold)
+    Spells                            Type                      Level
+     a - Spider Form                   Transmutation/Poison          3
+     b - Summon Forest                 Summoning/Translocation       5
+     c - Dispersal                     Translocation                 6
+     d - Eringya's Noxious Bog         Transmutation/Poison          6
+[Shop] Dihunil's Armour Emporium
+  a +0 chain mail (54 gold)
+  an orb of guile (156 gold)
+  a +0 ring mail (48 gold)
+  a +0 leather armour (24 gold)
+  a +0 chain mail (54 gold)
+  a +0 leather armour (24 gold)
+  a +0 pair of gloves of hurling (138 gold)
+  a +0 robe (8 gold)
+  a +0 chain mail (54 gold)
+[Shop] Duacw's Weapon Boutique
+  a +0 flail (38 gold)
+  a +0 short sword (33 gold)
+  5 stones (5 gold)
+  a +1 whip of freezing (126 gold)
+  the +9 spear "Voudidy" {flame, Contam *Corrode rF+++ Str+6} (1031 gold)
+    It burns those it strikes, dealing additional fire damage.
+    
+    Str:       It affects your strength (+6).
+    rF:        It renders you almost immune to fire.
+    Contam:    It causes magical contamination when unequipped.
+    *Corrode:  It may corrode you when you take damage.
+  a +0 short sword (33 gold)
+  a +0 long sword (38 gold)
+[Shop] Kangauj's Armour Boutique
+  a +2 plate armour of poison resistance (407 gold)
+  a +0 leather armour (22 gold)
+  the +0 scale mail of the Abyss {+Blink Dex+5} (313 gold)
+    Dex:       It affects your dexterity (+5).
+    +Blink:    It lets you blink.
+  a +0 scale mail (44 gold)
+  a +1 robe of resistance (359 gold)
+  a +0 pair of boots (49 gold)
+  a +0 robe of willpower (84 gold)
+  a +0 ring mail (44 gold)
+[Shop] Fifi's Weapon Boutique
+  3 boomerangs of dispersal (63 gold)
+  a +0 glaive (91 gold)
+  a +0 falchion (42 gold)
+  4 stones (5 gold)
+  a +4 dagger of venom (341 gold)
+  the +9 dire flail of Gehenna {vorpal, rC++ rCorr Int+3} (1223 gold)
+    It inflicts extra damage upon your enemies.
+    
+    Int:       It affects your intelligence (+3).
+    rC:        It greatly protects you from cold.
+    rCorr:     It protects you from acid and corrosion.
+  a +0 dagger (28 gold)
+  a +0 short sword (42 gold)
+(0, 0, D:3)
+  a +0 war axe
+(2, -12, D:3)
+  a +0 club
+(4, -18, D:3)
+  a +0 rapier
+(9, -2, D:3)
+  a +0 club
+(15, -17, D:3)
+  8 stones
+(35, -26, D:3)
+  a +0 mace
+(44, -30, D:3)
+  a staff of air
+(46, -39, D:3)
+  a +0 club
+(46, 0, D:3)
+  7 stones
+(48, -11, D:3)
+  a +0 robe
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 dagger
+(3, -18, D:4)
+  a +0 dagger
+  a +0 robe
+  an orc corpse (skeletalised by now)
+(3, -3, D:4)
+  a hound corpse
+(7, 0, D:4)
+  a +0 spear
+(7, 2, D:4)
+  a +0 hand axe
+(9, 0, D:4)
+  a +0 mace
+(9, 2, D:4)
+  a +0 falchion
+(10, -4, D:4)
+  a +0 robe
+(18, 9, D:4)
+  14 gold pieces
+(22, 21, D:4)
+  a +0 ring mail
+

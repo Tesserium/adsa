@@ -1,0 +1,247 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-553-g7fabdf1 (webtiles) character file.
+
+Game seed: 6255058242920954643
+
+222 code2828 the Ruffian (level 5, 0/47 HPs)
+             Began as a Ghoul Monk on Dec 27, 2022.
+             Slain by a gnoll bouda
+             ... wielding a +0 whip
+              (1 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:04:32 (2623 turns).
+
+code2828 the Ruffian (Ghoul Monk)                   Turns: 2623, Time: 00:04:32
+
+Health: 0/47       AC:  8    Str: 17    XL:     5   Next: 99%
+Magic:  4/4        EV:  7    Int:  5    God:    
+Gold:   105        SH:  0    Dex: 11    Spells: 4/4 levels left
+
+rFire   . . .      SeeInvis .     - Unarmed
+rCold   + . .      Faith    .   (no shield)
+rNeg    + + +      Spirit   .   r - +0 chain mail
+rPois   ∞          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    +....                   (no boots)
+Stlth                           i - amulet of the acrobat
+HPRegen 0.00/turn               p - ring of willpower
+MPRegen 0.09/turn               (no ring)
+
+@: mighty, weakened, inhibited regen
+A: claws 1, cold resistance 1, negative energy resistance 3, inhibited
+regeneration, torment resistance 2, devour on kill
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 105 gold pieces.
+
+Inventory:
+
+Armour
+ r - a +0 chain mail (worn)
+Jewellery
+ i - an amulet of the acrobat (around neck)
+ p - a ring of willpower (left claw)
+Scrolls
+ a - a scroll of blinking {unknown}
+ c - a scroll of fog {unknown}
+ d - a scroll of brand weapon {unknown}
+ e - 2 scrolls of enchant weapon {unknown}
+ g - 4 scrolls of identify {unknown}
+ h - 2 scrolls of vulnerability {unknown}
+ k - 2 scrolls of teleportation {unknown}
+ n - a scroll of magic mapping {unknown}
+ o - a scroll of poison {unknown}
+ q - a scroll of butterflies {unknown}
+Potions
+ b - a potion of ambrosia
+ f - a potion of brilliance {unknown}
+ j - a potion of attraction {unknown}
+ m - a potion of curing {unknown}
+
+
+   Skills:
+ + Level 4.4 Fighting
+ + Level 3.7 Dodging
+ + Level 4.0 Stealth
+ + Level 4.5 Unarmed Combat
+
+
+You had 4 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Sting                    Tmut/Pois      0%         1d3       100%        1
+ Poisonous Vapours        Pois/Air       0%         N/A       100%        2
+ Call Canine Familiar     Summ           0%         N/A       100%        3
+ Portal Projectile        Hex/Tloc       0%         N/A       100%        3
+ Leda's Liquefaction      Hex/Erth       0%         N/A       100%        4
+ Olgreb's Toxic Radiance  Pois           0%         N/A       100%        4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)         Zot: 21387      
+Temple: D:4-7       
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to poison.
+You have sharp fingernails.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+You thrive by killing the living.
+
+Message History
+
+You feel your attacks grow feeble.
+The gnoll bouda hits you but does no damage.
+You scratch the gnoll bouda but do no damage.
+The gnoll bouda is severely wounded.
+The hobgoblin hits you but does no damage.
+The gnoll bouda gazes fiercely through you!
+You feel as though you will be weak longer.
+The gnoll bouda hits you with a +0 whip.
+You scratch the gnoll bouda but do no damage.
+The gnoll bouda is severely wounded.
+The hobgoblin hits you but does no damage.
+The gnoll bouda hits you with a +0 whip!
+* * * LOW HITPOINT WARNING * * *
+You scratch the gnoll bouda.
+The gnoll bouda is almost dead.
+The hobgoblin hits you but does no damage.
+The gnoll bouda hits you with a +0 whip.
+* * * LOW HITPOINT WARNING * * *
+It was a potion of might.
+You feel very mighty all of a sudden.
+The hobgoblin hits you.
+* * * LOW HITPOINT WARNING * * *
+The gnoll bouda prays to its god.
+The gnoll bouda is healed somewhat.
+You barely miss the gnoll bouda.
+The gnoll bouda is severely wounded.
+The hobgoblin hits you but does no damage.
+The gnoll bouda hits you but does no damage.
+You closely miss the gnoll bouda.
+The gnoll bouda is severely wounded.
+The hobgoblin hits you but does no damage.
+The gnoll bouda barely misses you.
+You scratch the gnoll bouda.
+The gnoll bouda is almost dead.
+The hobgoblin hits you.
+* * * LOW HITPOINT WARNING * * *
+The gnoll bouda gazes fiercely through you!
+You feel as though you will be weak longer.
+The gnoll bouda hits you with a +0 whip.
+You die...
+
+.....#   ####...........#
+.....########...........#
+####..#................##
+ #......######........##
+##.##)###    #...#.####
+#..##.###    #.#.#.#
+...##...#    #.#...#
+...##...#    #..g..##
+...##...#    ###@...#
+...##...# ######g.###
+...##...###.......#
+...##...##...######
+...#######...#
+......####...#
+...........###
+####.......#
+   #.......#
+
+
+You could see a gnoll bouda and a hobgoblin.
+
+Vanquished Creatures
+  A howler monkey (D:4)
+  2 orc wizards
+  6 adders
+  2 worms
+  4 dart slugs
+  6 orcs (D:3)
+  5 endoplasms
+  5 giant cockroaches
+  5 goblins
+  5 hobgoblins
+  A quokka (D:2)
+  5 ball pythons
+  4 bats
+  A frilled lizard (D:1)
+  4 kobolds
+  6 rats
+62 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Ghoul Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   120 | D:1      | Reached XP level 2. HP: 23/26 MP: 1/1
+   661 | D:2      | Reached XP level 3. HP: 29/31 MP: 2/2
+  1182 | D:2      | Reached XP level 4. HP: 40/40 MP: 3/3
+  1806 | D:3      | Reached XP level 5. HP: 12/46 MP: 2/4
+  2593 | D:4      | Noticed a black bear
+  2620 | D:3      | HP: 2/47 [hobgoblin (3)]
+  2623 | D:3      | Slain by a gnoll bouda
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      minmay_arrival_wavy_path, layout_loops_ring
+D:2:      layout_basic
+D:3:      layout_rooms, grunt_ministairs_6
+D:4:      kennysheep_kobold_camp, layout_cave_pools, serial_shops,
+          nicolae_lakefront_shop
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Dodging        |     3          |  3.7
+Stealth        |        3     4 |  4.0
+Fighting       |           4    |  4.4
+Unarmed Combat |           4    |  4.5
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |    74 |   156 ||   230
+       Punch             |     2 |     7 ||     9
+  Use: Potion            |       |     3 ||     3
+ Stab: Sleeping          |     3 |     2 ||     5
+Armor: Robe              |    14 |    17 ||    31
+       Chain mail        |       |    51 ||    51
+       Ring mail         |       |     2 ||     2
+Dodge: Dodged            |    45 |    94 ||   139
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   2611 |   2542 |     69 |    218 |   1787 |   4 |  652.8 |
+       Dungeon |   2611 |   2542 |     69 |    218 |   1787 |   4 |  652.8 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:2: 1283 daAuts
+     D:3: 652 daAuts
+     D:1: 616 daAuts
+     D:4: 59 daAuts
+

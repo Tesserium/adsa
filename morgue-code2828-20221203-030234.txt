@@ -1,0 +1,303 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-385-gfebfb9b (webtiles) character file.
+
+Game seed: 4649960974051212972
+
+634 code2828 the Grasshopper (level 7, -9/60 HPs)
+             Began as an Armataur Warper on Dec 3, 2022.
+             Killed by divine providence
+             ... invoked by an orc priest
+              (11 damage)
+             ... on level 5 of the Dungeon.
+             The game lasted 00:14:15 (4177 turns).
+
+code2828 the Grasshopper (Armataur Warper)          Turns: 4177, Time: 00:14:17
+
+Health: -9/60      AC:  4    Str: 17    XL:     7   Next: 24%
+Magic:  9/11       EV:  9    Int: 13    God:    
+Gold:   240        SH:  0    Dex: 11    Spells: 9/11 levels left
+
+rFire   + + .      SeeInvis .   e - +0 rapier (elec)
+rCold   + . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   g - +0 leather armour {rF+}
+rPois   +          Reflect  .   (no helmet)
+rElec   +          Harm     .   (no cloak)
+rCorr   +          Roll     +   (no gloves)
+Will    .....                   (no barding)
+Stlth   ++........              (no amulet)
+HPRegen 0.30/turn               (no ring)
+MPRegen 0.12/turn               (no ring)
+
+@: brilliant, resistant, on blink cooldown
+A: large, rugged brown scales 3, deformed body, armoured tail, roll, long
+tongue, awkward tongue
+a: no special abilities
+
+
+You were on level 5 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 240 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ e - a +0 rapier of electrocution (weapon)
+ t - a +0 hand axe
+Missiles
+ c - 7 boomerangs of dispersal
+ i - 10 poisoned darts (quivered)
+Armour
+ a - a +0 leather armour
+ g - a +0 leather armour of fire resistance (worn)
+Jewellery
+ v - a ring of wizardry
+Wands
+ f - a wand of digging (6)
+ r - a wand of mindburst (35)
+Scrolls
+ b - 2 scrolls of blinking
+ d - a scroll of torment {unknown}
+ h - a scroll of noise {unknown}
+ j - 2 scrolls of teleportation {unknown}
+ k - 2 scrolls of fear {unknown}
+ l - a scroll of vulnerability {unknown}
+ m - a scroll of silence {unknown}
+ o - a scroll of magic mapping {unknown}
+ q - 2 scrolls of fog {unknown}
+ s - a scroll of amnesia {unknown}
+ x - a scroll of summoning {unknown}
+ y - 2 scrolls of identify
+ B - a scroll of enchant weapon {unknown}
+ C - a scroll of brand weapon
+Potions
+ p - a potion of ambrosia
+ u - a potion of haste
+ w - 2 potions of resistance
+ z - a potion of invisibility
+
+
+   Skills:
+ + Level 3.0 Fighting
+ + Level 2.2 Throwing
+ + Level 3.3 Armour
+ + Level 2.2 Dodging
+ + Level 2.6 Stealth
+ + Level 2.8 Unarmed Combat
+ + Level 2.7 Spellcasting
+ * Level 4.8 Translocations
+
+
+You had 9 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Blink                 Tloc           42%        N/A       6%          2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Lesser Beckoning         Tloc           42%        N/A       12%         3
+ Teleport Other           Tloc           21%        N/A       12%         3
+ Vhi's Electric Charge    Tloc/Air       24%        N/A       30%         3
+ Manifold Assault         Tloc           21%        N/A       36%         4
+ Sublimation of Blood     Necr           2%         N/A       38%         2
+ Wereblood                Tmut           2%         N/A       38%         2
+ Dazzling Flash           Conj/Hex       4%         N/A       63%         3
+ Anguish                  Hex/Necr       1%         N/A       95%         4
+ Summon Hydra             Summ           1%         N/A       100%        7
+ Discord                  Hex            1%         N/A       100%        8
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)            
+Temple: D:4-7       
+
+Altars:
+Cheibriados
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are completely covered in rugged brown scales. (AC +3, +7% HP)
+Armour fits poorly on your strangely shaped body.
+You have a long armoured tail.
+You roll when moving toward enemies. (Rampage)
+Your long tongue fully drains potion bottles. (2x potion effects)
+Your tongue gives you trouble enunciating. (1.5x scroll delay)
+
+Message History
+
+You hit the orc.
+You kill the orc!
+The orc priest miscasts a cantrip.
+You barely miss the orc priest.
+The orc priest mumbles some strange prayers to Beogh against you.
+Beogh smites you!
+You closely miss the orc priest.
+The orc priest calls down the wrath of Beogh upon you.
+Pain shoots through your body!
+You hit the orc priest. You tail-slap the orc priest.
+The orc priest is heavily wounded.
+You barely miss the orc. The orc priest hits you with a +0 mace.
+The orc hits you with a +0 dagger.
+You hit the orc priest.
+The orc priest is severely wounded.
+The orc priest invokes the aid of Beogh against you.
+Beogh smites you!
+* * * LOW HITPOINT WARNING * * *
+The orc closely misses you.
+The orc priest hits you but does no damage.
+The orc hits you but does no damage.
+Okay, then.
+Sorry, you're not good enough to have a special ability.
+Press: ? - help, v - describe, . - travel
+The floor, spattered with blood.
+Casting: Blink (safe; 6% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You blink. Found a stone staircase leading down.
+The orc priest calls down the wrath of Beogh upon you.
+Beogh smites you!
+* * * LOW HITPOINT WARNING * * *
+Casting: Blink (safe; 6% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You are still too unstable to blink.
+You slurp down every last drop of the inky potion!
+It was a potion of brilliance.
+You feel clever all of a sudden.
+The orc priest invokes the aid of Beogh against you.
+Beogh smites you!
+You die...
+
+....####....#  #....#
+....#..#....#  ######
+....#..#....#
+....#..#....#
+....#..#....#
+....'..'....#
+....#'##....#>   ###
+#####..#...§#..##..#
+....#..#...o'o..@..#
+#...'..#....#..[..(+
+#..#####....#+######
+#..##..#....#..# ...#
+#......#....+..#....#
+#......#....#..#....#
+#............#+#....#
+#....##≈~..........#
+...###≈≈##~........#
+
+
+You could see an orc priest and an orc.
+
+Vanquished Creatures
+  A water moccasin (D:5)
+  An ogre (D:5)
+  A phantom (D:5)
+  A scorpion (D:5)
+  2 howler monkeys (D:5)
+  A hound (D:4)
+  An orc priest (D:4)
+  Terence (D:3)
+  An iguana (D:4)
+  4 adders
+  A white imp (D:5)
+  A worm (D:3)
+  3 dart slugs
+  8 orcs
+  2 ball pythons
+  8 endoplasms
+  A giant cockroach (D:1)
+  5 goblins
+  9 hobgoblins
+  A jackal (D:1)
+  5 quokkas
+  3 bats
+  2 kobolds
+  2 rats
+65 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Armataur Warper began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 3/3
+   205 | D:1      | Reached XP level 2. HP: 17/25 MP: 4/4
+   223 | D:1      | Reached skill level 1 in Throwing
+   639 | D:2      | Learned a level 2 spell: Blink
+   872 | D:2      | Reached XP level 3. HP: 26/31 MP: 5/5
+  1665 | D:3      | Noticed Terence
+  1674 | D:3      | Killed Terence
+  1675 | D:3      | Reached XP level 4. HP: 17/39 MP: 7/7
+  2083 | D:4      | Reached skill level 1 in Stealth
+  2426 | D:4      | Reached skill level 4 in Translocations
+  2426 | D:4      | Reached XP level 5. HP: 23/44 MP: 8/8
+  2894 | D:4      | Found a snail-covered altar of Cheibriados.
+  3006 | D:5      | Entered Level 5 of the Dungeon
+  3097 | D:5      | Noticed an ogre
+  3119 | D:5      | Killed an ogre
+  3120 | D:5      | Reached XP level 6. HP: 53/53 MP: 9/9
+  3143 | D:5      | Noticed a water moccasin
+  3161 | D:5      | Killed a water moccasin
+  3173 | D:5      | HP: 2/53 [poisoned by a water moccasin]
+  3440 | D:5      | Reached XP level 7. HP: 45/59 MP: 10/10
+  3807 | D:5      | Got the Encyclopedia of Interference
+  4176 | D:5      | HP: 2/60 [orc priest/divine providence (12)]
+  4177 | D:5      | Killed from afar by an orc priest
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      evilmike_arrival_rings, layout_basic, minmay_distorted
+D:2:      layout_loops_ring
+D:3:      layout_rooms, uniq_terence
+D:4:      layout_rooms, kennysheep_slug_shrine
+D:5:      layout_gridville, minivault_4
+
+Skill      XL: |  1  2  3  4  5  6  7 |
+---------------+----------------------+-----
+Fighting       |  2                 3 |  3.0
+Throwing       |     1           2    |  2.2
+Spellcasting   |        2             |  2.7
+Unarmed Combat |        2             |  2.8
+Armour         |        2        3    |  3.3
+Stealth        |           1     2    |  2.6
+Translocations |           4          |  4.8
+Dodging        |                 2    |  2.2
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Rapier            |   153 |   132 |    24 ||   309
+       Unarmed           |     4 |       |       ||     4
+       Tailslap          |    14 |    18 |     5 ||    37
+       Punch             |     3 |     1 |     1 ||     5
+Throw: Dart              |     4 |    11 |     6 ||    21
+ Cast: Blink             |       |       |     1 ||     1
+  Use: Potion            |     1 |     2 |     3 ||     6
+       Scroll            |       |     8 |       ||     8
+Armor: Leather armour    |    71 |    38 |     3 ||   112
+       Skin              |     2 |       |       ||     2
+Dodge: Dodged            |    90 |    63 |     7 ||   160
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   4257 |   4133 |    124 |     45 |   3344 |   5 |  851.4 |
+       Dungeon |   4257 |   4133 |    124 |     45 |   3344 |   5 |  851.4 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:5: 1196 daAuts
+     D:4: 984 daAuts
+     D:2: 892 daAuts
+     D:1: 646 daAuts
+     D:3: 537 daAuts
+

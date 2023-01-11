@@ -1,0 +1,231 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-381-g6ea064c (webtiles) character file.
+
+Game seed: 8714085686140496849
+
+28 code2828 the Shooter (level 3, 0/20 HPs)
+             Began as a Kobold Hexslinger on Dec 2, 2022.
+             Succumbed to an adder's poison
+             ... on level 2 of the Dungeon.
+             The game lasted 00:02:50 (766 turns).
+
+code2828 the Shooter (Kobold Hexslinger)             Turns: 766, Time: 00:02:51
+
+Health: 0/20       AC:  4    Str:  7    XL:     3   Next: 30%
+Magic:  5/5        EV: 14    Int: 16    God:    
+Gold:   35         SH:  0    Dex: 15    Spells: 3/4 levels left
+
+rFire   . . .      SeeInvis .   a - +1 sling
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   k - +0 leather armour
+rPois   .          Reflect  .   d - +0 helmet
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   ++........              (no amulet)
+HPRegen 0.23/turn               (no ring)
+MPRegen 0.09/turn               (no ring)
+
+@: mighty, lethally poisoned (0 -> -13)
+A: small, no large weapons, nightstalker 3
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 35 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 sling (weapon)
+Armour
+ c - a +0 robe
+ d - a +0 helmet (worn)
+ k - a +0 leather armour (worn)
+Jewellery
+ f - a ring of magical power
+Scrolls
+ b - a scroll of poison
+ g - a scroll of teleportation {unknown}
+ l - 2 scrolls of identify {unknown}
+ m - a scroll of amnesia {unknown}
+Potions
+ e - a potion of lignification {unknown}
+ h - a potion of curing {unknown}
+ i - a potion of might
+ j - a potion of brilliance {unknown}
+
+
+   Skills:
+ + Level 1.2 Fighting
+ + Level 3.6 Ranged Weapons
+ + Level 2.8 Dodging
+ * Level 1.3 Spellcasting
+ * Level 3.3 Hexes
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Slow                  Hex            44%        N/A       9%          1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Inner Flame              Hex/Fire       6%         N/A       45%         3
+ Portal Projectile        Hex/Tloc       12%        N/A       45%         3
+ Cause Fear               Hex            5%         N/A       63%         4
+ Dragon Form              Tmut           0%         N/A       100%        7
+ Dragon's Call            Summ           0%         N/A       100%        9
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+Shops:
+D:1 ?
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are small and have problems with some larger weapons.
+You are completely attuned to the shadows.
+
+Message History
+
+The adder barely misses you.
+You shoot a sling bullet. The sling bullet hits the adder.
+The adder is almost dead.
+The adder barely misses you. x2
+You shoot a sling bullet.
+The sling bullet closely misses the adder.
+The adder closely misses you. The adder bites you.
+You are poisoned.
+The adder poisons you!
+You shoot a sling bullet.
+The sling bullet barely misses the adder.
+You feel sick. The adder barely misses you.
+You shoot a sling bullet.
+The sling bullet closely misses the adder.
+You feel sick. The adder bites you but does no damage.
+The adder barely misses you.
+You shoot a sling bullet. The sling bullet misses the adder. You feel sick.
+The adder misses you. The adder closely misses you.
+You shoot a sling bullet.
+The sling bullet closely misses the adder.
+You feel sick.
+You are no longer poisoned.
+The adder bites you.
+You are poisoned.
+The adder poisons you! The adder bites you.
+* * * LOW HITPOINT WARNING * * *
+You are lethally poisoned!
+The adder poisons you!
+You are too injured to fight recklessly!
+You shoot a sling bullet.
+The sling bullet closely misses the adder.
+* * * LOW HITPOINT WARNING * * *
+You feel very sick.
+The adder bites you.
+* * * LOW HITPOINT WARNING * * *
+You are more poisoned.
+The adder poisons you!
+It was a potion of might.
+You feel very mighty all of a sudden.
+You die...
+
+   #########
+   #.......#
+   #.#####.#
+   #.#   #.#
+   #@#####.##########
+ #.†S...............#
+.......##...#######.#
+...#.#.#.....#    #.#
+####.#.##...##    #.#
+       ....##     #.#
+       ###.       #.#
+                  #.#
+                  #.#
+
+
+You could see an adder.
+
+Vanquished Creatures
+  2 dart slugs (D:1)
+  2 ball pythons
+  3 endoplasms (D:1)
+  A giant cockroach (D:1)
+  3 goblins (D:1)
+  3 hobgoblins (D:1)
+  A quokka (D:1)
+  2 bats (D:1)
+  A frilled lizard (D:1)
+  2 kobolds (D:1)
+  3 rats (D:1)
+23 creatures vanquished.
+
+Vanquished Creatures (others)
+  5 plants (D:2)
+  8 withered plants (D:2)
+13 creatures vanquished.
+
+Grand Total: 36 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Kobold Hexslinger began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 12/12 MP: 2/2
+   138 | D:1      | Reached XP level 2. HP: 16/16 MP: 1/3
+   242 | D:1      | Found Asos Hol's Magic Scroll Emporium.
+   379 | D:1      | Reached XP level 3. HP: 20/20 MP: 4/4
+   766 | D:2      | Succumbed to an adder's poison
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      matt_arrival_spirals, layout_rooms, serial_shops, nicolae_shop_trees
+D:2:      layout_loops_corners, shapermc_ecumenical_altar_flowoftime
+
+Skill      XL: |  1 |
+---------------+----+-----
+Ranged Weapons |  3 |  3.6
+Fighting       |    |  1.2
+Dodging        |    |  2.8
+Spellcasting   |    |  1.3
+Hexes          |    |  3.3
+
+Action                   || total
+-------------------------++-------
+ Fire: Sling             ||    74
+ Cast: Slow              ||     1
+  Use: Potion            ||     1
+Armor: Robe              ||     3
+       Leather armour    ||     8
+Dodge: Dodged            ||    39
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |    786 |    743 |     43 |      0 |    576 |   2 |  393.0 |
+       Dungeon |    786 |    743 |     43 |      0 |    576 |   2 |  393.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 716 daAuts
+     D:2: 69 daAuts
+

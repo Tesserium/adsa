@@ -1,0 +1,332 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-390-g80c34de (webtiles) character file.
+
+Game seed: 7700741524067407101
+
+597 code2828 the Gusty (level 7, -1/36 HPs)
+             Began as a Tengu Air Elementalist on Dec 5, 2022.
+             Was a Follower of Sif Muna.
+             Slain by Duvessa
+             ... wielding a +2 short sword of speed
+              (6 damage)
+             ... on level 4 of the Dungeon.
+             The game lasted 00:10:43 (3538 turns).
+
+code2828 the Gusty (Tengu Air Elementalist)         Turns: 3538, Time: 00:10:44
+
+Health: -1/36      AC:  0    Str: 19    XL:     7   Next: 40%
+Magic:  0/13       EV: 16    Int: 17    God:    Sif Muna [*.....]
+Gold:   68         SH:  0    Dex: 14    Spells: 2/13 levels left
+
+rFire   . . .      SeeInvis .   p - +7 dagger of the Hawk {pain, rElec Str+4}
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   (no body armour)
+rPois   .          Reflect  .   (helmet restricted)
+rElec   +          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (boots unavailable)
+Stlth   +++.......              g - amulet of regeneration
+HPRegen 1.06/turn               l - +6 ring of strength
+MPRegen 0.13/turn               (no ring)
+
+@: flying quickly and evasively, quick
+A: beak, talons 3, nimble flight
+a: Renounce Religion, Channel Magic
+
+
+You were on level 4 of the Dungeon.
+You worshipped Sif Muna.
+Sif Muna was aware of your devotion.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 158 gold pieces.
+You spent 90 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ p - the +7 dagger of the Hawk (weapon) {pain, rElec Str+4}
+   (You found it on level 2 of the Dungeon)   
+   
+   In the hands of one skilled in necromantic magic, it inflicts extra damage
+   on living creatures.
+   
+   Str:       It affects your strength (+4).
+   rElec:     It insulates you from electricity.
+Missiles
+ w - a throwing net
+Armour
+ a - a +0 robe
+ n - a +2 leather armour of positive energy
+Jewellery
+ d - an amulet of the acrobat
+ g - an amulet of regeneration (around neck)
+ l - a +6 ring of strength (left hand)
+ s - a ring of wizardry
+Scrolls
+ c - 3 scrolls of teleportation {unknown}
+ h - a scroll of enchant weapon {unknown}
+ j - 3 scrolls of enchant armour {unknown}
+ k - 2 scrolls of identify {unknown}
+ m - a scroll of fog {unknown}
+ q - a scroll of noise {unknown}
+ r - a scroll of blinking {unknown}
+ t - 2 scrolls of immolation {unknown}
+ u - a scroll of amnesia {unknown}
+Potions
+ b - 2 potions of magic
+ e - 2 potions of curing
+ f - 2 potions of might {unknown}
+ i - 2 potions of flight {unknown}
+ o - a potion of mutation {unknown}
+ v - a potion of brilliance {unknown}
+
+
+   Skills:
+ + Level 4.3 Dodging
+ + Level 4.2 Stealth
+ + Level 3.6 Spellcasting
+ + Level 4.5 Conjurations
+ + Level 6.0 Air Magic
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Shock                 Conj/Air       84%        1d8       1%          1
+b - Static Discharge      Conj/Air       42%        2-4/arc   2%          2
+c - Swiftness             Air            23%        N/A       4%          3
+d - Airstrike             Air            11%        2d(2-18)  14%         4
+e - Foxfire               Conj/Fire      40%        2x1d6     6%          1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Sting                    Tmut/Pois      12%        1d3       17%         1
+ Scorch                   Fire           6%         2d5       26%         2
+ Gell's Gravitas          Tloc           3%         N/A       45%         3
+ Teleport Other           Tloc           3%         N/A       45%         3
+ Flame Wave               Conj/Fire      10%        2d6       54%         4
+ Fireball                 Conj/Fire      5%         3d5       87%         5
+ Dispersal                Tloc           1%         N/A       100%        6
+ Starburst                Conj/Fire      5%         6d4       100%        6
+ Summon Cactus Giant      Summ           1%         N/A       100%        6
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Ashenzari
+Gozag
+Qazlal
+Sif Muna
+Trog
+Xom
+Zin
+
+Shops:
+D:4 (
+
+Annotations:
+D:4 Duvessa
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+Your magical nature lets you fly swiftly and evasively.
+
+Message History
+
+Confirm with . or Enter, or press ? or * to list all spells.
+Duvessa is struck by an arc of lightning.
+Duvessa is heavily wounded.
+You resist. You are struck by an arc of lightning. Duvessa barely misses you.
+Duvessa hits you with a +2 short sword of speed!
+Casting: Static Discharge (safe; 2% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Duvessa is struck by an arc of lightning.
+Duvessa is heavily wounded.
+You resist. You are struck by an arc of lightning.
+Duvessa is struck by an arc of lightning.
+Duvessa is severely wounded.
+The lightning grounds out.
+Duvessa hits you with a +2 short sword of speed.
+Duvessa misses you.
+Casting: Static Discharge (safe; 2% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Duvessa is struck by an arc of lightning.
+Duvessa is severely wounded.
+You resist. You are struck by an arc of lightning. The lightning grounds out.
+Duvessa misses you. x2; Duvessa closely misses you.
+Casting: Static Discharge (safe; 2% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Duvessa is struck by an arc of lightning.
+Duvessa is almost dead.
+You resist. You are struck by an arc of lightning.
+Duvessa is struck by an arc of lightning.
+Duvessa is almost dead.
+The lightning grounds out.
+Duvessa hits you with a +2 short sword of speed!
+Duvessa misses you.
+You are too injured to fight recklessly!
+Aiming: Shock (safe; 1% risk of failure)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f - Duvessa
+Aim: Duvessa, wielding a +2 short sword of speed, wearing a +2 scale mail of
+poison resistance and carrying a wand of quicksilver (13) (almost dead,
+berserk, 81% to hit)
+The zap misses Duvessa.
+Duvessa hits you with a +2 short sword of speed!
+* * * LOW HITPOINT WARNING * * *
+Duvessa hits you with a +2 short sword of speed.
+You die...
+
+#.##..##.##
+#..>....#    ##.
+####..##.#   #..
+   #..#  .###..#
+   #..###..#....
+   #.....##.##.#
+   #..##.##.##.#
+   #..##.##.##e#
+   #..##.##.##@#
+   #..##.##.##.#
+   #...........#
+   #.###.#######
+   #.  #.#
+   #.  #.#
+   #.  #.#
+   #.  #.#
+   ..  #.#
+
+
+You could see Duvessa (berserk).
+
+Vanquished Creatures
+  Sigmund (D:2)
+  An ogre (D:4)
+  Dowan (D:4)
+  3 hounds (D:4)
+  Jessica (D:3)
+  7 gnolls
+  4 adders
+  4 dart slugs
+  6 orcs
+  8 ball pythons
+  6 bats
+  7 endoplasms
+  5 giant cockroaches
+  9 goblins
+  5 hobgoblins
+  4 jackals
+  A quokka (D:2)
+  2 frilled lizards
+  7 kobolds
+  3 rats
+85 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Tengu Air Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+   357 | D:1      | Reached XP level 2. HP: 15/15 MP: 0/6
+   731 | D:1      | Found a faded altar of an unknown god.
+  1231 | D:2      | Noticed Sigmund
+  1239 | D:2      | Learned a level 2 spell: Static Discharge
+  1258 | D:2      | Killed Sigmund
+  1259 | D:2      | Reached skill level 5 in Air Magic
+  1259 | D:2      | Reached XP level 3. HP: 19/19 MP: 1/8
+  1259 | D:2      | Reached XP level 4. HP: 24/24 MP: 1/9
+  1259 | D:2      | Gained mutation: Your magical nature lets you fly swiftly
+                  | and evasively. [Tengu growth]
+  1259 | D:2      | Reached XP level 5. HP: 28/28 MP: 1/10
+  1478 | D:2      | Identified the +7 dagger of the Hawk {pain, rElec Str+4}
+  1509 | D:2      | Found a shimmering altar of Xom.
+  2176 | D:3      | Found Zin's Purification Station.
+  2195 | D:3      | Found a glowing silver altar of Zin.
+  2200 | D:3      | Bought a potion of curing for 90 gold pieces
+  2254 | D:3      | Found a broken altar of Ashenzari.
+  2276 | D:3      | Reached XP level 6. HP: 18/32 MP: 11/11
+  2346 | D:3      | Learned a level 3 spell: Swiftness
+  2351 | D:3      | Learned a level 4 spell: Airstrike
+  2353 | D:3      | Learned a level 1 spell: Foxfire
+  2423 | D:3      | Found a bloodstained altar of Trog.
+  2465 | D:3      | Found a shimmering blue altar of Sif Muna.
+  2465 | D:3      | Noticed Jessica
+  2468 | D:3      | Killed Jessica
+  2473 | D:3      | Got Sif Muna's Vademecum on Changing
+  2475 | D:3      | Became a worshipper of Sif Muna the Loreminder
+  2506 | D:3      | Found an opulent altar of Gozag.
+  2693 | D:3      | Found a stormy altar of Qazlal.
+  3322 | D:4      | Found Kafaz's Weapon Shop.
+  3332 | D:4      | Identified the ring of the Everdark {Wiz rF+ Slay-3 SInv
+                  | Stlth+}
+  3350 | D:4      | Reached XP level 7. HP: 33/36 MP: 1/13
+  3526 | D:4      | Noticed Dowan
+  3528 | D:4      | Noticed Duvessa
+  3533 | D:4      | Killed Dowan
+  3533 | D:4      | Reached * piety under Sif Muna
+  3534 | D:4      | Reached skill level 6 in Air Magic
+  3538 | D:4      | Slain by Duvessa
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_prison, layout_basic, ebering_ecumenical_altar_abandoned
+D:2:      layout_loops_ring, basic_altar, uniq_sigmund
+D:3:      layout_loops_ring, nzn_overflow_gifts_of_might_and_magic,
+          old_standard_altar, mainiacjoe_overflow_brackets, zin_purify,
+          cheibrodos_ashenzari_chains
+D:4:      layout_loops_ring, serial_shops, shop,
+          nicolae_concentric_dashed_squares_wild, uniq_duvessa
+
+Skill      XL: |  1  2  3  4  5  6  7 |
+---------------+----------------------+-----
+Conjurations   |     3           4    |  4.5
+Dodging        |     3           4    |  4.3
+Stealth        |     3              4 |  4.2
+Air Magic      |     5              6 |  6.0
+Spellcasting   |              3       |  3.6
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Unarmed           |     9 |       |       ||     9
+       Kick              |     7 |     4 |       ||    11
+       Short sword       |    11 |     5 |       ||    16
+       Peck              |     3 |     5 |       ||     8
+       Dagger            |       |    19 |     7 ||    26
+ Cast: Shock             |    35 |    97 |    14 ||   146
+       Static Discharge  |       |       |     4 ||     4
+  Use: Potion            |       |       |     2 ||     2
+ Stab: Sleeping          |     1 |     1 |       ||     2
+Armor: Robe              |     6 |     1 |       ||     7
+Dodge: Dodged            |    20 |    45 |    13 ||    78
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   3406 |   3326 |     80 |      0 |   2799 |   4 |  851.5 |
+       Dungeon |   3406 |   3326 |     80 |      0 |   2799 |   4 |  851.5 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 1195 daAuts
+     D:3: 856 daAuts
+     D:2: 785 daAuts
+     D:4: 569 daAuts
+

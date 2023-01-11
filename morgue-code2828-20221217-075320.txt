@@ -1,0 +1,564 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-462-gd5975ef (webtiles) character file.
+
+Game seed: 6178111287430950459
+
+69442 code2828 the Stickfighter (level 14, -6/133 HPs)
+             Began as a Minotaur Berserker on Dec 17, 2022.
+             Was a High Priest of Trog.
+             Mangled by a water elemental (12 damage)
+             ... on level 2 of the Shoals.
+             The game lasted 00:56:36 (19909 turns).
+
+code2828 the Stickfighter (Minotaur Berserker)     Turns: 19909, Time: 00:56:37
+
+Health: -6/133     AC: 30    Str: 30    XL:     14   Next: 90%
+Magic:  13/13      EV: 17    Int:  4    God:    Trog [*****.]
+Gold:   1216       SH:  5    Dex: 13    Spells: 13/13 levels left
+
+rFire   . . .      SeeInvis .   q - +3 quarterstaff (vamp)
+rCold   + . .      Faith    .   (shield currently unavailable)
+rNeg    . . .      Spirit   .   r - +5 plate armour {rC+}
+rPois   .          Reflect  +   Q - +1 hat
+rElec   .          Harm     .   S - scarf {repulsion}
+rCorr   .          Rampage  .   g - +2 pair of gloves
+Will    +....                   w - +2 pair of boots {Fly}
+Stlth   ..........              j - amulet of reflection
+HPRegen 0.42/turn               i - +6 ring of strength
+MPRegen 0.13/turn               E - +4 ring of evasion
+
+@: engulfed (cannot breathe), flying, repel missiles
+A: horns 2, retaliatory headbutt
+a: Renounce Religion, Berserk, Trog's Hand, Brothers in Arms
+
+
+You were on level 2 of the Shoals.
+You worshipped Trog.
+Trog was extremely pleased with you.
+You visited 6 branches of the dungeon, and saw 23 of its levels.
+
+You collected 1947 gold pieces.
+You spent 731 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ f - a +0 shortbow
+ q - a +3 vampiric quarterstaff (weapon)
+Missiles
+ u - 8 curare-tipped darts (quivered)
+ H - 5 throwing nets
+Armour
+ g - a +2 pair of gloves (worn)
+ r - a +5 plate armour of cold resistance (worn)
+ w - a +2 pair of boots of flying (worn)
+ Q - a +1 hat (worn)
+ S - a scarf of repulsion (worn)
+Jewellery
+ i - a +6 ring of strength (left hand)
+ j - an amulet of reflection (around neck)
+ k - a ring of see invisible
+ C - a ring of willpower
+ E - a +4 ring of evasion (right hand)
+Wands
+ A - a wand of mindburst (15)
+ B - a wand of acid (11)
+ D - a wand of polymorph (4)
+ J - a wand of paralysis (9)
+ N - a wand of digging (5)
+ P - a wand of iceblast (10)
+Scrolls
+ d - 10 scrolls of teleportation
+ l - a scroll of torment {unknown}
+ o - 6 scrolls of poison
+ p - a scroll of immolation {unknown}
+ x - 2 scrolls of fog {unknown}
+ y - 3 scrolls of enchant weapon
+ z - a scroll of acquirement {unknown}
+ G - 4 scrolls of magic mapping {unknown}
+ I - 5 scrolls of amnesia {unknown}
+ K - 3 scrolls of blinking {unknown}
+ L - 2 scrolls of vulnerability {unknown}
+ M - a scroll of butterflies {unknown}
+ O - 5 scrolls of identify
+ T - a scroll of fear {unknown}
+ V - a scroll of noise {unknown}
+ W - a scroll of silence {unknown}
+Potions
+ a - a potion of might
+ b - 2 potions of magic
+ c - 7 potions of lignification
+ e - 4 potions of ambrosia
+ h - 4 potions of brilliance
+ m - a potion of cancellation {unknown}
+ n - 2 potions of mutation {unknown}
+ t - 2 potions of attraction
+ F - a potion of invisibility {unknown}
+ R - 2 potions of flight
+ U - 3 potions of haste {unknown}
+ Y - a potion of berserk rage {unknown}
+Miscellaneous
+ X - a condenser vane
+
+
+   Skills:
+ + Level 14.9 Fighting
+ - Level 4.4(13.3) Maces & Flails
+ * Level 19.2(19.4) Staves
+ + Level 14.7 Armour
+ + Level 13.6 Dodging
+
+
+You had 13 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (13/15)        Zot: 25506       Temple (1/1) D:4      Zot: 5890       
+   Lair (5/5) D:11     Zot: 24712       Shoals (2/4) Lair:3   Zot: 10807      
+  Snake (0/4) Lair:3                     Slime (0/5) Lair:4                   
+    Orc (1/2) D:11     Zot: 5893          Hell (visited)                      
+Vaults: D:13-14        Dis: Hell:1         Geh: Hell:1         Coc: Hell:1
+   Tar: Hell:1      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Jiyva
+
+Shops:
+D:4 :   D:5 [   D:8 *
+
+Portals:
+Hell: Lair:5
+
+Annotations:
+Hell Geryon
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+Okay, then.
+Okay, then.
+You hit the water elemental but do no damage.
+The water elemental is moderately damaged.
+* * * LOW HITPOINT WARNING * * *
+Your lungs strain for air!
+The water elemental hits you. The water elemental misses you.
+You furiously retaliate! You headbutt the water elemental!
+A merfolk comes into view. It is wielding a +0 trident.
+You thump the water elemental!
+You destroy the water elemental!
+Trog accepts your kill.
+You gasp with relief as air once again reaches your lungs.
+The merfolk hits you but does no damage.
+You sock the water elemental! You headbutt the water elemental!
+The water elemental is severely damaged.
+The water elemental closely misses you. The water elemental misses you.
+You furiously retaliate! You headbutt the water elemental!
+You destroy the water elemental!
+Trog accepts your kill.
+The water elemental hits you.
+* * * LOW HITPOINT WARNING * * *
+The water elemental engulfs you in water!
+The faun points at you and mumbles some strange words.
+You struggle to resist.
+You thump the water elemental!
+You destroy the water elemental!
+Trog accepts your kill.
+* * * LOW HITPOINT WARNING * * *
+Your lungs strain for air!
+The manticore flicks its tail.
+The volley of spikes is repelled.
+The merfolk hits you but does no damage.
+You sock the water elemental! You headbutt the water elemental.
+The water elemental is almost destroyed.
+* * * LOW HITPOINT WARNING * * *
+Your lungs strain for air!
+The faun points at you and mumbles some strange words.
+You struggle to resist. The water elemental hits you!
+You die...
+
+#.....~~......~~~
+#.....~........~~~
+#..............~~~
+#....)....§§...~~~
+#........~~~~...~~
+#~....$††~~C.....~
+~~.....~~m~.....~c
+~.~.~~.).{.....{{~
+~~~~~m....@....{{~
+{{~~~~.........H~~
+~~~~~.............
+~~~~~.............
+.~~~~.~~).#####...
+.~~~~..~)##.###..#
+......~))#.......P
+......~~)........
+ ~~....~~...~~~~~
+
+
+You could see 2 merfolk, a faun, a manticore, a cyclops and a water elemental.
+
+Vanquished Creatures
+  Gastronok (Lair:1)
+  A merfolk javelineer (Shoals:1)
+  Harold (D:9)
+  5 hydras
+  6 two-headed ogres
+  A merfolk aquamancer (Shoals:2)
+  A merfolk avatar (Shoals:1)
+  5 death yaks
+  A sun demon (Lair:5)
+  Nergalle (D:11)
+  Amaemon (Lair:2)
+  Sonja (Lair:4)
+  Lodul (D:11)
+  A sea snake (Shoals:2)
+  A wizard (Lair:5)
+  4 cyclopes
+  7 manticores
+  10 fauns
+  2 oklob plants (D:11)
+  Joseph (D:8)
+  20 elephants
+  2 black mambas (Lair:5)
+  A water nymph (Shoals:2)
+  A smoke demon (Lair:5)
+  6 merfolk sirens
+  4 orange demons
+  A torpor snail (Lair:2)
+  A gargoyle (D:12)
+  12 cane toads
+  5 rime drakes (Lair:5)
+  5 komodo dragons
+  Maggie (Lair:2)
+  An ice devil (Lair:5)
+  A kobold demonologist (D:11)
+  A merfolk (Shoals:1)
+  A red devil (Lair:5)
+  2 wind drakes (Shoals:1)
+  A polar bear (Lair:5)
+  2 hornets
+  15 blink frogs
+  9 dream sheep
+  9 slime creatures
+  A snapping turtle (Shoals:1)
+  A wraith (D:11)
+  A spriggan (D:12)
+  A vampire (D:8)
+  41 yaks
+  6 water elementals
+  6 wyverns
+  A human (D:12)
+  4 vampire mosquitoes (D:10)
+  A basilisk (Lair:3)
+  A warg (Orc:1)
+  2 acid dragons
+  4 nagas (Lair:3)
+  9 water moccasins
+  4 hell hounds (Lair:5)
+  2 orc warriors (D:11)
+  A sky beast (D:7)
+  2 black bears
+  7 ogres
+  22 wolves
+  3 centaurs
+  3 kobold brigands
+  2 gnoll sergeants
+  2 scorpions
+  14 bullfrogs
+  2 necrophages (D:6)
+  7 killer bees
+  2 electric eels
+  3 howler monkeys
+  4 hounds
+  4 jellies
+  12 orc priests
+  A gnoll bouda (D:8)
+  6 iguanas
+  16 orc wizards
+  8 hell rats
+  4 adders
+  17 gnolls
+  3 white imps
+  2 ufetubi (D:4)
+  3 dart slugs
+  2 worms
+  68 orcs
+  7 endoplasms
+  3 goblins
+  7 hobgoblins
+  4 jackals
+  4 quokkas
+  12 ball pythons
+  4 bats
+  4 frilled lizards
+  17 kobolds
+  7 rats
+527 creatures vanquished.
+
+Vanquished Creatures (others)
+  A manticore (Shoals:1)
+  A bush (Lair:2)
+  15 fungi
+  37 plants
+54 creatures vanquished.
+
+Grand Total: 581 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Minotaur Berserker began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   424 | D:1      | Reached XP level 2. HP: 27/27 MP: 1/1
+   992 | D:2      | Reached XP level 3. HP: 33/33 MP: 2/2
+  1120 | D:2      | Reached ** piety under Trog
+  1807 | D:3      | Reached XP level 4. HP: 41/41 MP: 3/3
+  2511 | D:4      | Reached skill level 1 in Staves
+  2511 | D:4      | Reached XP level 5. HP: 28/47 MP: 4/4
+  2569 | D:4      | Found Ecki's Book Boutique.
+  2599 | D:4      | Reached skill level 5 in Fighting
+  2602 | D:4      | Reached skill level 2 in Staves
+  2632 | D:4      | Reached XP level 6. HP: 28/56 MP: 5/5
+  3041 | D:4      | Found a staircase to the Ecumenical Temple.
+  3051 | Temple   | Entered the Ecumenical Temple
+  3314 | D:5      | Entered Level 5 of the Dungeon
+  3336 | D:5      | Reached skill level 3 in Staves
+  3355 | D:5      | Reached skill level 5 in Armour
+  3504 | D:5      | Reached XP level 7. HP: 57/62 MP: 6/6
+  3816 | D:5      | Found Fablau's Armour Shop.
+  3875 | D:5      | Bought a +2 pair of boots of flying for 236 gold pieces
+  4669 | D:6      | Reached skill level 5 in Dodging
+  4751 | D:6      | Reached skill level 4 in Staves
+  4797 | D:6      | Noticed a two-headed ogre
+  4816 | D:6      | Killed a two-headed ogre
+  4817 | D:6      | Reached skill level 6 in Staves
+  4817 | D:6      | Reached XP level 8. HP: 73/73 MP: 7/7
+  5024 | D:6      | Found a sparkling altar of Nemelex Xobeh.
+  5138 | D:6      | Found a shimmering blue altar of Sif Muna.
+  5314 | D:6      | Reached *** piety under Trog
+  5315 | D:6      | Reached skill level 7 in Staves
+  5588 | D:7      | Reached XP level 9. HP: 76/79 MP: 8/8
+  6226 | D:8      | Noticed Joseph
+  6247 | D:8      | Killed Joseph
+  6248 | D:8      | Reached skill level 8 in Staves
+  6378 | D:8      | Noticed a two-headed ogre
+  6396 | D:8      | Killed a two-headed ogre
+  6397 | D:8      | Reached skill level 9 in Staves
+  6802 | D:8      | Found an opulent altar of Gozag.
+  6993 | D:8      | Found Gozag's Platinum Reserve.
+  7127 | D:9      | Reached XP level 10. HP: 88/90 MP: 9/9
+  7142 | D:9      | Reached skill level 10 in Staves
+  7174 | D:9      | Reached **** piety under Trog
+  7449 | D:9      | Noticed Harold
+  7485 | D:9      | Killed Harold
+  7754 | D:9      | Reached skill level 11 in Staves
+  7988 | D:10     | Entered Level 10 of the Dungeon
+  8239 | D:10     | Noticed a two-headed ogre
+  8250 | D:10     | Killed a two-headed ogre
+  8251 | D:10     | Reached skill level 10 in Fighting
+  8285 | D:10     | Reached XP level 11. HP: 74/99 MP: 10/10
+  8427 | D:10     | Paralysed by a hornet for 3 turns
+  8635 | D:10     | Reached skill level 12 in Staves
+  8867 | D:10     | Found a glowing silver altar of Zin.
+  8867 | D:10     | Found a glowing golden altar of the Shining One.
+  8867 | D:10     | Found a white marble altar of Elyvilon.
+  9337 | D:11     | Reached skill level 10 in Armour
+  9355 | D:11     | Noticed an oklob plant
+  9414 | D:11     | Noticed Lodul
+  9443 | D:11     | Killed Lodul
+  9511 | D:11     | Found a staircase to the Orcish Mines.
+  9759 | D:11     | Found a bloodstained altar of Trog.
+ 10152 | D:11     | Found a staircase to the Lair.
+ 10154 | D:11     | Noticed an oklob plant
+ 10309 | D:12     | Noticed a two-headed ogre
+ 10314 | D:12     | Killed a two-headed ogre
+ 10315 | D:12     | Reached skill level 13 in Staves
+ 10325 | D:12     | Noticed a two-headed ogre
+ 10339 | D:12     | Killed a two-headed ogre
+ 10484 | D:12     | Noticed a two-headed ogre
+ 10494 | D:12     | Killed a two-headed ogre
+ 10495 | D:12     | Reached skill level 10 in Dodging
+ 10758 | D:12     | Reached XP level 12. HP: 110/110 MP: 11/11
+ 10966 | D:12     | Reached skill level 14 in Staves
+ 11184 | D:5      | Bought a +3 plate armour of cold resistance for 495 gold
+                  | pieces
+ 11809 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 11809 | Orc:1    | Noticed Nergalle
+ 11819 | D:11     | Killed Nergalle
+ 11903 | Orc:1    | Reached ***** piety under Trog
+ 13085 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 13095 | Lair:1   | Identified the +9 rapier of Impatience {vorpal, rC+ MP+9
+                  | Str-2}
+ 13343 | Lair:1   | Reached skill level 15 in Staves
+ 13411 | Lair:1   | You are sucked into a shaft and drop 1 floor!
+ 13687 | Lair:2   | Noticed Maggie
+ 13691 | Lair:2   | Killed Maggie
+ 13709 | Lair:2   | Noticed Amaemon
+ 13723 | Lair:2   | Killed Amaemon
+ 13923 | Lair:1   | Noticed Gastronok
+ 13958 | Lair:1   | Killed Gastronok
+ 14501 | Lair:2   | Reached XP level 13. HP: 113/119 MP: 12/12
+ 14559 | Lair:2   | Reached skill level 16 in Staves
+ 14951 | Lair:2   | Received a gift from Trog
+ 15602 | Lair:3   | Found a staircase to the Snake Pit.
+ 15712 | Lair:3   | Found a staircase to the Shoals.
+ 16343 | Lair:4   | Identified the +1 helmet of Decompression {+Inv rF++ MP-9
+                  | Str+3}
+ 16448 | Lair:4   | Found a staircase to the Slime Pits.
+ 16448 | Lair:4   | Found a viscous altar of Jiyva.
+ 16690 | Lair:4   | Noticed Sonja
+ 16714 | Lair:4   | Killed Sonja
+ 16715 | Lair:4   | Reached skill level 17 in Staves
+ 16943 | Lair:5   | Entered Level 5 of the Lair of Beasts
+ 17142 | Lair:5   | Reached XP level 14. HP: 130/130 MP: 13/13
+ 17417 | Lair:5   | Reached skill level 18 in Staves
+ 18085 | Lair:5   | Found a burning altar of Makhleb.
+ 18136 | Lair:5   | Received a gift from Trog
+ 18259 | Lair:5   | Found a gateway to Hell.
+ 18481 | Hell     | Entered the Vestibule of Hell
+ 18481 | Hell     | Noticed Geryon
+ 18634 | Shoals:1 | Entered Level 1 of the Shoals
+ 19816 | Shoals:2 | Reached skill level 19 in Staves
+ 19909 | Shoals:2 | HP: 6/133 [drowned by a water elemental (3)]
+ 19909 | Shoals:2 | Mangled by a water elemental
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      mrwooster_arrival_statue_3, layout_basic, roderic_serpentine_path,
+          grunt_decor_arrowhead, ebering_dispersal_statue_hall,
+          chequers_serial_rivers_large_a, kennysheep_pointless_box, minivault_19
+D:2:      layout_basic, minmay_strange_pillars, minmay_crystal_room,
+          kennysheep_generic_room_9
+D:3:      layout_basic, kennysheep_generic_room_13
+D:4:      layout_cave_pools, minmay_temple_entry_hall, serial_shops, shop
+D:5:      layout_layer_cave, serial_shops, shop
+D:6:      layout_gridville, lemuel_tele_altar, nemelex_diamond_rough_becter
+D:7:      layout_basic
+D:8:      layout_rooms, nicolae_gozag_zags_fifth_avenue, nzn_random_ring,
+          uniq_joseph, uniq_grum
+D:9:      layout_rooms, uniq_harold
+D:10:     layout_basic, good_gods_mini_temple
+D:11:     layout_roguey, dpeg_oklobed_lair, hiddenorc2_lemuel,
+          trog_three_pillars_becter, uniq_lodul
+D:12:     layout_rooms, hangedman_stone_soup, minmay_fountain_box,
+          kb_lookout_dungeons_type
+D:13:     layout_layer_cave, serial_bayou, serial_bayou_shore_b,
+          serial_bayou_lake_a, serial_bayou_crossing, serial_bayou_shore_b,
+          serial_shops, shop
+Temple:   kb_temple_of_zot
+Lair:1:   layout_cave_pods, st_stairs_13, uniq_gastronok
+Lair:2:   layout_chaotic_city, serial_rivers, chequers_serial_rivers_marsh,
+          chequers_serial_rivers_large_b, chequers_serial_rivers_micro_e,
+          chequers_serial_rivers_small_3, chequers_serial_rivers_marsh,
+          chequers_serial_rivers_small_a, enter_volcano_2,
+          infiniplex_staircase_pool, serial_bayou_shore_b, uniq_maggie,
+          uniq_amaemon
+Lair:3:   layout_cave_pods, elwin_shoals_entry_rocks,
+          minmay_snake_entry_guardpost_small, grunt_forest_large_clearing_hut,
+          serial_bayou_shore_b
+Lair:4:   layout_loops_ring, slime_entry_1, grunt_forest_small_clearing_treed,
+          uniq_sonja
+Lair:5:   evil_forest, layout_regular_city, lemuel_fruit_fields,
+          grunt_megastairs_5
+Shoals:1: layout_shoals
+Shoals:2: layout_shoals, ldierk_geyser
+Orc:1:    layout_caves, uniq_nergalle
+Hell
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 |
+---------------+-------------------------------------------+-----
+Fighting       |     4        5     7     8 10 11 12 13 14 | 14.9
+Maces & Flails |     4                                     |  4.4
+Armour         |     3        4  5  6  7  8  9 11 12 13 14 | 14.7
+Dodging        |        3     4     5  6  7  9 10 11 12 13 | 13.6
+Staves         |           1  2  3  6  7  9 11 13 15 17 19 | 19.2
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Melee: Mace              |   110 |    29 |       |       |       ||   139
+       Headbutt          |    10 |    12 |    37 |   149 |   204 ||   412
+       Punch             |     1 |     1 |       |       |       ||     2
+       Quarterstaff      |       |    56 |   205 |   653 |   765 ||  1679
+       Unarmed           |       |       |     5 |       |       ||     5
+ Fire: Shortbow          |       |       |       |    16 |       ||    16
+Throw: Dart              |       |       |       |     1 |     4 ||     5
+Invok: Berserk           |       |     2 |     2 |     8 |     1 ||    13
+       Trog's Hand       |       |     2 |     2 |     4 |     3 ||    11
+  Use: Potion            |       |     3 |       |     2 |    11 ||    16
+       Scroll            |       |       |     2 |    12 |     1 ||    15
+ Stab: Sleeping          |     1 |       |       |       |       ||     1
+Armor: Chain mail        |    68 |    34 |    98 |   100 |       ||   300
+       Animal skin       |     1 |       |       |       |       ||     1
+       Plate armour      |       |       |       |    88 |   381 ||   469
+Dodge: Dodged            |    51 |    39 |   100 |   292 |   573 ||  1055
+       Repelled          |       |       |       |       |     8 ||     8
+Block: Other             |     8 |    21 |    27 |   100 |   165 ||   321
+       Reflection        |       |       |     1 |     2 |     9 ||    12
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  19572 |  18302 |   1270 |   1476 |  13332 |  23 |  851.0 |
+       Dungeon |  12874 |  12022 |    852 |   1249 |   8647 |  13 |  990.3 |
+        Temple |    109 |     94 |     15 |      0 |     80 |   1 |  109.0 |
+          Lair |   5287 |   4923 |    364 |     31 |   3858 |   5 | 1057.4 |
+        Shoals |   1192 |   1153 |     39 |    195 |    688 |   2 |  596.0 |
+  Orcish Mines |    106 |    106 |      0 |      0 |     59 |   1 |  106.0 |
+          Hell |      1 |      1 |      0 |      0 |      0 |   1 |    1.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+    D:11: 2363 daAuts
+  Lair:5: 1457 daAuts
+    D:10: 1366 daAuts
+     D:5: 1304 daAuts
+  Lair:2: 1100 daAuts
+Shoals:1: 1019 daAuts
+     D:3: 995 daAuts
+  Lair:3: 979 daAuts
+  Lair:1: 944 daAuts
+     D:6: 926 daAuts
+     D:8: 902 daAuts
+     D:9: 896 daAuts
+     D:1: 830 daAuts
+  Lair:4: 806 daAuts
+    D:12: 779 daAuts
+

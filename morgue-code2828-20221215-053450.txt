@@ -1,0 +1,521 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-458-g86641cc (webtiles) character file.
+
+Game seed: 2585916778283525220
+
+10042 code2828 the Zephyrmancer (level 11, -4/48 HPs)
+             Began as a Tengu Air Elementalist on Dec 15, 2022.
+             Was a Priest of Vehumet.
+             Slain by an unseen horror (6 damage)
+             ... on level 10 of the Dungeon.
+             The game lasted 00:48:01 (13295 turns).
+
+code2828 the Zephyrmancer (Tengu Air Elementalist) Turns: 13295, Time: 00:48:02
+
+Health: -4/48      AC: 13    Str:  6 (8)  XL:     11   Next: 55%
+Magic:  16/21      EV: 17    Int: 18 (21) God:    Vehumet [***...]
+Gold:   511        SH:  3    Dex: 15 (18) Spells: 8/23 levels left
+
+rFire   + . .      SeeInvis .   N - +8 whip of Revolt {spect, rC+ Dex+4}
+rCold   + + +      Faith    .   q - +0 buckler
+rNeg    . . .      Spirit   .   E - +4 ring mail
+rPois   +          Reflect  .   G - +0 hat
+rElec   +          Harm     .   L - +0 cloak
+rCorr   +          Rampage  .   D - +2 pair of gloves
+Will    .....      Rnd*Tele +   (boots unavailable)
+Stlth   +++.......              n - amulet of the acrobat
+HPRegen 0.28/turn               u - ring of Hugis {rC+ EV+4}
+MPRegen 0.17/turn               (no ring)
+
+@: about to teleport, resistant, attractive, flying quickly and evasively, quick
+A: beak, talons 3, nimble flight, frail 1, teleportitis 1, wild magic 1
+a: Renounce Religion
+
+
+You were on level 10 of the Dungeon.
+You worshipped Vehumet.
+Vehumet was most pleased with you.
+You visited 2 branches of the dungeon, and saw 11 of its levels.
+You also visited: Sewer.
+
+You collected 511 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ t - a +5 scythe
+ z - a +4 vorpal spear
+ C - the +9 whip of the Crypt {holy, Str+4}
+   (You found it on level 4 of the Dungeon)   
+   
+   It has been blessed by the Shining One to cause great damage to the undead
+   and demons.
+   
+   Str:       It affects your strength (+4).
+ K - the +5 hand axe "Okkeejos" {vamp, Str+3}
+   (You took it off an orc on level 8 of the Dungeon)   
+   
+   It occasionally heals its wielder for a portion of the damage dealt when it
+   wounds a living foe.
+   
+   Str:       It affects your strength (+3).
+ N - the +8 whip of Revolt (weapon) {spect, rC+ Dex+4}
+   (You found it on level 9 of the Dungeon)   
+   
+   When its wielder attacks, the weapon's spirit leaps out and strikes again.
+   The spirit shares a part of any damage it takes with its wielder.
+   
+   Dex:       It affects your dexterity (+4).
+   rC:        It protects you from cold.
+Missiles
+ c - 53 poisoned darts
+ f - a throwing net
+Armour
+ q - a +0 buckler (worn)
+ D - a +2 pair of gloves (worn)
+ E - a +4 ring mail (worn)
+ G - a +0 hat (worn)
+ L - a +0 cloak (worn)
+Jewellery
+ g - an amulet of guardian spirit
+ n - an amulet of the acrobat (around neck)
+ u - the ring of Hugis (left hand) {rC+ EV+4}
+   (You found it on level 3 of the Dungeon)   
+   
+   [ring of evasion]
+   
+   EV:        It affects your evasion (+4).
+   rC:        It protects you from cold.
+Wands
+ r - a wand of digging (4)
+ s - a wand of roots (4)
+ F - a wand of flame (29)
+ I - a wand of mindburst (11)
+Scrolls
+ d - 2 scrolls of noise {unknown}
+ e - 4 scrolls of fog
+ h - 10 scrolls of identify
+ j - 3 scrolls of vulnerability {unknown}
+ m - 2 scrolls of magic mapping {unknown}
+ o - 5 scrolls of immolation {unknown}
+ p - 2 scrolls of poison {unknown}
+ v - 2 scrolls of teleportation
+ y - 3 scrolls of acquirement {unknown}
+ B - 2 scrolls of fear {unknown}
+ H - a scroll of enchant weapon {unknown}
+ J - a scroll of blinking {unknown}
+Potions
+ a - a potion of lignification
+ b - 3 potions of magic
+ i - 3 potions of cancellation
+ k - 3 potions of might
+ w - a potion of invisibility
+ x - 4 potions of brilliance
+ M - a potion of haste
+
+
+   Skills:
+ + Level 6.2 Maces & Flails
+ - Level 2.7 Polearms
+ + Level 7.6 Dodging
+ + Level 7.7 Stealth
+ + Level 6.5 Spellcasting
+ + Level 8.0 Conjurations
+ + Level 2.4 Hexes
+ * Level 13.0 Air Magic
+
+
+You had 8 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Shock                 Conj/Air       100%       1d9       1%          1
+b - Static Discharge      Conj/Air       100%       2-7/arc   1%          2
+c - Swiftness             Air            62%        N/A       1%          3
+d - Airstrike             Air            31%        2d(5-21)  1%          4
+e - Magic Dart            Conj           100%       1d8       1%          1
+f - Momentum Strike       Conj/Tloc      52%        3d9       7%          2
+g - Poisonous Vapours     Pois/Air       76%        N/A       2%          2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Iskenderun's Mystic Bla  Conj/Tloc      26%        2d7       36%         4
+ Stone Arrow              Conj/Erth      52%        3d10      13%         3
+ Sandblast                Erth           14%        2d6       21%         1
+ Ensorcelled Hibernation  Hex/Ice        26%        N/A       58%         2
+ Passwall                 Tmut/Erth      5%         N/A       75%         2
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (10/15)        Zot: 26056       Temple (1/1) D:5      Zot: 5704       
+   Lair (0/5) D:8                        Sewer (visited)                      
+   Orc: D:9-12      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:6 [
+
+Annotations:
+D:8 Joseph
+D:10 1 runed translucent door, jtro's ghost, journeyman DjCj
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+Your magical nature lets you fly swiftly and evasively.
+You are frail. (-10% HP)
+You are occasionally teleported next to monsters.
+Your spells are a little harder to cast, but a little more powerful.
+
+Message History
+
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f - you
+The zap hits something.
+Something misses you. Something hits you but does no damage.
+Aiming: Shock (safe; 1% risk of failure)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f - you
+The zap hits something.
+Something hits you.
+Aiming: Shock (safe; 1% risk of failure)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f - you
+The zap hits something.
+Something hits you. x2
+Aiming: Shock (safe; 1% risk of failure)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f - you
+Something hits you but does no damage. Something hits you!
+* * * LOW HITPOINT WARNING * * *
+Something misses you.
+It was a potion of degeneration.
+There was something very wrong with that liquid.
+You feel weakened. You feel dopey. You feel clumsy.
+Something barely misses you.
+It was a potion of resistance.
+You feel protected.
+Something completely misses you. Something hits you!
+* * * LOW HITPOINT WARNING * * *
+It was a potion of attraction.
+You feel attractive to monsters.
+Something closely misses you. Something hits you.
+* * * LOW HITPOINT WARNING * * *
+Something is attracted toward you.
+It was a potion of mutation. You feel extremely strange.
+You feel less in control of your magic. You feel weirdly uncertain.
+You feel frail.
+Something hits you but does no damage. You block something's attack.
+Okay, then.
+As you read the scroll of teleportation, it crumbles to dust.
+You feel strangely unstable. Something hits you but does no damage.
+Something barely misses you.
+You whack something! Your kick misses something. Your peck misses something.
+Something hits you.
+You die...
+
+.................# #..##.........
+####.......#####.# #..##.........
+   #.......#   #.# #..##.)......#
+   #.......#   #.# #..##........#
+   #.......#   #.# #..##........#
+   #.......#   #.# #..##........#
+   #.......#   #§# #..##........#
+   #.......#   #.# #..##<.......#
+   #.......#   #@# #..##........#
+####.......#   #.# #..##........#
+...........#####.###..##.........
+)......>.....††......)......<....
+#################################
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A two-headed ogre (D:10)
+  Pikel (D:6)
+  Maggie (D:6)
+  2 trolls
+  Sigmund (D:3)
+  14 yaks
+  Eustachio (D:6)
+  A wraith (D:10)
+  2 wyverns (D:8)
+  A basilisk (D:8)
+  Menkaure (D:5)
+  A steam dragon (D:9)
+  Edmund (D:6)
+  5 water moccasins
+  Duvessa (D:7)
+  3 orc warriors
+  A sky beast (D:6)
+  4 ice beasts
+  A black bear (D:6)
+  2 ogres (D:6)
+  6 centaurs
+  A phantom (Sewer)
+  5 kobold brigands
+  4 bullfrogs
+  Blork the orc (D:5)
+  4 gnoll sergeants
+  4 scorpions
+  A necrophage (D:5)
+  10 wights
+  Dowan (D:7)
+  4 howler monkeys
+  2 hounds (D:5)
+  A jelly (D:5)
+  A gnoll bouda (D:9)
+  5 orc priests
+  3 iguanas
+  Ijyb (D:4)
+  6 orc wizards
+  Robin (D:2)
+  17 gnolls
+  7 adders
+  3 shadow imps
+  3 white imps
+  7 ufetubi
+  4 worms
+  30 orcs
+  8 endoplasms
+  2 giant cockroaches
+  17 goblins
+  3 hobgoblins
+  41 kobolds
+  3 quokkas
+  9 ball pythons
+  7 bats
+  A frilled lizard (D:1)
+  A kobold zombie (Sewer)
+  6 rats
+275 creatures vanquished.
+
+Vanquished Creatures (others)
+  34 fungi
+  22 plants
+56 creatures vanquished.
+
+Grand Total: 331 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Tengu Air Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+   167 | D:1      | Reached XP level 2. HP: 15/15 MP: 4/6
+   552 | D:1      | Reached XP level 3. HP: 19/19 MP: 3/7
+  1143 | D:1      | Learned a level 2 spell: Static Discharge
+  1147 | D:1      | Learned a level 3 spell: Swiftness
+  1507 | D:2      | Noticed Robin
+  1511 | D:2      | Reached XP level 4. HP: 24/24 MP: 6/8
+  1542 | D:2      | HP: 1/24 [goblin/+0 club[Robin] (2)]
+  1652 | D:2      | Killed Robin
+  2121 | D:3      | Found an opulent altar of Gozag.
+  2156 | D:3      | Reached skill level 5 in Air Magic
+  2404 | D:3      | Noticed Sigmund
+  2427 | D:3      | Killed Sigmund
+  2428 | D:3      | Reached skill level 1 in Polearms
+  2428 | D:3      | Gained mutation: Your magical nature lets you fly swiftly
+                  | and evasively. [Tengu growth]
+  2428 | D:3      | Reached XP level 5. HP: 28/28 MP: 6/10
+  2428 | D:3      | Reached XP level 6. HP: 32/32 MP: 6/11
+  2485 | D:3      | Found a broken altar of Ashenzari.
+  2490 | D:3      | Identified the ring of Hugis {rC+ EV+4}
+  2628 | D:3      | Found a glowing drain.
+  2637 | Sewer    | Entered a sewer
+  2746 | Sewer    | Reached skill level 6 in Air Magic
+  3364 | Sewer    | Found an ancient bone altar of Kikubaaqudgha.
+  3432 | Sewer    | Reached XP level 7. HP: 31/36 MP: 0/12
+  3437 | Sewer    | Learned a level 4 spell: Airstrike
+  3717 | Sewer    | Noticed Grinder
+  3950 | D:4      | Identified the +9 whip of the Crypt {holy, Str+4}
+  3967 | D:4      | Found a blossoming altar of Fedhas.
+  4021 | D:4      | Reached skill level 7 in Air Magic
+  4120 | D:4      | Noticed Ijyb
+  4150 | D:4      | Killed Ijyb
+  4400 | D:4      | Found a sacrificial altar of Ru.
+  4491 | D:4      | Found an ancient bone altar of Kikubaaqudgha.
+  4518 | D:4      | You are sucked into a shaft and drop 3 floors!
+  4529 | D:7      | Reached skill level 1 in Maces & Flails
+  4647 | D:7      | Reached XP level 8. HP: 36/41 MP: 3/14
+  4868 | D:7      | Reached skill level 8 in Air Magic
+  5072 | D:5      | Entered Level 5 of the Dungeon
+  5076 | D:5      | Noticed Menkaure
+  5125 | D:5      | Found a staircase to the Ecumenical Temple.
+  5151 | Temple   | Entered the Ecumenical Temple
+  5441 | Temple   | Became a worshipper of Vehumet
+  5757 | D:5      | Noticed Blork the orc
+  5762 | D:5      | Killed Blork the orc
+  5899 | D:5      | Reached skill level 5 in Dodging
+  5899 | D:5      | Reached skill level 5 in Stealth
+  5910 | D:5      | Reached skill level 9 in Air Magic
+  6083 | D:5      | Reached XP level 9. HP: 45/45 MP: 8/16
+  6336 | D:5      | Killed Menkaure
+  7415 | D:6      | Reached * piety under Vehumet
+  7415 | D:6      | Offered knowledge of Magic Dart by Vehumet.
+  7422 | D:6      | Reached skill level 5 in Conjurations
+  7577 | D:6      | Noticed Edmund
+  7591 | D:6      | Killed Edmund
+  7733 | D:6      | Found Odurr's Antique Armour Shop.
+  7735 | D:6      | Noticed Maggie
+  7742 | D:6      | Killed Maggie
+  7743 | D:6      | Reached skill level 10 in Air Magic
+  7867 | D:6      | Reached skill level 5 in Spellcasting
+  7926 | D:6      | Noticed Pikel
+  7935 | D:6      | Killed Pikel
+  8011 | D:6      | Noticed Eustachio
+  8022 | D:6      | Killed Eustachio
+  8023 | D:6      | Reached XP level 10. HP: 45/50 MP: 1/18
+  8159 | D:6      | Found a stormy altar of Qazlal.
+  8214 | D:6      | Found a glowing golden altar of the Shining One.
+  8279 | D:6      | Identified the +1 leather armour "Seshram" {rElec rC+}
+  8403 | D:6      | Reached skill level 11 in Air Magic
+  8591 | D:7      | Learned a level 1 spell: Magic Dart
+  9032 | D:7      | Noticed Dowan
+  9033 | D:7      | Noticed Duvessa
+  9034 | D:7      | Killed Dowan
+  9040 | D:7      | Killed Duvessa
+  9562 | D:7      | Offered knowledge of Momentum Strike by Vehumet.
+  9571 | D:7      | Reached ** piety under Vehumet
+  9626 | D:7      | Learned a level 2 spell: Momentum Strike
+  9802 | D:8      | Reached skill level 5 in Maces & Flails
+  9961 | D:8      | Reached skill level 1 in Hexes
+ 10032 | D:8      | Identified the +5 hand axe "Okkeejos" {vamp, Str+3}
+ 10042 | D:8      | Offered knowledge of Poisonous Vapours by Vehumet.
+ 10050 | D:8      | Learned a level 2 spell: Poisonous Vapours
+ 10242 | D:8      | Reached skill level 12 in Air Magic
+ 10315 | D:8      | Found a staircase to the Lair.
+ 10491 | D:8      | Noticed Joseph
+ 10502 | D:8      | Reached XP level 11. HP: 20/54 MP: 14/21
+ 10961 | D:8      | HP: 1/54 [Joseph/sling bullet (6)]
+ 11321 | D:9      | Identified the +8 whip of Revolt {spect, rC+ Dex+4}
+ 11380 | D:9      | Reached *** piety under Vehumet
+ 12300 | D:10     | Entered Level 10 of the Dungeon
+ 12459 | D:10     | Noticed a two-headed ogre
+ 12465 | D:10     | Killed a two-headed ogre
+ 12589 | D:10     | Offered knowledge of Iskenderun's Mystic Blast by Vehumet.
+ 12717 | D:10     | Found a runed translucent door.
+ 12719 | D:10     | Noticed jtro's ghost (journeyman DjCj)
+ 12720 | D:10     | Identified the +7 trident "Neyr" {speed, rPois}
+ 12726 | D:10     | Noticed a spriggan rider
+ 13024 | D:10     | Reached skill level 13 in Air Magic
+ 13292 | D:10     | HP: 1/54 [something (5)]
+ 13293 | D:10     | Gained mutation: Your spells are a little harder to cast,
+                  | but a little more powerful. [potion of mutation]
+ 13293 | D:10     | Gained mutation: You are occasionally teleported next to
+                  | monsters. [potion of mutation]
+ 13293 | D:10     | Gained mutation: You are frail. (-10% HP) [potion of
+                  | mutation]
+ 13295 | D:10     | Slain by an unseen horror
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      amcnicky_arrival_underground_garden, layout_loops_ring
+D:2:      layout_basic, nicolae_wormholes, uniq_robin
+D:3:      layout_basic, ashenzari_altar_1, general_overflow_altar,
+          portal_sewer_entry_d, kennysheep_generic_room_14, uniq_sigmund
+D:4:      layout_cave_pools, mainiacjoe_overflow_small_starburst,
+          mainiacjoe_overflow_catch_the_wave, uniq_ijyb, uniq_grinder
+D:5:      layout_cave_pods, minmay_temple_entry_ruins, serial_park,
+          serial_park_square2, serial_park_square3
+          [serial_park_minivault_5x5_3], serial_park_square3
+          [serial_park_minivault_5x5_6], serial_park_tiny_1,
+          kb_lookout_dungeons_type, uniq_blork_the_orc, uniq_menkaure
+D:6:      layout_rooms, mainiacjoe_overflow_large_starburst, serial_shops,
+          nicolae_shop_waterfront, grunt_ministairs_12, uniq_maggie,
+          uniq_edmund, uniq_eustachio, uniq_pikel
+D:7:      layout_gridville, enter_ossuary_2, uniq_duvessa
+D:8:      layout_loops_ring, minmay_lair_entry_grove, uniq_joseph
+D:9:      layout_gridville
+D:10:     layout_long_grid, ebering_ghost_funeral_grove, nrook_mini_vaults
+Temple:   regret_index_temple_generic_petals
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Conjurations   |     2                 4  6  7  8 |  8.0
+Air Magic      |           5     6  7  9 10 12 13 | 13.0
+Polearms       |           1     2                |  2.7
+Dodging        |           3        4  5  6  7    |  7.6
+Stealth        |           3        4  5  6  7    |  7.7
+Spellcasting   |           3           4  5  6    |  6.5
+Maces & Flails |                    1  3  4  5  6 |  6.2
+Hexes          |                             1  2 |  2.4
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Kick              |     1 |     5 |     5 |     2 ||    13
+       Unarmed           |     1 |     7 |     2 |       ||    10
+       Spear             |     3 |    25 |       |       ||    28
+       Peck              |     1 |     5 |     1 |     4 ||    11
+       Whip              |       |       |    19 |    13 ||    32
+ Cast: Shock             |    73 |   124 |   259 |   407 ||   863
+       Swiftness         |       |     1 |       |       ||     1
+       Static Discharge  |       |       |     8 |     7 ||    15
+       Airstrike         |       |       |    17 |    13 ||    30
+  Use: Potion            |       |     4 |     3 |     9 ||    16
+       Scroll            |       |     6 |     1 |     3 ||    10
+Armor: Leather armour    |     4 |    35 |    16 |       ||    55
+       Ring mail         |       |       |    10 |    48 ||    58
+Dodge: Dodged            |     8 |    95 |   110 |   175 ||   388
+Block: Buckler           |       |     3 |    14 |    24 ||    41
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  12818 |  12491 |    327 |   1734 |   8178 |  12 | 1068.2 |
+       Dungeon |  11413 |  11179 |    234 |   1559 |   7407 |  10 | 1141.3 |
+        Temple |    295 |    203 |     92 |      0 |    177 |   1 |  295.0 |
+         Sewer |   1109 |   1109 |      0 |    175 |    594 |   1 | 1109.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:7: 1647 daAuts
+     D:5: 1630 daAuts
+     D:8: 1325 daAuts
+     D:6: 1267 daAuts
+     D:1: 1189 daAuts
+   Sewer: 1109 daAuts
+     D:9: 983 daAuts
+    D:10: 942 daAuts
+     D:2: 932 daAuts
+     D:3: 793 daAuts
+     D:4: 701 daAuts
+  Temple: 295 daAuts
+

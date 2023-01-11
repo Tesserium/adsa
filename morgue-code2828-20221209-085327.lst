@@ -1,0 +1,259 @@
+code2828
+
+Level 1 of the Dungeon
+(5, 17, D:1)
+  a +0 dagger
+(9, 15, D:1)
+  a +0 dagger
+(10, -9, D:1)
+  a +0 robe
+(12, -8, D:1)
+  a +0 short sword
+  5 stones
+  a +0 club
+(19, 13, D:1)
+  a +0 dagger
+(22, 3, D:1)
+  a +0 dagger
+(22, 13, D:1)
+  a +0 dagger
+(23, 11, D:1)
+  a potion of ambrosia
+(26, -7, D:1)
+  a +0 club
+(29, 15, D:1)
+  a +0 dagger
+(30, -9, D:1)
+  5 boomerangs
+(38, -7, D:1)
+  4 stones
+(49, -12, D:1)
+  a +0 dagger
+(52, -8, D:1)
+  a +0 club
+(54, -13, D:1)
+  a +0 leather armour
+(55, -15, D:1)
+  a +0 dagger
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  8 stones
+(1, 26, D:2)
+  a potion of invisibility
+(3, 1, D:2)
+  a +0 short sword
+(3, 4, D:2)
+  a +0 whip
+(4, 2, D:2)
+  a +0 club
+(16, -6, D:2)
+  a +0 dagger of venom
+  a +0 animal skin
+  a +2 helmet
+(18, 33, D:2)
+  a +0 robe
+(20, 16, D:2)
+  a +0 long sword
+(20, 22, D:2)
+  a potion of attraction
+(26, 33, D:2)
+  a +0 club
+(27, 35, D:2)
+  a +0 club
+(29, -2, D:2)
+  a +0 dagger
+  a +0 robe
+(35, 1, D:2)
+  a +0 spear
+(37, 29, D:2)
+  a +0 hand axe
+(37, 32, D:2)
+  3 stones
+(40, 32, D:2)
+  a potion of haste
+(41, 17, D:2)
+  5 stones
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 dagger
+(2, -2, D:3)
+  a +0 dagger
+(3, 17, D:3)
+  a potion of attraction
+(3, 24, D:3)
+  a +0 mace
+  a +0 ring mail
+  a staff of conjuration
+  a +0 flail
+  a +0 scale mail
+  a staff of earth
+  a +0 leather armour
+(4, 24, D:3)
+  a +0 trident
+  a +0 ring mail
+(9, 17, D:3)
+  a +0 dagger
+(11, 7, D:3)
+  a +0 dagger
+(13, 8, D:3)
+  a +0 club
+(14, 9, D:3)
+  a +0 club
+(15, 28, D:3)
+  2 potions of might
+(17, 13, D:3)
+  a +0 dagger
+(18, 13, D:3)
+  a +0 club
+(19, 14, D:3)
+  4 stones
+  a +0 short sword
+(21, 12, D:3)
+  a +0 club
+(35, 23, D:3)
+  a +0 short sword
+(36, 9, D:3)
+  a potion of brilliance
+(45, 11, D:3)
+  a potion of haste
+(45, 28, D:3)
+  a +0 club
+(51, -3, D:3)
+  a +0 ring mail
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 longbow
+(3, -29, D:4)
+  a +0 giant club
+(4, -52, D:4)
+  a +0 leather armour
+(6, -29, D:4)
+  a +0 chain mail
+(7, -7, D:4)
+  a +0 mace
+(8, -7, D:4)
+  a +0 hand axe
+  a +0 ring mail
+  a +0 dagger
+  a +0 robe
+(9, -7, D:4)
+  a +0 dagger
+(32, -36, D:4)
+  5 poisoned darts
+(32, -22, D:4)
+  a +0 dagger
+(36, -8, D:4)
+  6 poisoned darts
+(37, -20, D:4)
+  a +0 chain mail
+(47, -24, D:4)
+  a +0 club
+(47, -13, D:4)
+  a +0 short sword
+(52, -34, D:4)
+  a +0 dagger
+  a +0 whip
+  a +2 hand axe of venom
+(52, -33, D:4)
+  a +0 dagger
+(53, -34, D:4)
+  a +0 dagger
+(57, -49, D:4)
+  a +0 mace
+(57, -13, D:4)
+  a +0 mace
+  a +0 leather armour
+  a +0 club
+(58, -47, D:4)
+  a +0 short sword
+(61, -24, D:4)
+  a +0 hand axe
+
+Level 5 of the Dungeon
+[Shop] Isunt's General Store
+  3 curare-tipped darts (18 gold)
+  3 stones (3 gold)
+  3 scrolls of identify (60 gold)
+  a tin of tremorstones (2/2) (400 gold)
+  a scroll of blinking (75 gold)
+  the +1 robe "Wepnurphoysk" {Int+4} (211 gold)
+    Int:       It affects your intelligence (+4).
+  a scroll of identify (20 gold)
+  8 stones (8 gold)
+  a scroll of fog (40 gold)
+[Shop] Mon Nauc's Book Shop
+  Sif Muna's Textbook on Singed Misery (360 gold)
+    Spells                            Type                      Level
+     a - Kiss of Death                 Conjuration/Necromancy        1
+     b - Flame Wave                    Conjuration/Fire              4
+     c - Animate Dead                  Necromancy                    4
+  a book of Burglary (300 gold)
+  a book of Minor Magic (270 gold)
+  a book of Fire (450 gold)
+  the Atlas of Violent Grit (630 gold)
+    Spells                            Type                      Level
+     a - Magic Dart                    Conjuration                   1
+     b - Animate Armour                Summoning/Earth               4
+     c - Petrify                       Transmutation/Earth           4
+     d - Lehudib's Crystal Spear       Conjuration/Earth             8
+  Maxwell's Memoranda (570 gold)
+  a Young Poisoner's Handbook (300 gold)
+  a manual of Shields (1200 gold)
+(0, 0, D:5)
+  a ring of positive energy
+(1, -21, D:5)
+  a +0 leather armour
+(1, 1, D:5)
+  a ring of positive energy
+(2, 5, D:5)
+  5 stones
+(3, -2, D:5)
+  a +0 spear
+(7, -12, D:5)
+  a +0 long sword
+(15, 3, D:5)
+  a potion of curing
+(24, 7, D:5)
+  a +0 dagger
+(40, -22, D:5)
+  a +0 hand axe
+  a +0 dagger
+  a +0 ring mail
+  a +0 dagger
+  a +0 whip
+(41, -21, D:5)
+  a +0 club
+(47, 7, D:5)
+  a potion of curing
+
+Level 6 of the Dungeon
+[Shop] Cuedudaema's Book Emporium
+  the Parchment of Inconstant Earth (418 gold)
+    Spells                            Type                      Level
+     a - Wereblood                     Transmutation                 2
+     b - Spider Form                   Transmutation/Poison          3
+     c - Animate Armour                Summoning/Earth               4
+     d - Iron Shot                     Conjuration/Earth             6
+  a book of Flames (308 gold)
+  Sif Muna's Papyrus of the Shifting Arsonist (528 gold)
+    Spells                            Type                      Level
+     a - Foxfire                       Conjuration/Fire              1
+     b - Blade Hands                   Transmutation                 5
+     c - Starburst                     Conjuration/Fire              6
+     d - Necromutation                 Transmutation/Necromancy      8
+  a book of Minor Magic (198 gold)
+  a book of Geomancy (198 gold)
+  a book of Touch (242 gold)
+  a book of Armaments (396 gold)
+(0, 0, D:6)
+  a +0 halberd
+(0, 1, D:6)
+  a +0 spear
+(1, -3, D:6)
+  a +0 halberd
+
+the Ecumenical Temple
+

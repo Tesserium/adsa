@@ -1,0 +1,173 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-475-g03497ec (webtiles) character file.
+
+Game seed: 7305418860461339639
+
+0 code2828 the Shooter (level 1, 0/17 HPs)
+             Began as a Demigod Hunter on Dec 21, 2022.
+             Slain by a kobold
+             ... wielding a +0 dagger
+              (1 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:00:14 (66 turns).
+
+code2828 the Shooter (Demigod Hunter)                 Turns: 66, Time: 00:00:14
+
+Health: 0/17       AC:  3    Str: 12    XL:     1   Next: 0%
+Magic:  3/3        EV: 12    Int: 11    God:    
+Gold:   17         SH:  0    Dex: 17    Spells: 0/0 levels left
+
+rFire   . . .      SeeInvis .   a - +0 shortbow
+rCold   . . .      Faith    .   (shield currently unavailable)
+rNeg    . . .      Spirit   .   c - +0 leather armour
+rPois   .          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   ++........              (no amulet)
+HPRegen 0.22/turn               (no ring)
+MPRegen 0.08/turn               (no ring)
+
+@: no status effects
+A: high MP 1, forlorn, divine attributes
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 17 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 shortbow (weapon)
+Armour
+ c - a +0 leather armour (worn)
+Jewellery
+ d - a +6 ring of strength
+Scrolls
+ b - a scroll of immolation
+
+
+   Skills:
+ + Level 1.7 Fighting
+ + Level 3.6 Ranged Weapons
+ + Level 1.7 Dodging
+ + Level 0.8 Stealth
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)         Zot: 5928
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have an increased reservoir of magic. (+10% MP)
+You shall have no god before yourself.
+Your divine heritage dramatically boosts your attributes as you level up.
+
+Message History
+
+You shoot an arrow.
+The arrow hits the kobold but does no damage.
+You shoot an arrow.
+The arrow hits the kobold but does no damage.
+The kobold hits you but does no damage.
+You shoot an arrow.
+The arrow hits the kobold but does no damage.
+The kobold hits you with a +0 dagger.
+You shoot an arrow.
+The arrow hits the kobold but does no damage.
+A hobgoblin comes into view.
+The kobold hits you but does no damage.
+A kobold comes into view. It is wielding a +0 whip.
+You shoot an arrow. The arrow closely misses the kobold.
+The kobold closely misses you. The kobold misses you.
+You shoot an arrow. The arrow closely misses the kobold.
+The kobold hits you but does no damage.
+You shoot an arrow. The arrow closely misses the kobold.
+The arrow barely misses the kobold. The hobgoblin closely misses you.
+The hobgoblin hits you. The kobold barely misses you.
+You shoot an arrow.
+The arrow hits the kobold but does no damage.
+The hobgoblin barely misses you. The kobold hits you with a +0 dagger.
+The kobold hits you but does no damage.
+You shoot an arrow. The arrow closely misses the kobold.
+The hobgoblin misses you. The kobold hits you but does no damage.
+The kobold hits you with a +0 whip.
+You shoot an arrow.
+The arrow hits the kobold but does no damage.
+The kobold hits you but does no damage.
+The hobgoblin hits you but does no damage.
+The kobold barely misses you. The kobold hits you with a +0 dagger.
+The kobold hits you with a +0 whip.
+* * * LOW HITPOINT WARNING * * *
+The hobgoblin barely misses you.
+You shoot an arrow. The arrow barely misses the hobgoblin.
+The hobgoblin hits you.
+* * * LOW HITPOINT WARNING * * *
+The kobold hits you with a +0 dagger.
+You die...
+
+           ....
+           ...
+           ..#
+         ##..###
+         ......
+         #...#
+         #Kg.#
+         #@K.###.#
+      ####........
+      #......##...
+      #.##.###   .
+   ####.##.#
+   #.......#
+   #.......#
+####.......#
+#..).......#
+
+
+You could see a hobgoblin and 2 kobolds.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Demigod Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 17/17 MP: 3/3
+    66 | D:1      | Slain by a kobold
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_tiny_k, layout_loops_ring
+
+Action                   || total
+-------------------------++-------
+ Fire: Shortbow          ||    12
+Armor: Leather armour    ||     7
+Dodge: Dodged            ||     8
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |     70 |     70 |      0 |      0 |     52 |   1 |   70.0 |
+       Dungeon |     70 |     70 |      0 |      0 |     52 |   1 |   70.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 70 daAuts
+

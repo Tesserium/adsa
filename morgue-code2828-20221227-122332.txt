@@ -1,0 +1,283 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-553-g7fabdf1 (webtiles) character file.
+
+Game seed: 12645980127796397193
+
+99 code2828 the Digger (level 4, -6/24 HPs)
+             Began as a Gargoyle Earth Elementalist on Dec 27, 2022.
+             Was a Believer of Fedhas.
+             Killed by divine providence
+             ... invoked by an orc priest
+              (15 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:08:45 (2124 turns).
+
+code2828 the Digger (Gargoyle Earth Elementalist)   Turns: 2124, Time: 00:08:45
+
+Health: -6/24      AC:  6    Str: 12    XL:     4   Next: 72%
+Magic:  2/6        EV: 12    Int: 17    God:    Fedhas [**....]
+Gold:   110        SH:  0    Dex: 10    Spells: 8/9 levels left
+
+rFire   . . .      SeeInvis .   d - +0 whip
+rCold   + . .      Faith    .   (no shield)
+rNeg    + . .      Spirit   .   a - +0 robe
+rPois   ∞          Reflect  .   (no helmet)
+rElec   +          Harm     .   (no cloak)
+rCorr   .          Rampage  .   n - +0 pair of gloves
+Will    .....                   (no boots)
+Stlth   ++                      (no amulet)
+HPRegen 0.24/turn               j - ring of wizardry
+MPRegen 0.10/turn               (no ring)
+
+@: no status effects
+A: sickness immunity, AC +3, negative energy resistance 1, electricity
+resistance, torment resistance 1, petrification resistance, cold resistance 1,
+low MP 2, evolution 1
+a: Renounce Religion, Wall of Briars
+
+
+You were on level 3 of the Dungeon.
+You worshipped Fedhas.
+Fedhas was pleased with you.
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 110 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ d - a +0 whip (weapon)
+Armour
+ a - a +0 robe (worn)
+ n - a +0 pair of gloves (worn)
+Jewellery
+ j - a ring of wizardry (left hand)
+Scrolls
+ c - a scroll of enchant weapon {unknown}
+ g - a scroll of poison {unknown}
+ h - 5 scrolls of teleportation {unknown}
+ i - a scroll of noise {unknown}
+ k - a scroll of vulnerability {unknown}
+Potions
+ b - a potion of magic
+ f - a potion of brilliance {unknown}
+ l - a potion of haste {unknown}
+ m - a potion of degeneration {unknown}
+ o - a potion of might {unknown}
+
+
+   Skills:
+ + Level 2.1 Dodging
+ + Level 3.0 Stealth
+ * Level 3.0 Spellcasting
+ - Level 0.9 Transmutations
+ * Level 4.6 Earth Magic
+ + Level 0.0 Invocations
+
+
+You had 8 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Sandblast             Erth           36%        2d10      1%          1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Passwall                 Tmut/Erth      10%        N/A       3%          2
+ Apportation              Tloc           4%         N/A       7%          1
+ Necrotise                Necr           8%         1d4       7%          1
+ Summon Small Mammal      Summ           8%         N/A       7%          1
+ Stone Arrow              Conj/Erth      20%        3d8       9%          3
+ Petrify                  Tmut/Erth      12%        N/A       22%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)         Zot: 15822      
+
+Altars:
+Fedhas
+
+Annotations:
+D:3 Sigmund
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to sickness and miasma.
+Your stone body is resilient. (AC +3)
+You are immune to poison.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You are resistant to unholy torment.
+You are immune to petrification.
+Your flesh is cold resistant. (rC+)
+Your magical capacity is very low. (-20% MP)
+You have hidden genetic potential.
+
+Message History
+
+The orc hits you with a +0 dagger.
+Aiming: Sandblast (safe; 1% risk of failure)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f/p - Sigmund
+Aim: Sigmund, wielding a +0 scythe and wearing a +1 robe of the Archmagi
+(severely wounded, 80% to hit)
+The blast of sand hits the orc.
+The orc is almost dead.
+The orc priest shouts!
+The orc hits you with a +0 dagger. Sigmund hits you but does no damage.
+The orc hits you but does no damage.
+Aiming: Sandblast (safe; 1% risk of failure)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f/p - Sigmund
+Aim: Sigmund, wielding a +0 scythe and wearing a +1 robe of the Archmagi
+(severely wounded, 80% to hit)
+The blast of sand hits the orc but does no damage.
+The orc is almost dead.
+Sigmund casts a spell.
+Sigmund flickers and vanishes!
+Deactivating autopickup; reactivate with Ctrl-A.
+The orc barely misses you. Something hits you.
+Aiming: Sandblast (safe; 1% risk of failure)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f - orc
+Aim: an orc, wielding a +0 dagger and wearing a +0 ring mail (almost dead, 84%
+to hit)
+The blast of sand hits the orc!
+You kill the orc!
+Fedhas appreciates your contribution to the ecosystem.
+The orc priest calls down the wrath of Beogh upon you.
+Pain shoots through your body! The orc hits you with a +0 flail.
+Something hits you but does no damage.
+Aiming: Sandblast (safe; 1% risk of failure)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f - orc
+Aim: an orc, wielding a +0 flail and wearing a +0 leather armour (82% to hit)
+Okay, then.
+It was a potion of mutation. You feel extremely strange.
+You feel a hidden potential growing inside you.
+You feel less energetic. x2; You feel resistant to cold.
+The orc barely misses you.
+The orc priest calls down the wrath of Beogh upon you.
+Beogh smites you!
+Ouch! That really hurt!
+You die...
+Fedhas appreciates your contribution to the ecosystem.
+
+........##.#
+...........#
+........##########
+#####............#
+    #...[........#
+    #............#           .
+    #............#          ..
+    #............#         o..
+    #...........@#########....
+   #..<.........#o....).......
+   #......:.....#.~o..........
+   #..........).#.............
+     ...........#.............
+      ..........#............$
+       .........#..$..........
+        ....#####.............
+                #.............
+
+
+You could see an orc priest and an orc.
+
+Vanquished Creatures
+  3 adders (D:2)
+  2 worms
+  2 orcs (D:3)
+  6 ball pythons
+  An endoplasm (D:2)
+  7 goblins
+  9 hobgoblins
+  7 jackals (D:2)
+  3 quokkas
+  7 bats
+  2 frilled lizards
+  6 kobolds
+  A rat (D:1)
+56 creatures vanquished.
+
+Vanquished Creatures (others)
+  A plant (D:2)
+1 creature vanquished.
+
+Grand Total: 57 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Gargoyle Earth Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 3/3
+   215 | D:1      | Reached XP level 2. HP: 15/15 MP: 3/5
+   424 | D:1      | Reached skill level 4 in Earth Magic
+   567 | D:1      | Reached XP level 3. HP: 19/19 MP: 4/6
+   775 | D:1      | Found a faded altar of an unknown god.
+   783 | D:1      | Prayed at the altar of an unknown god.
+   783 | D:1      | Became a worshipper of Fedhas Madash
+   783 | D:1      | Reached * piety under Fedhas
+  1181 | D:2      | Reached XP level 4. HP: 24/24 MP: 5/8
+  1346 | D:2      | Reached ** piety under Fedhas
+  2104 | D:3      | Noticed Sigmund
+  2124 | D:3      | Gained mutation: You have hidden genetic potential. [potion
+                  | of mutation]
+  2124 | D:3      | Gained mutation: Your magical capacity is low. (-10% MP)
+                  | [potion of mutation]
+  2124 | D:3      | Gained mutation: Your magical capacity is very low. (-20%
+                  | MP) [potion of mutation]
+  2124 | D:3      | Gained mutation: Your flesh is cold resistant. (rC+)
+                  | [potion of mutation]
+  2124 | D:3      | Killed from afar by an orc priest
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      minmay_arrival_four_houses, layout_rooms,
+          hellmonk_ecumenical_altar_inner_sanctum
+D:2:      layout_loops_ring, minivault_14, serial_bayou_pond_b, glass_columns_b,
+          chequers_serial_rivers_room_b, hangedman_decor_riveting
+D:3:      layout_basic, lemuel_zombie_altar_kikubaaqudgha,
+          ebering_ghost_reflecting_pool, gup_sewer_entry_bubbles, uniq_sigmund
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Earth Magic    |     4       |  4.6
+Dodging        |        2    |  2.1
+Stealth        |           3 |  3.0
+Spellcasting   |           3 |  3.0
+Transmutations |             |  0.9
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |     1 |       ||     1
+       Whip              |    10 |       ||    10
+ Cast: Sandblast         |    51 |    36 ||    87
+  Use: Potion            |       |     1 ||     1
+Armor: Robe              |     5 |     9 ||    14
+Dodge: Dodged            |    18 |     7 ||    25
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   2176 |   2029 |    147 |      0 |   1689 |   3 |  725.3 |
+       Dungeon |   2176 |   2029 |    147 |      0 |   1689 |   3 |  725.3 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:2: 1120 daAuts
+     D:1: 872 daAuts
+     D:3: 183 daAuts
+

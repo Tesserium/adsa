@@ -1,0 +1,234 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-305-g026cb31 (webtiles) character file.
+
+Game seed: 1416621019707502052
+
+47 code2828 the Vexing (level 3, -3/29 HPs)
+             Began as an Armataur Hexslinger on Oct 23, 2022.
+             Slain by a gnoll
+             ... wielding a +0 spear
+              (8 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:10:00 (491 turns).
+
+code2828 the Vexing (Armataur Hexslinger)            Turns: 491, Time: 00:10:01
+
+Health: -3/29      AC:  8    Str: 17    XL:     3   Next: 48%
+Magic:  4/4        EV:  8    Int: 13    God:    
+Gold:   52         SH:  0    Dex: 10    Spells: 3/4 levels left
+
+rFire   + . .      SeeInvis .   e - +0 short sword
+rCold   x . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   k - +2 ring mail {Will+}
+rPois   .          Reflect  .   (no helmet)
+rElec   .          Harm     .   i - +0 cloak
+rCorr   .          Roll     +   (no gloves)
+Will    +....                   (no barding)
+Stlth   ..........              (no amulet)
+HPRegen 0.24/turn               f - ring of fire
+MPRegen 0.09/turn               (no ring)
+
+@: brilliant
+A: large, rugged brown scales 3, deformed body, armoured tail, roll, long
+tongue, awkward tongue
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 52 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 sling
+ e - a +0 short sword (weapon)
+Armour
+ c - a +0 robe
+ i - a +0 cloak (worn)
+ k - a +2 ring mail of willpower (worn)
+Jewellery
+ f - a ring of fire (left hand)
+Scrolls
+ b - a scroll of poison
+ g - 3 scrolls of identify {unknown}
+Potions
+ j - a potion of cancellation {unknown}
+
+
+   Skills:
+ + Level 1.4 Fighting
+ * Level 1.1 Short Blades
+ - Level 1.5 Ranged Weapons
+ * Level 1.9 Dodging
+ + Level 1.3 Spellcasting
+ + Level 2.9 Hexes
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Slow                  Hex            48%        N/A       16%         1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Inner Flame              Hex/Fire       10%        N/A       63%         3
+ Portal Projectile        Hex/Tloc       14%        N/A       63%         3
+ Cause Fear               Hex            6%         N/A       83%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are completely covered in rugged brown scales. (AC +3, +7% HP)
+Armour fits poorly on your strangely shaped body.
+You have a long armoured tail.
+You roll when moving toward enemies. (Rampage)
+Your long tongue fully drains potion bottles. (2x potion effects)
+Your tongue gives you trouble enunciating. (1.5x scroll delay)
+
+Message History
+
+The gnoll hits you but does no damage.
+The gnoll hits you from afar with a +0 spear.
+* * * LOW HITPOINT WARNING * * *
+You see here a ball python corpse.
+A gnoll comes into view. It is wielding a +0 spear.
+The gnoll shouts!
+There are monsters nearby!
+You slurp down every last drop of the brown potion!
+It was a potion of curing. You feel better.
+The gnoll hits you from afar with a +0 spear.
+You slurp down every last drop of the emerald potion!
+It was a potion of brilliance.
+You feel clever all of a sudden.
+The gnoll hits you but does no damage.
+The gnoll hits you with a +0 spear.
+The gnoll hits you from afar with a +0 halberd.
+A quokka comes into view.
+You hit the gnoll.
+The gnoll is almost dead.
+The gnoll hits you but does no damage. x2; The gnoll barely misses you.
+You hit the gnoll.
+You kill the gnoll!
+The gnoll closely misses you.
+The gnoll hits you from afar with a +0 spear.
+You roll towards the gnoll! You hit the gnoll. Your tail-slap misses the gnoll.
+The gnoll is lightly wounded.
+The gnoll barely misses you.
+You closely miss the gnoll.
+The gnoll is lightly wounded.
+The gnoll barely misses you. The gnoll closely misses you.
+You hit the gnoll.
+The gnoll is moderately wounded.
+The gnoll misses you.
+The gnoll hits you from afar with a +0 spear.
+You hit the gnoll but do no damage.
+The gnoll is moderately wounded.
+The gnoll hits you with a +0 halberd!
+* * * LOW HITPOINT WARNING * * *
+The gnoll hits you from afar with a +0 spear!
+You die...
+
+#######
+#.....#
+#.....#
+#.....#
+#.....#
+#.....##########
+#......@gr.....#
+#....g###.......
+####.##  .####..
+   #.#   .#
+   #.#   .#
+   #.#   ##
+   #.#
+   #..
+   ..
+
+
+You could see 2 gnolls and a quokka.
+
+Vanquished Creatures
+  An adder (D:3)
+  A gnoll (D:2)
+  A worm (D:2)
+  A dart slug (D:3)
+  5 ball pythons
+  An endoplasm (D:1)
+  A giant cockroach (D:1)
+  2 goblins
+  2 hobgoblins
+  A quokka (D:3)
+  2 frilled lizards (D:1)
+  2 kobolds
+  5 rats
+25 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Armataur Hexslinger began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 2/2
+    32 | D:1      | Reached skill level 1 in Fighting
+   102 | D:1      | Reached XP level 2. HP: 17/24 MP: 3/3
+   378 | D:3      | Reached skill level 1 in Short Blades
+   378 | D:3      | Reached XP level 3. HP: 20/29 MP: 4/4
+   491 | D:2      | Slain by a gnoll
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      ebering_trefoil_twist, layout_basic
+D:2:      layout_rooms, hellmonk_ecumenical_altar_prayer_group
+D:3:      layout_loops_cross
+
+Skill      XL: |  1  2 |
+---------------+-------+-----
+Fighting       |  1    |  1.4
+Short Blades   |     1 |  1.1
+Ranged Weapons |       |  1.5
+Dodging        |       |  1.9
+Spellcasting   |       |  1.3
+Hexes          |       |  2.9
+
+Action                   || total
+-------------------------++-------
+Melee: Short sword       ||    81
+       Tailslap          ||    10
+ Fire: Sling             ||    21
+ Cast: Slow              ||     5
+  Use: Potion            ||     2
+Armor: Robe              ||    24
+       Ring mail         ||    28
+Dodge: Dodged            ||    69
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |    495 |    491 |      4 |     76 |      5 |   3 |  165.0 |
+       Dungeon |    495 |    491 |      4 |     76 |      5 |   3 |  165.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:3: 197 daAuts
+     D:1: 194 daAuts
+     D:2: 103 daAuts
+

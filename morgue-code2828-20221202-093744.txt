@@ -1,0 +1,557 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-381-g6ea064c (webtiles) character file.
+
+Game seed: 13955798349840954862
+
+35048 code2828 the Impaler (level 13, 0/124 HPs)
+             Began as a Minotaur Berserker on Dec 2, 2022.
+             Was an Elder of Trog.
+             Killed from afar by a salamander mystic (10 damage)
+             ... with a lance of force
+             ... on level 2 of the Lair of Beasts.
+             The game lasted 00:51:40 (15495 turns).
+
+code2828 the Impaler (Minotaur Berserker)          Turns: 15495, Time: 00:51:42
+
+Health: 0/124      AC: 23    Str: 26    XL:     13   Next: 45%
+Magic:  12/12      EV: 12    Int:  4    God:    Trog [****..]
+Gold:   174        SH:  0    Dex: 17    Spells: 12/12 levels left
+
+rFire   . . .      SeeInvis .   H - +7 trident of Haudauff {flame, Fragile +Blink rPois rN+}
+rCold   . . .      Faith    .   (no shield)
+rNeg    + . .      Spirit   .   N - +1 chain mail {Will+}
+rPois   +          Reflect  .   U - +2 hat
+rElec   .          Harm     .   V - +0 cloak
+rCorr   .          Rampage  .   D - +0 pair of gloves
+Will    +....                   (no boots)
+Stlth   ..........              E - amulet of the acrobat
+HPRegen 0.40/turn               R - +6 ring of dexterity
+MPRegen 0.13/turn               c - +4 ring of protection
+
+@: slowed, very slow
+A: horns 2, retaliatory headbutt
+a: Renounce Religion, Evoke Blink, Berserk, Trog's Hand, Brothers in Arms
+
+
+You were on level 2 of the Lair of Beasts.
+You worshipped Trog.
+Trog was greatly pleased with you.
+You visited 5 branches of the dungeon, and saw 17 of its levels.
+You also visited: Ossuary.
+
+You collected 886 gold pieces.
+You spent 712 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ H - the +7 trident of Haudauff (weapon) {flame, Fragile +Blink rPois rN+}
+   (You found it on level 7 of the Dungeon)   
+   
+   It burns those it strikes, dealing additional fire damage.
+   
+   rPois:     It protects you from poison.
+   rN:        It protects you from negative energy.
+   +Blink:    It lets you blink.
+   Fragile:   It will be destroyed if unequipped.
+ O - a +0 glaive
+ Z - a +4 executioner's axe
+Missiles
+ i - 5 atropa-tipped darts (quivered)
+ I - a throwing net
+Armour
+ b - a +0 plate armour
+ D - a +0 pair of gloves (worn)
+ N - a +1 chain mail of willpower (worn)
+ U - a +2 hat (worn)
+ V - a +0 cloak (worn)
+Jewellery
+ c - a +4 ring of protection (right hand)
+ j - a ring of see invisible
+ E - an amulet of the acrobat (around neck)
+ F - a +6 ring of intelligence
+ M - a ring of positive energy
+ Q - an amulet of faith
+ R - a +6 ring of dexterity (left hand)
+ X - a ring of fire
+Wands
+ n - a wand of iceblast (18)
+ p - a wand of flame (12)
+ B - a wand of polymorph (8)
+Scrolls
+ f - 10 scrolls of teleportation
+ g - 4 scrolls of butterflies
+ h - 3 scrolls of poison {unknown}
+ k - 4 scrolls of magic mapping
+ l - 3 scrolls of torment {unknown}
+ o - 3 scrolls of noise {unknown}
+ q - 2 scrolls of brand weapon
+ r - 4 scrolls of immolation
+ u - 2 scrolls of enchant armour {unknown}
+ y - 2 scrolls of silence {unknown}
+ z - 3 scrolls of enchant weapon {unknown}
+ A - a scroll of vulnerability {unknown}
+ C - 3 scrolls of fear {unknown}
+ J - 6 scrolls of amnesia
+ T - 2 scrolls of summoning {unknown}
+ Y - 2 scrolls of blinking {unknown}
+Potions
+ d - a potion of attraction
+ m - 5 potions of brilliance
+ s - 2 potions of might
+ t - 6 potions of degeneration
+ w - 3 potions of mutation
+ x - 4 potions of haste
+ G - 4 potions of cancellation {unknown}
+ K - a potion of ambrosia {unknown}
+ L - 6 potions of invisibility
+ P - 2 potions of lignification {unknown}
+ S - 4 potions of flight {unknown}
+ W - a potion of resistance {unknown}
+
+
+   Skills:
+ + Level 14.1 Fighting
+ + Level 10.0(14.2) Axes
+ + Level 16.0(17.0) Polearms
+ + Level 1.1 Throwing
+ + Level 14.2 Armour
+ + Level 5.6 Dodging
+ + Level 2.5 Stealth
+
+
+You had 12 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (12/15)            Temple (1/1) D:5            Lair (2/5) D:9         
+ Shoals (1/4) Lair:2        Snake (1/4) Lair:2          Orc (0/2) D:12        
+Ossuary (visited)         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Jiyva
+
+Shops:
+D:2 !   D:4 =   D:11 ([
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+You closely miss the salamander mystic.
+Your headbutt misses the salamander mystic.
+The salamander mystic is lightly wounded.
+You feel very sick.
+The salamander mystic barely misses you.
+The naga mage hits you from afar with a +0 spear.
+The naga mage hits you but does no damage.
+You hit the salamander mystic.
+The salamander mystic is moderately wounded.
+You feel very sick.
+The naga mage no longer looks unusually toxic.
+The salamander mystic hits you with a +0 quarterstaff!
+You are engulfed in flames!
+The naga mage gestures at you while chanting.
+The bolt of poison misses you.
+You feel very sick.
+The naga mage spits poison at you.
+The splash of poison misses you.
+There is a staircase back to the Lair here.
+You feel very sick.
+The salamander mystic closely misses you.
+The naga mage closely misses you.
+The naga mage hits you from afar with a +0 halberd!
+* * * LOW HITPOINT WARNING * * *
+The salamander mystic hits you with a +0 quarterstaff.
+* * * LOW HITPOINT WARNING * * *
+You are engulfed in flames!
+* * * LOW HITPOINT WARNING * * *
+You climb upwards. Welcome back to the Lair of Beasts!
+You feel very sick.
+There is a staircase to the Snake Pit here.
+You feel better.
+The salamander mystic hits you but does no damage.
+You feel better.
+The salamander mystic points at you and mumbles some strange words.
+The bolt of magma hits you!!
+* * * LOW HITPOINT WARNING * * *
+The salamander mystic points at you and mumbles some strange words.
+The lance of force hits you!
+You die...
+
+                            #...
+                           ##...
+            ############  ##....
+            #)#.P#.#.#.#  #.....
+            ##.........####.....
+             ##...........#.....
+             #..................
+             ##................P
+             #.@..........P...P.
+             #N........P.PPPPP..
+            ##...............P..
+           ##..................P
+           #P..#............>.P.
+          ##...#..........P...PP
+         ##....##......P..P...P.
+ ###    ##.#.####......PP.......
+##.#### #....#  ##.......P).....
+
+
+You could see a salamander mystic.
+
+Vanquished Creatures
+  Gastronok (Lair:2)
+  A fire dragon (D:10)
+  A hydra (D:12)
+  Erica (D:10)
+  A boulder beetle (D:11)
+  3 two-headed ogres
+  Amaemon (D:9)
+  A cyclops (D:11)
+  2 manticores
+  9 fauns (Shoals:1)
+  5 elephants
+  A naga mage (Snake:1)
+  3 black mambas (Lair:1)
+  6 cane toads
+  An orange demon (D:9)
+  A gargoyle (D:10)
+  An unseen horror (D:10)
+  2 kobold demonologists
+  2 rime drakes (Lair:1)
+  2 komodo dragons (Lair:2)
+  A polar bear (Lair:2)
+  2 trolls (D:11)
+  A wind drake (Shoals:1)
+  A hornet (D:9)
+  Grinder (D:5)
+  2 slime creatures
+  8 blink frogs
+  A shadow (D:11)
+  6 wyverns
+  3 water elementals (Shoals:1)
+  12 yaks
+  A vampire (D:9)
+  5 wraiths
+  3 basilisks
+  Eustachio (D:6)
+  3 steam dragons
+  10 vampire mosquitoes
+  5 water moccasins
+  3 acid dragons
+  3 sky beasts
+  A black bear (D:6)
+  3 ice beasts
+  4 orc warriors
+  2 ogres
+  12 centaurs
+  12 wolves
+  2 phantoms (D:7)
+  2 kobold brigands
+  A necrophage (D:8)
+  8 bullfrogs
+  11 scorpions (Ossuary)
+  6 wights
+  6 killer bees (D:11)
+  A howler monkey (D:9)
+  3 hounds
+  2 centaur skeletons (D:7)
+  4 centaur zombies (Ossuary)
+  4 human zombies (Ossuary)
+  4 jellies
+  4 orc priests
+  5 gnoll boudas
+  A scorpion zombie (Ossuary)
+  13 orc wizards
+  3 mummies (Ossuary)
+  A spectral howler monkey (D:7)
+  A killer bee simulacrum (D:7)
+  12 adders
+  17 gnolls
+  2 white imps
+  5 worms
+  5 dart slugs
+  28 orcs
+  5 ball pythons
+  10 endoplasms
+  A giant cockroach (D:4)
+  3 goblins
+  8 hobgoblins
+  9 jackals
+  5 quokkas
+  6 bats
+  4 frilled lizards
+  A gnoll zombie (Ossuary)
+  2 goblin zombies (Ossuary)
+  5 hobgoblin zombies (Ossuary)
+  18 kobolds
+  2 kobold zombies (Ossuary)
+  4 orc zombies (Ossuary)
+  6 rats
+391 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A merfolk aquamancer (Shoals:1)
+  A faun (Shoals:1)
+  A merfolk siren (Shoals:1)
+3 creatures vanquished.
+
+Vanquished Creatures (others)
+  A wyvern (D:9)
+  A yak (D:9)
+  2 centaurs (D:9)
+  A kobold brigand (D:9)
+  A killer bee (D:9)
+  15 fungi
+  59 plants
+  5 withered plants (D:7)
+85 creatures vanquished.
+
+Grand Total: 479 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Minotaur Berserker began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   112 | D:1      | Reached XP level 2. HP: 22/27 MP: 1/1
+   796 | D:2      | Reached XP level 3. HP: 34/34 MP: 2/2
+   800 | D:2      | Reached ** piety under Trog
+   968 | D:2      | Found Haluyth's Distillery.
+   980 | D:2      | Reached XP level 4. HP: 36/41 MP: 3/3
+  1509 | D:3      | Reached skill level 5 in Axes
+  1809 | D:3      | Reached *** piety under Trog
+  1985 | D:3      | Reached XP level 5. HP: 43/47 MP: 4/4
+  2081 | D:3      | Found an ornate altar of the Wu Jian Council.
+  2081 | D:3      | Found a basalt altar of Yredelemnul.
+  2205 | D:3      | Found a burning altar of Makhleb.
+  2206 | D:3      | Found a radiant altar of Vehumet.
+  2589 | D:4      | Reached skill level 5 in Fighting
+  2672 | D:4      | Found Ohovas's Jewellery Emporium.
+  2852 | D:3      | Found an opulent altar of Gozag.
+  2892 | D:2      | Bought a potion of curing for 39 gold pieces
+  2892 | D:2      | Bought a potion of heal wounds for 65 gold pieces
+  2892 | D:2      | Bought a potion of curing for 39 gold pieces
+  2892 | D:2      | Bought a potion of heal wounds for 65 gold pieces
+  2960 | D:5      | Entered Level 5 of the Dungeon
+  3009 | D:5      | Found a blossoming altar of Fedhas.
+  3026 | D:5      | Reached XP level 6. HP: 52/56 MP: 5/5
+  3102 | D:5      | Noticed Grinder
+  3111 | D:5      | Paralysed by Grinder for 5 turns
+  3127 | D:5      | Killed Grinder
+  3233 | D:5      | Reached XP level 7. HP: 41/61 MP: 6/6
+  3344 | D:5      | Found a staircase to the Ecumenical Temple.
+  3437 | D:5      | Reached **** piety under Trog
+  3438 | D:5      | Reached skill level 5 in Armour
+  3732 | Temple   | Entered the Ecumenical Temple
+  3892 | D:6      | Noticed Eustachio
+  3930 | D:6      | Killed Eustachio
+  4214 | D:6      | Reached XP level 8. HP: 55/70 MP: 7/7
+  4466 | D:6      | Found a glowing golden altar of the Shining One.
+  4748 | D:6      | Found a hide-covered altar of Uskayaw.
+  4749 | D:6      | Found an ancient bone altar of Kikubaaqudgha.
+  4831 | D:7      | Identified the +7 trident of Haudauff {flame, Fragile
+                  | +Blink rPois rN+}
+  4901 | D:7      | Found a broken altar of Ashenzari.
+  5248 | D:7      | Reached skill level 1 in Polearms
+  5263 | D:7      | Reached skill level 2 in Polearms
+  5670 | D:7      | Reached skill level 3 in Polearms
+  5678 | D:7      | Reached skill level 10 in Axes
+  5678 | D:7      | Reached XP level 9. HP: 78/79 MP: 8/8
+  5687 | D:7      | Reached skill level 4 in Polearms
+  5712 | D:7      | Found the +4 dagger "Morg" {pain, Will+ Int+5}
+  5864 | D:8      | Found a sand-covered staircase.
+  5886 | Ossuary  | Entered an ossuary
+  5980 | Ossuary  | Reached skill level 5 in Polearms
+  5980 | Ossuary  | Reached ***** piety under Trog
+  6034 | Ossuary  | Reached skill level 6 in Polearms
+  6085 | Ossuary  | Reached skill level 7 in Polearms
+  6331 | D:8      | Reached skill level 8 in Polearms
+  6755 | D:8      | Reached skill level 9 in Polearms
+  6902 | D:9      | Reached XP level 10. HP: 77/90 MP: 9/9
+  7042 | D:9      | Noticed an elephant
+  7064 | D:9      | Killed an elephant
+  7065 | D:9      | Reached skill level 10 in Polearms
+  7216 | D:9      | Found a shimmering altar of Xom.
+  7242 | D:9      | Received a gift from Trog
+  7421 | D:9      | Found a staircase to the Lair.
+  7452 | D:9      | Reached skill level 1 in Stealth
+  7564 | D:9      | Noticed Amaemon
+  7565 | D:9      | Noticed an orange demon
+  7582 | D:9      | Killed Amaemon
+  7583 | D:9      | Reached skill level 11 in Polearms
+  7585 | D:9      | Killed an orange demon
+  7779 | D:9      | Found a stormy altar of Qazlal.
+  8226 | D:10     | Entered Level 10 of the Dungeon
+  8228 | D:10     | Noticed a fire dragon
+  8249 | D:10     | Reached XP level 11. HP: 81/97 MP: 10/10
+  8375 | D:10     | Noticed Erica
+  8383 | D:10     | Reached skill level 12 in Polearms
+  8389 | D:10     | Reached skill level 10 in Armour
+  8401 | D:10     | Killed Erica
+  8480 | D:10     | Noticed a two-headed ogre
+  8487 | D:10     | Killed a two-headed ogre
+  8569 | D:10     | Killed a fire dragon
+  8570 | D:10     | Reached skill level 10 in Fighting
+  8570 | D:10     | Reached skill level 1 in Throwing
+  8766 | D:10     | Reached skill level 13 in Polearms
+  9086 | Lair:1   | Entered Level 1 of the Lair of Beasts
+  9829 | Lair:1   | Reached XP level 12. HP: 108/108 MP: 11/11
+  9985 | Lair:1   | Reached skill level 14 in Polearms
+ 10255 | Lair:2   | Found a staircase to the Shoals.
+ 10351 | Lair:2   | Found a staircase to the Snake Pit.
+ 10452 | Lair:2   | Received a gift from Trog
+ 10638 | Lair:2   | Reached skill level 5 in Dodging
+ 11124 | Lair:2   | Noticed Gastronok
+ 11160 | Lair:2   | Killed Gastronok
+ 11161 | Lair:2   | Reached skill level 15 in Polearms
+ 11750 | D:11     | Noticed a boulder beetle
+ 11761 | D:11     | Killed a boulder beetle
+ 11832 | D:11     | Found Sinnivit's Weapon Shop.
+ 11942 | D:11     | Found Henofil's Armour Shop.
+ 12170 | D:11     | Found a viscous altar of Jiyva.
+ 12318 | D:11     | Noticed a two-headed ogre
+ 12325 | D:11     | Killed a two-headed ogre
+ 12682 | D:12     | Reached XP level 13. HP: 122/122 MP: 12/12
+ 12732 | D:12     | Received a gift from Trog
+ 12782 | D:12     | Found a transporter.
+ 12784 | D:12     | Found a transporter.
+ 12788 | D:12     | Found a transporter.
+ 12972 | D:12     | Found a transporter.
+ 13059 | D:12     | Found a staircase to the Orcish Mines.
+ 13615 | Shoals:1 | Entered Level 1 of the Shoals
+ 13822 | D:4      | Bought a +4 ring of protection for 504 gold pieces
+ 15469 | Snake:1  | Entered Level 1 of the Snake Pit
+ 15487 | Snake:1  | Reached skill level 16 in Polearms
+ 15495 | Lair:2   | Killed from afar by a salamander mystic
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      amcnicky_arrival_blooded_trapdoor, layout_loops_ring,
+          minmay_misc_feat_diagonals, nicolae_concentric_dashed_squares_wild
+D:2:      layout_rooms, serial_shops, shop, amcnicky_mini_pool_small
+D:3:      layout_loops_ring, nicolae_overflow_hidden_temple,
+          grunt_decor_arrowhead, hangedman_decor_points, st_stairs_12
+D:4:      layout_cave_pools, hangedman_decor_opposing,
+          minmay_shop_enchanted_jewellery
+D:5:      layout_cave_pools, kennysheep_mini,
+          minmay_temple_entry_gardened_gates, uniq_grinder
+D:6:      layout_cave_pods, tso_metal_star, gammafunk_temple_overflow_pools,
+          uniq_eustachio
+D:7:      layout_loops_ring, ashenzari_conservatory_becter, grunt_ogre_cave,
+          dilly_guarded_unrand_morg
+D:8:      layout_loops_cross, lightli_ossuary_entry_decrepit_ruins
+D:9:      layout_basic, xom_confusion_cloud, nicolae_qazlal_eye_of_the_storm,
+          david_lair_generic, uniq_amaemon
+D:10:     layout_big_octagon, minmay_mirror_moons_of_madness, uniq_erica
+D:11:     layout_stronghold, serial_shops, nicolae_shop_bloodbath_and_beyond,
+          shop, serial_column_ruins, column_ruins_hut, column_ruins_hut,
+          column_ruins_columns_T, column_ruins_open_small_water,
+          column_ruins_columns_corner, jiyva_altar_1
+D:12:     layout_roguey, david_orc_3, nicolae_transporter_circle
+Temple:   eino_wide_crystal_templ
+Lair:1:   layout_loops_ring, chequers_serial_rivers_micro_c, lemuel_fruit_tree,
+          serial_bayou_shore_a, infiniplex_staircase_pool_2
+Lair:2:   minmay_lair_venomous_thicket, layout_cave_pods,
+          minmay_shoals_entry_centaurs, dummy_snake_entry, grunt_megastairs_1,
+          uniq_gastronok
+Shoals:1: layout_shoals
+Snake:1:  layout_onion, basic_altar, gammafunk_ghost_grave
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 |
+---------------+----------------------------------------+-----
+Fighting       |     4        5     6  7  8  9 10 13 14 | 14.1
+Axes           |     4     5  6  7  8 10                | 10.0
+Armour         |           3     4  5  7     9 11 13 14 | 14.2
+Dodging        |                    3        4     5    |  5.6
+Polearms       |                       3  9 11 13 15 16 | 16.0
+Stealth        |                             1     2    |  2.5
+Throwing       |                                1       |  1.1
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Melee: Hand axe          |    75 |   155 |    93 |       |       ||   323
+       Headbutt          |    10 |    30 |    30 |   102 |    15 ||   187
+       Punch             |       |     3 |     3 |     7 |       ||    13
+       Trident           |       |       |   185 |   553 |   137 ||   875
+Throw: Dart              |       |       |     1 |     3 |       ||     4
+Invok: Berserk           |       |     1 |     1 |     5 |       ||     7
+       Trog's Hand       |       |       |       |     1 |     1 ||     2
+       Brothers in Arms  |       |       |       |       |     1 ||     1
+ Abil: Evoke Blink       |       |       |       |       |     1 ||     1
+  Use: Potion            |       |     1 |     2 |       |    12 ||    15
+       Scroll            |       |       |       |       |    13 ||    13
+Armor: Animal skin       |     3 |       |       |       |       ||     3
+       Scale mail        |    13 |     2 |       |       |       ||    15
+       Plate armour      |       |    83 |   119 |       |       ||   202
+       Skin              |       |       |    52 |       |       ||    52
+       Chain mail        |       |       |     9 |   148 |    72 ||   229
+Dodge: Dodged            |    38 |    53 |    91 |   159 |    77 ||   418
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  15443 |  14182 |   1261 |    441 |  11187 |  18 |  857.9 |
+       Dungeon |  10783 |   9786 |    997 |    122 |   7927 |  12 |  898.6 |
+        Temple |     67 |     53 |     14 |      0 |     37 |   1 |   67.0 |
+          Lair |   2894 |   2693 |    201 |      0 |   2233 |   2 | 1447.0 |
+        Shoals |   1331 |   1283 |     48 |    319 |    805 |   1 | 1331.0 |
+     Snake Pit |     17 |     17 |      0 |      0 |      0 |   1 |   17.0 |
+       Ossuary |    347 |    347 |      0 |      0 |    184 |   1 |  347.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+  Lair:2: 1907 daAuts
+     D:9: 1465 daAuts
+Shoals:1: 1331 daAuts
+     D:6: 1065 daAuts
+  Lair:1: 987 daAuts
+     D:7: 981 daAuts
+    D:11: 925 daAuts
+     D:1: 859 daAuts
+    D:10: 851 daAuts
+    D:12: 842 daAuts
+     D:3: 822 daAuts
+     D:5: 813 daAuts
+     D:8: 775 daAuts
+     D:4: 718 daAuts
+     D:2: 661 daAuts
+

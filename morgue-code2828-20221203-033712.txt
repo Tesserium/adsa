@@ -1,0 +1,500 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-385-gfebfb9b (webtiles) character file.
+
+Game seed: 15065227616454840177
+
+20580 code2828 the Spear-Bearer (level 12, -18/115 HPs)
+             Began as a Minotaur Berserker on Dec 3, 2022.
+             Was a High Priest of Trog.
+             Demolished by a two-headed ogre
+             ... wielding a +0 giant club
+              (20 damage)
+             ... on level 12 of the Dungeon.
+             The game lasted 00:29:11 (12968 turns).
+
+code2828 the Spear-Bearer (Minotaur Berserker)     Turns: 12968, Time: 00:29:14
+
+Health: -18/115    AC: 17    Str: 24    XL:     12   Next: 46%
+Magic:  11/11      EV: 14    Int:  4    God:    Trog [*****.]
+Gold:   960        SH:  7    Dex: 13    Spells: 11/11 levels left
+
+rFire   . . .      SeeInvis +   R - +4 demon trident (flame)
+rCold   . . .      Faith    .   D - +0 kite shield
+rNeg    . . .      Spirit   .   L - +0 plate armour
+rPois   .          Reflect  .   (helmet restricted)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    ++...                   j - +0 pair of boots
+Stlth   ..........              (no amulet)
+HPRegen 1.39/turn               g - +4 ring of evasion
+MPRegen 0.12/turn               i - ring of see invisible
+
+@: strong-willed, on berserk cooldown, regenerating, slowed, very slow
+A: horns 2, retaliatory headbutt
+a: Renounce Religion, Berserk, Trog's Hand, Brothers in Arms
+
+
+You were on level 12 of the Dungeon.
+You worshipped Trog.
+Trog was extremely pleased with you.
+You visited 2 branches of the dungeon, and saw 13 of its levels.
+You also visited: Ossuary.
+
+You collected 960 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ G - a +1 hand axe of electrocution
+ R - a +4 demon trident of flaming (weapon)
+Armour
+ b - a +0 animal skin
+ j - a +0 pair of boots (worn)
+ D - a +0 kite shield (worn)
+ L - a +0 plate armour (worn)
+Jewellery
+ f - a +6 ring of dexterity
+ g - a +4 ring of evasion (left hand)
+ h - a +6 ring of dexterity
+ i - a ring of see invisible (right hand)
+ Q - an amulet of faith
+ T - a ring of fire
+Wands
+ c - a wand of light (21)
+ B - a wand of digging (5)
+ F - a wand of iceblast (17)
+ I - a wand of flame (25)
+ N - a wand of mindburst (11)
+ O - a wand of paralysis (18)
+Scrolls
+ a - 4 scrolls of blinking {unknown}
+ d - a scroll of immolation
+ l - 3 scrolls of butterflies {unknown}
+ m - 2 scrolls of teleportation
+ n - 3 scrolls of enchant armour
+ o - 4 scrolls of noise
+ p - 2 scrolls of magic mapping {unknown}
+ s - 2 scrolls of amnesia {unknown}
+ v - 4 scrolls of torment
+ y - a scroll of poison {unknown}
+ C - a scroll of fear {unknown}
+ E - 5 scrolls of identify
+ K - a scroll of acquirement {unknown}
+ M - 2 scrolls of enchant weapon {unknown}
+ P - 3 scrolls of vulnerability {unknown}
+Potions
+ e - 4 potions of degeneration
+ k - a potion of ambrosia
+ q - 4 potions of curing
+ r - a potion of haste
+ t - a potion of resistance {unknown}
+ u - 2 potions of berserk rage
+ w - a potion of might
+ x - 2 potions of brilliance
+ z - 2 potions of invisibility
+ A - a potion of magic
+ H - 3 potions of mutation
+ J - a potion of lignification {unknown}
+ S - a potion of flight {unknown}
+
+
+   Skills:
+ + Level 13.0 Fighting
+ + Level 13.0 Polearms
+ + Level 12.7 Armour
+ + Level 11.7 Dodging
+
+
+You had 11 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (12/15)            Temple (1/1) D:7            Lair (0/5) D:8         
+    Orc (0/2) D:9         Ossuary (visited)         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Portals:
+Trove: D:10 (give 6 scrolls of blinking)
+
+Annotations:
+D:4 4 runed translucent doors, Crazy Yiuf; OhNoNotThisAgain's ghost, weakling
+MfGl
+D:8 1 runed translucent door, quoriil's ghost, novice DrIE
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+You feel sick.
+You are no longer poisoned.
+You puncture the redback! You burn the redback.
+Your headbutt misses the redback.
+The redback is almost dead.
+The redback bites you!
+You are poisoned.
+The redback poisons you!
+You hit the redback. You burn the redback.
+You kill the redback!
+Trog accepts your kill.
+You feel extremely sick.
+You feel very sick.
+You see here a redback corpse.
+You feel a strong urge to attack something.
+You are no longer berserk.
+You are exhausted.
+You feel yourself slow down.
+You feel very sick.
+You feel extremely sick.
+You feel extremely sick.
+You feel very sick.
+You barely miss the redback.
+You feel very sick.
+The redback misses you. The redback closely misses you.
+Your skin crawls.
+You feel strong-willed.
+You feel sick. The redback bites you!
+* * * LOW HITPOINT WARNING * * *
+The two-headed ogre closely misses you.
+The two-headed ogre hits you with a +0 giant club!
+* * * LOW HITPOINT WARNING * * *
+The redback misses you.
+You feel better. The redback bites you.
+* * * LOW HITPOINT WARNING * * *
+The redback bites you but does no damage.
+The two-headed ogre hits you with a +0 giant club!
+* * * LOW HITPOINT WARNING * * *
+The two-headed ogre hits you with a +0 giant club!!
+You die...
+
+              .>.# .##
+    ###########..#...#
+    #.........#..#...###
+     .........#..'......
+.      .......#..#......
+....######''###.## .....
+........†.†.....#   ....
+......#####..Oss#######W
+.....     #...@.......#
+....      #..........>#########
+...       #.......)..<........
+..        #.................#
+.         #.................#
+         ...##########......#
+        ....         #......#
+        ####         #......#
+                     #......#
+
+
+You could see a two-headed ogre and 2 redbacks.
+
+Vanquished Creatures
+  Snorg (D:12)
+  Josephine (D:12)
+  3 two-headed ogres
+  A sixfirhy (D:11)
+  Pikel (D:6)
+  A deep elf pyromancer (D:12)
+  A cyclops (D:11)
+  Joseph (D:7)
+  A gargoyle (D:10)
+  4 kobold demonologists
+  4 unseen horrors
+  2 trolls
+  A hornet (D:10)
+  Sigmund (D:6)
+  The ghost of campbebj the Shield-Bearer, an amateur TrFi (D:4)
+  5 wraiths (D:12)
+  20 yaks
+  5 wyverns
+  Eustachio (D:6)
+  3 redbacks (D:12)
+  2 steam dragons
+  4 vampire mosquitoes (D:12)
+  Menkaure (D:6)
+  2 acid dragons (D:10)
+  Duvessa (D:6)
+  7 water moccasins
+  7 orc warriors
+  2 sky beasts (D:7)
+  3 ice beasts
+  3 black bears (D:5)
+  An ogre (D:6)
+  3 centaurs
+  A lemure (D:6)
+  A phantom (D:4)
+  An elf zombie (Ossuary)
+  2 kobold brigands (D:11)
+  5 bullfrogs
+  2 gnoll sergeants
+  A scorpion (D:5)
+  A necrophage (D:5)
+  14 wights (D:8)
+  Dowan (D:6)
+  6 killer bees (D:8)
+  A centaur zombie (D:4)
+  4 jellies
+  2 hounds (D:5)
+  A gnoll bouda (D:9)
+  9 orc priests
+  Jessica (D:3)
+  4 iguanas
+  13 orc wizards
+  Ijyb (D:4)
+  5 ogre zombies (Ossuary)
+  A hound zombie (D:4)
+  7 mummies (Ossuary)
+  14 gnolls
+  10 adders
+  2 shadow imps (D:8)
+  A white imp (D:5)
+  An ufetubus (D:6)
+  9 adder zombies (Ossuary)
+  4 worms (D:3)
+  3 dart slugs (D:1)
+  67 orcs
+  5 endoplasms
+  3 giant cockroaches
+  4 goblins
+  9 hobgoblins
+  A quokka (D:4)
+  4 ball pythons
+  5 bats
+  A frilled lizard (D:1)
+  4 goblin zombies (Ossuary)
+  5 hobgoblin zombies (Ossuary)
+  11 kobolds
+  A kobold zombie (Ossuary)
+  2 quokka zombies (Ossuary)
+  6 rats
+  3 rat zombies (Ossuary)
+353 creatures vanquished.
+
+Vanquished Creatures (others)
+  An orc wizard (D:4)
+  5 fungi (D:8)
+  9 plants (D:8)
+15 creatures vanquished.
+
+Grand Total: 368 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Minotaur Berserker began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+    97 | D:1      | Reached XP level 2. HP: 27/27 MP: 1/1
+   797 | D:2      | Reached XP level 3. HP: 33/33 MP: 2/2
+   849 | D:2      | Reached ** piety under Trog
+   861 | D:2      | You fall into a shaft and drop 1 floor!
+  1088 | D:3      | Reached XP level 4. HP: 19/40 MP: 3/3
+  1197 | D:3      | Noticed Jessica
+  1201 | D:3      | Killed Jessica
+  1807 | D:3      | Reached XP level 5. HP: 47/47 MP: 4/4
+  2245 | D:4      | HP: 2/47 [orc/+0 falchion (5)]
+  2408 | D:4      | Noticed OhNoNotThisAgain's ghost (weakling MfGl)
+  2410 | D:4      | Noticed an ice beast
+  2432 | D:4      | Found a runed translucent gate.
+  2432 | D:4      | Found a runed translucent gate.
+  2432 | D:4      | Found a runed translucent gate.
+  2443 | D:4      | Found a radiant altar of Vehumet.
+  2469 | D:4      | Noticed a phantom
+  2478 | D:4      | Killed a phantom
+  2479 | D:4      | Reached skill level 5 in Fighting
+  2479 | D:4      | Reached skill level 5 in Polearms
+  2479 | D:4      | Reached XP level 6. HP: 49/56 MP: 5/5
+  2666 | D:4      | Noticed Ijyb
+  2672 | D:4      | Killed Ijyb
+  2925 | D:4      | Found a runed translucent gate.
+  2925 | D:4      | Found a runed translucent gate.
+  2925 | D:4      | Found a runed translucent gate.
+  2925 | D:4      | Noticed campbebj's ghost (amateur TrFi)
+  2927 | D:4      | Found a basalt altar of Yredelemnul.
+  2971 | D:4      | Killed campbebj's ghost
+  2972 | D:4      | Reached skill level 5 in Armour
+  2972 | D:4      | Reached XP level 7. HP: 62/62 MP: 6/6
+  3134 | D:4      | Found a runed translucent door.
+  3135 | D:4      | Noticed Crazy Yiuf
+  3368 | D:4      | Reached *** piety under Trog
+  3450 | D:5      | Entered Level 5 of the Dungeon
+  3450 | D:5      | Found a hide-covered altar of Uskayaw.
+  3641 | D:5      | Reached skill level 5 in Dodging
+  4010 | D:5      | Found a sand-covered staircase.
+  4015 | Ossuary  | Entered an ossuary
+  4151 | Ossuary  | Reached XP level 8. HP: 71/71 MP: 7/7
+  4720 | D:5      | Reached **** piety under Trog
+  5149 | D:5      | Found a sparkling altar of Nemelex Xobeh.
+  5990 | D:6      | Noticed Pikel
+  6002 | D:6      | Killed Pikel
+  6003 | D:6      | Reached XP level 9. HP: 81/81 MP: 8/8
+  6083 | D:6      | Noticed Sigmund
+  6091 | D:6      | Killed Sigmund
+  6148 | D:6      | Found a broken altar of Ashenzari.
+  6463 | D:6      | Noticed Menkaure
+  6508 | D:6      | Killed Menkaure
+  6840 | D:6      | Noticed Duvessa
+  6841 | D:6      | Noticed Dowan
+  6845 | D:6      | Noticed Eustachio
+  6848 | D:6      | Killed Duvessa
+  6857 | D:6      | Killed Dowan
+  6863 | D:6      | Killed Eustachio
+  6975 | D:7      | Noticed Joseph
+  6986 | D:7      | Killed Joseph
+  7187 | D:7      | Found a staircase to the Ecumenical Temple.
+  7222 | Temple   | Entered the Ecumenical Temple
+  7378 | D:7      | Reached XP level 10. HP: 89/91 MP: 9/9
+  7617 | D:7      | Found a glowing golden altar of the Shining One.
+  7977 | D:8      | Found a glowing silver altar of Zin.
+  8118 | D:8      | Reached skill level 10 in Fighting
+  8118 | D:8      | Reached skill level 10 in Polearms
+  8144 | D:8      | Reached skill level 10 in Armour
+  8147 | D:8      | Reached ***** piety under Trog
+  8294 | D:8      | Found a staircase to the Lair.
+  8578 | D:8      | Found a runed translucent door.
+  8578 | D:8      | Noticed quoriil's ghost (novice DrIE)
+  8842 | D:8      | Reached XP level 11. HP: 91/101 MP: 10/10
+  9157 | D:9      | Noticed a two-headed ogre
+  9159 | D:9      | Found an ornate altar of the Wu Jian Council.
+  9168 | D:9      | Killed a two-headed ogre
+  9350 | D:9      | Identified the +2 robe "Suiqila" {Stlth+}
+  9452 | D:9      | Found a staircase to the Orcish Mines.
+  9611 | D:9      | Noticed a two-headed ogre
+  9626 | D:9      | Killed a two-headed ogre
+  9627 | D:9      | Reached skill level 10 in Dodging
+  9810 | D:9      | Received a gift from Trog
+ 10242 | D:9      | Found a sacrificial altar of Ru.
+ 10688 | D:9      | Found an iron altar of Okawaru.
+ 10735 | D:10     | Entered Level 10 of the Dungeon
+ 11102 | D:10     | Noticed a two-headed ogre
+ 11240 | D:10     | Found a portal to a secret trove of treasure.
+ 11306 | D:10     | Killed a two-headed ogre
+ 11819 | D:11     | Received a gift from Trog
+ 11913 | D:11     | Found a runed translucent door.
+ 11995 | D:11     | Noticed a sixfirhy
+ 12003 | D:11     | Noticed a sun demon
+ 12088 | D:11     | Reached XP level 12. HP: 78/113 MP: 11/11
+ 12340 | D:11     | Found a burning altar of Makhleb.
+ 12681 | D:12     | Noticed Snorg
+ 12696 | D:12     | Killed Snorg
+ 12850 | D:12     | Noticed Josephine
+ 12856 | D:12     | Killed Josephine
+ 12925 | D:12     | Noticed a two-headed ogre
+ 12968 | D:12     | HP: 2/115 [two-headed ogre/+0 giant club (7)]
+ 12968 | D:12     | Demolished by a two-headed ogre
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_another_circle, layout_rooms, serial_park_tiny_pond,
+          minmay_octomino_e4
+D:2:      layout_basic, hangedman_decor_clover_reticule, minmay_unequal
+D:3:      layout_loops_ring, chequers_decorated_corner,
+          guppyfry_early_lair_pool, uniq_jessica
+D:4:      layout_basic, mainiacjoe_overflow_concentric_impassable,
+          nicolae_yredelemnul_ghost_church, gammafunk_ghost_icy,
+          chequers_mini_garden, chequers_serial_rivers_room_b,
+          serial_bayou_pond_e, chequers_serial_rivers_room_b, uniq_ijyb,
+          uniq_crazy_yiuf_cottage
+D:5:      layout_layer_cave, amcnicky_altar_gilded,
+          mainiacjoe_overflow_alcove_4, nicolae_ossuary_entry_plus,
+          lightli_minifort
+D:6:      layout_basic, ashenzari_altar_1, fedhas_altar_decomposition,
+          uniq_pikel, uniq_duvessa, uniq_eustachio, uniq_menkaure, uniq_sigmund
+D:7:      layout_rooms, nicolae_tso_carved_into_rock, minmay_temple_entry_ruins,
+          uniq_joseph
+D:8:      layout_basic, overflow_temple_1_default, minmay_lair_entry_grove,
+          ebering_ghost_inner_flame
+D:9:      layout_roguey, nicolae_ru_the_path_less_chosen,
+          mainiacjoe_overflow_small_starburst, okawaru_altar_gauntlet_db,
+          david_orc_5, kennysheep_nub, minmay_door_square,
+          mrwooster_statue_mirror
+D:10:     layout_basic, enter_trove_0
+D:11:     layout_rooms, gauntlet_entry_generic, nzn_makhleb_speed_demon
+D:12:     layout_irregular_city, drop_trap, hangedman_decor_slide_cut,
+          uniq_snorg, uniq_josephine
+Temple:   hellmonk_temple_of_storms
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 |
+---------------+-------------------------------------+-----
+Fighting       |     4        5     6  8  9 10 12 13 | 13.0
+Polearms       |     4        5     6  8  9 10 12 13 | 13.0
+Armour         |     3        4  5  6  7  9 10 12    | 12.7
+Dodging        |        3        4  5  6  8  9 11    | 11.7
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Spear             |   110 |   102 |   327 |       ||   539
+       Headbutt          |    13 |    17 |    92 |   106 ||   228
+       Punch             |       |     4 |     4 |       ||     8
+       Hand axe          |       |       |    75 |   311 ||   386
+       Demon trident     |       |       |       |   254 ||   254
+Invok: Berserk           |       |     2 |     6 |     3 ||    11
+       Trog's Hand       |       |       |     2 |     1 ||     3
+  Use: Potion            |       |     5 |     2 |     2 ||     9
+       Scroll            |       |       |     5 |     5 ||    10
+ Stab: Sleeping          |     3 |       |     4 |       ||     7
+Armor: Animal skin       |     8 |    13 |    50 |     5 ||    76
+       Plate armour      |       |       |       |   161 ||   161
+Dodge: Dodged            |    27 |    59 |   227 |   241 ||   554
+Block: Kite shield       |       |       |    39 |   208 ||   247
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  13006 |  12664 |    342 |    141 |  10221 |  14 |  929.0 |
+       Dungeon |  12340 |  12012 |    328 |    141 |   9798 |  12 | 1028.3 |
+        Temple |     66 |     52 |     14 |      0 |     24 |   1 |   66.0 |
+       Ossuary |    599 |    599 |      0 |      0 |    399 |   1 |  599.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:5: 1835 daAuts
+     D:9: 1586 daAuts
+     D:4: 1475 daAuts
+     D:8: 1357 daAuts
+     D:3: 1114 daAuts
+     D:6: 1073 daAuts
+    D:10: 1013 daAuts
+     D:7: 810 daAuts
+     D:1: 702 daAuts
+    D:11: 664 daAuts
+ Ossuary: 599 daAuts
+    D:12: 554 daAuts
+     D:2: 152 daAuts
+  Temple: 66 daAuts
+

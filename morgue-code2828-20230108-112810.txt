@@ -1,0 +1,442 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-605-gb288214 (webtiles) character file.
+
+Game seed: 10640120084715867217
+
+4454 code2828 the Chiller (level 10, -7/69 HPs)
+             Began as a Green Draconian Ice Elementalist on Jan 8, 2023.
+             Was a Follower of Sif Muna.
+             Mangled by a death yak (11 damage)
+             ... on level 7 of the Dungeon.
+             The game lasted 00:42:18 (9224 turns).
+
+code2828 the Chiller (DrIE)                         Turns: 9224, Time: 00:42:19
+
+Health: -7/69      AC: 16    Str: 11    XL:     10   Next: 15%
+Magic:  19/28      EV: 12    Int: 17    God:    Sif Muna [*.....]
+Gold:   150        SH: 11    Dex: 12    Spells: 14/21 levels left
+
+rFire   . . .      SeeInvis +   m - +2 hammer (holy)
+rCold   . . .      Faith    .   C - +2 kite shield
+rNeg    . . .      Spirit   .   (body armour unavailable)
+rPois   +          Reflect  .   (helmet restricted)
+rElec   .          Harm     .   h - +0 cloak
+rCorr   .          Rampage  .   w - +0 pair of gloves
+Will    .....                   (no boots)
+Stlth   +++                     I - amulet of the acrobat
+HPRegen 0.31/turn               l - ring of magical power
+MPRegen 0.21/turn               G - ring of see invisible
+
+@: ice-armoured, freezing walls, unable to drink
+A: breathe noxious fumes, AC +7, unfitting armour, poison resistance,
+cold-blooded, dopey 1, sense surroundings 1, inability to drink after injury 1
+a: Breathe Noxious Fumes, Renounce Religion, Channel Magic
+
+
+You were on level 7 of the Dungeon.
+You worshipped Sif Muna.
+Sif Muna was aware of your devotion.
+You visited 2 branches of the dungeon, and saw 9 of its levels.
+
+You collected 366 gold pieces.
+You spent 216 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ m - a +2 hammer of holy wrath (weapon)
+Missiles
+ c - 15 poisoned darts
+Armour
+ h - a +0 cloak (worn)
+ w - a +0 pair of gloves (worn)
+ C - a +2 kite shield (worn)
+Jewellery
+ l - a ring of magical power (left hand)
+ n - a +6 ring of strength
+ G - a ring of see invisible (right hand)
+ I - an amulet of the acrobat (around neck)
+Wands
+ g - a wand of paralysis (3)
+ E - a wand of light (5)
+Scrolls
+ b - a scroll of fog {unknown}
+ d - a scroll of torment {unknown}
+ e - 3 scrolls of immolation
+ j - a scroll of enchant armour {unknown}
+ o - a scroll of poison {unknown}
+ p - 2 scrolls of amnesia {unknown}
+ t - a scroll of fear {unknown}
+ v - 4 scrolls of teleportation
+ x - 2 scrolls of brand weapon {unknown}
+ y - a scroll of summoning {unknown}
+ F - 3 scrolls of blinking {unknown}
+ H - a scroll of acquirement {unknown}
+Potions
+ a - 2 potions of magic
+ f - a potion of haste {unknown}
+ k - a potion of brilliance
+ q - a potion of might {unknown}
+ r - a potion of flight {unknown}
+ s - a potion of heal wounds
+ z - 3 potions of curing
+ A - a potion of lignification {unknown}
+ B - a potion of mutation
+ D - a potion of attraction {unknown}
+
+
+   Skills:
+ + Level 6.1 Dodging
+ + Level 6.6 Stealth
+ * Level 5.9 Shields
+ + Level 6.1 Spellcasting
+ + Level 7.7 Ice Magic
+ + Level 4.4 Invocations
+
+
+You had 14 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Freeze                Ice            100%       1d10      1%          1
+b - Frozen Ramparts       Ice            62%        1d10      4%          3
+c - Ozocubu's Armour      Ice            31%        N/A       4%          3
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Summon Ice Beast         Ice/Summ       18%        N/A       56%         4
+ Gell's Gravitas          Tloc           5%         N/A       71%         3
+ Teleport Other           Tloc           5%         N/A       71%         3
+ Dispersal                Tloc           2%         N/A       100%        6
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)         Zot: 25918       Temple (1/1) D:6      Zot: 5792       
+   Lair (0/5) D:8                      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Fedhas
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+
+Shops:
+D:2 (   D:6 *
+
+Annotations:
+D:7 exclusion: downstairs
+
+
+Innate Abilities, Weirdness & Mutations
+
+You can breathe blasts of noxious fumes.
+Your lurid green scales are hard. (AC +7)
+You cannot fit into any form of body armour.
+Your system is resistant to poisons. (rPois)
+You are cold-blooded and may be slowed by cold attacks.
+You are dopey. (Int -2)
+You passively map a small area around you.
+You occasionally lose the ability to drink potions when taking damage.
+
+Message History
+
+You freeze the death yak!
+The death yak is lightly wounded.
+The wall freezes the death yak. The death yak barely misses you.
+The wall freezes the death yak but does no damage.
+You block the death yak's attack.
+You feel better.
+The wall freezes the death yak but does no damage.
+The death yak barely misses you.
+The wall freezes the death yak but does no damage.
+The death yak barely misses you.
+Aiming: Freeze (safe; 1% risk of failure)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f/p - death yak
+Aim: a death yak (lightly wounded)
+You freeze the death yak!
+The death yak is moderately wounded.
+The wall freezes the death yak!
+The death yak gores you but does no damage.
+The wall freezes the death yak but does no damage.
+You block the death yak's attack.
+Aiming: Freeze (safe; 1% risk of failure)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f/p - death yak
+Aim: a death yak (heavily wounded)
+You freeze the death yak!
+The death yak is heavily wounded.
+The wall freezes the death yak but does no damage.
+The death yak gores you!!
+The wall freezes the death yak but does no damage.
+The death yak gores you!!
+You feel threatened and lose the ability to drink potions!
+* * * LOW HITPOINT WARNING * * *
+You cannot drink potions in your current state!
+Unknown command.
+You cannot drink potions in your current state!
+Aiming: Freeze (safe; 1% risk of failure)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f/p - death yak
+Aim: a death yak (heavily wounded)
+You freeze the death yak.
+The death yak is severely wounded.
+The wall freezes the death yak. The death yak gores you!
+You die...
+
+.....##       #........#.#####...
+......#       #.......#..##......
+......#       #.......#.##.......
+......##      #..[...##.#.)[.....
+.......#      #..>...#..#........
+.).....#      #.....##.#.........
+#)[....##     ##...###.#........>
+#.[.....#      #YY.##............
+##......##     #@.###............
+ #.......#     #### #.#..........
+##.......##        ##.##.........
+..........##       #..###.......#
+...........###     #..# ##......#
+.............##   ##.##  ##..).##
+..............#   #..#   ########
+..............#####..#####.......
+...............##...........#####
+
+
+You could see 2 death yaks.
+
+Vanquished Creatures
+  3 death yaks
+  Grinder (D:3)
+  Sigmund (D:2)
+  Menkaure (D:7)
+  Edmund (D:6)
+  A sky beast (D:7)
+  Duvessa (D:7)
+  An orc warrior (D:7)
+  An ogre (D:7)
+  A centaur (D:6)
+  A kobold brigand (D:8)
+  3 bullfrogs
+  2 necrophages (D:6)
+  A gnoll sergeant (D:7)
+  A scorpion (D:5)
+  Dowan (D:7)
+  4 killer bees (D:6)
+  5 howler monkeys
+  A crimson imp (D:4)
+  2 jellies
+  4 orc priests
+  Crazy Yiuf (D:2)
+  5 hounds
+  An iguana (D:4)
+  2 orc wizards (D:7)
+  10 adders
+  7 gnolls
+  A shadow imp (D:7)
+  3 white imps
+  2 worms (D:2)
+  25 orcs
+  8 ball pythons
+  7 endoplasms
+  9 giant cockroaches
+  8 hobgoblins
+  3 jackals (D:4)
+  6 quokkas
+  3 bats
+  3 frilled lizards
+  8 goblins
+  9 kobolds
+  2 rats (D:3)
+160 creatures vanquished.
+
+Vanquished Creatures (others)
+  An orc wizard (D:5)
+1 creature vanquished.
+
+Grand Total: 161 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Draconian Ice Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 3/3
+   268 | D:1      | Reached XP level 2. HP: 19/20 MP: 3/5
+  1393 | D:2      | Reached XP level 3. HP: 26/26 MP: 0/6
+  1469 | D:2      | Reached XP level 4. HP: 24/33 MP: 0/7
+  1550 | D:2      | Learned a level 3 spell: Frozen Ramparts
+  1554 | D:2      | Learned a level 3 spell: Ozocubu's Armour
+  1628 | D:2      | Noticed Sigmund
+  1643 | D:2      | Killed Sigmund
+  1644 | D:2      | Reached XP level 5. HP: 18/38 MP: 0/9
+  1796 | D:2      | Found Teko's Weapon Shop.
+  2129 | D:2      | Found a runed translucent door.
+  2130 | D:2      | Noticed Crazy Yiuf
+  2204 | D:2      | Reached skill level 5 in Ice Magic
+  2370 | D:2      | Killed Crazy Yiuf
+  2371 | D:2      | Reached XP level 6. HP: 12/45 MP: 1/11
+  2377 | D:2      | HP: 2/45 [poisoned by Crazy Yiuf]
+  2659 | D:3      | Found a snail-covered altar of Cheibriados.
+  2724 | D:3      | Noticed Grinder
+  2731 | D:3      | Paralysed by Grinder for 3 turns
+  2905 | D:3      | Paralysed by Grinder for 3 turns
+  2915 | D:3      | Killed Grinder
+  2916 | D:3      | Your scales start taking on a lurid green colour.
+  2916 | D:3      | Reached XP level 7. HP: 29/50 MP: 10/12
+  2916 | D:3      | Gained mutation: Your system is resistant to poisons.
+                  | (rPois) [Green Draconian growth]
+  3738 | D:4      | You fall into a shaft and drop 1 floor!
+  3738 | D:5      | Entered Level 5 of the Dungeon
+  4082 | D:4      | Found an ornate altar of the Wu Jian Council.
+  4083 | D:4      | Found a shimmering blue altar of Sif Muna.
+  4157 | D:4      | Became a worshipper of Sif Muna the Loreminder
+  4295 | D:4      | Found a shimmering altar of Xom.
+  4295 | D:4      | Found a burning altar of Makhleb.
+  4722 | D:5      | Found a hazy altar of Hepliaklqana.
+  4770 | D:5      | Found a hide-covered altar of Uskayaw.
+  5040 | D:5      | Reached skill level 6 in Ice Magic
+  5109 | D:5      | Identified the +2 helmet of a Labyrinth {Will- Int+3
+                  | Slay+6}
+  5472 | D:6      | Reached skill level 1 in Shields
+  5472 | D:6      | Reached XP level 8. HP: 48/57 MP: 14/14
+  5563 | D:6      | Reached skill level 5 in Stealth
+  5685 | D:6      | Found a staircase to the Ecumenical Temple.
+  5711 | D:6      | Reached * piety under Sif Muna
+  5724 | Temple   | Entered the Ecumenical Temple
+  5988 | D:6      | Found Uhait's General Store.
+  6007 | D:6      | Bought a potion of heal wounds for 60 gold pieces
+  6007 | D:6      | Bought a potion of heal wounds for 60 gold pieces
+  6007 | D:6      | Bought a potion of magic for 96 gold pieces
+  6018 | D:6      | Reached skill level 1 in Invocations
+  6298 | D:6      | Found a basalt altar of Yredelemnul.
+  6433 | D:6      | Noticed Edmund
+  6443 | D:6      | Killed Edmund
+  6444 | D:6      | Reached skill level 5 in Spellcasting
+  6800 | D:6      | Reached skill level 5 in Dodging
+  6835 | D:7      | Noticed Duvessa
+  6835 | D:7      | Noticed Dowan
+  6849 | D:7      | Killed Duvessa
+  6853 | D:7      | Killed Dowan
+  7126 | D:7      | Reached XP level 9. HP: 40/62 MP: 16/16
+  7570 | D:7      | Reached skill level 7 in Ice Magic
+  7730 | D:7      | Noticed Menkaure
+  7742 | D:7      | Killed Menkaure
+  8383 | D:8      | Noticed a death yak
+  8385 | D:8      | Found a staircase to the Lair.
+  8385 | D:8      | Noticed a death yak
+  8385 | D:8      | Noticed a death yak
+  8385 | D:8      | Noticed a death yak
+  8385 | D:8      | Noticed a death yak
+  8385 | D:8      | Noticed a death yak
+  8664 | D:8      | Found a radiant altar of Vehumet.
+  8751 | D:8      | Killed a death yak
+  8752 | D:8      | Reached skill level 5 in Shields
+  8926 | D:8      | Noticed a death yak
+  8935 | D:8      | Gained mutation: You occasionally lose the ability to drink
+                  | potions when taking damage. [potion of mutation]
+  8935 | D:8      | Gained mutation: You are dopey. (Int -2) [potion of
+                  | mutation]
+  8935 | D:8      | Gained mutation: You passively map a small area around you.
+                  | [potion of mutation]
+  8936 | D:8      | Noticed a death yak
+  8952 | D:7      | Killed a death yak
+  8953 | D:7      | Reached XP level 10. HP: 42/69 MP: 13/19
+  9063 | D:7      | Killed a death yak
+  9224 | D:7      | Mangled by a death yak
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_chamrin_arrival_tetris, layout_rooms, serial_co_window_serial,
+          co_window_paths_a, co_window_paths_b, co_window_corner_a,
+          co_window_corner_a, co_window_corner_a, co_window_paths_a,
+          co_window_paths_a, co_window_cross_4, co_window_broadway_a,
+          co_window_cross_4, co_window_unsneaky_path_b, co_window_corner_ca,
+          glass_columns_a, glass_columns_b, glass_columns_a
+D:2:      layout_loops_ring, serial_shops, nicolae_shop_bloodbath_and_beyond,
+          minmay_pentomino_t4, uniq_crazy_yiuf_cottage, uniq_sigmund
+D:3:      layout_basic, mainiacjoe_overflow_alcove_1, portal_sewer_entry_f,
+          eino_tiny_chamber, uniq_grinder
+D:4:      layout_basic, grunt_temple_overflow_champion_of_chaos, minitemple
+D:5:      layout_basic, mainiacjoe_overflow_surrounded_room,
+          nicolae_uskayaw_dance_hall
+D:6:      layout_loops_corners, mainiacjoe_overflow_paths,
+          minmay_temple_entry_nine_rooms, serial_shops, shop_statue, uniq_edmund
+D:7:      layout_cave_pods, minmay_stone_trees_small, grunt_decor_cap,
+          st_stairs_4, uniq_menkaure, uniq_duvessa
+D:8:      layout_gridville, nicolae_vehumet_altar_sigil,
+          nicolae_ru_sacrificial_ziggurat, dpeg_lair_monsters
+Temple:   nicolae_temple_bog_church
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Dodging        |  2        3        4  5  6 |  6.1
+Stealth        |  2        3     4     5  6 |  6.6
+Spellcasting   |           3        4  5  6 |  6.1
+Ice Magic      |              5     6     7 |  7.7
+Shields        |                    1  3  5 |  5.9
+Invocations    |                       2  4 |  4.4
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Unarmed           |    14 |       |       |       ||    14
+       Tailslap          |     4 |     3 |    21 |       ||    28
+       Short sword       |     3 |     3 |       |       ||     6
+       Mace              |       |    41 |   168 |       ||   209
+       Punch             |       |     1 |     1 |       ||     2
+Throw: Dart              |       |       |     3 |       ||     3
+ Cast: Freeze            |    38 |    28 |   112 |    15 ||   193
+       Ozocubu's Armour  |       |     4 |    20 |     2 ||    26
+       Frozen Ramparts   |       |     2 |    26 |     3 ||    31
+ Abil: Breathe Noxious F |       |       |     3 |       ||     3
+Evoke: Wand              |       |       |     3 |       ||     3
+  Use: Potion            |       |     1 |     5 |     2 ||     8
+       Scroll            |       |       |     5 |       ||     5
+ Stab: Sleeping          |       |     1 |       |       ||     1
+       Confused          |       |       |     1 |       ||     1
+Armor: Skin              |     3 |    29 |   129 |     2 ||   163
+Dodge: Dodged            |    24 |    39 |   221 |    13 ||   297
+Block: Kite shield       |       |       |    28 |    13 ||    41
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   9322 |   8953 |    369 |    767 |   6407 |   9 | 1035.8 |
+       Dungeon |   9115 |   8755 |    360 |    767 |   6216 |   8 | 1139.4 |
+        Temple |    207 |    198 |      9 |      0 |    190 |   1 |  207.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:7: 2033 daAuts
+     D:6: 1347 daAuts
+     D:2: 1310 daAuts
+     D:1: 1279 daAuts
+     D:3: 1156 daAuts
+     D:4: 821 daAuts
+     D:5: 786 daAuts
+     D:8: 380 daAuts
+  Temple: 207 daAuts
+

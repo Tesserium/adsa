@@ -1,0 +1,236 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-568-g124715a (webtiles) character file.
+
+Game seed: 10482365540105996223
+
+24 code2828 the Ruffian (level 3, 32/33 HPs)
+             Began as a Ghoul Monk on Dec 29, 2022.
+             Was a Priest of Kikubaaqudgha.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:03:11 (542 turns).
+
+code2828 the Ruffian (Ghoul Monk)                    Turns: 542, Time: 00:03:12
+
+Health: 32/33      AC:  2    Str: 16    XL:     3   Next: 2%
+Magic:  2/2        EV: 12    Int:  5    God:    Kikubaaqudgha [***...]
+Gold:   22         SH:  0    Dex: 11    Spells: 1/2 levels left
+
+rFire   . . .      SeeInvis .     - Unarmed
+rCold   + . .      Faith    .   (no shield)
+rNeg    + + +      Spirit   .   a - +0 robe
+rPois   ∞          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   ++                      (no amulet)
+HPRegen 0.00/turn               (no ring)
+MPRegen 0.08/turn               (no ring)
+
+@: inhibited regen
+A: claws 1, cold resistance 1, negative energy resistance 3, inhibited
+regeneration, torment resistance 2, devour on kill
+a: Renounce Religion, Unearth Wretches
+
+
+You were on level 1 of the Dungeon.
+You worshipped Kikubaaqudgha.
+Kikubaaqudgha was most pleased with you.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 22 gold pieces.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Scrolls
+ d - a scroll of acquirement {unknown}
+ f - a scroll of teleportation {unknown}
+ g - a scroll of immolation {unknown}
+Potions
+ b - a potion of ambrosia
+ c - 2 potions of might {unknown}
+ e - a potion of mutation {unknown}
+
+
+   Skills:
+ * Level 3.7 Fighting
+ + Level 2.8 Dodging
+ + Level 2.4 Stealth
+ * Level 3.7 Unarmed Combat
+ + Level 0.1 Spellcasting
+ + Level 0.3 Necromancy
+
+
+You had one spell level left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Necrotise             Necr           0%         1d4       43%         1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Cigotuvi's Dreadful Rot  Necr/Pois/Air  0%         N/A       61%         2
+ Vampiric Draining        Necr           0%         2d6       80%         3
+ Anguish                  Hex/Necr       0%         N/A       99%         4
+ Animate Dead             Necr           0%         N/A       99%         4
+ Dispel Undead            Necr           0%         3d6       99%         4
+ Agony                    Necr           0%         N/A       100%        5
+ Borgnjor's Vile Clutch   Necr/Erth      0%         N/A       100%        5
+ Simulacrum               Ice/Necr       0%         N/A       100%        6
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)         Zot: 5462       
+
+Altars:
+Kikubaaqudgha
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to poison.
+You have sharp fingernails.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+You thrive by killing the living.
+
+Message History
+
+You open the door.
+There is an open door here.
+A giant cockroach comes into view.
+Found a scroll labelled FYLONECAGO.
+You miscast Necrotise.
+You are very lightly contaminated with residual magic.
+Nothing appears to happen.
+You are out of magic!
+You scratch the giant cockroach.
+The giant cockroach is heavily wounded.
+The giant cockroach barely misses you.
+You closely miss the giant cockroach.
+The giant cockroach is heavily wounded.
+The giant cockroach barely misses you.
+You scratch the giant cockroach but do no damage.
+The giant cockroach is heavily wounded.
+The giant cockroach misses you.
+You claw the giant cockroach!
+You kill the giant cockroach!
+Kikubaaqudgha accepts your kill.
+Kikubaaqudgha grants you a gift!
+You add the spells Anguish, Dispel Undead, Agony, Borgnjor's Vile Clutch and
+Simulacrum to your library.
+No target in view!
+No target in view!
+Your magical contamination has completely faded away.
+g - a scroll labelled FYLONECAGO
+A jackal comes into view.
+A jackal is nearby!
+A jackal is nearby!
+A quokka comes into view.
+The jackal bites you.
+You closely miss the jackal. The jackal barely misses you.
+You scratch the jackal.
+You kill the jackal!
+Kikubaaqudgha accepts your kill.
+You have reached level 3!
+Your experience leads to an increase in your attributes!
+Increase (S)trength, (I)ntelligence, or (D)exterity? 
+You feel stronger. x2
+Are you sure you want to abandon this character and quit the game? (Confirm
+with "yes".) 
+
+     #...........###....
+     #.#####.###........
+ #####.#.....#.'........
+ #.r...#.#.#.#.#........
+ #.....#.#.#.#.#....####
+ #.....#.#.#.#.######
+ #.....#.#...#.#
+ #.....#.#####.#########
+ +.....@..........†.....
+ #.....#################
+.......
+.######
+
+
+
+                       #
+                     #.#
+
+
+You could see a quokka (asleep).
+
+Vanquished Creatures
+  A dart slug (D:1)
+  A bat (D:1)
+  An endoplasm (D:1)
+  A giant cockroach (D:1)
+  2 hobgoblins (D:1)
+  5 jackals (D:1)
+  A quokka (D:1)
+  A ball python (D:1)
+  2 frilled lizards (D:1)
+  3 kobolds (D:1)
+  A rat (D:1)
+19 creatures vanquished.
+
+Vanquished Creatures (others)
+  A plant (D:1)
+1 creature vanquished.
+
+Grand Total: 20 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Ghoul Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   146 | D:1      | Found a faded altar of an unknown god.
+   162 | D:1      | Reached XP level 2. HP: 15/26 MP: 1/1
+   177 | D:1      | Prayed at the altar of an unknown god.
+   177 | D:1      | Became a worshipper of Kikubaaqudgha
+   177 | D:1      | Reached * piety under Kikubaaqudgha
+   177 | D:1      | Received a gift from Kikubaaqudgha
+   177 | D:1      | Reached ** piety under Kikubaaqudgha
+   180 | D:1      | Learned a level 1 spell: Necrotise
+   520 | D:1      | Reached *** piety under Kikubaaqudgha
+   520 | D:1      | Received a gift from Kikubaaqudgha
+   542 | D:1      | Reached XP level 3. HP: 32/33 MP: 2/2
+   542 | D:1      | Quit the game
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      eino_arrival_cavern_e, layout_basic,
+          shapermc_ecumenical_altar_mp_urbaneastern, nrook_mini_vaults, hex_tiny
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||    68
+ Cast: Necrotise         ||     4
+ Stab: Sleeping          ||     2
+Armor: Robe              ||     7
+Dodge: Dodged            ||    42
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |    538 |    538 |      0 |      0 |    389 |   1 |  538.0 |
+       Dungeon |    538 |    538 |      0 |      0 |    389 |   1 |  538.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 538 daAuts
+

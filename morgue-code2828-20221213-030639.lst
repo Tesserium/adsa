@@ -1,0 +1,301 @@
+code2828
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 club
+(3, 8, D:1)
+  a +0 flail
+(8, 32, D:1)
+  a +0 leather armour
+(9, 3, D:1)
+  a +0 flail
+(33, -2, D:1)
+  a +0 ring mail
+(39, 32, D:1)
+  a +0 robe
+(40, -14, D:1)
+  2 boomerangs
+(50, 1, D:1)
+  a +0 dagger
+(51, 4, D:1)
+  a +0 dagger
+(56, 13, D:1)
+  a +0 short sword
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  4 stones
+(7, 24, D:2)
+  7 stones
+(11, 0, D:2)
+  2 boomerangs
+(22, -2, D:2)
+  a +0 dagger
+(23, -2, D:2)
+  a ring of fire
+(27, 35, D:2)
+  a +0 flail
+(33, -5, D:2)
+  a +0 robe
+(34, 3, D:2)
+  a +0 dagger
+(45, 7, D:2)
+  a +0 robe
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 mace
+  a +0 club
+  a +0 ring mail
+(1, -1, D:3)
+  a +0 club
+  a +0 leather armour
+(8, 24, D:3)
+  a +1 sling of flaming
+  a +0 club
+(14, -17, D:3)
+  a +4 ring of evasion
+(14, 33, D:3)
+  a +0 robe
+(24, -9, D:3)
+  a +0 dagger
+(25, -12, D:3)
+  a +0 dagger
+(32, 11, D:3)
+  a +0 trident
+(39, 8, D:3)
+  a +0 leather armour
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  2 boomerangs
+(4, 17, D:4)
+  a +0 trident
+(6, -18, D:4)
+  a +0 whip
+(6, 29, D:4)
+  a +0 dagger
+  4 stones
+(9, 2, D:4)
+  a +0 whip
+(12, 19, D:4)
+  3 javelins
+(19, -16, D:4)
+  a +0 spear
+(19, -15, D:4)
+  a +0 spear
+  a +0 spear
+(19, 26, D:4)
+  a +0 war axe
+(19, 27, D:4)
+  a +0 robe
+  a +0 dagger
+(20, 28, D:4)
+  a +0 club
+  a +0 dagger
+(21, -17, D:4)
+  a +0 club
+(23, 21, D:4)
+  an amulet of guardian spirit
+(24, 15, D:4)
+  a +0 leather armour
+  a stone
+  a +0 whip
+(25, 12, D:4)
+  a +0 whip of freezing
+  a +0 robe
+(25, 13, D:4)
+  a +0 war axe
+  a +0 robe
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 scale mail
+  a +0 ring mail
+(14, -7, D:5)
+  a staff of air
+(17, -4, D:5)
+  a +0 short sword
+(18, -12, D:5)
+  7 stones
+(21, 24, D:5)
+  a +0 robe
+(23, 20, D:5)
+  a +0 scale mail
+(24, 4, D:5)
+  a +0 cloak
+(25, -9, D:5)
+  a +0 scimitar
+(29, -3, D:5)
+  a +0 spear
+(31, 11, D:5)
+  a +0 mace
+(35, 5, D:5)
+  a +0 leather armour
+(37, 25, D:5)
+  a +0 club
+(41, 11, D:5)
+  a +0 ring mail
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 morningstar
+(2, 30, D:6)
+  a +2 dagger
+(3, 12, D:6)
+  a +0 giant club
+(4, 14, D:6)
+  a +0 dagger
+(17, 9, D:6)
+  a +0 robe
+(22, 14, D:6)
+  a +5 mace
+  a +0 robe
+  a +0 great sword
+  a +0 robe
+(26, 18, D:6)
+  a +3 trident
+  a +0 robe
+(32, -9, D:6)
+  a +0 hand axe
+  a +0 glaive of flaming
+  +0 steam dragon scales
+(37, -5, D:6)
+  a +0 flail
+(41, -15, D:6)
+  a +0 hammer
+(42, -15, D:6)
+  a +0 hammer
+(42, 1, D:6)
+  a +0 leather armour
+  a +0 hand axe
+(43, -16, D:6)
+  a +0 hammer
+(49, -17, D:6)
+  a +2 quarterstaff of chaos
+  a +0 cloak
+(52, -18, D:6)
+  a +0 hammer
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a +0 whip
+  7 stones
+(1, 1, D:7)
+  a +0 dagger
+  a +0 robe
+  a +0 mace
+(10, 11, D:7)
+  5 stones
+(26, -3, D:7)
+  4 stones
+(32, 23, D:7)
+  a +0 hand axe
+(45, 27, D:7)
+  a +0 short sword
+  2 stones
+  a +0 short sword
+  a +0 short sword
+(45, 29, D:7)
+  a +0 short sword
+  a +0 short sword
+  8 stones
+(45, 30, D:7)
+  a +0 dagger
+  4 stones
+(48, 33, D:7)
+  a +0 dagger
+  a stone
+(50, -15, D:7)
+  a +0 club
+  a +0 scale mail
+  a +0 dagger
+  a +0 robe
+  a +0 flail
+(51, -14, D:7)
+  a +0 hand axe
+(52, 15, D:7)
+  a +0 short sword
+  a +0 club
+  a +0 dagger
+  6 stones
+(53, 14, D:7)
+  a +0 club
+  a +0 club
+(53, 15, D:7)
+  a +0 club
+  2 stones
+(57, -9, D:7)
+  a +0 dagger
+(57, -7, D:7)
+  a +0 hand axe of flaming
+  a +0 leather armour
+(57, 28, D:7)
+  a staff of conjuration
+(58, -8, D:7)
+  a +0 hand axe
+  a +0 dagger
+  a +0 leather armour
+(58, -7, D:7)
+  a +0 mace
+  a +0 arbalest
+  a +0 plate armour
+(61, 9, D:7)
+  a +0 dagger
+(67, 32, D:7)
+  +0 acid dragon scales
+
+Level 8 of the Dungeon
+(2, 41, D:8)
+  a +0 shortbow
+  a +0 trident
+(3, 13, D:8)
+  a +0 war axe
+  a +0 ring mail
+(4, 21, D:8)
+  5 stones
+(4, 30, D:8)
+  a +0 chain mail
+(12, 39, D:8)
+  a +0 whip
+(20, -7, D:8)
+  a +0 falchion
+(20, -5, D:8)
+  a +0 robe
+  a +0 dagger
+(20, -4, D:8)
+  a +0 whip
+(23, 11, D:8)
+  a +0 robe
+  a +4 halberd of freezing
+(24, 10, D:8)
+  a +0 whip
+  a +0 robe
+  a +0 dagger
+  a +0 robe
+  a +2 vorpal mace
+  a +0 robe
+  a +1 vorpal flail
+(30, 16, D:8)
+  a +0 ring mail
+  a +0 mace
+  a +0 plate armour
+  a +0 long sword
+  a +0 arbalest
+(31, 16, D:8)
+  a killer bee corpse
+(35, 23, D:8)
+  a +0 shortbow
+(37, 20, D:8)
+  a yak corpse (skeletalised by now)
+(44, 20, D:8)
+  5 stones
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a scroll of enchant armour
+(4, 4, D:9)
+  a scroll of teleportation
+
+the Ecumenical Temple
+

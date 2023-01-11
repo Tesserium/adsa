@@ -1,0 +1,318 @@
+code2828
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 dagger
+(2, -6, D:1)
+  a +0 sling
+(6, 23, D:1)
+  3 poisoned darts
+(8, -11, D:1)
+  a +0 sling
+(8, 0, D:1)
+  a +0 leather armour
+(8, 12, D:1)
+  a +0 short sword
+(9, -9, D:1)
+  a +0 whip
+(19, 12, D:1)
+  3 poisoned darts
+(32, 11, D:1)
+  a +0 leather armour
+(37, 32, D:1)
+  a +0 whip
+  4 stones
+(38, 28, D:1)
+  a +0 dagger
+  a +0 dagger
+(40, 34, D:1)
+  a +0 spear
+(46, 38, D:1)
+  a +0 club
+  4 stones
+(50, -5, D:1)
+  a +0 dagger
+
+Level 2 of the Dungeon
+(2, -15, D:2)
+  a potion of lignification
+(12, -3, D:2)
+  a +0 dagger
+  a stone
+(13, -8, D:2)
+  a +0 dagger
+(20, -11, D:2)
+  a +0 hand axe
+(30, 27, D:2)
+  a +0 dagger of venom
+(34, 11, D:2)
+  a +0 leather armour
+(36, 19, D:2)
+  3 poisoned darts
+(38, 12, D:2)
+  a +0 whip
+  5 stones
+(39, -22, D:2)
+  a +0 dagger
+  3 stones
+(44, -11, D:2)
+  5 stones
+  a +0 short sword
+(46, 3, D:2)
+  a +0 flail
+(48, -2, D:2)
+  a potion of lignification
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 whip
+(2, 0, D:3)
+  a +0 flail
+(2, 2, D:3)
+  a +0 long sword
+(13, -11, D:3)
+  a potion of lignification
+(19, -19, D:3)
+  a +0 mace
+  a +0 leather armour
+(19, -18, D:3)
+  a +0 short sword
+  a +0 chain mail
+  a +0 dagger
+  a +0 robe
+(20, -14, D:3)
+  a +0 robe
+(23, -6, D:3)
+  a +2 dagger of venom
+  a +1 hand axe
+(24, -5, D:3)
+  a +0 leather armour
+(28, -5, D:3)
+  a +0 mace
+(32, -27, D:3)
+  a +0 dagger
+(33, -26, D:3)
+  a +0 dagger
+  a +0 robe
+(34, -27, D:3)
+  a +0 dagger
+  a +0 robe
+(34, -26, D:3)
+  a +0 whip
+(35, -27, D:3)
+  a +0 dagger
+(37, -29, D:3)
+  a +0 club
+(47, -27, D:3)
+  4 poisoned darts
+(49, -1, D:3)
+  a +0 scale mail
+(55, -3, D:3)
+  a +0 dagger
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 club
+(25, -5, D:4)
+  a +0 short sword
+(28, 1, D:4)
+  a +0 dagger
+(28, 9, D:4)
+  a +0 trident
+(28, 10, D:4)
+  a +0 club
+(29, 7, D:4)
+  a +0 short sword
+(31, -9, D:4)
+  a +0 short sword
+  a +4 ring mail
+(31, 3, D:4)
+  a +0 whip
+(31, 18, D:4)
+  2 stones
+(32, -9, D:4)
+  a +0 club
+  a +0 dagger
+  a +0 robe
+  a +0 dagger
+  a +0 robe
+(36, -4, D:4)
+  7 stones
+  a +0 halberd
+  a +0 flail
+(36, -3, D:4)
+  a +0 whip
+  a +0 flail of holy wrath
+  a +0 leather armour
+  a +0 whip
+(42, 2, D:4)
+  a +0 scale mail
+  a +0 short sword
+(43, -7, D:4)
+  a +0 club
+(43, 3, D:4)
+  a +0 leather armour
+  a +0 hand axe
+(44, 1, D:4)
+  a +0 trident
+(47, 2, D:4)
+  a +0 dagger
+
+Level 5 of the Dungeon
+[Shop] Kirsasp's Dragon-Slaying Spoils
+  +0 steam dragon scales (600 gold)
+  +0 acid dragon scales (600 gold)
+  +0 swamp dragon scales (750 gold)
+  +0 fire dragon scales (900 gold)
+  +0 ice dragon scales (900 gold)
+  the +4 pearl dragon scales of the Original Sin {Fly rN+ Dex+3} (1852 gold)
+    Dex:       It affects your dexterity (+3).
+    rN:        It protects you from negative energy.
+    Fly:       It grants you flight.
+  +0 shadow dragon scales (1200 gold)
+  +0 storm dragon scales (1200 gold)
+  +0 gold dragon scales (1200 gold)
+  quicksilver dragon scales (900 gold)
+(0, 0, D:5)
+  a +0 whip
+  a +0 flail
+  a +0 ring mail
+(8, -7, D:5)
+  a +0 sling
+(9, -11, D:5)
+  2 stones
+(13, -20, D:5)
+  3 stones
+(15, -5, D:5)
+  a +1 dagger of protection
+  a +0 robe
+(15, -4, D:5)
+  a +0 short sword
+(16, -8, D:5)
+  a +0 hand axe
+(20, 9, D:5)
+  a +0 club
+(36, -15, D:5)
+  3 stones
+(36, -14, D:5)
+  a +0 flail
+  a +0 ring mail
+  a +0 falchion
+  a +0 dagger
+  a +0 robe
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 whip
+  3 poisoned darts
+(1, 0, D:6)
+  a +0 short sword
+  2 stones
+  a +0 club
+  7 poisoned darts
+(14, 11, D:6)
+  a +0 shortbow of flaming
+(20, 50, D:6)
+  8 stones
+(28, 43, D:6)
+  a +0 scimitar
+(32, 3, D:6)
+  a +0 short sword of venom
+  a +0 scale mail
+(36, 59, D:6)
+  a +0 great mace
+(39, 11, D:6)
+  a +0 robe
+(48, 33, D:6)
+  a +0 flail
+(52, 3, D:6)
+  3 stones
+(53, 31, D:6)
+  a +0 robe
+(55, 22, D:6)
+  a +0 shortbow
+(58, 28, D:6)
+  4 stones
+(58, 42, D:6)
+  a +0 robe
+(58, 44, D:6)
+  a +0 dagger
+  a +2 robe of willpower
+(60, 15, D:6)
+  a +0 club
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a +0 flail
+  a +3 leather armour
+(1, 0, D:7)
+  a +0 flail
+  a +0 hand axe
+  a +0 war axe
+(3, -3, D:7)
+  a +0 rapier
+(10, -3, D:7)
+  a +0 dagger
+(12, 26, D:7)
+  a +0 whip
+(20, 2, D:7)
+  a +0 whip
+(22, -7, D:7)
+  a +0 quarterstaff
+  a +0 sling
+  a +3 ring mail of fire resistance
+(25, -10, D:7)
+  a potion of lignification
+(27, 44, D:7)
+  4 stones
+(30, 39, D:7)
+  a +0 ring mail
+(36, 23, D:7)
+  a +0 falchion
+(38, 20, D:7)
+  2 stones
+(39, 10, D:7)
+  a +0 whip
+  a +0 ring mail
+(40, 10, D:7)
+  a +0 flail
+  a +0 short sword
+  a +0 ring mail
+  a +0 flail
+(41, 10, D:7)
+  a +0 flail
+  a +0 dagger
+(42, 7, D:7)
+  a +0 dagger
+  a +0 robe
+  a +0 dagger
+  a +0 robe
+(42, 8, D:7)
+  a +0 hand axe
+(42, 15, D:7)
+  a +0 flail
+(42, 16, D:7)
+  a +0 whip
+(42, 17, D:7)
+  a +0 club
+  a +0 leather armour
+  a +0 club
+(44, 8, D:7)
+  a +0 dagger
+  a +0 robe
+(45, 7, D:7)
+  a +0 hand axe
+  a +0 plate armour
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a +0 shortbow
+  a centaur corpse
+(0, 1, D:8)
+  a hornet corpse
+(18, -2, D:8)
+  a staff of poison
+  (unseen)
+
+the Ecumenical Temple
+

@@ -1,0 +1,506 @@
+ Dungeon Crawl Stone Soup version 0.27.1-35-g4d5d836 (webtiles) character file.
+
+Game seed: 5973801932262453462
+
+26002 code2828 the Fencer (level 12, -1/113 HPs)
+             Began as a Minotaur Berserker on Dec 27, 2022.
+             Was a High Priest of Trog.
+             Shot with an arrow by Nessos (9 damage)
+             ... on level 13 of the Dungeon.
+             The game lasted 00:34:00 (11415 turns).
+
+code2828 the Fencer (Minotaur Berserker)           Turns: 11415, Time: 00:34:02
+
+Health: -1/113     AC: 23    Str: 26    XL:     12   Next: 94%
+Magic:  0/11       EV: 11    Int:  4    God:    Trog [*****.]
+Gold:   405        SH:  6    Dex: 11    Spells: 11/11 levels left
+
+rFire    x . .     SeeInvis .   v - +4 falchion (flame)
+rCold    + + +     Faith    .   h - +0 buckler
+rNeg     . . .     Spirit   +   t - +0 shadow dragon scales
+rPois    +         Reflect  .   (helmet restricted)
+rElec    .         Harm     .   y - +1 cloak of Tenacity {rPois rF- rC+++ Regen+}
+rCorr    .         Rampage  .   (no gloves)
+Will     ++...                  j - +0 pair of boots
+Stlth    +++.......             E - amulet of guardian spirit
+HPRegen  2.28/turn              r - +4 ring of protection
+MPRegen  0.12/turn              M - ring of flight
+
+@: strong-willed, on berserk cooldown, flying, regenerating, slowed, very slow
+A: horns 2, retaliatory headbutt
+a: Renounce Religion, Berserk, Trog's Hand, Brothers in Arms
+
+
+You were on level 13 of the Dungeon.
+You worshipped Trog.
+Trog was extremely pleased with you.
+You visited 2 branches of the dungeon, and saw 14 of its levels.
+
+You collected 917 gold pieces.
+You spent 512 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ v - a +4 falchion of flaming (weapon)
+Missiles
+ f - 2 throwing nets
+ L - 5 boomerangs of dispersal (quivered)
+Armour
+ h - a +0 buckler (worn)
+ j - a +0 pair of boots (worn)
+ t - +0 shadow dragon scales (worn)
+ y - the +1 cloak of Tenacity (worn) {rPois rF- rC+++ Regen+}
+   (You found it on level 7 of the Dungeon)   
+   
+   rF:        It makes you vulnerable to fire.
+   rC:        It renders you almost immune to cold.
+   rPois:     It protects you from poison.
+   Regen:     It increases your rate of health regeneration.
+Jewellery
+ r - a +4 ring of protection (left hand)
+ E - an amulet of guardian spirit (around neck)
+ M - a ring of flight (right hand)
+Wands
+ a - a wand of acid (15)
+ c - a wand of iceblast (26)
+ G - a wand of polymorph (11)
+ I - a wand of flame (18)
+Scrolls
+ d - a scroll of enchant armour {unknown}
+ e - 3 scrolls of fear
+ g - 2 scrolls of silence
+ i - 2 scrolls of enchant weapon
+ k - a scroll of immolation {unknown}
+ n - a scroll of teleportation
+ o - 3 scrolls of brand weapon {unknown}
+ q - 2 scrolls of noise
+ z - a scroll of summoning {unknown}
+ A - 2 scrolls of magic mapping
+ B - a scroll of torment {unknown}
+ D - 2 scrolls of amnesia
+ F - 3 scrolls of fog
+ H - 3 scrolls of acquirement
+ J - a scroll of vulnerability {unknown}
+Potions
+ b - 6 potions of curing
+ l - a potion of invisibility
+ p - 3 potions of lignification
+ s - a potion of mutation {unknown}
+ u - a potion of might
+ w - a potion of brilliance {unknown}
+ x - 3 potions of cancellation
+ C - a potion of flight {unknown}
+ K - a potion of attraction {unknown}
+ N - a potion of resistance {unknown}
+
+
+   Skills:
+ * Level 12.5 Fighting
+ * Level 15.4 Long Blades
+ + Level 12.0 Armour
+ + Level 5.9 Dodging
+ + Level 3.2 Stealth
+ * Level 9.8 Shields
+
+
+You had 11 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (13/15)            Temple (1/1) D:7            Lair (0/6) D:11
+    Orc (0/2) D:11        
+Vaults: D:13-14     
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:6 (   D:8 !!
+
+Portals:
+Trove: D:11 (give 8 scrolls of fear)
+
+Annotations:
+D:13 Nessos
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+Nessos is moderately wounded.
+You feel sick. Nessos barely misses you. You riposte. You closely miss Nessos.
+Nessos is moderately wounded.
+Nessos closely misses you. Nessos hits you.
+* * * LOW HITPOINT WARNING * * *
+Nessos completely misses you.
+You feel better. Nessos hits you but does no damage.
+Nessos kicks you but does no damage. Nessos blinks!
+Nessos wields a +3 longbow of flaming. It bursts into flame!
+Nessos shoots an arrow. The arrow hits you but does no damage.
+Your skin crawls.
+You feel strong-willed.
+Nessos shoots an arrow. The arrow hits you!
+* * * LOW HITPOINT WARNING * * *
+The arrow burns you.
+* * * LOW HITPOINT WARNING * * *
+Nessos blinks! Nessos shoots an arrow. The arrow hits you!
+* * * LOW HITPOINT WARNING * * *
+The arrow burns you!
+You are poisoned.
+* * * LOW HITPOINT WARNING * * *
+Unknown command.
+Unknown command.
+Unknown command.
+Unknown command.
+Unknown command.
+You feel better. Nessos shoots an arrow. The arrow closely misses you.
+Nessos shoots an arrow. The arrow barely misses you. Nessos shoots an arrow.
+The arrow hits you.
+* * * LOW HITPOINT WARNING * * *
+The arrow burns you.
+* * * LOW HITPOINT WARNING * * *
+Okay, then.
+You feel better. Nessos shoots an arrow. You block the arrow.
+Nessos shoots an arrow. The arrow hits you.
+* * * LOW HITPOINT WARNING * * *
+The arrow burns you.
+* * * LOW HITPOINT WARNING * * *
+Nessos shoots an arrow. The arrow hits you!
+You die...
+
+         #(##########.####
+         #...............#
+         #######c#######.#
+  #.#          #.#     #.#
+  #.#          #.#     #.#
+  #.#          #.#     #<#
+  #.#          #.#     #.#
+  #.#          #.#     #.########
+  #.#          #@#     #.........
+  #.#   ########.##### #.#######.
+###.#   #..........))# #.#     #.
+....#####.#.########)# #.#    ##.
+.........###.#     #.# #.######..
+.......##.#.##     #.# #.........
+######.##.^##      #.# #.####...#
+#    #.##.######   #.# #.###H..##
+#    #.........#   #.# #.##e..###
+
+
+You could see Nessos (fast).
+
+Vanquished Creatures
+  Rupert (D:12)
+  2 boulder beetles
+  A hydra (D:10)
+  A tengu warrior (D:13)
+  4 two-headed ogres
+  2 centaur warriors (D:13)
+  A skeletal warrior (D:13)
+  A wizard (D:9)
+  2 deep elf pyromancers (D:13)
+  3 manticores
+  An ugly thing (D:12)
+  6 cyclopes
+  Joseph (D:8)
+  Psyche (D:8)
+  An unseen horror (D:11)
+  A kobold demonologist (D:7)
+  A polar bear (D:10)
+  Prince Ribbit (D:9)
+  4 trolls
+  A hornet (D:9)
+  A centaur simulacrum (D:10)
+  A vampire (D:12)
+  2 wraiths (D:12)
+  14 yaks
+  A wyvern (D:11)
+  3 basilisks
+  Eustachio (D:6)
+  Menkaure (D:7)
+  3 water moccasins
+  3 orc warriors
+  2 ice beasts (D:10)
+  3 sky beasts
+  2 black bears
+  The ghost of cerulescent the Slasher, an amateur DgGl (D:4)
+  An ogre (D:6)
+  A necrophage (D:7)
+  7 centaurs
+  2 kobold brigands (D:9)
+  3 gnoll sergeants
+  2 bullfrogs (D:7)
+  A scorpion (D:7)
+  A wyvern zombie (D:7)
+  A water moccasin skeleton (D:6)
+  9 killer bees
+  3 wights (D:7)
+  A crimson imp (D:9)
+  4 centaur zombies
+  A bullfrog zombie (D:6)
+  5 hounds
+  A gnoll shaman (D:7)
+  2 jellies
+  3 orc priests
+  2 bullfrog skeletons (D:7)
+  An iguana (D:4)
+  6 orc wizards
+  8 gnolls
+  A howler monkey zombie (D:9)
+  A howler monkey skeleton (D:4)
+  3 adders
+  A shadow imp (D:7)
+  3 white imps
+  An adder skeleton (D:4)
+  A worm (D:2)
+  2 dart slugs
+  10 orcs
+  3 endoplasms
+  3 giant cockroaches
+  2 goblins (D:3)
+  3 hobgoblins
+  3 jackals (D:1)
+  2 quokkas
+  9 ball pythons
+  4 bats
+  2 frilled lizards (D:2)
+  17 kobolds
+  7 rats
+217 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A centaur warrior (D:13)
+  A deep elf pyromancer (D:13)
+  A cyclops (D:13)
+  An ugly thing (D:13)
+  A freezing wraith (D:13)
+  A tengu conjurer (D:13)
+6 creatures vanquished.
+
+Grand Total: 223 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Minotaur Berserker began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+     6 | D:1      | You fall into a shaft and drop 1 floor!
+    36 | D:2      | Reached skill level 4 in Long Blades
+    36 | D:2      | Reached XP level 2. HP: 16/27 MP: 1/1
+   528 | D:2      | Reached XP level 3. HP: 9/34 MP: 2/2
+   855 | D:2      | Found a hazy altar of Hepliaklqana.
+  1627 | D:1      | Reached ** piety under Trog
+  2267 | D:3      | Found a large runed translucent door.
+  2268 | D:3      | Found a large runed translucent door.
+  2441 | D:3      | Found a shimmering blue altar of Sif Muna.
+  2442 | D:3      | Found a sacrificial altar of Ru.
+  2750 | D:3      | Found a snail-covered altar of Cheibriados.
+  2756 | D:3      | Found a glowing silver altar of Zin.
+  2759 | D:3      | Reached XP level 4. HP: 41/41 MP: 3/3
+  3111 | D:4      | Reached skill level 5 in Fighting
+  3111 | D:4      | Reached skill level 5 in Long Blades
+  3111 | D:4      | Reached skill level 1 in Shields
+  3160 | D:4      | Reached XP level 5. HP: 39/48 MP: 4/4
+  3307 | D:4      | Found a broken altar of Ashenzari.
+  3307 | D:4      | Noticed a black bear
+  3313 | D:4      | Killed a black bear
+  3314 | D:4      | Reached XP level 6. HP: 52/56 MP: 5/5
+  3418 | D:4      | Found a shadowy altar of Dithmenos.
+  3506 | D:4      | Found a hazy altar of Hepliaklqana.
+  3693 | D:4      | Found a runed translucent gate.
+  3694 | D:4      | Found a runed translucent gate.
+  3695 | D:4      | Found a runed translucent gate.
+  3696 | D:4      | Noticed cerulescent's ghost (amateur DgGl)
+  3718 | D:4      | Killed cerulescent's ghost
+  3719 | D:4      | Reached skill level 6 in Long Blades
+  3938 | D:5      | Entered Level 5 of the Dungeon
+  4042 | D:5      | Noticed a sky beast
+  4053 | D:5      | Killed a sky beast
+  4261 | D:5      | Found an ornate altar of the Wu Jian Council.
+  4261 | D:5      | Found a burning altar of Makhleb.
+  4677 | D:6      | Reached XP level 7. HP: 62/62 MP: 6/6
+  4700 | D:6      | Reached skill level 7 in Long Blades
+  4700 | D:6      | Reached skill level 1 in Stealth
+  4977 | D:6      | Noticed Eustachio
+  5002 | D:6      | Killed Eustachio
+  5003 | D:6      | Reached skill level 5 in Armour
+  5103 | D:6      | Found a white marble altar of Elyvilon.
+  5130 | D:6      | Found Hountid's Antique Weapon Shoppe.
+  5140 | D:6      | Reached XP level 8. HP: 47/70 MP: 7/7
+  5309 | D:6      | Bought a runed falchion for 168 gold pieces
+  5524 | D:7      | Noticed Menkaure
+  5527 | D:7      | Killed Menkaure
+  5528 | D:7      | Reached skill level 8 in Long Blades
+  5561 | D:7      | Found a staircase to the Ecumenical Temple.
+  5570 | Temple   | Entered the Ecumenical Temple
+  5973 | D:7      | Identified the +1 cloak of Tenacity {rPois rF- rC+++
+                  | Regen+}
+  6000 | D:7      | Noticed a boulder beetle
+  6036 | D:7      | Noticed a kobold demonologist
+  6043 | D:7      | Killed a kobold demonologist
+  6052 | D:7      | Killed a boulder beetle
+  6053 | D:7      | Reached skill level 9 in Long Blades
+  6053 | D:7      | Reached skill level 5 in Shields
+  6053 | D:7      | Reached XP level 9. HP: 76/79 MP: 8/8
+  6073 | D:7      | Noticed a troll
+  6084 | D:7      | Reached *** piety under Trog
+  6090 | D:7      | Killed a troll
+  6145 | D:7      | Reached skill level 10 in Long Blades
+  6213 | D:7      | Noticed a two-headed ogre
+  6224 | D:7      | Killed a two-headed ogre
+  6239 | D:7      | Reached XP level 10. HP: 84/88 MP: 9/9
+  6523 | D:7      | Found a hide-covered altar of Uskayaw.
+  6837 | D:8      | Found Anganov's Distillery.
+  6849 | D:8      | Bought a potion of curing for 33 gold pieces
+  6849 | D:8      | Bought a potion of curing for 33 gold pieces
+  6849 | D:8      | Bought a potion of invisibility for 88 gold pieces
+  6887 | D:8      | Reached skill level 11 in Long Blades
+  6909 | D:8      | Found Jytt's Distillery.
+  6917 | D:8      | Noticed a manticore
+  6925 | D:8      | Killed a manticore
+  6926 | D:8      | Reached skill level 5 in Dodging
+  6927 | D:8      | Bought 2 potions of heal wounds for 100 gold pieces
+  6927 | D:8      | Bought a potion of curing for 30 gold pieces
+  6927 | D:8      | Bought a potion of curing for 30 gold pieces
+  6927 | D:8      | Bought a potion of curing for 30 gold pieces
+  6979 | D:8      | Noticed Psyche
+  6992 | D:8      | Killed Psyche
+  7334 | D:8      | Noticed Joseph
+  7348 | D:8      | Killed Joseph
+  7411 | D:8      | Found a stormy altar of Qazlal.
+  7594 | D:9      | Noticed Prince Ribbit
+  7606 | D:9      | Killed Prince Ribbit
+  7798 | D:9      | Reached skill level 12 in Long Blades
+  7829 | D:9      | Reached **** piety under Trog
+  8166 | D:9      | Noticed a wizard
+  8175 | D:9      | Killed a wizard
+  8474 | D:9      | Reached XP level 11. HP: 97/97 MP: 10/10
+  8551 | D:10     | Entered Level 10 of the Dungeon
+  8651 | D:10     | Reached skill level 13 in Long Blades
+  8787 | D:10     | Noticed a two-headed ogre
+  8807 | D:10     | Killed a two-headed ogre
+  9060 | D:10     | Noticed a two-headed ogre
+  9070 | D:10     | Killed a two-headed ogre
+  9268 | D:11     | Reached skill level 10 in Armour
+  9298 | D:11     | Found a staircase to the Lair.
+  9315 | D:11     | Reached skill level 10 in Fighting
+  9351 | D:11     | Reached ***** piety under Trog
+  9352 | D:11     | Reached skill level 14 in Long Blades
+  9448 | D:11     | Noticed a boulder beetle
+  9467 | D:11     | Killed a boulder beetle
+  9529 | D:11     | Noticed an eight-headed hydra
+  9555 | D:10     | Killed a three-headed hydra
+  9933 | D:11     | Reached XP level 12. HP: 105/108 MP: 9/11
+ 10076 | D:11     | Found a portal to a secret trove of treasure.
+ 10094 | D:11     | Identified 3 scrolls of acquirement
+ 10114 | D:11     | Found a staircase to the Orcish Mines.
+ 10194 | D:12     | Noticed Rupert
+ 10213 | D:12     | Killed Rupert
+ 10270 | D:12     | Noticed a two-headed ogre
+ 10280 | D:12     | Killed a two-headed ogre
+ 10430 | D:12     | Reached skill level 15 in Long Blades
+ 10888 | D:13     | Noticed a centaur warrior
+ 10891 | D:13     | Noticed a centaur warrior
+ 11010 | D:13     | Killed a centaur warrior
+ 11023 | D:13     | Killed a centaur warrior
+ 11044 | D:13     | Noticed a centaur warrior
+ 11046 | D:13     | Killed a centaur warrior
+ 11047 | D:13     | Noticed a tengu warrior
+ 11051 | D:13     | Noticed a tengu warrior
+ 11117 | D:13     | Noticed Nessos
+ 11344 | D:13     | Noticed a tengu warrior
+ 11357 | D:13     | Noticed a centaur warrior
+ 11394 | D:13     | Killed a tengu warrior
+ 11413 | D:13     | HP: 3/113 [Nessos/arrow (12)]
+ 11415 | D:13     | Shot with an arrow by Nessos
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      erik_arrival_cave_to_civilisation [erik_arrival_cave_to_hall],
+          layout_loops_ring
+D:2:      layout_basic, basic_altar
+D:3:      layout_basic, jmf_multi_god_temple2, mainiacjoe_overflow_divided_tiny
+D:4:      layout_loops_ring, mainiacjoe_overflow_cross_hatched,
+          mainiacjoe_overflow_surrounded_room, kennysheep_mini_moat,
+          ebering_ghost_rock_garden, abandoned_shop, minmay_misc_feat_x
+D:5:      layout_basic, nicolae_overflow_hidden_temple, serial_bayou_lagoon_b
+D:6:      layout_cave_pools, lemuel_crystal_altar, serial_shops, shop,
+          uniq_eustachio
+D:7:      minmay_the_grid_four_pointed_star
+          [minmay_the_grid_triangle_9x9_sparse_checkered,
+          minmay_the_grid_triangle_9x9_minimal,
+          minmay_the_grid_triangle_9x9_longest,
+          minmay_the_grid_triangle_9x9_descending_squares,
+          minmay_the_grid_prize_inner_circle], layout_rooms,
+          nicolae_uskayaw_dance_hall, minmay_temple_entry_trees,
+          kennysheep_cross_bottleneck, chequers_serial_rivers_micro_b,
+          minmay_fractal_squares_diagonal_5, uniq_menkaure
+D:8:      layout_loops_ring, kennysheep_mini, serial_shops,
+          nicolae_shop_crystal, shop_coins, uniq_joseph, uniq_psyche
+D:9:      layout_loops_corners, lightli_wizard_tower, uniq_prince_ribbit1
+D:10:     layout_roguey, serial_ice, serial_ice_l, serial_ice_d, serial_ice_m,
+          serial_ice_g
+D:11:     layout_grid_maze, david_lair_generic, orc_0_dummy,
+          nicolae_trove_entry_crossroad, palyth_stone_intersect
+D:12:     layout_roguey, uniq_rupert
+D:13:     minmay_triangles_in_corner, layout_loops_ring, uniq_nessos
+Temple:   compressed_dpeg_triangle_lava_temple
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 |
+---------------+-------------------------------------+-----
+Fighting       |  4        5        6  7     9 10 12 | 12.5
+Long Blades    |  4        5     6  7  9 10 12 14 15 | 15.4
+Shields        |           1     2  3  5  6  7  8  9 |  9.8
+Armour         |              3  4  5  7  8  9 10 12 | 12.0
+Dodging        |                 3     4     5       |  5.9
+Stealth        |                    1        2     3 |  3.2
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Falchion          |    85 |    89 |   132 |   543 ||   849
+       Headbutt          |    11 |    18 |    35 |   123 ||   187
+Invok: Berserk           |       |     1 |     4 |     9 ||    14
+       Trog's Hand       |       |     1 |     3 |     6 ||    10
+       Brothers in Arms  |       |       |       |     2 ||     2
+  Use: Potion            |       |       |     1 |    10 ||    11
+       Scroll            |       |       |       |    15 ||    15
+ Stab: Distracted        |       |     1 |       |     1 ||     2
+       Sleeping          |       |       |       |     5 ||     5
+Armor: Animal skin       |     2 |       |       |       ||     2
+       Leather armour    |    12 |       |       |       ||    12
+       Scale mail        |       |    37 |    73 |    10 ||   120
+       Shadow dragon sca |       |       |       |   274 ||   274
+Dodge: Dodged            |    49 |    40 |    73 |   197 ||   359
+Block: Buckler           |     8 |    15 |    32 |   101 ||   156
+Rpst.: Falchion          |    14 |    12 |    14 |    38 ||    78
+

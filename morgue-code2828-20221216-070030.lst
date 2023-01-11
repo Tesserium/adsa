@@ -1,0 +1,80 @@
+code2828
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 club
+(9, 0, D:1)
+  6 stones
+(12, 6, D:1)
+  2 stones
+(21, -6, D:1)
+  a +0 club
+(21, 27, D:1)
+  a +0 club
+(26, 29, D:1)
+  7 stones
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 dagger
+(11, 5, D:2)
+  a +0 robe
+(14, -15, D:2)
+  8 stones
+(16, -20, D:2)
+  a +0 dagger
+(18, 5, D:2)
+  a +0 dagger
+(30, -16, D:2)
+  a +0 short sword
+
+Level 3 of the Dungeon
+(1, -5, D:3)
+  a +0 club
+(14, 27, D:3)
+  8 stones
+(20, 20, D:3)
+  a +0 short sword
+(24, 26, D:3)
+  4 boomerangs
+(30, 2, D:3)
+  a +0 club
+  2 boomerangs
+  a +0 ring mail
+(31, 26, D:3)
+  a +0 dagger
+(33, 39, D:3)
+  a +0 club
+(34, 2, D:3)
+  a +0 hand axe
+  a +0 club
+  a +0 scale mail
+(35, 2, D:3)
+  a +0 hand axe
+  a +0 leather armour
+(38, 23, D:3)
+  a +0 dagger
+(39, 2, D:3)
+  a +0 short sword
+(40, 2, D:3)
+  a +0 dagger
+  a +0 robe
+(42, 30, D:3)
+  a +0 short sword
+(43, 17, D:3)
+  a +0 club
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 rapier
+(14, 16, D:4)
+  a +0 halberd
+(16, 20, D:4)
+  8 stones
+(17, 22, D:4)
+  4 stones
+(20, -6, D:4)
+  a +0 club
+(21, -5, D:4)
+  a potion of brilliance
+

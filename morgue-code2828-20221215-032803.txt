@@ -1,0 +1,455 @@
+ Dungeon Crawl Stone Soup version 0.26.1-15-g04117e6 (webtiles) character file.
+
+Game seed: 8814316845484123412
+
+21858 code2828 the Severer (level 12, -6/165 HPs)
+             Began as a Minotaur Berserker on Dec 14, 2022.
+             Was a High Priest of Trog.
+             Mangled by a 15-headed hydra (10 damage)
+             ... on level 2 of the Lair of Beasts on Dec 15, 2022.
+             The game lasted 00:47:57 (15493 turns).
+
+code2828 the Severer (Minotaur Berserker)          Turns: 15493, Time: 00:47:59
+
+Health: -6/165     AC: 21    Str: 24    XL:     12   Next: 57%
+Magic:  3/3        EV:  7    Int:  4    God:    Trog [*****.]
+Gold:   810        SH: 10    Dex: 11    Spells: 11/11 levels left
+
+rFire    + . .     SeeInvis .   h - +3 war axe of the Howling Soothsayer {antimagic, *Contam rElec rPois rC+}
+rCold    + + .     Faith    .   B - +0 kite shield
+rNeg     . . .     Spirit   .   l - +0 plate armour
+rPois    +         Reflect  .   q - +1 hat
+rElec    +         Harm     .   E - +1 cloak
+rCorr    .         Rampage  .   G - +0 pair of gloves
+Will     ++...     Rnd*Rage +   (no boots)
+Stlth    ..........             s - amulet of magic regeneration
+HPRegen  1.37/turn              F - ring of protection from fire
+MPRegen  0.33/turn              p - ring of protection from cold
+
+@: berserking, regenerating, very quick
+A: retaliatory headbutt, horns 2, berserk 1, weak 1
+a: Renounce Religion, Berserk, Trog's Hand, Brothers in Arms
+
+
+You were on level 2 of the Lair of Beasts.
+You worshipped Trog.
+Trog was extremely pleased with you.
+You visited 3 branches of the dungeon, and saw 14 of its levels.
+
+You collected 891 gold pieces.
+You spent 81 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ h - the +3 war axe of the Howling Soothsayer (weapon) {antimagic, *Contam rElec rPois rC+}
+   (You took it off an orc wizard on level 7 of the Dungeon)   
+   
+   It reduces the magical energy of the wielder, and disrupts the spells and
+   magical abilities of those hit. Natural abilities and divine invocations are
+   not affected.
+   
+   It protects you from cold.
+   It insulates you from electricity.
+   It protects you from poison.
+   It causes magical contamination when unequipped.
+ M - the +3 mace "Ucsy" {vorpal, Str+6}
+   (You found it on level 11 of the Dungeon)   
+   
+   It inflicts extra damage upon your enemies.
+   
+   It affects your strength (+6).
+Armour
+ l - a +0 plate armour (worn)
+ q - a +1 hat (worn)
+ B - a +0 kite shield (worn)
+ E - a +1 cloak (worn)
+ G - a +0 pair of gloves (worn)
+Jewellery
+ p - a ring of protection from cold (right hand)
+ s - an amulet of magic regeneration (around neck)
+ F - a ring of protection from fire (left hand)
+ N - an uncursed ring of positive energy {unknown}
+Wands
+ t - a wand of iceblast (6)
+ x - a wand of digging (10)
+ y - a wand of polymorph (11)
+ C - a wand of disintegration (12)
+ I - a wand of random effects (30)
+ J - a wand of acid (12)
+Scrolls
+ c - a scroll of brand weapon {unknown}
+ i - 2 scrolls of remove curse
+ j - 4 scrolls of blinking {unknown}
+ k - a scroll of enchant weapon {unknown}
+ m - a scroll of amnesia {unknown}
+ n - 9 scrolls of teleportation
+ v - 4 scrolls of magic mapping {unknown}
+ w - 3 scrolls of fear {unknown}
+ D - a scroll of torment {unknown}
+ K - a scroll of fog
+ O - a scroll of noise {unknown}
+ P - a scroll of silence {unknown}
+Potions
+ a - 3 potions of flight
+ b - a potion of resistance {unknown}
+ d - 3 potions of might
+ e - 4 potions of haste
+ f - 4 potions of heal wounds
+ g - 5 potions of curing
+ o - 5 potions of mutation
+ r - 3 potions of ambrosia
+ u - 2 potions of lignification
+ z - a potion of attraction
+ A - a potion of berserk rage
+ H - 2 potions of magic {unknown}
+
+
+   Skills:
+ + Level 11.5 Fighting
+ - Level 16.0 Axes
+ + Level 12.8 Armour
+ + Level 4.3 Dodging
+ + Level 1.3 Stealth
+ * Level 6.1 Shields
+ + Level 2.4 Unarmed Combat
+ + Level 2.2 Evocations
+
+
+You had 11 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (11/15)            Temple (1/1) D:5            Lair (2/6) D:11
+    Orc (0/2) D:10        
+ Swamp: Lair:2-4    Shoals: Lair:2-4     Snake: Lair:2-4    Spider: Lair:2-4
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:11 [
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+You tend to lose your temper in combat.
+You are weak. (Str -2)
+
+
+Message History
+
+* * * LOW HITPOINT WARNING * * *
+You lop one of the 14-headed hydra's heads off!
+The 13-headed hydra grows two more! You slice the 15-headed hydra!!
+The 15-headed hydra is severely wounded.
+The 15-headed hydra bites you!
+* * * LOW HITPOINT WARNING * * *
+The 15-headed hydra bites you!
+* * * LOW HITPOINT WARNING * * *
+The 15-headed hydra bites you.
+* * * LOW HITPOINT WARNING * * *
+You block the 15-headed hydra's attack.
+The 15-headed hydra bites you but does no damage.
+The 15-headed hydra barely misses you.
+The 15-headed hydra bites you but does no damage.
+The 15-headed hydra bites you.
+* * * LOW HITPOINT WARNING * * *
+The 15-headed hydra closely misses you. You block the 15-headed hydra's attack.
+The 15-headed hydra bites you but does no damage.
+The 15-headed hydra closely misses you. The 15-headed hydra bites you!
+You die...
+
+       #.#
+  #####...
+ +#..#.#.#
+ ........#
+ .....(..#
+ ........#
+ .......D##
+ ........@#
+ ........##
+ ........#
+ .P..#...##
+ ###...#..#
+ .....#..##
+......[...#
+#.....#P.P#
+##.#P.....##
+
+
+You could see a 15-headed hydra.
+
+Vanquished Creatures
+  Erolcha (D:10)
+  A fire dragon (D:10)
+  3 two-headed ogres
+  3 skeletal warriors (D:11)
+  3 unseen horrors (D:11)
+  4 lindwurms
+  2 cyclopes
+  A manticore (D:10)
+  A black mamba (Lair:1)
+  Joseph (D:8)
+  2 cane toads (Lair:1)
+  A wind drake (D:9)
+  A hornet (D:8)
+  8 yaks
+  A vampire (D:11)
+  A wraith (D:10)
+  A basilisk (Lair:1)
+  8 fire bats (D:10)
+  Eustachio (D:6)
+  A water moccasin (D:9)
+  3 phantoms
+  2 orc warriors
+  2 sky beasts (D:11)
+  An ice beast (D:7)
+  25 wolves
+  5 ogres
+  11 centaurs
+  2 big kobolds
+  7 bullfrogs
+  3 scorpions
+  14 killer bees
+  4 electric eels (D:10)
+  8 wights (D:7)
+  A howler monkey (D:4)
+  A quasit (D:11)
+  2 hounds
+  6 orc priests
+  Ijyb (D:4)
+  4 jellies
+  8 orc wizards
+  2 bullfrog skeletons
+  A centaur skeleton (D:7)
+  A gnoll shaman (D:9)
+  2 iguanas
+  9 worker ants
+  A hound zombie (D:11)
+  3 hound skeletons
+  A worker ant zombie (D:11)
+  Robin (D:2)
+  15 gnolls
+  12 adders
+  2 shadow imps (D:6)
+  3 ufetubi
+  2 worms (D:2)
+  7 leopard geckos
+  47 orcs
+  6 bats
+  5 giant cockroaches
+  19 goblins
+  7 hobgoblins
+  8 jackals
+  7 quokkas
+  A ball python (D:2)
+  3 frilled lizards (D:3)
+  18 kobolds
+  A quokka skeleton (D:8)
+  5 rats
+  A bush (D:10)
+345 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A skeletal warrior (D:11)
+1 creature vanquished.
+
+Vanquished Creatures (others)
+  3 fungi
+  13 plants
+16 creatures vanquished.
+
+Grand Total: 362 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Minotaur Berserker began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   229 | D:1      | Reached XP level 2. HP: 27/27 MP: 1/1
+   232 | D:1      | Reached skill level 4 in Axes
+   542 | D:1      | Reached XP level 3. HP: 33/33 MP: 2/2
+   700 | D:1      | Reached ** piety under Trog
+  1028 | D:2      | Noticed Robin
+  1058 | D:2      | Reached XP level 4. HP: 41/41 MP: 3/3
+  1059 | D:2      | Killed Robin
+  1060 | D:2      | Reached skill level 5 in Axes
+  1803 | D:3      | Found a shadowy altar of Dithmenos.
+  1865 | D:3      | Reached XP level 5. HP: 47/47 MP: 4/4
+  2017 | D:3      | Reached *** piety under Trog
+  2065 | D:3      | Reached skill level 6 in Axes
+  2482 | D:4      | Reached XP level 6. HP: 55/55 MP: 5/5
+  2501 | D:4      | Reached skill level 5 in Fighting
+  2550 | D:4      | Noticed Ijyb
+  2748 | D:4      | Reached skill level 7 in Axes
+  2873 | D:4      | Reached XP level 7. HP: 52/61 MP: 6/6
+  2995 | D:4      | Killed Ijyb
+  3002 | D:4      | Reached skill level 5 in Armour
+  3101 | D:4      | Got an ancient cloak
+  3107 | D:4      | Identified the cursed +0 cloak of the Moon {Int+5} (You
+                  | found it on level 4 of the Dungeon)
+  3195 | D:4      | Reached skill level 8 in Axes
+  3432 | D:4      | Found a snail-covered altar of Cheibriados.
+  3993 | D:5      | Entered Level 5 of the Dungeon
+  4440 | D:5      | Found a staircase to the Ecumenical Temple.
+  4476 | D:5      | Reached XP level 8. HP: 71/71 MP: 7/7
+  4705 | Temple   | Entered the Ecumenical Temple
+  5048 | D:5      | Reached **** piety under Trog
+  5049 | D:5      | Reached skill level 9 in Axes
+  5558 | D:6      | Noticed Eustachio
+  5578 | D:6      | Killed Eustachio
+  6368 | D:6      | Reached skill level 1 in Unarmed Combat
+  6596 | D:7      | Identified the +3 war axe of the Howling Soothsayer
+                  | {antimagic, *Contam rElec rPois rC+}
+  6618 | D:7      | Reached skill level 10 in Axes
+  6776 | D:7      | Reached XP level 9. HP: 74/79 MP: 2/8
+  7093 | D:7      | Found a bloodstained altar of Trog.
+  7285 | D:7      | Reached skill level 11 in Axes
+  7396 | D:7      | Found a broken altar of Ashenzari.
+  7396 | D:7      | Found a burning altar of Makhleb.
+  7557 | D:8      | Noticed Joseph
+  7874 | D:7      | Reached ***** piety under Trog
+  8004 | D:8      | Killed Joseph
+  8005 | D:8      | Reached skill level 12 in Axes
+  8222 | D:8      | Found an ancient bone altar of Kikubaaqudgha.
+  8225 | D:8      | Found a blossoming altar of Fedhas.
+  8557 | D:9      | Found a white marble altar of Elyvilon.
+  8721 | D:9      | Noticed a two-headed ogre
+  8758 | D:8      | Killed a two-headed ogre
+  8759 | D:8      | Reached XP level 10. HP: 76/90 MP: 3/9
+  8929 | D:9      | Noticed a two-headed ogre
+  8936 | D:9      | Killed a two-headed ogre
+  8937 | D:9      | Reached skill level 13 in Axes
+  8937 | D:9      | Reached skill level 1 in Stealth
+  9030 | D:9      | Noticed a lindwurm
+  9051 | D:9      | Noticed a lindwurm
+  9066 | D:9      | Noticed a lindwurm
+  9104 | D:9      | Killed a lindwurm
+  9104 | D:9      | Killed a lindwurm
+  9112 | D:9      | Noticed a lindwurm
+  9257 | D:9      | a lindwurm changed into a wind drake
+  9543 | D:9      | Killed a lindwurm
+  9544 | D:9      | Reached skill level 1 in Evocations
+  9744 | D:9      | Reached skill level 10 in Armour
+  9815 | D:9      | Reached skill level 14 in Axes
+  9842 | D:9      | Reached XP level 11. HP: 37/97 MP: 3/10
+ 10494 | D:10     | Entered Level 10 of the Dungeon
+ 10562 | D:10     | Found a staircase to the Orcish Mines.
+ 10654 | D:10     | Noticed a fire dragon
+ 10655 | D:10     | Found the +7 great mace "Firestarter" {inner flame, rF++}
+ 10673 | D:10     | Killed a fire dragon
+ 10824 | D:10     | Noticed Erolcha
+ 10835 | D:10     | Killed Erolcha
+ 10835 | D:10     | Received a gift from Trog
+ 10845 | D:10     | Gained mutation: You are weak. (Str -2) [mutagenic glow]
+ 10902 | D:10     | Reached skill level 10 in Fighting
+ 11022 | D:10     | Found a snail-covered altar of Cheibriados.
+ 12161 | D:10     | Reached skill level 15 in Axes
+ 12499 | D:11     | Killed an unseen horror
+ 12513 | D:11     | Noticed a two-headed ogre
+ 12525 | D:11     | Killed a two-headed ogre
+ 12799 | D:11     | Found Wyck's Armour Shoppe.
+ 12802 | D:11     | Bought a +0 kite shield for 81 gold pieces
+ 12858 | D:11     | Found a staircase to the Lair.
+ 12902 | D:11     | Got a shimmering mace
+ 12903 | D:11     | Identified the +3 mace "Ucsy" {vorpal, Str+6} (You found it
+                  | on level 11 of the Dungeon)
+ 12907 | D:11     | Gained mutation: You tend to lose your temper in combat.
+                  | [mutagenic glow]
+ 12968 | D:11     | Reached skill level 1 in Shields
+ 13021 | D:11     | Noticed a skeletal warrior
+ 13021 | D:11     | Noticed a skeletal warrior
+ 13023 | D:11     | Noticed a skeletal warrior
+ 13053 | D:11     | Killed a skeletal warrior
+ 13070 | D:11     | Killed a skeletal warrior
+ 13070 | D:11     | Killed a skeletal warrior
+ 13071 | D:11     | Reached XP level 12. HP: 35/108 MP: 3/11
+ 13976 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 15124 | Lair:1   | Reached skill level 16 in Axes
+ 15124 | Lair:1   | Reached skill level 5 in Shields
+ 15475 | Lair:2   | Noticed a four-headed hydra
+ 15493 | Lair:2   | HP: 4/165 [15-headed hydra (5)]
+ 15493 | Lair:2   | Mangled by a 15-headed hydra
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      matt_arrival_refuge, layout_loops_corners, st_stairs_11
+D:2:      layout_rooms, uniq_robin
+D:3:      layout_rooms, old_standard_altar, chequers_serial_rivers_small_a,
+          minmay_misc_feat_ornament
+D:4:      minmay_spotlight, layout_basic, lemuel_round_altar,
+          grunt_ministairs_12, minmay_misc_feat_enclosed, uniq_ijyb
+D:5:      layout_loops_ring, minmay_temple_entry_grid
+D:6:      layout_cave_pods, uniq_eustachio
+D:7:      layout_basic, gammafunk_temple_overflow_statue, lemuel_doored_altar,
+          minmay_door_square
+D:8:      layout_cave_pools, grunt_temple_overflow_growth_and_decay,
+          supply_closet_lemuel, uniq_joseph
+D:9:      layout_gridville, elyvilon_altar_1, minmay_lindwurm_lava
+D:10:     minmay_firetagon, layout_basic, orc_0_dummy, basic_altar,
+          kb_lookout_dungeons_type, uniq_erolcha
+D:11:     layout_cave_pools, dpeg_oklobed_lair, serial_shops,
+          nicolae_shop_behind_doors
+Temple:   minmay_temple_curvy_branch
+Lair:1:   layout_small_grid
+Lair:2:   layout_regular_city, gauntlet_entry_generic,
+          grunt_forest_large_clearings
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 |
+---------------+-------------------------------------+-----
+Axes           |     4     5  6  7  8 10 12 14 15 16 | 16.0
+Fighting       |     4           5  6  7  8  9 10 11 | 11.5
+Armour         |           3  4     5  7  8 10 12    | 12.8
+Unarmed Combat |                       1  2          |  2.4
+Dodging        |                       3        4    |  4.3
+Stealth        |                             1       |  1.3
+Evocations     |                             2       |  2.2
+Shields        |                                2  6 |  6.1
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Hand axe          |    74 |   146 |   219 |       ||   439
+       Headbutt          |    16 |    17 |    76 |    96 ||   205
+       Unarmed           |       |       |    15 |       ||    15
+       War axe           |       |       |   112 |   466 ||   578
+       Punch             |       |       |       |     3 ||     3
+Invok: Trog's Hand       |     1 |     1 |     1 |     3 ||     6
+       Berserk           |     1 |       |     3 |     4 ||     8
+       Brothers in Arms  |       |       |       |     1 ||     1
+Evoke: Wand              |       |       |       |    21 ||    21
+  Use: Scroll            |       |       |    11 |     8 ||    19
+       Potion            |       |       |       |     1 ||     1
+Armor: Chain mail        |    35 |     1 |       |       ||    36
+       Plate armour      |       |    95 |   179 |   480 ||   754
+Dodge: Dodged            |    48 |    56 |   136 |   243 ||   483
+Block: Kite shield       |       |       |       |   138 ||   138
+

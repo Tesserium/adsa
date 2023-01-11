@@ -1,0 +1,250 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-476-g330ca2e (webtiles) character file.
+
+Game seed: 2754388312384886218
+
+46 code2828 the Digger (level 3, -3/19 HPs)
+             Began as a Gargoyle Earth Elementalist on Dec 22, 2022.
+             Slain by a gnoll
+             ... wielding a +0 spear
+              (5 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:05:19 (1381 turns).
+
+code2828 the Digger (Gargoyle Earth Elementalist)   Turns: 1381, Time: 00:05:19
+
+Health: -3/19      AC:  5    Str: 17    XL:     3   Next: 68%
+Magic:  6/6        EV: 12    Int: 17    God:    
+Gold:   174        SH:  0    Dex: 10    Spells: 5/6 levels left
+
+rFire   . . .      SeeInvis .   h - +0 hand axe
+rCold   . . .      Faith    .   (no shield)
+rNeg    + . .      Spirit   .   a - +0 robe
+rPois   ∞          Reflect  .   (no helmet)
+rElec   +          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   ++........              (no amulet)
+HPRegen 0.23/turn               g - +6 ring of strength
+MPRegen 0.10/turn               (no ring)
+
+@: no status effects
+A: sickness immunity, AC +3, negative energy resistance 1, electricity
+resistance, torment resistance 1, petrification resistance
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 174 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ h - a +0 hand axe (weapon)
+Missiles
+ f - 2 silver javelins (quivered)
+Armour
+ a - a +0 robe (worn)
+Jewellery
+ g - a +6 ring of strength (left hand)
+Scrolls
+ d - 2 scrolls of identify {unknown}
+ j - a scroll of amnesia {unknown}
+ k - a scroll of teleportation {unknown}
+Potions
+ b - a potion of magic
+ c - a potion of lignification {unknown}
+ e - 3 potions of heal wounds {unknown}
+ i - a potion of curing {unknown}
+ l - a potion of berserk rage {unknown}
+
+
+   Skills:
+ + Level 0.0 Axes
+ + Level 1.8 Dodging
+ * Level 3.0 Stealth
+ + Level 2.2 Spellcasting
+ + Level 1.2 Transmutations
+ * Level 4.3 Earth Magic
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Sandblast             Erth           32%        2d9       3%          1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Passwall                 Tmut/Erth      9%         N/A       9%          2
+ Magic Dart               Conj           4%         1d3       19%         1
+ Stone Arrow              Conj/Erth      18%        3d8       24%         3
+ Call Imp                 Summ           1%         N/A       28%         2
+ Mephitic Cloud           Conj/Pois/Air  1%         N/A       50%         3
+ Petrify                  Tmut/Erth      11%        N/A       52%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)         Zot: 22595      
+Temple: D:4-7       
+
+Altars:
+Kikubaaqudgha
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to sickness and miasma.
+Your stone body is resilient. (AC +3)
+You are immune to poison.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You are resistant to unholy torment.
+You are immune to petrification.
+
+Message History
+
+You closely miss the quokka. The quokka closely misses you.
+The quokka completely misses you.
+You barely miss the quokka.
+The quokka bites you but does no damage.
+The quokka barely misses you.
+You closely miss the quokka. The quokka barely misses you.
+You hit the quokka but do no damage. The quokka bites you.
+A gnoll comes into view. It is wielding a +0 whip.
+The quokka closely misses you.
+You barely miss the quokka. The quokka bites you.
+The gnoll shouts!
+You slash the quokka!
+You kill the quokka!
+The gnoll hits you with a +0 flail.
+Your Stealth skill increases to level 3!
+Throw: 4 javelins (silver)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f - gnoll
+Aim: a gnoll, wielding a +0 whip (58% to hit)
+You throw a silver javelin.
+The silver javelin completely misses the gnoll.
+The silver javelin pierces through the gnoll but does no damage.
+The gnoll is lightly wounded.
+The silver javelin pierces through the gnoll!
+The gnoll is almost dead.
+The gnoll hits you from afar with a +0 spear.
+The gnoll completely misses you.
+Throw: 3 javelins (silver)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f/p - gnoll
+Aim: a gnoll, wielding a +0 whip (almost dead, 58% to hit)
+You throw a silver javelin.
+The silver javelin closely misses the gnoll.
+The silver javelin pierces through the gnoll.
+The gnoll is heavily wounded.
+The silver javelin pierces through the gnoll!
+You kill the gnoll!
+The gnoll hits you from afar with a +0 spear.
+* * * LOW HITPOINT WARNING * * *
+The gnoll barely misses you. The gnoll misses you.
+The gnoll hits you from afar with a +0 spear.
+You die...
+
+    ...<.  .(..
+.   †g....$.......
+..  ..............
+...  #..##...#...
+#...##......#...
+............$.##
+................
+.........>..#########.
+.......(...)gg@.......
+............##########
+######......#
+     #..>...#
+     #......#
+     ########
+
+
+You could see 2 gnolls.
+
+Vanquished Creatures
+  A gnoll (D:3)
+  A dart slug (D:2)
+  9 ball pythons
+  3 bats (D:1)
+  3 endoplasms (D:1)
+  2 giant cockroaches (D:1)
+  4 goblins
+  3 hobgoblins
+  4 jackals (D:1)
+  3 quokkas
+  2 frilled lizards (D:2)
+  4 rats
+39 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Gargoyle Earth Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 3/3
+    86 | D:1      | Reached XP level 2. HP: 15/15 MP: 1/5
+   116 | D:1      | Reached skill level 1 in Transmutations
+   205 | D:1      | Reached skill level 4 in Earth Magic
+   410 | D:1      | Reached XP level 3. HP: 19/19 MP: 1/6
+  1298 | D:2      | You fall into a shaft and drop 2 floors!
+  1299 | D:4      | Found an ancient bone altar of Kikubaaqudgha.
+  1381 | D:3      | Slain by a gnoll
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      roderic_chinese_lattice_arrival, layout_rooms, chequers_jeans
+D:2:      layout_basic
+D:3:      layout_rooms, trog_book, grunt_dithmenos_smoke,
+          mainiacjoe_overflow_chevrons,
+          dreamdust_ecumenical_altar_angels_and_demons, serial_shops,
+          nicolae_shop_bloodbath_and_beyond
+D:4:      layout_basic, mainiacjoe_overflow_alcove_4, old_standard_altar,
+          minmay_temple_entry_large_hall, serial_shops, shop,
+          serial_park_tiny_pond
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Transmutations |     1    |  1.2
+Earth Magic    |     4    |  4.3
+Stealth        |        3 |  3.0
+Dodging        |          |  1.8
+Spellcasting   |          |  2.2
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||    26
+       Hand axe          ||     7
+Throw: Javelin           ||    11
+ Cast: Sandblast         ||    34
+Armor: Robe              ||    16
+Dodge: Dodged            ||    48
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   1403 |   1319 |     84 |      0 |   1082 |   4 |  350.8 |
+       Dungeon |   1403 |   1319 |     84 |      0 |   1082 |   4 |  350.8 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 865 daAuts
+     D:2: 449 daAuts
+     D:4: 70 daAuts
+     D:3: 18 daAuts
+

@@ -1,0 +1,253 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-390-g80c34de (webtiles) character file.
+
+Game seed: 3519372054062751228
+
+35 code2828 the Grasshopper (level 3, 0/45 HPs)
+             Began as a Meteoran Warper on Dec 4, 2022.
+             Slain by a ball python (1 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:05:43 (904 turns).
+
+code2828 the Grasshopper (Meteoran Warper)           Turns: 904, Time: 00:05:44
+
+Health: 0/45       AC: 21    Str: 12 (15) XL:     3   Next: 79%
+Magic:  8/8        EV: -1    Int: 12 (14) God:    
+Gold:   46         SH:  0    Dex: 11 (13) Spells: 6/8 levels left
+
+rFire   . . .      SeeInvis .   a - +0 mace
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   (body armour currently unavailable)
+rPois   +          Reflect  .   (helmet currently unavailable)
+rElec   .          Harm     .   (cloak currently unavailable)
+rCorr   .          Rampage  .   (gloves currently unavailable)
+Will    .....      NoTele   +   (boots currently unavailable)
+Stlth   +.........              (no amulet)
+HPRegen 0.27/turn               (no ring)
+MPRegen 0.11/turn               (no ring)
+
+@: lethally poisoned (0 -> -4), tree-form, attractive, glowing, constricted,
+very slow
+A: stationary, stasis, torment immunity, boosted hp, sense surroundings 1,
+otherworldly, glowing, explore regen
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You were a tree.
+
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 46 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 mace (weapon)
+Missiles
+ d - 7 boomerangs of dispersal (quivered)
+Armour
+ b - a +0 leather armour (melded)
+ l - a +0 chain mail
+Magical Staves
+ i - a staff of fire
+Wands
+ o - a wand of mindburst (15)
+Scrolls
+ c - a scroll of blinking
+ g - 2 scrolls of identify {unknown}
+ h - 2 scrolls of amnesia {unknown}
+ j - a scroll of silence {unknown}
+ m - a scroll of enchant weapon {unknown}
+
+
+   Skills:
+ + Level 2.4 Fighting
+ + Level 3.1 Maces & Flails
+ + Level 1.7 Throwing
+ + Level 1.6 Armour
+ + Level 2.7 Dodging
+ + Level 3.1 Spellcasting
+ + Level 3.9 Translocations
+
+
+You had 6 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Blink                 Tloc           22%        N/A       7%          2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Lesser Beckoning         Tloc           22%        N/A       14%         3
+ Teleport Other           Tloc           11%        N/A       14%         3
+ Vhi's Electric Charge    Tloc/Air       12%        N/A       32%         3
+ Sublimation of Blood     Necr           1%         N/A       36%         2
+ Kindle Blastsparks       Fire/Tloc/Air  10%        2d10      38%         3
+ Manifold Assault         Tloc           11%        N/A       43%         4
+ Ignite Poison            Fire/Tmut/Pois 1%         N/A       58%         3
+ Petrify                  Tmut/Erth      1%         N/A       94%         4
+ Freezing Cloud           Conj/Ice/Air   0%         6-21      100%        5
+ Irradiate                Conj/Tmut      0%         3d11      100%        5
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)         Zot: 873        
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are a tree.
+Your roots penetrate the ground, keeping you stationary.
+You cannot be teleported.
+You are immune to unholy pain and torment.
+Your maximum health is greatly increased.
+Your equipment is partially melded.
+You passively map a small area around you.
+You are easily found by Zot.
+You glow in the dark.
+You regain HP and MP as you explore.
+
+Message History
+
+The jackal splashes around in the water.
+The ball python barely misses you. The ball python constricts you.
+* * * LOW HITPOINT WARNING * * *
+The adder bites you.
+* * * LOW HITPOINT WARNING * * *
+You are lethally poisoned!
+The adder poisons you!
+The jackal bites you but does no damage.
+The ball python barely misses you. The ball python constricts you.
+* * * LOW HITPOINT WARNING * * *
+The adder barely misses you.
+It was a potion of lignification. You turn into a tree.
+Your +0 leather armour melds into your body.
+Your roots penetrate the ground.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+A jackal comes into view.
+The jackal bites you but does no damage.
+The ball python bites you but does no damage.
+The ball python constricts you. The adder bites you but does no damage.
+An orc comes into view. It is wielding a +0 club.
+It was a potion of attraction.
+You feel attractive to monsters.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+The orc shouts! The jackal barks!
+The adder bites you but does no damage.
+The ball python bites you but does no damage.
+The ball python constricts you. The orc hits you but does no damage.
+The jackal bites you but does no damage.
+The jackal is attracted toward you. The orc is attracted toward you.
+Casting: Blink (safe; 7% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You cannot blink because you are held in place by your roots.
+You hit the jackal.
+You kill the jackal!
+* * * LOW HITPOINT WARNING * * *
+You feel sick. The adder bites you but does no damage.
+The ball python bites you.
+You die...
+
+~  *      +           ,
+~    +
+          ** * *      *
+        *       *         *
+~    *   ,         ,  +
+        *          ,
+       ###########++++#
+      ,.......†o.......  ,,
+       ~~~~~~~♣h≈h....~   ~
+      ~~≈~≈≈≈≈SS≈≈o...~
+       ~~~~~~~~~≈~h§.§~
+ ,     ................       ,
+       ######.####..###  *    *
+            #.#  *.##       * *
+            #.#  * #
+         *  #....$.#
+    ,  ,    ...#.###      ,
+
+
+You could see an adder, 2 orcs, 3 jackals and a ball python.
+
+Vanquished Creatures
+  An adder (D:2)
+  An endoplasm (D:2)
+  A giant cockroach (D:1)
+  2 goblins
+  4 hobgoblins
+  4 jackals
+  3 kobolds
+  2 quokkas
+  2 bats
+  2 frilled lizards (D:2)
+  3 rats
+25 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Meteoran Warper began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 17/17 MP: 5/5
+   146 | D:1      | Found a faded altar of an unknown god.
+   288 | D:1      | Reached XP level 2. HP: 24/24 MP: 6/6
+   491 | D:1      | Glimpsed the power of Zot.
+   613 | D:2      | Learned a level 2 spell: Blink
+   737 | D:2      | Reached XP level 3. HP: 30/30 MP: 8/8
+   902 | D:3      | HP: 2/45 [poisoned by an adder]
+   904 | D:3      | Slain by a ball python
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      co_arrival_hexagon_in_a_hexagon, layout_loops_ring,
+          chequers_ecumenical_altar_simple_redux, minmay_misc_feat_rugged
+D:2:      layout_loops_ring, basic_altar, uniq_jessica
+D:3:      lemuel_castle_with_subvaults [lemuel_castle_interior_original],
+          layout_rooms, grunt_gozag_statues,
+          mainiacjoe_overflow_large_starburst, minmay_misc_feat_tower
+
+Skill      XL: |  1  2 |
+---------------+-------+-----
+Maces & Flails |     3 |  3.1
+Spellcasting   |     3 |  3.1
+Fighting       |       |  2.4
+Throwing       |       |  1.7
+Armour         |       |  1.6
+Dodging        |       |  2.7
+Translocations |       |  3.9
+
+Action                   || total
+-------------------------++-------
+Melee: Mace              ||    81
+ Cast: Blink             ||     4
+  Use: Potion            ||     5
+Armor: Leather armour    ||    31
+       Skin              ||     8
+Dodge: Dodged            ||    46
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |    925 |    908 |     17 |      0 |    582 |   3 |  308.3 |
+       Dungeon |    925 |    908 |     17 |      0 |    582 |   3 |  308.3 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 556 daAuts
+     D:2: 358 daAuts
+     D:3: 10 daAuts
+

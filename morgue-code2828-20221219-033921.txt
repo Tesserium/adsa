@@ -1,0 +1,250 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-465-g8901f6c (webtiles) character file.
+
+Game seed: 7370586801299985885
+
+37 code2828 the Grave Robber (level 3, -4/19 HPs)
+             Began as a Deep Elf Necromancer on Dec 19, 2022.
+             Was a Follower of Elyvilon.
+             Slain by Sigmund
+             ... wielding a +1 scythe of protection
+              (11 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:05:10 (1441 turns).
+
+code2828 the Grave Robber (Deep Elf Necromancer)    Turns: 1441, Time: 00:05:10
+
+Health: -4/19      AC:  6    Str:  5    XL:     3   Next: 23%
+Magic:  9/9        EV: 12    Int: 21    God:    Elyvilon [*.....]
+Gold:   92         SH:  0    Dex: 15    Spells: 1/8 levels left
+
+rFire   . . .      SeeInvis .   q - +0 hand axe
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   j - +0 leather armour
+rPois   .          Reflect  .   n - +1 helmet
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   l - +0 pair of gloves
+Will    .....                   (no boots)
+Stlth   ++........              (no amulet)
+HPRegen 0.23/turn               (no ring)
+MPRegen 0.11/turn               (no ring)
+
+@: no status effects
+A: no striking features
+a: Renounce Religion, Purification
+
+
+You were on level 2 of the Dungeon.
+You worshipped Elyvilon.
+Elyvilon was aware of your devotion.
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 92 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ q - a +0 hand axe (weapon)
+Missiles
+ c - 3 curare-tipped darts (quivered)
+Armour
+ j - a +0 leather armour (worn)
+ l - a +0 pair of gloves (worn)
+ n - a +1 helmet (worn)
+Magical Staves
+ d - a staff of fire
+Scrolls
+ h - 3 scrolls of magic mapping {unknown}
+ m - a scroll of blinking {unknown}
+ o - a scroll of vulnerability {unknown}
+Potions
+ b - a potion of magic
+ e - a potion of lignification {unknown}
+ f - a potion of cancellation {unknown}
+ g - a potion of might {unknown}
+ i - 2 potions of heal wounds {unknown}
+ k - a potion of curing {unknown}
+ p - a potion of resistance {unknown}
+
+
+   Skills:
+ * Level 3.1 Dodging
+ * Level 3.3 Stealth
+ + Level 3.3 Spellcasting
+ * Level 5.2 Necromancy
+
+
+You had one spell level left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Necrotise             Necr           100%       1d9       2%          1
+b - Vampiric Draining     Necr           25%        2d7       8%          3
+c - Vhi's Electric Charg  Tloc/Air       6%         N/A       54%         3
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Animate Dead             Necr           25%        N/A       26%         4
+ Agony                    Necr           25%        N/A       56%         5
+ Arcjolt                  Conj/Air       1%         1d11      99%         5
+ Maxwell's Capacitive Co  Air            1%         ∞         100%        8
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)         Zot: 10555      
+
+Altars:
+Elyvilon
+
+Annotations:
+D:2 Sigmund
+
+Message History
+
+You barely miss the frilled lizard. The frilled lizard bites you.
+You hit the frilled lizard.
+You kill the frilled lizard!
+No target in view!
+No target in view!
+Search for what [? for help]? armor
+Search for what [Enter for "armor", or ? for help]? arm
+HP restored.
+Found a stone staircase leading down.
+You drop a +0 robe.
+There is a stone staircase leading down here.
+Sigmund the Dreaded comes into view. He is wielding a +1 scythe of protection.
+Okay, then.
+Unknown command.
+The helpless Sigmund fails to defend himself.
+You hit Sigmund but do no damage. Sigmund misses you.
+You hit Sigmund but do no damage.
+Sigmund hits you with a +1 scythe of protection!
+You hit Sigmund.
+Sigmund is lightly wounded.
+Sigmund barely misses you.
+You hit Sigmund.
+Sigmund is moderately wounded.
+You hit Sigmund but do no damage.
+Sigmund is moderately wounded.
+Sigmund hits you with a +1 scythe of protection!
+You hit Sigmund.
+Sigmund is moderately wounded.
+Sigmund misses you.
+You barely miss Sigmund.
+Sigmund is moderately wounded.
+Sigmund completely misses you.
+You hit Sigmund but do no damage.
+Sigmund is moderately wounded.
+Sigmund misses you.
+You closely miss Sigmund.
+Sigmund is moderately wounded.
+Sigmund hits you with a +1 scythe of protection!
+Ouch! That really hurt!
+You die...
+
+  #.#         ###.......#
+  #.#         #.[...†...#
+# #.#         #.#.......#
+# #.#         #.###...###
+# #.#         #.# #...#
+# #.#         #># #####
+###.#         #.#
+.##.#        ##.##
+.##.#        #..@#
+.##.#        #...@.#
+.##.#        #...#.#
+.##.#       ..$..#.#
+.##=#      ......# #
+.##.#    #.......#
+.##.######........
+.................#
+##########.
+
+
+You could see Sigmund.
+
+Vanquished Creatures
+  A gnoll (D:1)
+  2 ball pythons
+  5 bats
+  3 endoplasms
+  2 hobgoblins
+  2 kobolds
+  2 quokkas (D:1)
+  2 frilled lizards (D:2)
+  2 goblins
+  3 rats
+24 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A dart slug (D:1)
+  A rat (D:2)
+2 creatures vanquished.
+
+Vanquished Creatures (others)
+  A plant (D:2)
+  3 withered plants (D:2)
+4 creatures vanquished.
+
+Grand Total: 30 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Deep Elf Necromancer began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   243 | D:1      | Reached skill level 5 in Necromancy
+   243 | D:1      | Reached XP level 2. HP: 15/15 MP: 6/8
+   738 | D:2      | Reached XP level 3. HP: 19/19 MP: 7/9
+   868 | D:2      | Learned a level 3 spell: Vampiric Draining
+  1169 | D:2      | Found a faded altar of an unknown god.
+  1204 | D:2      | Prayed at the altar of an unknown god.
+  1204 | D:2      | Became a worshipper of Elyvilon the Healer
+  1204 | D:2      | Reached * piety under Elyvilon
+  1209 | D:2      | Learned a level 3 spell: Vhi's Electric Charge
+  1430 | D:2      | Noticed Sigmund
+  1441 | D:2      | Slain by Sigmund
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_rooms_a, layout_loops_cross
+D:2:      layout_loops_ring, shapermc_ecumenical_altar_flowoftime, uniq_sigmund
+
+Skill      XL: |  1  2 |
+---------------+-------+-----
+Necromancy     |  5    |  5.2
+Dodging        |     3 |  3.1
+Stealth        |     3 |  3.3
+Spellcasting   |       |  3.3
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||    19
+       Hand axe          ||    11
+ Cast: Necrotise         ||    37
+ Stab: Sleeping          ||     1
+Armor: Leather armour    ||     3
+Dodge: Dodged            ||    12
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   1443 |   1407 |     36 |      0 |   1134 |   2 |  721.5 |
+       Dungeon |   1443 |   1407 |     36 |      0 |   1134 |   2 |  721.5 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 733 daAuts
+     D:2: 710 daAuts
+

@@ -1,0 +1,298 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-558-gfc1376d (webtiles) character file.
+
+Game seed: 7778204260162030879
+
+263 code2828 the Vexing (level 5, -2/25 HPs)
+             Began as a Spriggan Hexslinger on Dec 28, 2022.
+             Killed from afar by Blork the orc (12 damage)
+             ... with a puff of frost
+             ... on level 4 of the Dungeon.
+             The game lasted 00:23:33 (4226 turns).
+
+code2828 the Vexing (Spriggan Hexslinger)           Turns: 4226, Time: 00:23:34
+
+Health: -2/25      AC:  5    Str:  6    XL:     5   Next: 97%
+Magic:  10/10      EV: 19    Int: 17    God:    
+Gold:   206        SH:  0    Dex: 15    Spells: 9/10 levels left
+
+rFire   . . .      SeeInvis +   a - +1 sling
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   c - +0 robe
+rPois   .          Reflect  .   (helmet restricted)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (gloves unavailable)
+Will    +....                   (boots unavailable)
+Stlth   +                       f - amulet of regeneration
+HPRegen 1.04/turn               l - ring of willpower
+MPRegen 0.12/turn               q - +4 ring of protection
+
+@: very quick
+A: very small, no large weapons, unfitting armour, see invisible, speed 3,
+hooves 1, deformed body, MP-powered wands
+a: no special abilities
+
+
+You were on level 4 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 206 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 sling (weapon)
+Armour
+ c - a +0 robe (worn)
+Jewellery
+ f - an amulet of regeneration (around neck)
+ l - a ring of willpower (left hand)
+ q - a +4 ring of protection (right hand)
+ w - a +6 ring of intelligence
+Wands
+ t - a wand of charming (8)
+Scrolls
+ b - a scroll of poison
+ h - a scroll of amnesia {unknown}
+ i - 2 scrolls of magic mapping
+ k - a scroll of enchant armour {unknown}
+ r - 2 scrolls of enchant weapon {unknown}
+ u - a scroll of immolation {unknown}
+ v - a scroll of identify
+Potions
+ d - a potion of invisibility {unknown}
+ e - a potion of experience {unknown}
+ g - a potion of mutation
+ j - a potion of attraction {unknown}
+ m - a potion of brilliance {unknown}
+ n - a potion of ambrosia {unknown}
+ o - a potion of berserk rage {unknown}
+ p - a potion of haste {unknown}
+ s - a potion of curing {unknown}
+
+
+   Skills:
+ + Level 1.6 Fighting
+ * Level 3.3 Ranged Weapons
+ * Level 4.8 Dodging
+ + Level 3.0 Spellcasting
+ * Level 5.1 Hexes
+
+
+You had 9 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Slow                  Hex            76%        N/A       2%          1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Necrotise                Necr           8%         1d4       17%         1
+ Summon Small Mammal      Summ           8%         N/A       17%         1
+ Inner Flame              Hex/Fire       11%        N/A       19%         3
+ Portal Projectile        Hex/Tloc       22%        N/A       19%         3
+ Summon Guardian Golem    Hex/Summ       11%        N/A       19%         3
+ Cause Fear               Hex            9%         N/A       22%         4
+ Call Canine Familiar     Summ           2%         N/A       45%         3
+ Vampiric Draining        Necr           2%         2d6       45%         3
+ Agony                    Necr           2%         N/A       99%         5
+ Discord                  Hex            9%         N/A       100%        8
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)         Zot: 20836      
+Temple: D:4-7       
+
+Altars:
+Fedhas
+Okawaru
+
+Annotations:
+D:4 Blork the orc
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are very small and have problems with some larger weapons.
+You are too small for most types of armour.
+You have supernaturally acute eyesight. (SInv)
+You cover ground extremely quickly. (Speed+++)
+You have large cloven feet.
+Armour fits poorly on your strangely shaped body.
+You expend magic power (3 MP) to strengthen your wands.
+
+Message History
+
+Blork the orc is almost dead.
+Fire: a) +1 sling
+Press: ? - help, Shift-Dir - straight line, f/p - Blork the orc
+Aim: Blork the orc, wielding a +2 scimitar of distortion and wearing a +0 robe
+(almost dead, fast, slow, 61% to hit)
+You shoot a sling bullet. The sling bullet hits Blork the orc.
+Blork the orc is almost dead.
+Blork the orc looks satisfied for a moment.
+Fire: a) +1 sling
+Press: ? - help, Shift-Dir - straight line, f/p - Blork the orc
+Aim: Blork the orc, wielding a +2 scimitar of distortion and wearing a +0 robe
+(almost dead, fast, slow, 61% to hit)
+You shoot a sling bullet.
+The sling bullet barely misses Blork the orc.
+Fire: a) +1 sling
+Press: ? - help, Shift-Dir - straight line, f/p - Blork the orc
+Aim: Blork the orc, wielding a +2 scimitar of distortion and wearing a +0 robe
+(almost dead, fast, slow, 61% to hit)
+You shoot a sling bullet.
+The sling bullet hits Blork the orc but does no damage.
+Blork the orc is almost dead.
+You hear a bark!
+Blork the orc casts a spell at you.
+The magic dart hits you!
+A hound comes into view.
+Blork the orc gestures at you while chanting.
+The puff of frost hits you.
+Found a stone staircase leading down.
+It was a potion of mutation. You feel extremely strange.
+Your body twists and deforms. Your feet thicken and deform.
+You feel your magical essence link to the dungeon's wands.
+Fire: a) +1 sling
+Press: ? - help, Shift-Dir - straight line, f/p - Blork the orc
+Aim: Blork the orc, wielding a +2 scimitar of distortion and wearing a +0 robe
+(almost dead, fast, slow, 61% to hit)
+You shoot a sling bullet.
+The sling bullet closely misses Blork the orc.
+Blork the orc screams, "I'll rip your head off!"
+Blork the orc gestures at you while chanting.
+The puff of frost hits you!
+Blork the orc is no longer moving slowly.
+Blork the orc gestures at you while chanting.
+The puff of frost hits you!
+You die...
+
+#.~ll#..#.#  #...###..#
+######.##.####...#.....
+.............<........#
+.................#.#..#
+####.............#.#..#
+.................#[#..#  #
+.................#.#..##.#
+.........................##
+................@..........
+..........o...........###..
+###..#.....................
+  #..#.........h...#.####..
+  #..#..........#..#.#
+  #..#########.....#.#
+  ##        .........#
+           ####.#.^..#
+              ..#..#.#
+
+
+You could see Blork the orc (fast) and a hound.
+
+Vanquished Creatures
+  A bullfrog (D:3)
+  2 iguanas
+  3 gnolls (D:3)
+  2 adders
+  A white imp (D:3)
+  A worm (D:2)
+  3 dart slugs
+  5 orcs
+  7 endoplasms
+  6 giant cockroaches
+  10 goblins
+  10 hobgoblins
+  6 kobolds
+  4 quokkas
+  6 bats
+  2 frilled lizards (D:1)
+  9 rats
+78 creatures vanquished.
+
+Vanquished Creatures (others)
+  9 fungi (D:4)
+9 creatures vanquished.
+
+Grand Total: 87 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Spriggan Hexslinger began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 9/9 MP: 3/3
+   194 | D:1      | Reached XP level 2. HP: 14/14 MP: 3/5
+   804 | D:1      | Reached skill level 1 in Fighting
+   804 | D:1      | Reached skill level 4 in Hexes
+  1014 | D:2      | Reached XP level 3. HP: 18/18 MP: 4/6
+  2187 | D:3      | Reached XP level 4. HP: 22/22 MP: 4/8
+  2246 | D:3      | Found an iron altar of Okawaru.
+  3034 | D:3      | Found a blossoming altar of Fedhas.
+  3640 | D:4      | Noticed a bullfrog
+  3676 | D:3      | Reached XP level 5. HP: 25/25 MP: 8/10
+  3891 | D:4      | Identified the +1 scale mail of Odyebruane {Rampage +Inv
+                  | Str+4}
+  3989 | D:4      | Reached skill level 5 in Hexes
+  4135 | D:4      | Noticed Blork the orc
+  4221 | D:4      | Gained mutation: Armour fits poorly on your strangely
+                  | shaped body. [potion of mutation]
+  4221 | D:4      | Gained mutation: You have large cloven feet. [potion of
+                  | mutation]
+  4221 | D:4      | Gained mutation: You expend magic power (3 MP) to
+                  | strengthen your wands. [potion of mutation]
+  4226 | D:4      | Killed from afar by Blork the orc
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      spicycebolla_arrival_risky_transporter, layout_basic,
+          chequers_serial_rivers_micro_e, hangedman_decor_points
+D:2:      minmay_chambers_of_ones, layout_basic, minmay_hexomino_u4
+D:3:      wander_river, layout_basic, okawaru_altar_gauntlet_db, fedhas_altar_4,
+          grunt_ministairs_13, nrook_uturn
+D:4:      layout_basic, trog_book, serial_aquarium, aquarium_bridge_island_small
+          [aquarium_subvault_small_water, aquarium_subvault_window,
+          aquarium_subvault_bridge, aquarium_subvault_bridge,
+          aquarium_subvault_window], aquarium_window_corner,
+          aquarium_window_fake, aquarium_window_fake, aquarium_window_2,
+          aquarium_view_2a, aquarium_balcony_3a, uniq_blork_the_orc
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Dodging        |  3        4    |  4.8
+Fighting       |     1          |  1.6
+Hexes          |     4        5 |  5.1
+Spellcasting   |        2     3 |  3.0
+Ranged Weapons |           3    |  3.3
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+ Fire: Sling             |   143 |   189 ||   332
+ Cast: Slow              |    67 |    63 ||   130
+  Use: Scroll            |     2 |       ||     2
+       Potion            |       |     1 ||     1
+Armor: Robe              |     4 |     2 ||     6
+Dodge: Dodged            |    31 |    27 ||    58
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   3163 |   3029 |    134 |      3 |   1926 |   4 |  790.8 |
+       Dungeon |   3163 |   3029 |    134 |      3 |   1926 |   4 |  790.8 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:3: 1398 daAuts
+     D:2: 739 daAuts
+     D:1: 729 daAuts
+     D:4: 295 daAuts
+

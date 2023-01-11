@@ -1,0 +1,259 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-459-g9104f0f (webtiles) character file.
+
+Game seed: 13007335925165988872
+
+99 code2828 the Digger (level 4, 0/24 HPs)
+             Began as a Gargoyle Earth Elementalist on Dec 16, 2022.
+             Slain by a gnoll
+             ... wielding a +0 halberd
+              (8 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:05:22 (2341 turns).
+
+code2828 the Digger (Gargoyle Earth Elementalist)   Turns: 2341, Time: 00:05:23
+
+Health: 0/24       AC:  9    Str: 12    XL:     4   Next: 72%
+Magic:  3/7        EV: 11    Int: 17    God:    
+Gold:   70         SH:  0    Dex: 10    Spells: 5/8 levels left
+
+rFire   . . .      SeeInvis .   o - +2 hand axe (pain)
+rCold   . . .      Faith    .   (no shield)
+rNeg    + . .      Spirit   .   h - +0 leather armour
+rPois   ∞          Reflect  .   (no helmet)
+rElec   +          Harm     .   i - +2 cloak
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   ++........              (no amulet)
+HPRegen 0.24/turn               (no ring)
+MPRegen 0.10/turn               (no ring)
+
+@: no status effects
+A: sickness immunity, AC +3, negative energy resistance 1, electricity
+resistance, torment resistance 1, petrification resistance
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 70 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ o - a +2 hand axe of pain (weapon)
+Armour
+ h - a +0 leather armour (worn)
+ i - a +2 cloak (worn)
+Wands
+ c - a wand of light (10)
+Scrolls
+ g - a scroll of enchant armour {unknown}
+ l - a scroll of vulnerability {unknown}
+ m - 6 scrolls of identify {unknown}
+ n - a scroll of teleportation {unknown}
+Potions
+ a - a potion of ambrosia {unknown}
+ b - a potion of magic
+ d - a potion of invisibility {unknown}
+ e - 3 potions of heal wounds {unknown}
+ f - 2 potions of flight {unknown}
+ j - 2 potions of curing {unknown}
+ k - a potion of brilliance {unknown}
+
+
+   Skills:
+ + Level 0.1 Axes
+ + Level 2.1 Dodging
+ * Level 3.5 Stealth
+ + Level 2.5 Spellcasting
+ - Level 1.0 Transmutations
+ * Level 4.6 Earth Magic
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Sandblast             Erth           36%        2d10      3%          1
+b - Passwall              Tmut/Erth      9%         N/A       11%         2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Stone Arrow              Conj/Erth      20%        3d8       26%         3
+ Petrify                  Tmut/Erth      11%        N/A       58%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)         Zot: 15614      
+
+Altars:
+
+Shops:
+D:2 (
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to sickness and miasma.
+Your stone body is resilient. (AC +3)
+You are immune to poison.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You are resistant to unholy torment.
+You are immune to petrification.
+
+Message History
+
+You struggle against the net.
+You tear a large gash into the net.
+The gnoll hits you from afar with a +0 halberd.
+The gnoll throws a javelin. The javelin barely misses you.
+You struggle against the net. The gnoll closely misses you.
+The gnoll hits you but does no damage. The gnoll throws a javelin.
+The javelin closely misses you.
+You shred the net and break free! The gnoll closely misses you.
+The gnoll barely misses you.
+The gnoll closely misses you. The gnoll completely misses you.
+The gnoll misses you. The gnoll barely misses you.
+You climb upwards.
+There is a stone staircase leading down here.
+The blast of sand hits the gnoll but does no damage.
+The gnoll hits you but does no damage.
+The blast of sand hits the gnoll!
+The gnoll is almost dead.
+The gnoll closely misses you. The gnoll barely misses you.
+The blast of sand hits the gnoll.
+You kill the gnoll!
+You can't see any susceptible monsters within range! (Use Z to cast anyway.)
+You start resting.
+HP restored.
+You climb downwards. The gnoll throws a throwing net.
+The throwing net closely misses you. The gnoll closely misses you.
+There is a stone staircase leading up here.
+You climb upwards.
+There is a stone staircase leading down here.
+You can't see any susceptible monsters within range! (Use Z to cast anyway.)
+You climb downwards. The gnoll barely misses you. The gnoll closely misses you.
+There is a stone staircase leading up here.
+You aren't carrying any pieces of jewellery.
+The blast of sand hits the gnoll.
+The gnoll is moderately wounded.
+The gnoll hits you from afar with a +0 halberd!
+The gnoll misses you.
+The gnoll hits you from afar with a +0 halberd!
+You are too injured to fight recklessly!
+The gnoll hits you from afar with a +0 halberd!
+You die...
+
+#            #{{{{##...#.#####
+             #{{{{##.....#   #.
+             ##{{{#...##.##....
+              ##{####........#
+               #{#  #.#.###..#
+           ### ######.#.###..##
+            ..# ##....#........
+             #.##(.......######
+             #..@........#
+             #...........#
+             #.g.gg......#
+             #...†.......#
+             #..†........#
+             #..###...####
+             #..# #.###
+           #...~.{#.#
+         .....†.~{#.#
+
+
+You could see 3 gnolls.
+
+Vanquished Creatures
+  3 adders (D:2)
+  A gnoll (D:2)
+  3 worms
+  A dart slug (D:2)
+  5 endoplasms
+  A giant cockroach (D:2)
+  4 goblins
+  4 hobgoblins
+  6 quokkas
+  2 ball pythons
+  4 bats
+  7 frilled lizards
+  4 kobolds
+  6 rats
+51 creatures vanquished.
+
+Vanquished Creatures (others)
+  8 plants (D:3)
+8 creatures vanquished.
+
+Grand Total: 59 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Gargoyle Earth Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 3/3
+   252 | D:1      | Reached skill level 1 in Transmutations
+   252 | D:1      | Reached XP level 2. HP: 15/15 MP: 1/5
+   567 | D:1      | Learned a level 2 spell: Passwall
+   800 | D:1      | Found a faded altar of an unknown god.
+  1063 | D:2      | Reached skill level 4 in Earth Magic
+  1063 | D:2      | Reached XP level 3. HP: 19/19 MP: 3/6
+  1527 | D:2      | Found Ubuan's Antique Weapon Emporium.
+  1742 | D:2      | Reached XP level 4. HP: 22/24 MP: 3/7
+  2028 | D:3      | Noticed a kobold brigand
+  2341 | D:3      | Slain by a gnoll
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      amcnicky_arrival_choice, layout_basic,
+          hellmonk_ecumenical_altar_leap_of_faith
+D:2:      layout_basic, serial_shops, nicolae_diamond_shop, serial_curves,
+          eino_curves_04, eino_curves_02, eino_curves_01, eino_curves_03
+D:3:      cheibrodos_thug_alley, layout_basic, serial_rivers,
+          chequers_serial_rivers_micro_e, chequers_serial_rivers_small_a,
+          chequers_serial_rivers_large_a, chequers_serial_rivers_marsh,
+          chequers_serial_rivers_marsh, minmay_lizard_king
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Transmutations |  1       |  1.0
+Earth Magic    |     4    |  4.6
+Dodging        |        2 |  2.1
+Stealth        |        3 |  3.5
+Axes           |          |  0.1
+Spellcasting   |          |  2.5
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Hand axe          |     1 |    10 ||    11
+ Cast: Sandblast         |    41 |    25 ||    66
+Armor: Leather armour    |     3 |     9 ||    12
+Dodge: Dodged            |     6 |    36 ||    42
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   2384 |   2308 |     76 |     19 |   1919 |   3 |  794.7 |
+       Dungeon |   2384 |   2308 |     76 |     19 |   1919 |   3 |  794.7 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:2: 1082 daAuts
+     D:1: 951 daAuts
+     D:3: 350 daAuts
+

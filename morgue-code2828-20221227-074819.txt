@@ -1,0 +1,451 @@
+ Dungeon Crawl Stone Soup version 0.29.1-2-gbd0b4ee654 (webtiles) character file.
+
+Game seed: 7683771239633395946
+
+5239 code2828 the Grappler (level 10, 0/100 HPs)
+             Began as a Troll Monk on Dec 27, 2022.
+             Was a High Priest of Hepliaklqana.
+             Slain by a gnoll
+             ... wielding a +0 spear
+             ... led by a gnoll bouda
+              (4 damage)
+             ... on level 9 of the Dungeon.
+             The game lasted 00:26:00 (6961 turns).
+
+code2828 the Grappler (Troll Monk)                  Turns: 6961, Time: 00:26:00
+
+Health: 0/100      AC:  5    Str: 24    XL:     10   Next: 35%
+Magic:  9/9        EV: 12    Int:  5    God:    Hepliaklqana [*****.]
+Gold:   241        SH:  0    Dex: 16    Spells: 8/9 levels left
+
+rFire   . . .      SeeInvis .     - Unarmed
+rCold   + . .      Faith    +   (no shield)
+rNeg    + . .      Spirit   .   a - +0 robe
+rPois   .          Reflect  .   (helmet restricted)
+rElec   .          Harm     .   q - +0 cloak
+rCorr   .          Rampage  .   (gloves unavailable)
+Will    .....                   (boots unavailable)
+Stlth   ++........              H - amulet of faith
+HPRegen 1.06/turn               l - ring of wizardry
+MPRegen 0.11/turn               u - ring of positive energy
+
+@: no status effects
+A: reduced essence, large, unfitting armour, claws 3, regeneration 1, shaggy fur
+1, tough skin 1, agile 1, cold resistance 1, robust 1
+a: Renounce Religion, Recall Ancestor, Ancestor Identity, Transference, Idealise
+
+
+You were on level 9 of the Dungeon.
+You worshipped Hepliaklqana.
+Hepliaklqana was extremely pleased with you.
+You visited 2 branches of the dungeon, and saw 10 of its levels.
+You also visited: Sewer.
+
+You collected 609 gold pieces.
+You spent 368 gold pieces at shops.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+ q - a +0 cloak (worn)
+Jewellery
+ l - a ring of wizardry (left claw)
+ u - a ring of positive energy (right claw)
+ v - a ring of poison resistance
+ H - an amulet of faith (around neck)
+ K - a +4 ring of protection
+Wands
+ s - a wand of mindburst (23)
+ C - a wand of digging (7)
+ D - a wand of paralysis (11)
+ F - a wand of iceblast (7)
+Scrolls
+ c - 3 scrolls of brand weapon {unknown}
+ d - 11 scrolls of identify
+ g - a scroll of enchant armour {unknown}
+ h - a scroll of acquirement {unknown}
+ i - 3 scrolls of amnesia
+ j - 5 scrolls of teleportation {unknown}
+ k - 3 scrolls of enchant weapon {unknown}
+ o - 4 scrolls of immolation {unknown}
+ p - a scroll of torment {unknown}
+ x - 2 scrolls of silence {unknown}
+ y - 3 scrolls of fear {unknown}
+ B - a scroll of blinking {unknown}
+ G - a scroll of magic mapping {unknown}
+Potions
+ b - 2 potions of ambrosia
+ e - 2 potions of lignification
+ f - 3 potions of mutation
+ m - a potion of invisibility
+ n - 2 potions of magic
+ r - 2 potions of might {unknown}
+ t - 3 potions of curing
+ w - 3 potions of degeneration {unknown}
+ z - 2 potions of cancellation {unknown}
+ A - a potion of resistance {unknown}
+ E - 3 potions of haste
+ J - a potion of attraction {unknown}
+
+
+   Skills:
+ + Level 6.4 Fighting
+ + Level 6.2 Dodging
+ - Level 1.2 Stealth
+ * Level 10.2 Unarmed Combat
+ + Level 5.9 Earth Magic
+
+
+You had 8 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Sandblast             Erth           10%        2d5       1%          1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Passwall                 Tmut/Erth      1%         N/A       10%         2
+ Stone Arrow              Conj/Erth      4%         3d7       19%         3
+ Beastly Appendage        Tmut           0%         N/A       21%         1
+ Magic Dart               Conj           0%         1d3       21%         1
+ Summon Small Mammal      Summ           0%         N/A       21%         1
+ Call Imp                 Summ           0%         N/A       32%         2
+ Wereblood                Tmut           0%         N/A       32%         2
+ Call Canine Familiar     Summ           0%         N/A       52%         3
+ Frozen Ramparts          Ice            0%         1d1       52%         3
+ Mephitic Cloud           Conj/Pois/Air  0%         N/A       52%         3
+ Spider Form              Tmut/Pois      0%         N/A       52%         3
+ Summon Guardian Golem    Hex/Summ       0%         N/A       52%         3
+ Ice Form                 Ice/Tmut       0%         N/A       88%         4
+ Summon Ice Beast         Ice/Summ       0%         N/A       88%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (9/15)         Zot: 26821       Temple (1/1) D:6      Zot: 5956       
+   Lair (0/5) D:8                          Orc (0/2) D:9                      
+  Sewer (visited)                      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:6 ![[!(
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your life essence is reduced to manifest your ancestor. (-10% HP)
+You are too large for most types of armour.
+You have claws for hands.
+Your natural rate of healing is unusually fast.
+You are covered in fur. (AC +1)
+You have tough skin. (AC +1)
+You are agile. (Dex +4, Str/Int -1)
+Your flesh is cold resistant. (rC+)
+You are robust. (+10% HP)
+
+Message History
+
+You barely miss the gnoll bouda.
+The gnoll bouda is severely wounded.
+The gnoll is no longer moving quickly.
+The gnoll bouda barks out a call to the hunt!
+The gnolls pick up the pace!
+The gnoll closely misses you.
+You feel much better. The gnoll closely misses you.
+The gnoll bouda hits you but does no damage.
+The gnoll hits you from afar with a +0 spear.
+The gnoll attacks as you move away! The gnoll hits you with a +0 spear.
+The gnoll hits you from afar with a +0 spear.
+* * * LOW HITPOINT WARNING * * *
+You see here a killer bee corpse.
+You feel better. The gnoll closely misses you.
+The gnoll bouda hits you with a +0 whip!
+* * * LOW HITPOINT WARNING * * *
+You barely miss the gnoll bouda.
+The gnoll bouda is severely wounded.
+Your attacks no longer feel as feeble.
+The gnoll closely misses you. The gnoll bouda barely misses you.
+You claw the gnoll bouda!
+You kill the gnoll bouda!
+The gnoll hits you from afar with a +0 spear.
+* * * LOW HITPOINT WARNING * * *
+You barely miss the yak.
+The gnoll hits you from afar with a +0 spear.
+* * * LOW HITPOINT WARNING * * *
+The yak gores you!
+* * * LOW HITPOINT WARNING * * *
+The gnoll closely misses you.
+You mangle the yak!!
+The yak is severely wounded.
+The gnoll hits you from afar with a +0 spear.
+* * * LOW HITPOINT WARNING * * *
+The yak misses you.
+You mangle the yak!!
+You kill the yak!
+The gnoll barely misses you.
+The gnoll hits you from afar with a +0 spear.
+You die...
+
+           #.       #.#
+       #####.########.#
+       ...............#
+        ######.######.#
+..           #.#    #<#
+...          #)#    #.#
+.g..         #.#    #.#
+....##########)######.#
+....!..)g)@....)......#
+........g#####........#
+.........#   #........#
+.........#   #........#
+.........#   #........#
+...>.....#####........#
+......................#
+#######################
+
+
+You could see 2 gnolls.
+
+Vanquished Creatures
+  The ghost of Congressman the Ducker, an amateur DsGl (D:4)
+  Prince Ribbit (D:5)
+  A vampire (D:9)
+  A shadow (D:8)
+  7 yaks (D:9)
+  A wyvern (D:5)
+  Menkaure (D:7)
+  Duvessa (D:7)
+  2 sky beasts
+  4 orc warriors
+  2 black bears
+  2 ogres
+  2 centaurs
+  3 phantoms
+  2 bullfrogs (D:8)
+  A necrophage (D:6)
+  3 scorpions
+  3 killer bees (D:9)
+  A howler monkey (D:7)
+  A jelly (D:7)
+  4 hounds
+  Crazy Yiuf (D:2)
+  2 gnoll boudas
+  2 iguanas
+  Ijyb (D:5)
+  2 orc wizards
+  Robin (D:4)
+  7 gnolls
+  8 adders
+  A white imp (D:6)
+  An ufetubus (D:6)
+  4 worms
+  4 dart slugs
+  20 orcs
+  10 ball pythons
+  7 endoplasms
+  3 giant cockroaches (D:1)
+  9 goblins
+  14 hobgoblins
+  13 jackals
+  14 kobolds
+  3 quokkas
+  8 bats
+  5 frilled lizards
+  14 rats
+198 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A yak (D:9)
+  A black bear (D:8)
+  A centaur (D:5)
+  3 kobold brigands (Sewer)
+  A necrophage (D:7)
+  Dowan (D:7)
+  A jelly (D:6)
+  A hound (D:4)
+  An orc wizard (D:5)
+  5 gnolls
+  2 adders (D:5)
+  6 orcs
+  An endoplasm (Sewer)
+  2 goblins (D:4)
+  A hobgoblin (D:4)
+  2 jackals (D:4)
+  A bat (Sewer)
+  A frilled lizard (Sewer)
+  4 kobolds (Sewer)
+36 creatures vanquished.
+
+Vanquished Creatures (others)
+  3 hexers
+  An orc (D:7)
+  3 fungi (D:8)
+  4 plants
+  2 withered plants (D:4)
+13 creatures vanquished.
+
+Grand Total: 247 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Troll Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 22/22 MP: 0/0
+    69 | D:1      | Reached XP level 2. HP: 25/29 MP: 1/1
+   365 | D:1      | Reached XP level 3. HP: 33/36 MP: 2/2
+   975 | D:2      | Reached XP level 4. HP: 45/45 MP: 3/3
+  1453 | D:2      | Reached skill level 4 in Unarmed Combat
+  1496 | D:2      | Found a faded altar of an unknown god.
+  1586 | D:2      | Found a runed translucent door.
+  1587 | D:2      | Noticed Crazy Yiuf
+  1635 | D:2      | Prayed at the altar of an unknown god.
+  1635 | D:2      | Became a worshipper of Hepliaklqana the Forgotten
+  1635 | D:2      | Reached * piety under Hepliaklqana
+  1635 | D:2      | Reached ** piety under Hepliaklqana
+  1676 | D:2      | Remembered your ancestor Zexanio as a hexer
+  1689 | D:2      | Reached *** piety under Hepliaklqana
+  1859 | D:2      | Killed Crazy Yiuf
+  1860 | D:2      | Reached XP level 5. HP: 33/47 MP: 4/4
+  2077 | D:3      | Reached skill level 1 in Earth Magic
+  2315 | D:3      | Learned a level 1 spell: Sandblast
+  2754 | D:4      | Noticed a black bear
+  2762 | D:4      | Killed a black bear
+  2763 | D:4      | Reached skill level 5 in Unarmed Combat
+  2763 | D:4      | Reached XP level 6. HP: 48/55 MP: 3/5
+  2822 | D:4      | Found a runed translucent door.
+  2824 | D:4      | Noticed Congressman's ghost (amateur DsGl)
+  2840 | D:4      | Killed Congressman's ghost
+  2841 | D:4      | Reached XP level 7. HP: 34/61 MP: 6/6
+  3289 | D:4      | Noticed Robin
+  3300 | D:4      | Killed Robin
+  3415 | D:5      | Entered Level 5 of the Dungeon
+  3433 | D:5      | Noticed a wyvern
+  3437 | D:5      | Killed a wyvern
+  3438 | D:5      | Reached skill level 6 in Unarmed Combat
+  3535 | D:5      | Reached XP level 8. HP: 66/71 MP: 7/7
+  3615 | D:5      | Found a glowing drain.
+  3627 | Sewer    | Entered a sewer
+  3657 | Sewer    | Reached skill level 7 in Unarmed Combat
+  3837 | Sewer    | Reached **** piety under Hepliaklqana
+  3933 | D:5      | Found a shimmering blue altar of Sif Muna.
+  3949 | D:5      | Noticed Ijyb
+  3950 | D:5      | Gained mutation: Your flesh is cold resistant. (rC+)
+                  | [potion of mutation]
+  3950 | D:5      | Gained mutation: You are agile. (Dex +4, Str/Int -1)
+                  | [potion of mutation]
+  3950 | D:5      | Gained mutation: You are robust. (+10% HP) [potion of
+                  | mutation]
+  3958 | D:5      | Killed Ijyb
+  3974 | D:5      | Noticed Prince Ribbit
+  3993 | D:5      | Killed Prince Ribbit
+  3994 | D:5      | Reached skill level 5 in Fighting
+  4547 | D:6      | Found a staircase to the Ecumenical Temple.
+  4662 | D:6      | Found Irom's Weapon Emporium.
+  4667 | D:6      | Reached skill level 8 in Unarmed Combat
+  4675 | D:6      | Reached XP level 9. HP: 86/87 MP: 8/8
+  4689 | D:6      | Found Yhabluc's Antique Armour Emporium.
+  4780 | Temple   | Entered the Ecumenical Temple
+  4892 | D:6      | Reached skill level 5 in Dodging
+  4945 | D:6      | Found a hazy altar of Hepliaklqana.
+  4945 | D:6      | Reached ***** piety under Hepliaklqana
+  5033 | D:6      | Found Zupuckysudu's Distillery.
+  5041 | D:6      | Bought a potion of curing for 42 gold pieces
+  5041 | D:6      | Bought a potion of heal wounds for 70 gold pieces
+  5041 | D:6      | Bought a potion of curing for 42 gold pieces
+  5041 | D:6      | Bought 2 potions of curing for 84 gold pieces
+  5065 | D:6      | Found Toqap's Distillery.
+  5068 | D:6      | Bought a potion of haste for 130 gold pieces
+  5102 | D:6      | Found Rapureuz's Armour Emporium.
+  5386 | D:7      | Noticed Menkaure
+  5392 | D:7      | Killed Menkaure
+  5527 | D:7      | Found a glowing golden altar of the Shining One.
+  5665 | D:7      | Noticed Duvessa
+  5665 | D:7      | Noticed Dowan
+  5672 | D:7      | Killed Dowan
+  5679 | D:7      | Killed Duvessa
+  5839 | D:7      | Reached skill level 9 in Unarmed Combat
+  5839 | D:7      | Reached skill level 5 in Earth Magic
+  5898 | D:7      | Found an ancient bone altar of Kikubaaqudgha.
+  5899 | D:7      | Found a sparkling altar of Nemelex Xobeh.
+  5901 | D:7      | Found an opulent altar of Gozag.
+  6314 | D:8      | Found a staircase to the Lair.
+  6409 | D:8      | Found a glowing silver altar of Zin.
+  6542 | D:8      | Found a shadowy altar of Dithmenos.
+  6542 | D:8      | Found a basalt altar of Yredelemnul.
+  6544 | D:8      | Found a shimmering altar of Xom.
+  6544 | D:8      | Found a bloodstained altar of Trog.
+  6544 | D:8      | Found a hide-covered altar of Uskayaw.
+  6782 | D:9      | Reached XP level 10. HP: 74/98 MP: 9/9
+  6798 | D:9      | Reached skill level 10 in Unarmed Combat
+  6919 | D:9      | Found a staircase to the Orcish Mines.
+  6960 | D:9      | HP: 3/100 [gnoll/+0 spear[a gnoll bouda] (4)]
+  6961 | D:9      | Slain by a gnoll
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      scummos_arrival_gate, layout_loops_cross
+D:2:      minmay_evil_eye, layout_basic, basic_ecumenical_altar,
+          guppyfry_early_orc_mine, uniq_crazy_yiuf_cottage
+D:3:      layout_loops_ring
+D:4:      layout_basic, gammafunk_ghost_grave, uniq_robin
+D:5:      layout_basic, led_sif_pool, portal_sewer_entry_d, uniq_prince_ribbit1,
+          uniq_ijyb
+D:6:      layout_rooms, amcnicky_altar_gilded, minmay_temple_entry_water_ring,
+          serial_shops, kennysheep_mini_moat, nicolae_shop_trees,
+          nicolae_square_shop, shop, kennysheep_mini
+D:7:      layout_gridville, lemuel_coloured_pillars_altar, minitemple,
+          hex_medium, mrwooster_statue_mirror, uniq_duvessa, uniq_menkaure
+D:8:      layout_basic, doesnt_xom_only_xom, grunt_lair_entry_orc_guard_hut
+D:9:      gammafunk_steamed_eel, layout_small_grid
+Temple:   nicolae_temple_ecumenical_triangle
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Fighting       |        3           4  5  6    |  6.4
+Unarmed Combat |           4  5     6  8  9 10 | 10.2
+Dodging        |              3     4     5  6 |  6.2
+Earth Magic    |              1  2  3  4  5    |  5.9
+Stealth        |                               |  1.2
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Unarmed           |   123 |   122 |   248 |    47 ||   540
+       Punch             |     2 |     1 |    10 |     1 ||    14
+ Cast: Sandblast         |       |    11 |     2 |       ||    13
+Invok: Ancestor Life: He |       |     1 |       |       ||     1
+       Ancestor Identity |       |     1 |       |       ||     1
+  Use: Potion            |       |     1 |     4 |     4 ||     9
+       Scroll            |       |     1 |       |       ||     1
+ Stab: Sleeping          |     6 |     1 |     3 |       ||    10
+       Distracted        |       |     2 |     1 |     1 ||     4
+       Confused          |       |     1 |     7 |       ||     8
+       Invisible         |       |       |     2 |       ||     2
+Armor: Robe              |    38 |    31 |    69 |     4 ||   142
+       Skin              |       |    18 |       |       ||    18
+Dodge: Dodged            |    39 |    61 |   132 |    38 ||   270
+

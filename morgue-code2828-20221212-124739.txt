@@ -1,0 +1,237 @@
+ Dungeon Crawl Stone Soup version 0.29.1-2-gbd0b4ee654 (webtiles) character file.
+
+Game seed: 1357527872937983466
+
+36 code2828 the Chiller (level 3, -1/24 HPs)
+             Began as a Barachi Ice Elementalist on Dec 12, 2022.
+             Was a Follower of Wu Jian.
+             Slain by an orc
+             ... wielding a +0 hand axe of electrocution
+              (3 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:06:29 (1911 turns).
+
+code2828 the Chiller (Barachi Ice Elementalist)     Turns: 1911, Time: 00:06:29
+
+Health: -1/24      AC:  3    Str:  9    XL:     3   Next: 37%
+Magic:  6/6        EV: 12    Int: 17    God:    Wu Jian [*.....]
+Gold:   98         SH:  0    Dex: 12    Spells: 2/6 levels left
+
+rFire   . . .      SeeInvis .   t - +0 short sword (freeze)
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   a - +0 robe
+rPois   +          Reflect  .   g - +0 helmet
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   ++........              (no amulet)
+HPRegen 0.08/turn               l - ring of wizardry
+MPRegen 0.10/turn               u - ring of poison resistance
+
+@: brilliant, slow
+A: amphibious, slowness 1, strong legs 1, +LOS
+a: Hop, Renounce Religion
+
+
+You were on level 3 of the Dungeon.
+You worshipped Wu Jian.
+Wu Jian was aware of your devotion.
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 98 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ k - a +0 mace
+ t - a +0 short sword of freezing (weapon)
+Missiles
+ f - 5 boomerangs
+Armour
+ a - a +0 robe (worn)
+ g - a +0 helmet (worn)
+Jewellery
+ l - a ring of wizardry (left hand)
+ u - a ring of poison resistance (right hand)
+Scrolls
+ c - a scroll of vulnerability {unknown}
+ d - 3 scrolls of identify {unknown}
+ h - 2 scrolls of teleportation {unknown}
+ o - 2 scrolls of enchant armour {unknown}
+ p - 2 scrolls of butterflies {unknown}
+Potions
+ b - a potion of magic
+ e - a potion of haste {unknown}
+ i - a potion of heal wounds {unknown}
+ j - a potion of berserk rage {unknown}
+ m - a potion of brilliance
+ n - a potion of might {unknown}
+ q - a potion of curing {unknown}
+ r - a potion of flight {unknown}
+ s - a potion of mutation {unknown}
+
+
+   Skills:
+ + Level 2.3 Dodging
+ + Level 1.9 Stealth
+ + Level 2.4 Spellcasting
+ * Level 5.8 Ice Magic
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Freeze                Ice            100%       1d11      1%          1
+b - Frozen Ramparts       Ice            66%        1d10      1%          3
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Ozocubu's Armour         Ice            33%        N/A       1%          3
+ Hailstorm                Conj/Ice       18%        3d6       22%         4
+ Anguish                  Hex/Necr       1%         N/A       56%         4
+ Enfeeble                 Hex            1%         N/A       100%        7
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+Wu Jian
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are amphibious.
+You cover ground slowly.
+You can hop short distances.
+You have an extended range of vision and can be seen from far away.
+
+Message History
+
+u - a ring of poison resistance (right hand)
+You now have 98 gold pieces (gained 11).
+m - 2 black potions (gained 1)
+2 orcs come into view.
+Found a scroll labelled SIWOBR SOOGOBBE.
+The orc shouts!
+An orc comes into view. It is wielding a +0 hand axe of electrocution.
+An orc priest comes into view. It is wielding a +0 whip.
+You freeze the orc.
+The orc is moderately wounded.
+The orc closely misses you.
+You freeze the orc!
+You kill the orc!
+The Council accepts your kill.
+You start resting.
+Magic restored.
+Things that are here:
+a +0 hand axe; a +0 leather armour; an orc corpse
+Things that are here:
+a +0 hand axe; a +0 leather armour; an orc corpse
+The orc shouts!
+You hit the orc but do no damage. The orc hits you with a +0 whip.
+An orc comes into view. It is wielding a +0 mace.
+Things that are here:
+a +0 hand axe; a +0 leather armour; an orc corpse
+The orc attacks as you move away! The orc completely misses you.
+The orc shouts!
+You hit the orc. You freeze the orc.
+The orc is heavily wounded.
+The orc closely misses you.
+You hit the orc. You freeze the orc.
+The orc is severely wounded.
+The orc hits you with a +0 hand axe of electrocution.
+You are electrocuted!
+Ouch! That really hurt!
+* * * LOW HITPOINT WARNING * * *
+It was a potion of brilliance.
+You feel clever all of a sudden.
+The orc hits you with a +0 hand axe of electrocution.
+You die...
+
+          #..#
+          #..#
+          #..#
+          #..#
+          #..#
+  #########..#
+  #..........#
+ ##.########.#
+ #.....o)oo@.#
+ #..##########
+ #o.
+ #..
+ #.o
+ #..
+ ...
+ ...
+#.o.
+
+
+You could see 3 orcs.
+
+Vanquished Creatures
+  An adder (D:2)
+  An orc (D:3)
+  2 endoplasms (D:2)
+  4 giant cockroaches
+  A goblin (D:1)
+  A hobgoblin (D:2)
+  2 jackals (D:1)
+  A quokka (D:1)
+  2 ball pythons (D:1)
+  2 bats
+  A frilled lizard (D:1)
+  5 kobolds
+  3 rats
+26 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Barachi Ice Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   291 | D:1      | Reached skill level 5 in Ice Magic
+   470 | D:1      | Reached XP level 2. HP: 19/19 MP: 3/5
+   731 | D:1      | Found a faded altar of an unknown god.
+   746 | D:1      | Prayed at the altar of an unknown god.
+   746 | D:1      | Became a worshipper of the Wu Jian Council
+   746 | D:1      | Reached * piety under Wu Jian
+   978 | D:1      | You fall into a shaft and drop 1 floor!
+  1575 | D:2      | Reached XP level 3. HP: 20/24 MP: 2/6
+  1699 | D:2      | Learned a level 3 spell: Frozen Ramparts
+  1911 | D:3      | Slain by an orc
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      onia_arrival_pyramid, layout_basic,
+          hellmonk_ecumenical_altar_pennies_from_heaven, minmay_pentomino_p4
+D:2:      layout_loops_ring, minmay_stone_trees_small,
+          kennysheep_generic_room_16
+D:3:      layout_loops_ring, marbit_many_paths,
+          gammafunk_temple_overflow_statue, serial_shops, shop
+
+Skill      XL: |  1 |
+---------------+----+-----
+Ice Magic      |  5 |  5.8
+Dodging        |    |  2.3
+Stealth        |    |  1.9
+Spellcasting   |    |  2.4
+
+Action                   || total
+-------------------------++-------
+Melee: Short sword       ||     5
+       Mace              ||     9
+ Cast: Freeze            ||    32
+Invok: Lunge             ||     1
+ Abil: Hop               ||     1
+  Use: Potion            ||     1
+Armor: Robe              ||    15
+Dodge: Dodged            ||    20
+

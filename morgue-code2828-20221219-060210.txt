@@ -1,0 +1,332 @@
+ Dungeon Crawl Stone Soup version 0.29.1-2-gbd0b4ee654 (webtiles) character file.
+
+Game seed: 12260956622554241810
+
+471 code2828 the Agent of Entropy (level 6, -2/72 HPs)
+             Began as a Demonspawn Abyssal Knight on Dec 19, 2022.
+             Was a Priest of Lugonu.
+             Slain by Duvessa
+             ... wielding a +0 rapier
+              (10 damage)
+             ... in the Ecumenical Temple.
+             The game lasted 00:18:00 (3264 turns).
+
+code2828 the Agent of Entropy (DsAK)                Turns: 3264, Time: 00:18:01
+
+Health: -2/72      AC: 23    Str: 13    XL:     6   Next: 83%
+Magic:  0/10       EV:  2    Int: 11    God:    Lugonu [***...]
+Gold:   195        SH:  0    Dex: 23    Spells: 5/5 levels left
+
+rFire   . . .      SeeInvis .   u - +11 hand axe of Rubbish {vamp, rCorr Dex+7}
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   (body armour currently unavailable)
+rPois   +          Reflect  .   (helmet currently unavailable)
+rElec   .          Harm     .   (cloak currently unavailable)
+rCorr   +          Rampage  .   (gloves currently unavailable)
+Will    .....      NoTele   +   (boots currently unavailable)
+Stlth   ++........              (no amulet)
+HPRegen 0.22/turn               h - +4 ring of evasion
+MPRegen 0.12/turn               (no ring)
+
+@: tree-form, attractive
+A: stationary, stasis, torment immunity, boosted hp, demonic magic 1, (weakness
+stinger 1)
+a: Renounce Religion, Depart the Abyss, Bend Space, Banish
+
+
+You were in the Ecumenical Temple.
+You worshipped Lugonu.
+Lugonu was most pleased with you.
+You were a tree.
+
+You visited 2 branches of the dungeon, and saw 5 of its levels.
+You visited the Abyss 1 time.
+
+You collected 338 gold pieces.
+You spent 143 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ u - the +11 hand axe of Rubbish (weapon) {vamp, rCorr Dex+7}
+   (You found it on level 3 of the Dungeon)   
+   
+   It occasionally heals its wielder for a portion of the damage dealt when it
+   wounds a living foe.
+   
+   Dex:       It affects your dexterity (+7).
+   rCorr:     It protects you from acid and corrosion.
+Missiles
+ f - a throwing net
+Armour
+ c - a +0 cloak (melded)
+ x - a +2 pair of boots (melded)
+ A - a +0 chain mail (melded)
+Jewellery
+ h - a +4 ring of evasion (left branch)
+Scrolls
+ a - 3 scrolls of acquirement {unknown}
+ b - 4 scrolls of enchant armour {unknown}
+ i - a scroll of enchant weapon
+ j - 2 scrolls of amnesia {unknown}
+ m - 2 scrolls of teleportation
+ o - a scroll of magic mapping {unknown}
+ s - a scroll of noise {unknown}
+ t - 2 scrolls of blinking {unknown}
+ v - 2 scrolls of silence {unknown}
+ w - a scroll of summoning {unknown}
+ y - a scroll of identify
+ z - a scroll of fear {unknown}
+Potions
+ d - a potion of attraction
+ g - 3 potions of mutation
+ k - 2 potions of brilliance
+ l - a potion of resistance
+ p - 2 potions of magic
+ q - 2 potions of flight
+
+
+   Skills:
+ + Level 4.1 Fighting
+ - Level 2.6 Long Blades
+ * Level 1.4 Axes
+ + Level 3.0 Armour
+ * Level 3.2 Dodging
+ * Level 5.3 Invocations
+
+
+You had 5 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Blink                    Tloc           0%         N/A       47%         2
+ Lesser Beckoning         Tloc           0%         N/A       71%         3
+ Manifold Assault         Tloc           0%         N/A       100%        5
+ Summon Forest            Summ/Tloc      0%         N/A       100%        5
+ Eringya's Noxious Bog    Tmut/Pois      0%         N/A       100%        6
+ Summon Hydra             Summ           0%         N/A       100%        7
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)         Zot: 20901       Temple (1/1) D:4      Zot: 5987       
+
+Altars:
+Ashenzari
+Cheibriados
+Hepliaklqana
+Kikubaaqudgha
+Qazlal
+Ru
+Xom
+
+Shops:
+D:2 ***?*   D:4 *
+
+Annotations:
+Temple Duvessa
+Abyss:1 Dowan; Saaur's ghost, amateur DsAK
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are a tree.
+Your roots penetrate the ground, keeping you stationary.
+You cannot be teleported.
+You are immune to unholy pain and torment.
+Your maximum health is greatly increased.
+Your equipment is partially melded.
+Spells you cast may paralyse adjacent enemies.
+((You have a small tail.))
+
+Message History
+
+Dowan barely misses you.
+Press: ? - help, Shift-Dir - straight line, f/p - Dowan
+Aim: Dowan, wielding a +0 dagger and wearing a +2 robe of willpower (chance to
+affect: 50%)
+You fail to use your ability. Duvessa misses you.
+Dowan hits you but does no damage.
+Press: ? - help, Shift-Dir - straight line, f/p - Dowan
+Aim: Dowan, wielding a +0 dagger and wearing a +2 robe of willpower (chance to
+affect: 50%)
+Dowan is devoured by a tear in reality.
+Lugonu claims a new guest.
+Duvessa weeps, and shakes her weapon.
+Duvessa goes berserk! Duvessa hits you with a +0 rapier! x2
+Your Armour skill increases to level 3!
+You slash Duvessa! You feel better.
+Duvessa is lightly wounded.
+Duvessa hits you but does no damage. Duvessa hits you with a +0 rapier!
+* * * LOW HITPOINT WARNING * * *
+You feel better. Duvessa hits you with a +0 rapier!
+* * * LOW HITPOINT WARNING * * *
+It was a potion of flight.
+You feel very buoyant.
+You fly up into the air. Duvessa closely misses you. Duvessa barely misses you.
+It was a potion of attraction.
+You feel attractive to monsters.
+Duvessa hits you but does no damage.
+It was a potion of lignification. You turn into a tree.
+Your +0 cloak melds into your body.
+Your +2 pair of boots melds into your body.
+Your +0 chain mail melds into your body.
+Your roots penetrate the ground. Duvessa hits you but does no damage.
+Duvessa hits you with a +0 rapier.
+* * * LOW HITPOINT WARNING * * *
+You don't have enough magic at the moment.
+Space bends violently around you! You blink. Duvessa is attracted toward you.
+Space bends violently around you! You blink.
+Found a snail-covered altar of Cheibriados.
+Duvessa is attracted toward you.
+You slash Duvessa!
+Duvessa is moderately wounded.
+Duvessa hits you with a +0 rapier!
+You die...
+
+        .♣♣♣♣♣
+   ♣   ♣...∩..
+   .♣♣♣.......
+    .♣....#
+   ♣....###
+   ♣♣...#
+    ♣§§##
+    ♣e.+
+    ♣♣.#
+    ♣...#
+    ....#
+   ..♣♣...
+  ..♣  ♣...
+ ..♣    ...∩.
+♣_♣     .♣♣♣♣
+♣♣
+
+
+You could see Duvessa (berserk).
+
+Vanquished Creatures
+  Sigmund (D:2)
+  Terence (D:3)
+  Natasha (D:3)
+  4 adders
+  An ufetubus (D:4)
+  2 worms (D:2)
+  A dart slug (D:1)
+  10 ball pythons
+  6 endoplasms
+  2 giant cockroaches
+  4 goblins (D:1)
+  10 hobgoblins
+  6 jackals
+  7 quokkas
+  5 bats
+  3 frilled lizards
+  8 kobolds
+  2 rats
+74 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | Abyss:1  | code2828 the Demonspawn Abyssal Knight began the quest for
+                  | the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 2/2
+   197 | D:1      | Escaped the Abyss
+   363 | D:1      | Reached skill level 1 in Dodging
+   467 | D:1      | Reached ** piety under Lugonu
+   468 | D:1      | Gained mutation: Spells you cast may paralyse adjacent
+                  | enemies. [demonic ancestry]
+   468 | D:1      | Reached XP level 2. HP: 24/24 MP: 4/4
+   724 | D:1      | Found a faded altar of an unknown god.
+   885 | D:1      | Noticed a shining eye
+   888 | D:1      | Noticed a shining eye
+   892 | D:1      | Noticed a great orb of eyes
+   897 | D:1      | Noticed a great orb of eyes
+  1213 | D:2      | Gained mutation: You have a small tail. [demonic ancestry]
+  1213 | D:2      | Reached XP level 3. HP: 26/29 MP: 5/5
+  1254 | D:2      | Found Qaugosa's General Store.
+  1264 | D:2      | Reached skill level 3 in Invocations
+  1545 | D:2      | Found Yhecrosm's Assorted Antiques.
+  1611 | D:2      | Noticed Sigmund
+  1621 | D:2      | Killed Sigmund
+  1622 | D:2      | Reached skill level 4 in Invocations
+  1622 | D:2      | Reached XP level 4. HP: 29/37 MP: 5/7
+  1622 | D:2      | Reached XP level 5. HP: 33/42 MP: 5/8
+  1720 | D:2      | Found Yddyde Ucaeph's General Store.
+  1722 | D:2      | Found Ukipal's Magic Scroll Boutique.
+  1751 | D:2      | Bought a scroll of identify for 26 gold pieces
+  1751 | D:2      | Bought a scroll of identify for 26 gold pieces
+  1751 | D:2      | Bought a scroll of teleportation for 39 gold pieces
+  1751 | D:2      | Bought a scroll of identify for 26 gold pieces
+  1751 | D:2      | Bought a scroll of identify for 26 gold pieces
+  1758 | D:2      | Found a shimmering altar of Xom.
+  1831 | D:2      | Found Fytzeky's Assorted Antiques.
+  2107 | D:2      | Reached *** piety under Lugonu
+  2338 | D:3      | Identified the +11 hand axe of Rubbish {vamp, rCorr Dex+7}
+  2487 | D:3      | Found a runed translucent door.
+  2487 | D:3      | Noticed Saaur's ghost (amateur DsAK)
+  2509 | D:3      | Noticed Terence
+  2525 | D:3      | Killed Terence
+  2526 | D:3      | Reached XP level 6. HP: 40/48 MP: 9/9
+  2599 | D:3      | Banished Saaur's ghost
+  2600 | D:3      | Reached skill level 5 in Invocations
+  2939 | D:3      | Found a hazy altar of Hepliaklqana.
+  2941 | D:3      | Found a broken altar of Ashenzari.
+  2943 | D:3      | Noticed Natasha
+  2948 | D:3      | Killed Natasha
+  2949 | D:3      | Reached skill level 1 in Axes
+  2950 | D:3      | Found a sacrificial altar of Ru.
+  2957 | D:3      | Found an ancient bone altar of Kikubaaqudgha.
+  2962 | D:3      | Found a stormy altar of Qazlal.
+  3164 | D:4      | Found Ludej's Gadget Gallery.
+  3232 | D:4      | Found a staircase to the Ecumenical Temple.
+  3243 | D:4      | Noticed Duvessa
+  3244 | D:4      | Noticed Dowan
+  3253 | Temple   | Entered the Ecumenical Temple
+  3256 | Temple   | Banished Dowan
+  3264 | Temple   | Slain by Duvessa
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      amcnicky_arrival_wind_blow, layout_rooms,
+          hellmonk_ecumenical_altar_watching_god
+D:2:      layout_rooms, serial_shops, shop, nicolae_lakefront_shop, shop,
+          shop_coins, shop_fountains, basic_altar, dk_noncrumbling_2,
+          dk_vineyard_3, uniq_sigmund
+D:3:      layout_loops_ring, nicolae_overflow_hallway_of_the_gods,
+          hellmonk_ghost_happy_afterlife, glass_columns_a,
+          chequers_serial_rivers_micro_e, hangedman_abyss_or_decor_lesser_grid,
+          skrybe_limestone_x, uniq_natasha, uniq_terence
+D:4:      layout_rooms, minmay_temple_entry_waves, nicolae_shop_gadgets,
+          uniq_duvessa
+Temple:   hellmonk_temple_forest_ring
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Dodging        |  1     2        3 |  3.2
+Long Blades    |     2             |  2.6
+Armour         |     2           3 |  3.0
+Invocations    |        4        5 |  5.3
+Fighting       |                 4 |  4.1
+Axes           |                 1 |  1.4
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Falchion          |   119 |    56 ||   175
+       Tailslap          |     2 |    11 ||    13
+       Punch             |     1 |       ||     1
+       Hand axe          |       |    41 ||    41
+Invok: Depart the Abyss  |     1 |       ||     1
+       Banish            |       |     4 ||     4
+       Bend Space        |       |     2 ||     2
+  Use: Scroll            |     1 |     6 ||     7
+       Potion            |       |     4 ||     4
+Armor: Leather armour    |     5 |       ||     5
+       Scale mail        |    47 |    31 ||    78
+       Chain mail        |       |    13 ||    13
+       Skin              |       |     1 ||     1
+Dodge: Dodged            |    88 |    78 ||   166
+

@@ -1,0 +1,151 @@
+code2828
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 mace
+(7, 25, D:1)
+  3 stones
+(17, -25, D:1)
+  a +0 dagger
+(31, 17, D:1)
+  a +1 dagger of electrocution
+(33, -24, D:1)
+  8 stones
+(37, -9, D:1)
+  a +0 chain mail
+(41, -19, D:1)
+  a +1 hand axe of flaming
+(47, -19, D:1)
+  a +0 war axe
+
+Level 2 of the Dungeon
+(4, -11, D:2)
+  a stone
+(8, -17, D:2)
+  a +0 leather armour
+(12, -7, D:2)
+  a +0 short sword
+(12, -4, D:2)
+  3 poisoned darts
+(14, 28, D:2)
+  a +0 club
+(34, 13, D:2)
+  a +0 scythe
+  a +0 robe
+(39, -6, D:2)
+  4 large rocks
+(39, 2, D:2)
+  a +0 club
+  2 stones
+(40, -6, D:2)
+  a +0 giant club
+
+Level 3 of the Dungeon
+(7, 2, D:3)
+  a +0 morningstar
+(10, 4, D:3)
+  a +0 dagger
+(11, -15, D:3)
+  a +0 flail
+  a +0 leather armour
+  a +1 flail of holy wrath
+(12, -14, D:3)
+  a +0 dagger
+  a +0 ring mail
+(12, -13, D:3)
+  a +0 dagger
+(12, 9, D:3)
+  a +0 club
+(13, -10, D:3)
+  a +1 whip of draining
+  a +0 leather armour
+(16, -29, D:3)
+  a +0 club
+  a +0 robe
+(18, -24, D:3)
+  a +2 mace
+(23, -28, D:3)
+  a +0 animal skin
+(28, -29, D:3)
+  a +0 chain mail
+(36, -4, D:3)
+  a +0 club
+(39, -15, D:3)
+  a +0 pair of gloves
+(42, 14, D:3)
+  a +0 club
+(43, 16, D:3)
+  a +0 short sword
+(44, -21, D:3)
+  a +0 short sword
+(44, 4, D:3)
+  a +0 dagger
+(44, 12, D:3)
+  a +0 vorpal quarterstaff
+(45, 4, D:3)
+  a +0 dagger
+(50, 10, D:3)
+  a +0 falchion
+(53, -11, D:3)
+  a +0 club
+  a +0 whip
+  a +0 spear
+
+Level 4 of the Dungeon
+[Shop] Kafaz's Weapon Shop
+  (Shop contents are unknown)
+(0, 0, D:4)
+  a hound corpse
+(0, 5, D:4)
+  a hobgoblin corpse
+(0, 10, D:4)
+  a +0 dagger (still there?)
+  the ring of the Everdark {Wiz rF+ Slay-3 SInv Stlth+} (still there?)
+    [ring of wizardry]
+    
+    It improves your spell success rate.
+    Slay:      It affects your accuracy & damage with ranged weapons and melee
+    (-3).
+    rF:        It protects you from fire.
+    SInv:      It lets you see invisible.
+    Stlth:     It makes you more stealthy.
+  4 gold pieces (still there?)
+  a goblin corpse (still there?)
+(2, 12, D:4)
+  a potion of flight
+(9, -6, D:4)
+  a +0 short sword
+(9, -5, D:4)
+  a +0 club
+(14, -21, D:4)
+  a jackal corpse (skeletalised by now)
+(14, 4, D:4)
+  a +0 giant club
+  an ogre corpse
+(15, 2, D:4)
+  a +0 club
+(16, -21, D:4)
+  a jackal corpse (skeletalised by now)
+(22, -19, D:4)
+  a +0 whip
+(23, 14, D:4)
+  a +0 dagger (still there?)
+  a +0 robe (still there?)
+  a potion of curing (still there?)
+  a +1 dagger of draining (still there?)
+  a goblin corpse (still there?)
+(24, -20, D:4)
+  5 boomerangs
+(25, -24, D:4)
+  a +0 sling
+(26, -11, D:4)
+  a +0 spear
+(26, -10, D:4)
+  a +0 spear
+  an adder corpse (skeletalised by now)
+(26, -9, D:4)
+  a +0 flail
+  a hound corpse (skeletalised by now)
+(32, -16, D:4)
+  a +0 hand axe
+

@@ -1,0 +1,191 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-305-g026cb31 (webtiles) character file.
+
+Game seed: 5012852179839070934
+
+1 code2828 the Vexing (level 1, -1/16 HPs)
+             Began as an Armataur Hexslinger on Oct 23, 2022.
+             Slain by a jackal (2 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:01:56 (92 turns).
+
+code2828 the Vexing (Armataur Hexslinger)             Turns: 92, Time: 00:01:59
+
+Health: -1/16      AC:  4    Str: 15    XL:     1   Next: 16%
+Magic:  2/2        EV:  9    Int: 13    God:    
+Gold:   0          SH:  0    Dex: 10    Spells: 1/2 levels left
+
+rFire   . . .      SeeInvis .   a - +1 sling
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   c - +0 robe
+rPois   .          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Roll     +   (no gloves)
+Will    .....                   (no barding)
+Stlth   +.........              (no amulet)
+HPRegen 0.22/turn               (no ring)
+MPRegen 0.08/turn               (no ring)
+
+@: no status effects
+A: large, rugged brown scales 3, deformed body, armoured tail, roll, long
+tongue, awkward tongue
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 sling (weapon)
+Armour
+ c - a +0 robe (worn)
+Scrolls
+ b - a scroll of poison
+
+
+   Skills:
+ + Level 0.9 Fighting
+ + Level 1.4 Ranged Weapons
+ + Level 1.4 Dodging
+ + Level 1.0 Spellcasting
+ + Level 2.7 Hexes
+
+
+You had one spell level left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Slow                  Hex            28%        N/A       10%         1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Inner Flame              Hex/Fire       4%         N/A       43%         3
+ Portal Projectile        Hex/Tloc       8%         N/A       43%         3
+ Cause Fear               Hex            3%         N/A       67%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+Shops:
+D:1 (
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are completely covered in rugged brown scales. (AC +3, +7% HP)
+Armour fits poorly on your strangely shaped body.
+You have a long armoured tail.
+You roll when moving toward enemies. (Rampage)
+Your long tongue fully drains potion bottles. (2x potion effects)
+Your tongue gives you trouble enunciating. (1.5x scroll delay)
+
+Message History
+
+The kobold barely misses you.
+The jackal bites you.
+The jackal attacks as you move away! The jackal barely misses you.
+The kobold shouts!
+The kobold attacks as you move away! The kobold closely misses you.
+The jackal closely misses you. The kobold throws a stone.
+The stone closely misses you.
+You see here a bat corpse.
+The kobold attacks as you move away! The kobold hits you with a +0 dagger.
+The jackal attacks as you move away! The jackal bites you.
+The kobold attacks as you move away! The kobold hits you with a +0 dagger.
+The jackal attacks as you move away! The jackal misses you.
+The jackal attacks as you move away!
+The jackal bites you but does no damage.
+The jackal attacks as you move away! The jackal barely misses you.
+The jackal bites you. The jackal closely misses you.
+The jackal bites you. The jackal misses you.
+The jackal bites you.
+The jackal bites you.
+* * * LOW HITPOINT WARNING * * *
+The jackal attacks as you move away! The jackal closely misses you.
+The jackal attacks as you move away! The jackal barely misses you. x2
+The jackal bites you.
+* * * LOW HITPOINT WARNING * * *
+There is an escape hatch in the floor here.
+The jackal bites you but does no damage. x2
+You slide downwards. The hatch slams shut behind you.
+The jackal closely misses you.
+The jackal bites you but does no damage. x2
+The jackal bites you.
+* * * LOW HITPOINT WARNING * * *
+The jackal attacks as you move away!
+The jackal bites you but does no damage.
+You open the door.
+A hobgoblin comes into view.
+The jackal bites you.
+* * * LOW HITPOINT WARNING * * *
+The jackal barely misses you. The jackal closely misses you.
+The jackal bites you.
+You die...
+
+   ##+##
+  ##...##
+ ##.....##
+##.......##
+#.......h.####...
++.......h@'....g.
+#.........####...
+##.......##
+ ##.....##
+  ##...##
+   ##+##
+
+
+You could see 2 jackals and a hobgoblin.
+
+Vanquished Creatures
+  A ball python (D:1)
+  A bat (D:1)
+2 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Armataur Hexslinger began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 2/2
+    15 | D:1      | Found Ryhu's Weapon Shoppe.
+    92 | D:2      | Slain by a jackal
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      roderic_dead_forest, layout_basic, serial_shops, shop
+D:2:      layout_loops_corners
+
+Action                   || total
+-------------------------++-------
+ Fire: Sling             ||    16
+ Cast: Slow              ||     2
+Armor: Robe              ||    20
+Dodge: Dodged            ||    30
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |     96 |     87 |      9 |      0 |      2 |   2 |   48.0 |
+       Dungeon |     96 |     87 |      9 |      0 |      2 |   2 |   48.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 93 daAuts
+     D:2: 3 daAuts
+

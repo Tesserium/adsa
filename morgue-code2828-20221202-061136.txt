@@ -1,0 +1,284 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-381-g6ea064c (webtiles) character file.
+
+Game seed: 12270223029049841316
+
+170 code2828 the Shooter (level 5, -3/30 HPs)
+             Began as a Kobold Hexslinger on Dec 2, 2022.
+             Slain by an iguana (8 damage)
+             ... on level 4 of the Dungeon.
+             The game lasted 00:15:33 (3593 turns).
+
+code2828 the Shooter (Kobold Hexslinger)            Turns: 3593, Time: 00:15:34
+
+Health: -3/30      AC:  3    Str:  8 (9)  XL:     5   Next: 80%
+Magic:  6/6        EV: 15    Int: 12 (14) God:    
+Gold:   188        SH:  0    Dex: 13 (16) Spells: 3/7 levels left
+
+rFire   + . .      SeeInvis .   i - +2 dagger (venom)
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   c - +0 robe
+rPois   .          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   r - +0 pair of gloves
+Will    .....                   (no boots)
+Stlth   +++.......              (no amulet)
+HPRegen 0.25/turn               h - ring of fire
+MPRegen 0.10/turn               j - ring of protection from cold
+
+@: no status effects
+A: small, no large weapons, nightstalker 3, low MP 1
+a: no special abilities
+
+
+You were on level 4 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 188 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 sling
+ i - a +2 dagger of venom (weapon)
+Armour
+ c - a +0 robe (worn)
+ r - a +0 pair of gloves (worn)
+ s - a +0 ring mail
+Jewellery
+ e - a ring of ice
+ h - a ring of fire (left hand)
+ j - a ring of protection from cold (right hand)
+ x - a ring of wizardry
+Wands
+ o - a wand of polymorph (8)
+Scrolls
+ b - 2 scrolls of poison
+ d - 2 scrolls of noise {unknown}
+ f - 3 scrolls of magic mapping {unknown}
+ g - 3 scrolls of identify {unknown}
+ q - a scroll of acquirement {unknown}
+ t - a scroll of teleportation {unknown}
+ u - a scroll of amnesia {unknown}
+ w - a scroll of fear {unknown}
+ y - 3 scrolls of butterflies {unknown}
+Potions
+ k - a potion of attraction {unknown}
+ l - a potion of mutation
+ m - a potion of brilliance {unknown}
+ v - a potion of ambrosia {unknown}
+ z - a potion of might
+
+
+   Skills:
+ + Level 1.8 Fighting
+ + Level 5.3 Ranged Weapons
+ * Level 2.9 Dodging
+ * Level 1.6 Stealth
+ + Level 1.5 Spellcasting
+ * Level 4.0 Hexes
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Slow                  Hex            40%        N/A       5%          1
+b - Inner Flame           Hex/Fire       8%         N/A       36%         3
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Beastly Appendage        Tmut           0%         N/A       28%         1
+ Portal Projectile        Hex/Tloc       10%        N/A       36%         3
+ Wereblood                Tmut           0%         N/A       41%         2
+ Spider Form              Tmut/Pois      0%         N/A       65%         3
+ Cause Fear               Hex            5%         N/A       50%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Ashenzari
+The Shining One
+
+Shops:
+D:1 :
+
+Annotations:
+D:3 2 runed translucent doors, Siradein's ghost, amateur BaHu
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are small and have problems with some larger weapons.
+You are completely attuned to the shadows.
+Your magical capacity is low. (-10% MP)
+
+Message History
+
+You shoot a sling bullet.
+The sling bullet hits the iguana but does no damage.
+You shoot a sling bullet.
+The sling bullet hits the iguana but does no damage.
+You shoot a sling bullet.
+The sling bullet hits the iguana but does no damage.
+The iguana closely misses you. The iguana barely misses you.
+You shoot a sling bullet.
+The sling bullet hits the iguana but does no damage.
+The iguana closely misses you.
+You shoot a sling bullet.
+The sling bullet completely misses the iguana.
+The iguana bites you!
+You shoot a sling bullet. The sling bullet hits the iguana.
+The iguana is lightly wounded.
+The iguana closely misses you.
+You shoot a sling bullet.
+The sling bullet hits the iguana but does no damage.
+The iguana is lightly wounded.
+The iguana bites you.
+You shoot a sling bullet. The sling bullet hits the iguana.
+The iguana is moderately wounded.
+The iguana bites you.
+You shoot a sling bullet.
+The sling bullet closely misses the iguana.
+The iguana bites you.
+The iguana hisses menacingly.
+The iguana bites you!
+* * * LOW HITPOINT WARNING * * *
+Okay, then.
+It was a potion of degeneration.
+There was something very wrong with that liquid.
+You feel weakened. You feel dopey. You feel clumsy.
+The iguana closely misses you.
+Your +2 dagger of venom begins to drip with poison!
+i - a +2 dagger of venom (weapon)
+You barely miss the iguana.
+The iguana is moderately wounded.
+The iguana bites you!
+You die...
+
+   #)#..####.....
+ #.#.#..#.......#
+#.......#.##.#...
+#.##.#.##.##.#..#
+#  #.#....).....#
+   #....#.##...
+   ##.#.#.##.##
+   .._..#..l...
+   .#.####@....
+         #.....
+         #.....
+         #.....
+         ###...
+
+
+You could see an iguana.
+
+Vanquished Creatures
+  A bullfrog (D:4)
+  Jessica (D:2)
+  An adder (D:3)
+  2 worms (D:2)
+  A dart slug (D:3)
+  An orc (D:4)
+  6 endoplasms
+  2 giant cockroaches (D:2)
+  6 goblins
+  6 hobgoblins
+  6 jackals
+  2 kobolds
+  5 quokkas
+  8 ball pythons
+  2 bats
+  2 frilled lizards
+  7 rats
+59 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Kobold Hexslinger began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 12/12 MP: 2/2
+    43 | D:1      | Found Odwi Tifest's Book Emporium.
+   111 | D:1      | Reached skill level 3 in Ranged Weapons
+   147 | D:1      | Reached XP level 2. HP: 16/16 MP: 3/3
+   490 | D:1      | Found a faded altar of an unknown god.
+   522 | D:1      | Reached XP level 3. HP: 20/20 MP: 4/4
+  1428 | D:2      | Noticed Jessica
+  1629 | D:2      | Reached skill level 4 in Ranged Weapons
+  1897 | D:2      | Reached XP level 4. HP: 25/25 MP: 6/6
+  2155 | D:2      | Killed Jessica
+  2622 | D:3      | Learned a level 3 spell: Inner Flame
+  2625 | D:3      | Found a runed translucent door.
+  2627 | D:3      | Noticed a bullfrog
+  2629 | D:3      | Noticed Siradein's ghost (amateur BaHu)
+  2712 | D:3      | Found a runed translucent door.
+  2903 | D:3      | Found a broken altar of Ashenzari.
+  3013 | D:3      | Reached XP level 5. HP: 29/29 MP: 7/7
+  3513 | D:4      | Found a glowing golden altar of the Shining One.
+  3529 | D:4      | Noticed a bullfrog
+  3550 | D:4      | Gained mutation: Your magical capacity is low. (-10% MP)
+                  | [potion of mutation]
+  3550 | D:4      | Gained mutation: You are weak. (Str -2) [potion of
+                  | mutation]
+  3550 | D:4      | Lost mutation: You are weak. (Str -2) [potion of mutation]
+  3554 | D:4      | Killed a bullfrog
+  3555 | D:4      | Reached skill level 5 in Ranged Weapons
+  3555 | D:4      | Reached skill level 1 in Stealth
+  3593 | D:4      | Slain by an iguana
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_shelter, layout_basic,
+          shapermc_ecumenical_altar_totnotflames, serial_shops,
+          nicolae_shop_crystal
+D:2:      layout_loops_ring, uniq_jessica
+D:3:      layout_loops_ring, nicolae_ashenzari_panopticon, ebering_ghost_sewer_f
+D:4:      layout_loops_cross, lemuel_crystal_altar, serial_shops, shop,
+          serial_park_tiny_pond, grunt_ministairs_6
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Ranged Weapons |  3     4     5 |  5.3
+Stealth        |              1 |  1.6
+Hexes          |              4 |  4.0
+Fighting       |                |  1.8
+Dodging        |                |  2.9
+Spellcasting   |                |  1.5
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |     2 |       ||     2
+       Dagger            |       |     1 ||     1
+ Fire: Sling             |   125 |    84 ||   209
+ Cast: Slow              |     1 |     2 ||     3
+  Use: Potion            |       |     7 ||     7
+ Stab: Sleeping          |     1 |       ||     1
+Armor: Robe              |     2 |     8 ||    10
+Dodge: Dodged            |    53 |    51 ||   104
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   3631 |   3389 |    242 |     37 |   2807 |   4 |  907.8 |
+       Dungeon |   3631 |   3389 |    242 |     37 |   2807 |   4 |  907.8 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 1439 daAuts
+     D:3: 1076 daAuts
+     D:2: 968 daAuts
+     D:4: 147 daAuts
+

@@ -1,0 +1,884 @@
+code2828
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a Young Poisoner's Handbook
+(3, -19, D:1)
+  a +0 hand axe
+(4, -34, D:1)
+  16 stones
+(8, -14, D:1)
+  a +0 dagger
+(11, -12, D:1)
+  a +0 dagger
+(24, -30, D:1)
+  19 stones
+(39, -26, D:1)
+  32 stones
+(40, -32, D:1)
+  a +0 animal skin
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a book of Burglary
+(5, -5, D:2)
+  a +0 spear
+(5, -4, D:2)
+  a +0 spear
+  a +0 spear
+(6, -5, D:2)
+  a +0 short sword
+  a +0 leather armour
+  a +0 spear
+(23, -16, D:2)
+  20 sling bullets
+(25, -4, D:2)
+  15 poisoned darts
+(26, 17, D:2)
+  a +0 dagger
+(30, 24, D:2)
+  a +0 scale mail
+(32, 5, D:2)
+  28 arrows
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  7 poisoned darts
+(11, -20, D:3)
+  a +0 ring mail
+  a +1 dagger of flaming
+(12, -13, D:3)
+  a +0 spear
+(15, -17, D:3)
+  a +0 club
+(15, -16, D:3)
+  a +0 whip
+(16, -16, D:3)
+  a +0 hand crossbow
+  a +0 club
+(23, -4, D:3)
+  a +0 leather armour
+(24, -3, D:3)
+  a +0 hand axe
+(30, -34, D:3)
+  a +3 short sword
+(31, -34, D:3)
+  a +0 scale mail
+(33, -30, D:3)
+  16 bolts
+(33, -22, D:3)
+  a +0 leather armour
+  a +0 short sword
+(33, -20, D:3)
+  19 stones
+(33, -2, D:3)
+  a +0 leather armour
+(33, -1, D:3)
+  a book of Flames
+(36, -6, D:3)
+  a +0 short sword
+  4 stones
+(43, -13, D:3)
+  a +0 helmet
+(44, -30, D:3)
+  a +0 short sword of venom
+  a +0 hand axe
+  a +0 dagger
+  a +0 robe
+  a +0 hand axe
+  a +0 ring mail
+(44, -21, D:3)
+  a +0 dagger
+
+Level 4 of the Dungeon
+[Shop] Giboff's Elemental Accessories
+  a wand of iceblast (3) (70 gold)
+  a wand of flame (30) (160 gold)
+  a staff of earth (250 gold)
+  the Volume of the Birds (180 gold)
+    Spells                            Type                      Level      
+    Known
+     a - Shock                         Conjuration/Air               1         
+    no
+     b - Corpse Rot                    Necromancy/Air                2         
+    no
+     c - Swiftness                     Air                           3         
+    no
+    
+    
+    Trog disapproves of the use of such an item.
+(0, 0, D:4)
+  a book of Minor Magic
+(1, -11, D:4)
+  a +0 falchion
+(3, -32, D:4)
+  3 boomerangs
+(11, -22, D:4)
+  23 poisoned darts
+(22, -21, D:4)
+  an amulet of magic regeneration
+  a +0 short sword
+(23, -9, D:4)
+  7 datura-tipped darts
+(25, -16, D:4)
+  a +0 whip
+(28, 7, D:4)
+  a +0 giant spiked club
+(38, 3, D:4)
+  a +0 dagger
+(39, -23, D:4)
+  a +0 giant club
+(40, -15, D:4)
+  a +0 whip
+  3 stones
+
+Level 5 of the Dungeon
+[Shop] Keots's Book Shoppe
+  a book of Armaments (504 gold)
+  a book of Chaos (700 gold)
+  the Collected Works on Moulding and Toxins (504 gold)
+    Spells                            Type                      Level      
+    Known
+     a - Irradiate                     Conjuration/Transmutation     5         
+    no
+     b - Alistair's Intoxication       Transmutation/Poison          5         
+    no
+     c - Blade Hands                   Transmutation                 5         
+    no
+    
+    
+    Trog disapproves of the use of such an item.
+  the Incunabulum of Creation (700 gold)
+    Spells                            Type                      Level      
+    Known
+     a - Summon Guardian Golem         Hexes/Summoning               3         
+    no
+     b - Call Canine Familiar          Summoning                     3         
+    no
+     c - Summon Lightning Spire        Summoning/Air                 4         
+    no
+     d - Animate Armour                Summoning/Earth               4         
+    no
+     e - Shadow Creatures              Summoning                     6         
+    no
+    
+    
+    Trog disapproves of the use of such an item.
+  a book of the Hunter (364 gold)
+  a book of Sloth (504 gold)
+  a book of Winter (476 gold)
+  a book of Alchemy (392 gold)
+  a book of Storms (448 gold)
+  a book of Pain (392 gold)
+  a manual of Fighting (1120 gold)
+  a book of Necromancy (224 gold)
+[Shop] Umpoip's Magic Scroll Shoppe
+  a scroll of brand weapon (220 gold)
+  a scroll of identify (22 gold)
+  a scroll of brand weapon (220 gold)
+  a scroll of torment (82 gold)
+  a scroll of teleportation (33 gold)
+  a scroll of noise (11 gold)
+[Shop] Cocanu Ozacs's Armour Shoppe
+  a +0 leather armour (28 gold)
+  a scarf of shadows (168 gold)
+  a +0 leather armour (28 gold)
+  the +4 plate armour of Resonance {SInv} (758 gold)
+    SInv:      It lets you see invisible.
+  a +0 leather armour (28 gold)
+  a +0 robe (9 gold)
+  a +0 chain mail (63 gold)
+  a +0 scale mail (56 gold)
+  a +0 pair of boots (63 gold)
+[Shop] Puhiomp's Weapon Shoppe
+  a +0 flail (52 gold)
+  a +0 dagger (30 gold)
+  a +0 trident (52 gold)
+  25 stones (37 gold)
+  a +0 flail (52 gold)
+  a +0 dagger (30 gold)
+  the +4 mace "Iguajyze" {vorpal, Will- Str+4 Int+2 Dex+5} (756 gold)
+    It inflicts extra damage upon your enemies.
+    
+    Str:       It affects your strength (+4).
+    Int:       It affects your intelligence (+2).
+    Dex:       It affects your dexterity (+5).
+    Will:      It decreases your willpower.
+  a +0 rapier (60 gold)
+  a +0 war axe (52 gold)
+  27 stones (40 gold)
+  the +4 dagger "Morg" {pain, Will+ Int+5} (721 gold)
+    In the hands of one skilled in necromantic magic, it inflicts extra damage
+    on living creatures.
+    
+    Int:       It affects your intelligence (+5).
+    Will:      It increases your willpower.
+    
+    Trog disapproves of the use of such an item.
+(0, 0, D:5)
+  13 poisoned darts
+(3, -6, D:5)
+  a +0 dagger
+  a +0 leather armour
+(4, -6, D:5)
+  a +0 dagger
+  a +0 robe
+  a +0 hand axe
+  a +0 leather armour
+(4, -5, D:5)
+  a +0 dagger
+  a +0 robe
+(5, -5, D:5)
+  a +0 club
+  a +0 ring mail
+(8, -1, D:5)
+  a potion of brilliance
+(10, 29, D:5)
+  a +0 leather armour
+(14, -7, D:5)
+  a +0 ring mail
+(15, 8, D:5)
+  10 sling bullets
+(27, 19, D:5)
+  a +0 spear
+(27, 20, D:5)
+  a +0 club
+  a +0 whip
+  a +0 robe
+  a +0 club
+(34, -13, D:5)
+  22 stones
+(34, 30, D:5)
+  a +0 giant spiked club
+(36, 30, D:5)
+  a +0 giant spiked club
+  a +0 leather armour
+  a +0 whip
+(36, 41, D:5)
+  24 stones
+(44, 25, D:5)
+  a +0 robe
+(44, 26, D:5)
+  a +0 club
+  a +0 whip
+  8 stones
+  a +2 short sword of chaos
+  5 curare-tipped darts
+(45, 4, D:5)
+  a +0 club
+(45, 26, D:5)
+  a +0 dagger
+  a +0 dagger
+  a +2 whip of distortion
+  a +0 dagger
+  a +0 short sword
+  a +0 club
+  11 stones
+(49, 8, D:5)
+  a +0 rapier
+(51, 35, D:5)
+  16 arrows
+
+Level 6 of the Dungeon
+[Shop] Xolo's Book Shop
+  Great Wizards, Vol. VII (300 gold)
+  a Trismegistus Codex (280 gold)
+  the Tome of Damaging Transmutation (320 gold)
+    Spells                            Type                      Level      
+    Known
+     a - Beastly Appendage             Transmutation                 1         
+    no
+     b - Ice Form                      Ice/Transmutation             4         
+    no
+     c - Lehudib's Crystal Spear       Conjuration/Earth             8         
+    no
+    
+    
+    Trog disapproves of the use of such an item.
+  a book of the Warp (320 gold)
+  the Compendium of Dusty Conjuration (260 gold)
+    Spells                            Type                      Level      
+    Known
+     a - Bolt of Magma                 Conjuration/Fire/Earth        5         
+    no
+     b - Statue Form                   Transmutation/Earth           6         
+    no
+    
+    
+    Trog disapproves of the use of such an item.
+  a book of Geomancy (220 gold)
+[Shop] Ovidad's Weapon Emporium
+  a +0 war axe (49 gold)
+  23 stones (32 gold)
+  a +0 spear (42 gold)
+  a +0 rapier (56 gold)
+  4 boomerangs (28 gold)
+  a +2 vorpal war axe (240 gold)
+  the +11 battleaxe of Glamorous Guilt {vorpal, *Rage rElec Str+7 Dex+3} (1366 gold)
+    It inflicts extra damage upon your enemies.
+    
+    Str:       It affects your strength (+7).
+    Dex:       It affects your dexterity (+3).
+    rElec:     It insulates you from electricity.
+    *Rage:     It may make you go berserk in combat.
+  a +0 mace (42 gold)
+  a +0 falchion of holy wrath (103 gold)
+  a +0 mace (42 gold)
+  a +0 hand axe of distortion (133 gold)
+[Shop] Ydixkuh's Weapon Boutique
+  a +0 long sword (38 gold)
+  a +0 dagger (22 gold)
+  a +0 rapier (44 gold)
+  a +0 spear (33 gold)
+  a +0 hand axe (33 gold)
+  a +0 spear (33 gold)
+  a +0 dagger (22 gold)
+  a +0 spear (33 gold)
+  a +0 rapier (44 gold)
+  15 sling bullets (82 gold)
+  a +0 hunting sling (16 gold)
+  a +3 flail of protection (233 gold)
+[Shop] Moedim's Assorted Antiques
+  a scroll of identify (58 gold)
+  the +4 robe of Augmentation {Str+4 Int+4 Dex+4} (1534 gold)
+    Str:       It affects your strength (+4).
+    Int:       It affects your intelligence (+4).
+    Dex:       It affects your dexterity (+4).
+  a potion of resistance (290 gold)
+  a potion of invisibility (232 gold)
+  an amulet of regeneration (870 gold)
+  a scroll of identify (58 gold)
+  2 potions of curing (174 gold)
+  a +0 ring mail (116 gold)
+  the +2 scale mail of Coetuz {Str+7} (1035 gold)
+    Str:       It affects your strength (+7).
+  a potion of flight (87 gold)
+  a +0 dagger (58 gold)
+[Shop] Voym's Antique Weapon Shop
+  a +0 club (17 gold)
+  a +0 giant club (28 gold)
+  a +0 dagger (34 gold)
+  a +2 whip of flaming (280 gold)
+  a +0 hunting sling (25 gold)
+  a +0 dagger (34 gold)
+  a +0 falchion (51 gold)
+  a +0 long sword (59 gold)
+(0, 0, D:6)
+  a +0 scimitar
+(28, 3, D:6)
+  a +0 spear
+(35, -12, D:6)
+  16 arrows
+(42, 8, D:6)
+  a +0 club
+  a +2 dagger of speed
+  a +0 robe
+(43, -5, D:6)
+  20 sling bullets
+(43, 8, D:6)
+  a +0 dagger
+  a +0 robe
+(43, 9, D:6)
+  a +0 club
+(44, 4, D:6)
+  a +0 shortbow
+(45, -12, D:6)
+  a +0 whip
+(46, -12, D:6)
+  a +0 spear
+(46, -11, D:6)
+  a +0 leather armour
+  a +0 club
+(46, -9, D:6)
+  a +0 halberd
+(48, -4, D:6)
+  a +0 club
+(52, 5, D:6)
+  18 stones
+
+Level 7 of the Dungeon
+[Shop] Mubuffis's Antique Armour Shoppe
+  a +0 chain mail (108 gold)
+  a +2 helmet (396 gold)
+  a +0 robe (16 gold)
+  a +0 pair of boots (108 gold)
+  the +2 robe "Wabiub" {Drain rElec Dex+4} (660 gold)
+    Dex:       It affects your dexterity (+4).
+    rElec:     It insulates you from electricity.
+    Drain:     It drains your maximum health when unequipped.
+  a +0 chain mail (108 gold)
+  a +0 scale mail (96 gold)
+  a +0 ring mail (96 gold)
+  a +0 leather armour (48 gold)
+  a +0 ring mail (96 gold)
+(6, -7, D:7)
+  a +0 trident
+(6, -6, D:7)
+  a +0 club
+(6, -1, D:7)
+  a +0 dagger
+  a +0 ring mail
+(6, 8, D:7)
+  4 large rocks
+(7, -9, D:7)
+  10 bolts
+(8, 5, D:7)
+  a +0 buckler
+(9, -31, D:7)
+  a +0 dagger
+  a +0 robe
+(9, -7, D:7)
+  a +1 dagger of distortion
+(9, -5, D:7)
+  a +0 ring mail
+  a +0 hand axe
+(11, -4, D:7)
+  a +0 club
+  a +0 club
+(11, 8, D:7)
+  a +0 morningstar
+  a +0 short sword
+(13, -3, D:7)
+  a +0 whip
+(15, -3, D:7)
+  a +0 dagger
+  3 silver boomerangs
+  a +0 scale mail of poison resistance
+  a +0 club
+(16, -7, D:7)
+  a +0 dagger
+  a +0 ring mail
+(17, 2, D:7)
+  a +0 dagger
+(19, 7, D:7)
+  a +0 falchion
+  a +2 leather armour of positive energy
+(20, -36, D:7)
+  a +0 quarterstaff
+(20, 2, D:7)
+  13 bolts
+  a +0 short sword
+  a +0 hand crossbow
+(20, 7, D:7)
+  a +0 dagger
+  a stone
+  a +0 club
+(21, -7, D:7)
+  a +0 short sword
+  19 bolts
+(21, -5, D:7)
+  26 stones
+(22, -7, D:7)
+  a +0 war axe
+(22, 2, D:7)
+  a +0 dagger
+(23, 8, D:7)
+  a +0 whip
+(24, 8, D:7)
+  a +0 club
+(28, 6, D:7)
+  a +1 short sword of protection
+(37, -18, D:7)
+  a +0 ring mail
+(37, -9, D:7)
+  a +0 robe
+  a +0 dagger of protection
+(38, -9, D:7)
+  a +2 scale mail of cold resistance
+  a +2 short sword of venom
+(49, -7, D:7)
+  a +0 leather armour
+(58, 3, D:7)
+  a +0 short sword
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a +0 club
+  a +0 club
+(0, 1, D:8)
+  5 stones
+  a +0 short sword
+(1, -2, D:8)
+  a +0 dagger
+(1, 0, D:8)
+  a curare-tipped dart
+  a +0 dagger
+(2, 12, D:8)
+  a +0 trident
+(13, 13, D:8)
+  a +3 dagger of chaos
+  a +0 robe
+(14, -12, D:8)
+  10 bolts
+(15, 11, D:8)
+  a +0 spear
+(20, 5, D:8)
+  a +0 morningstar
+(36, -15, D:8)
+  a +0 club
+(52, -14, D:8)
+  13 stones
+(55, 20, D:8)
+  a +0 robe
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a +0 leather armour
+  a +0 mace
+(0, 1, D:9)
+  a +0 ring mail
+  a +0 falchion
+  a +0 robe
+  a +0 dagger
+(0, 2, D:9)
+  a +0 robe
+  a +0 dagger
+(5, 0, D:9)
+  a scroll of immolation
+(11, 10, D:9)
+  a +0 mace
+  a +0 robe
+  a +0 short sword
+  a +0 robe
+(11, 11, D:9)
+  a +1 long sword
+  a +0 robe
+  a +2 dire flail of freezing
+  a +0 robe
+(12, 35, D:9)
+  14 bolts
+(18, 29, D:9)
+  a +0 war axe
+(26, -10, D:9)
+  a +0 buckler
+(27, 16, D:9)
+  a +0 dagger
+(29, -5, D:9)
+  a +0 shortbow
+  8 arrows
+(35, 3, D:9)
+  a +0 hunting sling
+(41, -8, D:9)
+  19 arrows
+(43, -2, D:9)
+  a +0 dagger
+  a +0 short sword
+  8 stones
+  a +0 dagger
+  a +0 dagger
+  a +0 short sword
+  4 poisoned darts
+  a +0 short sword
+(43, -1, D:9)
+  a +0 short sword
+(45, 3, D:9)
+  a +0 plate armour (still there?)
+  a +0 war axe (still there?)
+
+Level 10 of the Dungeon
+[Shop] Ushunucoqy's Distillery
+  a potion of brilliance (44 gold)
+  a potion of degeneration (11 gold)
+  a potion of attraction (33 gold)
+  a potion of flight (33 gold)
+  a potion of flight (33 gold)
+  a potion of mutation (88 gold)
+  a potion of attraction (33 gold)
+  a potion of brilliance (44 gold)
+  a potion of degeneration (11 gold)
+(0, 0, D:10)
+  21 sling bullets
+(0, 21, D:10)
+  a +0 falchion
+(1, 5, D:10)
+  a +0 leather armour
+(3, -7, D:10)
+  5 poisoned darts
+(10, -7, D:10)
+  a +0 chain mail
+(17, -7, D:10)
+  a +0 ring mail
+  a ring of wizardry
+  a +0 whip
+(17, -6, D:10)
+  10 stones
+  a +0 whip
+  a +0 dagger
+  a +0 short sword
+  a +0 whip
+  7 poisoned darts
+  a +0 short sword
+(17, -4, D:10)
+  4 stones
+  a +0 club
+(18, 11, D:10)
+  a +0 robe
+(19, 12, D:10)
+  a +0 robe
+  a +0 dagger
+(20, 11, D:10)
+  a +0 leather armour
+  a +0 short sword
+(20, 12, D:10)
+  a +0 robe
+  a +0 dagger
+(23, 5, D:10)
+  the ring of Hapyseng {Ice MP+9 Int+3}
+    [ring of ice]
+    
+    It enhances your ice magic.
+    Int:       It affects your intelligence (+3).
+    rF:        It makes you vulnerable to fire.
+    rC:        It protects you from cold.
+    MP:        It affects your magic capacity (+9).
+(25, -9, D:10)
+  a +0 ring mail
+(26, -9, D:10)
+  12 arrows
+(26, 0, D:10)
+  a +0 hand axe
+(30, 22, D:10)
+  3 boomerangs
+(36, -7, D:10)
+  a +0 short sword
+(39, -9, D:10)
+  a +0 giant spiked club
+  a +0 giant spiked club
+
+Level 11 of the Dungeon
+(5, 31, D:11)
+  a +0 ring mail
+(14, 17, D:11)
+  4 poisoned darts
+(16, 5, D:11)
+  the +2 robe "Haruuch" {+Blink Str+7}
+    Str:       It affects your strength (+7).
+    +Blink:    It lets you blink.
+(19, 4, D:11)
+  a +0 leather armour
+(22, -1, D:11)
+  13 poisoned darts
+(23, 23, D:11)
+  a +0 trident
+(29, 43, D:11)
+  11 stones
+(34, 31, D:11)
+  3 large rocks
+(36, 31, D:11)
+  6 large rocks
+(36, 38, D:11)
+  a +0 chain mail
+(40, 16, D:11)
+  a +0 robe
+  a +0 dagger
+(41, 9, D:11)
+  23 bolts
+(48, 17, D:11)
+  a +0 leather armour
+(54, 29, D:11)
+  a +2 leather armour of fire resistance
+(56, 40, D:11)
+  15 stones
+
+Level 12 of the Dungeon
+(1, -2, D:12)
+  a +0 halberd
+(5, -4, D:12)
+  13 stones
+(10, -13, D:12)
+  4 large rocks
+(13, -11, D:12)
+  a +0 plate armour
+(13, -1, D:12)
+  21 arrows
+(17, -5, D:12)
+  a +0 dagger
+  a +0 robe
+  a +0 flail
+  a +0 ring mail
+  a +0 war axe
+  21 stones
+  a +0 leather armour
+(22, 1, D:12)
+  a book of Weapons
+(28, -3, D:12)
+  a book of Burglary
+(32, -8, D:12)
+  a +0 shortbow
+  a +0 shortbow
+  a +0 shortbow
+  52 arrows
+  a +0 flail
+(33, -8, D:12)
+  a +0 shortbow
+  a +0 shortbow
+  a +0 shortbow
+  60 arrows
+(33, -7, D:12)
+  a +0 giant spiked club
+  a +0 giant club
+(37, -33, D:12)
+  a +0 club
+(45, 3, D:12)
+  a +0 flail
+
+Level 13 of the Dungeon
+(0, 0, D:13)
+  22 sling bullets
+(4, 7, D:13)
+  a scroll of immolation
+(8, -13, D:13)
+  14 arrows
+(9, 4, D:13)
+  19 stones
+(14, -8, D:13)
+  14 sling bullets
+(21, -4, D:13)
+  20 stones
+(22, -9, D:13)
+  a +0 robe
+(23, 6, D:13)
+  a +0 shortbow
+  16 arrows
+(24, 6, D:13)
+  a +0 shortbow
+  23 arrows
+(25, 5, D:13)
+  a +0 shortbow
+  20 arrows
+(28, -4, D:13)
+  a +0 robe
+(35, -5, D:13)
+  a +0 long sword
+(37, -2, D:13)
+  a +0 scale mail
+(38, 12, D:13)
+  a +2 scimitar of flaming
+(38, 13, D:13)
+  a +0 shortbow
+  20 arrows
+(38, 14, D:13)
+  a +0 shortbow
+  25 arrows
+(38, 15, D:13)
+  a +0 shortbow
+  14 arrows
+(42, -3, D:13)
+  a +0 rapier
+
+Level 14 of the Dungeon
+(0, 0, D:14)
+  27 arrows
+(3, 28, D:14)
+  6 stones
+(4, -7, D:14)
+  a +1 long sword of draining
+  a +0 ring mail
+(14, 11, D:14)
+  a staff of poison
+(20, 17, D:14)
+  a +0 giant club
+(21, 6, D:14)
+  a +0 club
+  a +0 short sword
+  14 poisoned darts
+  a +0 short sword
+  a curare-tipped dart
+  a +0 giant club
+(21, 25, D:14)
+  26 bolts
+(27, 24, D:14)
+  16 arrows
+(29, 23, D:14)
+  17 arrows
+(31, 19, D:14)
+  a +0 longbow
+  12 arrows
+(32, 12, D:14)
+  a +0 giant spiked club
+  a +0 dire flail
+(32, 16, D:14)
+  a +0 glaive
+(32, 17, D:14)
+  a +0 ring mail
+(32, 23, D:14)
+  12 arrows
+  a +0 longbow
+(33, 8, D:14)
+  a +0 giant club
+(33, 11, D:14)
+  a +0 shortbow
+  25 arrows
+(33, 23, D:14)
+  13 stones
+(34, 3, D:14)
+  3 large rocks
+(34, 9, D:14)
+  a +0 flail
+  a +0 robe
+(34, 11, D:14)
+  a +0 short sword
+(40, -10, D:14)
+  a +0 short sword
+  a +0 chain mail
+(42, 1, D:14)
+  a +3 scimitar of flaming
+(43, 0, D:14)
+  a +3 vampiric spear
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  18 arrows
+(2, -9, Lair:1)
+  a +0 leather armour
+(14, -13, Lair:1)
+  16 gold pieces
+(15, -13, Lair:1)
+  14 gold pieces
+(16, -13, Lair:1)
+  16 gold pieces
+(16, -11, Lair:1)
+  8 gold pieces
+(17, -12, Lair:1)
+  18 gold pieces
+(17, -11, Lair:1)
+  19 gold pieces
+(17, -10, Lair:1)
+  19 gold pieces
+(20, -23, Lair:1)
+  a +0 chain mail
+(25, 12, Lair:1)
+  10 gold pieces
+(25, 13, Lair:1)
+  2 potions of might
+(25, 14, Lair:1)
+  a +0 flail
+(26, 12, Lair:1)
+  a +1 helmet of intelligence
+(26, 14, Lair:1)
+  the amulet "Ikalaer" {rC++ Regen+ rCorr Dex-3}
+    [amulet of regeneration]
+    
+    Dex:       It affects your dexterity (-3).
+    rC:        It greatly protects you from cold.
+    Regen:     It increases your rate of health regeneration.
+    rCorr:     It protects you from acid and corrosion.
+(28, 9, Lair:1)
+  a +0 rapier
+(29, -15, Lair:1)
+  a +0 trident
+(30, -15, Lair:1)
+  a +0 ring mail
+(31, 5, Lair:1)
+  a +0 robe
+(46, 3, Lair:1)
+  a +0 leather armour
+(48, 2, Lair:1)
+  a +0 halberd
+(57, 5, Lair:1)
+  12 stones
+(61, -10, Lair:1)
+  6 boomerangs
+(66, -10, Lair:1)
+  a basilisk corpse
+

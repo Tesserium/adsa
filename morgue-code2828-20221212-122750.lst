@@ -1,0 +1,480 @@
+code2828
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 club
+(7, 0, D:1)
+  a +0 dagger
+(27, 27, D:1)
+  a +0 robe
+(28, 25, D:1)
+  a +0 short sword
+(29, 29, D:1)
+  a +0 robe
+(31, 15, D:1)
+  a +0 flail
+(41, 4, D:1)
+  a +0 pair of boots
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 robe
+(1, -27, D:2)
+  a +0 club
+(8, 4, D:2)
+  a +0 club
+  a +0 sling
+(8, 10, D:2)
+  2 stones
+(24, -5, D:2)
+  9 gold pieces
+(25, -6, D:2)
+  9 gold pieces
+(27, 4, D:2)
+  a +0 chain mail
+(28, -6, D:2)
+  a +0 club
+(30, -5, D:2)
+  a scroll of identify
+(32, 10, D:2)
+  a +0 short sword
+  a +0 leather armour
+(36, -23, D:2)
+  a +0 club
+(45, -22, D:2)
+  a +0 robe
+(45, -7, D:2)
+  a +0 hammer
+(46, -5, D:2)
+  a +0 cloak
+(52, 8, D:2)
+  2 stones
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 club
+  3 stones
+(6, -12, D:3)
+  a +0 pair of boots
+(7, 14, D:3)
+  a +0 short sword
+(14, 8, D:3)
+  a +0 club
+(28, -19, D:3)
+  a +0 dagger
+(30, 16, D:3)
+  9 stones
+(41, -5, D:3)
+  a +0 dagger
+  a stone
+(49, -19, D:3)
+  a +0 chain mail
+(49, -18, D:3)
+  a scroll of magic mapping
+(49, -17, D:3)
+  a staff of earth
+  (unseen)
+(50, -19, D:3)
+  a stone
+(50, -18, D:3)
+  a wand of polymorph (4)
+(50, -17, D:3)
+  a +0 robe
+(50, 9, D:3)
+  a +0 ring mail
+(51, -19, D:3)
+  a +0 robe
+(51, -18, D:3)
+  a +0 club
+(51, -17, D:3)
+  a scroll of identify
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 whip
+(21, -2, D:4)
+  a +0 animal skin
+(27, -12, D:4)
+  a +0 whip
+(32, 15, D:4)
+  a +0 whip
+(41, 16, D:4)
+  a +0 flail
+  a +0 chain mail
+  a +0 dagger
+  a +0 club
+  2 stones
+(42, 16, D:4)
+  a +0 dagger
+  a +0 ring mail
+  a +0 falchion
+  a +0 club
+(42, 17, D:4)
+  a +0 hand axe
+  a +0 robe
+(52, -9, D:4)
+  a +2 dagger of electrocution
+  3 stones
+(54, 9, D:4)
+  a +0 hand axe
+  a +0 leather armour
+(55, -10, D:4)
+  5 stones
+
+Level 5 of the Dungeon
+[Shop] Tysol's Assorted Antiques
+  a +0 quarterstaff (124 gold)
+  a +6 ring of intelligence (1116 gold)
+  a +0 plate armour (713 gold)
+  a +0 ring mail (124 gold)
+  a +0 cloak (139 gold)
+  a staff of poison (775 gold)
+  a scroll of enchant armour (232 gold)
+  a scroll of enchant weapon (232 gold)
+  a scroll of immolation (124 gold)
+(0, 0, D:5)
+  6 stones
+(9, -31, D:5)
+  a +0 dagger
+(16, -20, D:5)
+  a +0 shortbow
+(18, -24, D:5)
+  a +0 robe
+(28, 22, D:5)
+  a +0 dagger
+(39, 7, D:5)
+  a +0 ring mail
+(44, 4, D:5)
+  2 stones
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  +0 steam dragon scales
+(10, -30, D:6)
+  a +0 club
+(10, -29, D:6)
+  a +0 trident
+  a +0 ring mail
+(11, -31, D:6)
+  a +0 dagger
+  a +0 robe
+(11, -29, D:6)
+  a +0 dagger
+(15, -23, D:6)
+  a +0 club
+(16, -22, D:6)
+  a +0 flail
+(18, -22, D:6)
+  +0 steam dragon scales
+(22, -20, D:6)
+  a +0 giant spiked club
+  a +0 giant club
+  a +0 giant club
+(24, 20, D:6)
+  a +2 vorpal flail
+  a +0 scale mail
+(28, -14, D:6)
+  a +0 flail
+(29, -16, D:6)
+  a +0 dagger
+  a +0 robe
+(34, -27, D:6)
+  a +0 scale mail
+(35, -8, D:6)
+  a +0 falchion
+  a +0 leather armour
+(39, -26, D:6)
+  a +0 quarterstaff
+(39, 16, D:6)
+  6 stones
+(49, -9, D:6)
+  a +0 club
+(50, -9, D:6)
+  a +0 hand axe of freezing
+  a +0 ring mail of positive energy
+(51, -9, D:6)
+  a +0 short sword
+  a +0 dagger
+  a +0 robe
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a +0 dagger
+  a +0 robe
+(0, 1, D:7)
+  a +2 flail of protection
+  a +0 dagger
+  a +0 robe
+(2, 29, D:7)
+  a +0 sling
+(4, 10, D:7)
+  a +0 ring mail
+(14, -4, D:7)
+  a potion of cancellation
+(17, 5, D:7)
+  a +0 dagger
+(17, 6, D:7)
+  a +0 short sword
+(17, 7, D:7)
+  a +0 whip
+  4 stones
+(17, 10, D:7)
+  a +0 pair of gloves
+(21, 4, D:7)
+  a +0 club
+  2 stones
+(23, 3, D:7)
+  a +0 short sword
+  a stone
+  a +0 quarterstaff
+  a +1 vorpal sling
+  a +0 leather armour
+(24, 2, D:7)
+  a +0 dagger
+  a +0 short sword
+(24, 3, D:7)
+  a +0 whip
+(26, 13, D:7)
+  a +0 leather armour
+(28, 6, D:7)
+  5 stones
+(31, -7, D:7)
+  a +0 robe
+(31, 27, D:7)
+  a book of Spatial Translocations
+(36, 20, D:7)
+  a +0 ring mail
+(38, 13, D:7)
+  a +1 falchion of distortion
+
+Level 8 of the Dungeon
+(3, -33, D:8)
+  4 stones
+(12, -22, D:8)
+  a +0 sling
+(15, -35, D:8)
+  a +0 arbalest
+(20, -25, D:8)
+  a +0 falchion
+(21, -29, D:8)
+  a +0 giant club
+  a +0 giant club
+(31, 3, D:8)
+  Sif Muna's Book of Interference
+    Spells                            Type                      Level
+     a - Slow                          Hexes                         1
+    
+    
+    Trog disapproves of the use of such an item.
+  (unseen)
+(32, 3, D:8)
+  Sif Muna's Enchiridion on Venom
+    Spells                            Type                      Level
+     a - Sting                         Transmutation/Poison          1
+    
+    
+    Trog disapproves of the use of such an item.
+  (unseen)
+(33, 3, D:8)
+  Sif Muna's Papyrus of the Lonely Ziggurats
+    Spells                            Type                      Level
+     a - Kiss of Death                 Conjuration/Necromancy        1
+    
+    
+    Trog disapproves of the use of such an item.
+  (unseen)
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a +0 sling
+(9, -44, D:9)
+  3 stones
+(14, -21, D:9)
+  a +0 short sword
+(15, -21, D:9)
+  a +0 short sword
+(17, -26, D:9)
+  a +0 long sword
+(17, -10, D:9)
+  a +0 dagger
+(18, -3, D:9)
+  a +0 whip
+  a +0 flail
+  a +0 leather armour
+  a +0 dagger
+  a +0 robe
+(23, -37, D:9)
+  4 stones
+(24, -11, D:9)
+  a +0 dagger
+(27, -32, D:9)
+  a +0 short sword of electrocution
+  a +0 chain mail
+(27, -30, D:9)
+  a +0 whip
+  a +0 dagger
+  a +0 robe
+(27, -12, D:9)
+  an orb of mayhem
+(29, -36, D:9)
+  a piece from Xom's chessboard (15/15)
+(30, -31, D:9)
+  a +0 dagger
+  a +0 robe
+(32, -15, D:9)
+  Qulluaf's Reference Book on Conflagrant Orientation
+    Spells                            Type                      Level
+     a - Momentum Strike               Conjuration/Translocation     2
+     b - Manifold Assault              Translocation                 4
+     c - Fireball                      Conjuration/Fire              5
+     d - Fire Storm                    Conjuration/Fire              9
+    
+    
+    Trog disapproves of the use of such an item.
+
+Level 10 of the Dungeon
+(0, 0, D:10)
+  a +0 shortbow
+(2, -29, D:10)
+  a +0 giant spiked club
+  a +0 giant club
+(21, -11, D:10)
+  a +0 robe
+(32, -25, D:10)
+  a +0 dagger
+  a +0 robe
+(39, -20, D:10)
+  a +0 dagger
+(39, -19, D:10)
+  a +0 dagger
+(39, -18, D:10)
+  a +0 whip
+(45, 3, D:10)
+  a +0 trident
+(49, -27, D:10)
+  a +0 long sword
+(51, -9, D:10)
+  a +0 scale mail
+(52, 3, D:10)
+  a +0 long sword
+(55, -30, D:10)
+  4 stones
+
+Level 11 of the Dungeon
+(0, 0, D:11)
+  a +0 ring mail
+(1, 19, D:11)
+  a book of Touch
+(3, 15, D:11)
+  a +0 flail
+(9, 26, D:11)
+  a +0 sling
+(17, 21, D:11)
+  a +0 chain mail
+(18, 36, D:11)
+  a +0 ring mail
+(24, 5, D:11)
+  a +0 chain mail
+  a ring of fire
+  a ring of protection from fire
+  a ring of fire
+  a +0 battleaxe
+(24, 7, D:11)
+  a +0 giant club
+  a +0 giant spiked club
+  a +0 robe
+  a +0 dagger
+(25, 15, D:11)
+  5 stones
+(29, 48, D:11)
+  a +0 morningstar
+  4 javelins
+  a +0 chain mail
+(30, 31, D:11)
+  a +0 dagger
+  a +0 robe
+(31, 48, D:11)
+  a +0 troll leather armour
+(34, 3, D:11)
+  a +1 demon whip of venom
+(53, 35, D:11)
+  a +0 hand axe
+
+Level 12 of the Dungeon
+[Shop] Ifuponn's Distillery
+  a potion of haste (120 gold)
+  a potion of flight (36 gold)
+  a potion of attraction (36 gold)
+(7, 11, D:12)
+  a +0 long sword
+(8, 24, D:12)
+  7 stones
+(9, -19, D:12)
+  a +0 robe
+(19, 33, D:12)
+  a +0 flail
+(21, -15, D:12)
+  a +0 scale mail
+(24, -14, D:12)
+  a +0 spear
+(27, 4, D:12)
+  a +0 scale mail
+(27, 6, D:12)
+  a +0 leather armour
+(34, 19, D:12)
+  a +2 great mace of protection
+(34, 21, D:12)
+  a +0 longbow
+(35, 21, D:12)
+  a +0 shortbow
+(36, 22, D:12)
+  a +0 shortbow
+(37, 27, D:12)
+  a scarf of invisibility
+(43, 26, D:12)
+  a +0 whip
+(44, 26, D:12)
+  a +0 robe
+  a +0 dagger
+(52, 3, D:12)
+  a +0 chain mail of positive energy
+  a +0 halberd
+(52, 10, D:12)
+  a book of Minor Magic
+(53, -15, D:12)
+  a +0 pair of gloves
+(53, 2, D:12)
+  a +0 leather armour
+  2 boomerangs
+  a +0 hand axe
+(54, 4, D:12)
+  a +0 club
+
+Level 13 of the Dungeon
+(0, 0, D:13)
+  a potion of heal wounds
+(22, 13, D:13)
+  a +0 trident
+(25, -15, D:13)
+  a +0 dagger
+  an elf corpse
+(26, 1, D:13)
+  4 stones
+(29, -7, D:13)
+  a +0 leather armour
+  a tengu corpse
+(29, 0, D:13)
+  a +0 ring mail
+(29, 2, D:13)
+  a +0 ring mail
+(32, 16, D:13)
+  15 gold pieces
+(34, 16, D:13)
+  a poisoned dart
+(40, -19, D:13)
+  a +0 shortbow
+(40, 17, D:13)
+  a +0 chain mail
+
+the Ecumenical Temple
+

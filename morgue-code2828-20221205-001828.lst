@@ -1,0 +1,305 @@
+code2828
+
+Level 1 of the Dungeon
+(10, 35, D:1)
+  a +0 robe
+(11, 7, D:1)
+  a +0 club
+  3 stones
+(14, 39, D:1)
+  a +0 whip
+(21, 51, D:1)
+  a +0 leather armour
+(22, 10, D:1)
+  a +0 long sword
+(27, 28, D:1)
+  a +0 leather armour
+(29, 44, D:1)
+  4 stones
+(32, 11, D:1)
+  a +0 spear
+(52, 40, D:1)
+  a +0 short sword
+(67, 39, D:1)
+  a +0 club
+
+Level 2 of the Dungeon
+[Shop] Faluah's Book Shop
+  a book of Cantrips (144 gold)
+  a book of Conjurations (240 gold)
+  a book of Scorching (360 gold)
+  a book of Alchemy (336 gold)
+  a Trismegistus Codex (336 gold)
+  a book of Minor Magic (216 gold)
+  a book of Weapons (336 gold)
+  a book of Burglary (240 gold)
+[Shop] Nuroq's Armour Boutique
+  a +0 robe (7 gold)
+  a +0 leather armour (22 gold)
+  a +2 plate armour of poison resistance (407 gold)
+  a +2 leather armour of poison resistance (176 gold)
+  a +2 cloak of willpower (236 gold)
+  a +0 chain mail (49 gold)
+  a +0 plate armour (253 gold)
+  a +0 leather armour (22 gold)
+[Shop] Gugrulek's Antique Weapon Emporium
+  a +0 spear (93 gold)
+  a +0 club (31 gold)
+  a +1 trident of protection (347 gold)
+  a +0 whip (77 gold)
+  a +0 spear (93 gold)
+  a +0 vorpal falchion (201 gold)
+(0, 0, D:2)
+  a +0 ring mail
+(17, 13, D:2)
+  a +0 club
+(19, 16, D:2)
+  a book of the Spheres
+(21, 5, D:2)
+  a +0 club
+(27, 1, D:2)
+  a +0 whip
+(37, 14, D:2)
+  a book of Party Tricks
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 leather armour
+(4, 6, D:3)
+  a +0 dagger
+(5, 2, D:3)
+  a +0 club
+(5, 3, D:3)
+  a +0 club
+  a +0 sling
+  a +0 club
+  a +0 dagger
+  a +0 club
+  a +0 dagger
+  a +0 club
+(5, 4, D:3)
+  a +0 club
+  a +0 spear
+  a +0 animal skin
+  a +0 helmet
+(5, 6, D:3)
+  a +0 club
+(6, -6, D:3)
+  a +0 animal skin
+(11, 8, D:3)
+  a +0 falchion
+(14, -5, D:3)
+  a +0 cloak
+(15, -8, D:3)
+  a +0 hammer
+(25, 21, D:3)
+  a +0 leather armour
+(28, -4, D:3)
+  3 poisoned darts
+(36, -10, D:3)
+  a +0 ring mail
+(45, 26, D:3)
+  a +0 club
+(47, 32, D:3)
+  a +0 pair of boots
+(55, -5, D:3)
+  4 stones
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 spear
+(5, 29, D:4)
+  a +0 buckler
+(13, 22, D:4)
+  a +0 club
+(14, 6, D:4)
+  a +0 dagger
+(14, 12, D:4)
+  a +0 club
+(14, 26, D:4)
+  a +0 dagger
+(14, 27, D:4)
+  a +0 dagger
+(15, 7, D:4)
+  a +0 leather armour
+  a +0 ring mail
+(18, -4, D:4)
+  a +0 dagger
+(30, 19, D:4)
+  a +0 club
+(31, 9, D:4)
+  a +0 club
+(32, 8, D:4)
+  a +0 giant spiked club
+(42, -8, D:4)
+  a +0 dagger
+  4 stones
+(55, 0, D:4)
+  a +0 leather armour
+(56, -5, D:4)
+  5 boomerangs
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 leather armour
+(14, -6, D:5)
+  a scarf of repulsion
+(16, -22, D:5)
+  a +0 ring mail
+(24, 20, D:5)
+  a +1 vorpal flail
+(25, 20, D:5)
+  a +0 short sword
+  a +0 leather armour
+  a +0 flail
+  2 boomerangs
+  a +0 scale mail
+  a +0 trident
+(26, -9, D:5)
+  4 stones
+  a +0 plate armour
+(34, 16, D:5)
+  a book of Armaments
+(41, 15, D:5)
+  a +0 spear
+(41, 16, D:5)
+  a +0 short sword
+  a +0 ring mail
+  a +0 trident
+  a +0 scale mail
+(43, 15, D:5)
+  a +0 spear
+(43, 16, D:5)
+  a +0 whip
+(44, -4, D:5)
+  7 stones
+(46, 1, D:5)
+  a +0 leather armour
+(49, -4, D:5)
+  a +0 short sword
+(51, -11, D:5)
+  a +0 mace of holy wrath
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a ring of wizardry
+(37, 10, D:6)
+  a +0 rapier
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  11 gold pieces
+(5, -4, D:7)
+  a +0 spear
+  a gnoll corpse (skeletalised by now)
+(6, -6, D:7)
+  a +0 club
+  a +0 spear
+  a gnoll corpse (skeletalised by now)
+(7, -6, D:7)
+  a +0 club
+  a gnoll corpse (skeletalised by now)
+(13, 33, D:7)
+  a +0 shortbow
+(16, 24, D:7)
+  a +0 robe
+(17, 37, D:7)
+  a +0 halberd
+(18, 6, D:7)
+  a +0 flail
+(18, 36, D:7)
+  a +0 halberd
+(18, 38, D:7)
+  a +0 halberd
+(19, 6, D:7)
+  a +0 club
+(19, 37, D:7)
+  a +0 spear
+(20, 6, D:7)
+  a +0 dagger of freezing
+  a +0 chain mail
+(20, 7, D:7)
+  a +0 trident
+  a +0 plate armour
+(31, -7, D:7)
+  a +0 leather armour
+(33, 31, D:7)
+  a +0 scale mail
+
+the Ecumenical Temple
+
+a bailey
+(0, 0, Bailey)
+  9 gold pieces
+(4, -1, Bailey)
+  a +0 spear
+  a +0 scale mail
+  an orc corpse
+(5, -2, Bailey)
+  a +0 trident
+  a +0 scale mail
+(5, -1, Bailey)
+  a +0 bardiche
+  a +0 chain mail
+(6, -1, Bailey)
+  a +0 halberd
+  a +0 scale mail
+  an orc corpse
+(7, -2, Bailey)
+  a +0 spear
+  a +0 ring mail
+  an orc corpse
+(7, -1, Bailey)
+  a +0 halberd
+  a +0 chain mail
+  an orc corpse
+(8, -9, Bailey)
+  a potion of resistance
+(8, -8, Bailey)
+  the +1 pair of gloves of Pety Sas {-Tele Will+++ Str+2}
+    Str:       It affects your strength (+2).
+    -Tele:     It prevents most forms of teleportation.
+    Will:      It greatly increases your willpower.
+  (unseen)
+(8, -7, Bailey)
+  16 gold pieces
+(8, -6, Bailey)
+  2 scrolls of butterflies
+(8, -5, Bailey)
+  a staff of earth
+  (unseen)
+(8, -4, Bailey)
+  a +1 mace of holy wrath
+  (unseen)
+(9, -8, Bailey)
+  a +1 arbalest of flaming
+  (unseen)
+(9, -7, Bailey)
+  a scroll of blinking
+(9, -6, Bailey)
+  16 gold pieces
+(9, -5, Bailey)
+  a potion of haste
+(9, -1, Bailey)
+  a +0 spear
+  a +0 scale mail
+(13, -13, Bailey)
+  14 gold pieces
+(13, 0, Bailey)
+  14 gold pieces
+(16, -10, Bailey)
+  a +0 halberd
+  a +0 plate armour
+  an orc corpse
+(26, -8, Bailey)
+  a +0 glaive
+  a +0 plate armour
+  an orc corpse
+(27, -8, Bailey)
+  a +0 trident
+  a +0 scale mail
+(29, -9, Bailey)
+  a +0 halberd
+  a +0 chain mail
+  an orc corpse
+

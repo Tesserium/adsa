@@ -1,0 +1,329 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-605-gb288214 (webtiles) character file.
+
+Game seed: 12238554246370036503
+
+651 code2828 the Gusty (level 7, -15/50 HPs)
+             Began as a Pale Draconian Air Elementalist on Jan 7, 2023.
+             Was a Believer of Vehumet.
+             Demolished by an ogre
+             ... wielding a +0 giant club
+              (22 damage)
+             ... on level 5 of the Dungeon on Jan 8, 2023.
+             The game lasted 00:16:43 (5426 turns).
+
+code2828 the Gusty (DrAE)                           Turns: 5426, Time: 00:16:44
+
+Health: -15/50     AC: 10    Str: 10    XL:     7   Next: 28%
+Magic:  2/12       EV: 13    Int: 17    God:    Vehumet [**....]
+Gold:   292        SH:  5    Dex: 12    Spells: 2/13 levels left
+
+rFire   . . .      SeeInvis .   c - +4 whip
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   (body armour unavailable)
+rPois   .          Reflect  +   (helmet restricted)
+rElec   .          Harm     .   s - +2 cloak
+rCorr   .          Rampage  .   j - +0 pair of gloves
+Will    +....                   (no boots)
+Stlth   ++                      f - amulet of reflection
+HPRegen 0.28/turn               g - ring of willpower
+MPRegen 0.13/turn               (no ring)
+
+@: no status effects
+A: breathe steam, AC +6, unfitting armour, cold-blooded, steam resistance
+a: Breathe Steam, Renounce Religion
+
+
+You were on level 5 of the Dungeon.
+You worshipped Vehumet.
+Vehumet was pleased with you.
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 292 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ c - a +4 whip (weapon)
+Armour
+ j - a +0 pair of gloves (worn)
+ s - a +2 cloak (worn)
+Jewellery
+ f - an amulet of reflection (around neck)
+ g - a ring of willpower (left hand)
+ o - an amulet of faith
+ r - a +6 ring of strength
+Wands
+ u - a wand of flame (41)
+ w - a wand of iceblast (8)
+Scrolls
+ b - 2 scrolls of identify
+ e - a scroll of vulnerability {unknown}
+ i - a scroll of fear
+ l - a scroll of poison {unknown}
+ p - a scroll of blinking
+ q - a scroll of brand weapon {unknown}
+ v - a scroll of amnesia {unknown}
+ x - a scroll of teleportation {unknown}
+Potions
+ a - a potion of magic
+ d - 3 potions of lignification
+ h - 4 potions of heal wounds {unknown}
+ k - 2 potions of brilliance {unknown}
+ m - a potion of curing {unknown}
+ n - a potion of degeneration {unknown}
+ t - a potion of haste {unknown}
+ z - a potion of might {unknown}
+ A - a potion of flight {unknown}
+ B - a potion of invisibility {unknown}
+
+
+   Skills:
+ + Level 3.6 Dodging
+ + Level 3.9 Stealth
+ + Level 3.7 Spellcasting
+ + Level 3.5 Conjurations
+ + Level 5.0 Air Magic
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Shock                 Conj/Air       68%        1d7       2%          1
+b - Static Discharge      Conj/Air       34%        2-4/arc   4%          2
+c - Swiftness             Air            20%        N/A       6%          3
+d - Airstrike             Air            10%        2d(2-18)  21%         4
+e - Slow                  Hex            12%        N/A       16%         1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Momentum Strike          Conj/Tloc      18%        3d8       12%         2
+ Cigotuvi's Dreadful Rot  Necr/Pois/Air  16%        N/A       12%         2
+ Confusing Touch          Hex            3%         N/A       43%         3
+ Vampiric Draining        Necr           3%         2d6       43%         3
+ Animate Dead             Necr           3%         N/A       85%         4
+ Olgreb's Toxic Radiance  Pois           3%         N/A       85%         4
+ Alistair's Intoxication  Tmut/Pois      2%         N/A       99%         5
+ Borgnjor's Vile Clutch   Necr/Erth      1%         N/A       99%         5
+ Death Channel            Necr           1%         N/A       100%        6
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)         Zot: 24565      
+Temple: D:4-7       
+
+Altars:
+Dithmenos
+Elyvilon
+Vehumet
+
+Annotations:
+D:3 2 transporters, steveblackman's ghost, amateur DsWr
+
+
+Innate Abilities, Weirdness & Mutations
+
+You can breathe blasts of scalding, opaque steam.
+Your pale cyan-grey scales are hard. (AC +6)
+You cannot fit into any form of body armour.
+You are cold-blooded and may be slowed by cold attacks.
+You are immune to the effects of steam.
+
+Message History
+
+The lightning grounds out.
+Your Air Magic skill increases to level 5!
+Casting: Static Discharge (safe; 4% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You don't have enough magic to cast this spell.
+The centaur unwields a +0 shortbow. The centaur completely misses you.
+The centaur barely misses you.
+The centaur wields a +0 shortbow. The centaur shoots an arrow.
+The arrow hits you.
+The centaur shoots an arrow. The arrow closely misses you.
+The centaur shoots an arrow. The arrow misses you.
+The centaur shoots an arrow. The arrow hits you!
+There is an open door here.
+Casting: Static Discharge (safe; 4% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Slow (safe; 16% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f - ogre, p - centaur
+Aim: an ogre, wielding a +0 giant club (chance to affect: 36%)
+You miscast Slow.
+You are very lightly contaminated with residual magic.
+Nothing appears to happen.
+Casting: Slow (safe; 16% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You don't know that spell.
+Unknown command.
+Unknown command.
+Unknown command.
+Casting: Slow (safe; 16% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Slow (safe; 16% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - ogre
+Aim: an ogre, wielding a +0 giant club (chance to affect: 36%)
+The ogre easily resists.
+The ogre attacks as you move away!
+The ogre hits you with a +0 giant club!!
+* * * LOW HITPOINT WARNING * * *
+Your magical contamination has completely faded away.
+The ogre attacks as you move away!
+The ogre hits you with a +0 giant club!!
+You die...
+
+    ########################
+    .......@O.c.............
+    ########################
+                        #...
+                        #...
+     ####################...
+######......................
+..#.....####################
+#.#.....#
+#.#.....#
+
+
+You could see an ogre and a centaur.
+
+Vanquished Creatures
+  Menkaure (D:5)
+  A centaur (D:5)
+  A phantom (D:5)
+  2 scorpions (D:5)
+  An iguana (D:4)
+  2 orc wizards (D:5)
+  3 gnolls
+  4 adders
+  A white imp (D:5)
+  2 ufetubi (D:4)
+  3 worms
+  5 dart slugs
+  10 orcs
+  2 endoplasms (D:2)
+  A giant cockroach (D:1)
+  4 goblins
+  6 hobgoblins
+  7 jackals
+  4 quokkas
+  8 ball pythons
+  5 bats
+  5 frilled lizards
+  11 kobolds
+  4 rats
+93 creatures vanquished.
+
+Vanquished Creatures (others)
+  3 plants (D:2)
+3 creatures vanquished.
+
+Grand Total: 96 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Draconian Air Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 3/3
+   432 | D:1      | Reached XP level 2. HP: 20/20 MP: 1/5
+  1208 | D:2      | Reached XP level 3. HP: 26/26 MP: 1/6
+  1211 | D:2      | Learned a level 2 spell: Static Discharge
+  1215 | D:2      | Learned a level 3 spell: Swiftness
+  1464 | D:2      | Found a faded altar of an unknown god.
+  1495 | D:2      | Prayed at the altar of an unknown god.
+  1495 | D:2      | Became a worshipper of Vehumet
+  1495 | D:2      | Reached * piety under Vehumet
+  1495 | D:2      | Offered knowledge of Foxfire by Vehumet.
+  1874 | D:2      | Reached XP level 4. HP: 33/33 MP: 1/7
+  2804 | D:3      | Noticed steveblackman's ghost (amateur DsWr)
+  2805 | D:3      | Found a transporter.
+  2817 | D:3      | Noticed an ogre
+  2931 | D:3      | Found a transporter.
+  3423 | D:4      | Offered knowledge of Momentum Strike by Vehumet.
+  3437 | D:4      | Reached ** piety under Vehumet
+  3493 | D:4      | Found a white marble altar of Elyvilon.
+  3547 | D:4      | Found a radiant altar of Vehumet.
+  3549 | D:4      | Noticed an ogre
+  3554 | D:4      | Reached XP level 5. HP: 38/38 MP: 3/9
+  4425 | D:4      | Upgraded the game from 0.30-a0-596-g0af90f9 to
+                  | 0.30-a0-605-gb288214
+  4444 | D:5      | Entered Level 5 of the Dungeon
+  4559 | D:5      | Got the Secrets of Infection
+  4561 | D:5      | Noticed a phantom
+  4578 | D:5      | Killed a phantom
+  4579 | D:5      | Reached XP level 6. HP: 32/45 MP: 2/10
+  4704 | D:5      | Learned a level 4 spell: Airstrike
+  4706 | D:5      | Learned a level 1 spell: Slow
+  4802 | D:5      | Reached skill level 4 in Air Magic
+  4997 | D:5      | Found a shadowy altar of Dithmenos.
+  5069 | D:5      | Noticed Menkaure
+  5093 | D:5      | Killed Menkaure
+  5094 | D:5      | Your scales start taking on a pale cyan-grey colour.
+  5094 | D:5      | Reached XP level 7. HP: 14/50 MP: 0/12
+  5094 | D:5      | Gained mutation: You are immune to the effects of steam.
+                  | [Pale Draconian growth]
+  5401 | D:5      | Reached skill level 5 in Air Magic
+  5426 | D:5      | Demolished by an ogre
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      heliophobic_arrival_enchanted_forest, layout_loops_ring,
+          minmay_split_cup_large
+D:2:      layout_basic, chequers_ecumenical_altar_simple_redux, serial_forest,
+          infiniplex_forest_end_1, infiniplex_forest_end_3,
+          infiniplex_forest_lined_room_, infiniplex_forest_straight_5,
+          infiniplex_forest_lined_4_way, infiniplex_forest_lined_2,
+          infiniplex_forest_clump_diagonal, minmay_diced_spiral
+D:3:      layout_rooms, gammafunk_ghost_smash
+D:4:      layout_loops_ring, nicolae_elyvilon_peaceful_grove,
+          vehumet_altar_wand_db
+D:5:      layout_basic, grunt_dithmenos_smoke, uniq_menkaure
+
+Skill      XL: |  1  2  3  4  5  6  7 |
+---------------+----------------------+-----
+Stealth        |  2           3       |  3.9
+Dodging        |     2        3       |  3.6
+Conjurations   |           2     3    |  3.5
+Spellcasting   |              3       |  3.7
+Air Magic      |                 4  5 |  5.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Whip              |    12 |    24 |     3 ||    39
+       Unarmed           |     1 |       |       ||     1
+       Tailslap          |       |     3 |       ||     3
+ Cast: Shock             |    76 |   116 |     8 ||   200
+       Static Discharge  |     2 |    21 |     7 ||    30
+       Slow              |       |       |     1 ||     1
+ Abil: Breathe Steam     |       |       |     1 ||     1
+  Use: Scroll            |       |     3 |       ||     3
+Armor: Skin              |    13 |    14 |     3 ||    30
+Dodge: Dodged            |    20 |    24 |    15 ||    59
+Block: Other             |     2 |     8 |     2 ||    12
+       Reflection        |       |     1 |     2 ||     3
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   5434 |   5336 |     98 |    236 |   4335 |   5 | 1086.8 |
+       Dungeon |   5434 |   5336 |     98 |    236 |   4335 |   5 | 1086.8 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:2: 1492 daAuts
+     D:1: 1108 daAuts
+     D:4: 995 daAuts
+     D:5: 955 daAuts
+     D:3: 883 daAuts
+

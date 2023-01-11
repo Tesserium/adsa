@@ -1,0 +1,535 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-534-gdc55766 (webtiles) character file.
+
+Game seed: 15855712657311175438
+
+15233 code2828 the Skirmisher (level 12, -9/63 HPs)
+             Began as a Tengu Hunter on Dec 24, 2022.
+             Was a High Priest of Hepliaklqana.
+             Mangled by a skeletal warrior
+             ... wielding a +0 halberd
+              (16 damage)
+             ... on level 12 of the Dungeon on Dec 25, 2022.
+             The game lasted 00:55:18 (12208 turns).
+
+code2828 the Skirmisher (Tengu Hunter)             Turns: 12208, Time: 00:55:19
+
+Health: -9/63      AC: 18    Str: 15    XL:     12   Next: 24%
+Magic:  21/21      EV: 19    Int: 16    God:    Hepliaklqana [*****.]
+Gold:   789        SH:  0    Dex: 24    Spells: 22/22 levels left
+
+rFire   + . .      SeeInvis .   q - +8 falchion of Wyrd {vorpal, *Noise rN+ Int+7}
+rCold   . . .      Faith    +   (no shield)
+rNeg    + . .      Spirit   .   D - +4 ring mail
+rPois   .          Reflect  .   P - +1 hat
+rElec   .          Harm     .   w - +2 cloak
+rCorr   .          Rampage  .   I - +2 pair of gloves
+Will    .....                   (boots unavailable)
+Stlth   ++                      u - amulet of faith
+HPRegen 0.30/turn               F - +4 ring of slaying
+MPRegen 0.17/turn               h - ring "Emidy" {rF+ Dex+4}
+
+@: flying quickly and evasively, quick
+A: reduced essence, beak, talons 3, nimble flight
+a: Renounce Religion, Recall Ancestor, Ancestor Identity, Transference, Idealise
+
+
+You were on level 12 of the Dungeon.
+You worshipped Hepliaklqana.
+Hepliaklqana was extremely pleased with you.
+You visited 2 branches of the dungeon, and saw 13 of its levels.
+You also visited: Bailey.
+
+You collected 789 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 shortbow
+ q - the +8 falchion of Wyrd (weapon) {vorpal, *Noise rN+ Int+7}
+   (You found it on level 3 of the Dungeon)   
+   
+   It inflicts extra damage upon your enemies.
+   
+   Int:       It affects your intelligence (+7).
+   rN:        It protects you from negative energy.
+   *Noise:    It may make noises in combat.
+Armour
+ l - the +3 leather armour "Tiycuniu" {rPois}
+   (You found it on level 2 of the Dungeon)   
+   
+   rPois:     It protects you from poison.
+ w - a +2 cloak (worn)
+ D - a +4 ring mail (worn)
+ I - a +2 pair of gloves (worn)
+ P - a +1 hat (worn)
+Jewellery
+ f - a ring of protection from fire
+ h - the ring "Emidy" (right hand) {rF+ Dex+4}
+   (You found it on level 3 of the Dungeon)   
+   
+   [ring of protection from fire]
+   
+   Dex:       It affects your dexterity (+4).
+   rF:        It protects you from fire.
+ i - an amulet of magic regeneration
+ u - an amulet of faith (around neck)
+ v - a +6 ring of dexterity
+ B - a ring of protection from cold
+ F - a +4 ring of slaying (left hand)
+Wands
+ d - a wand of charming (4)
+ x - a wand of flame (7)
+ y - a wand of quicksilver (11)
+ L - a wand of mindburst (21)
+ O - a wand of polymorph (3)
+Scrolls
+ b - 4 scrolls of immolation
+ c - 3 scrolls of identify
+ g - 4 scrolls of vulnerability
+ j - 3 scrolls of blinking
+ m - 2 scrolls of acquirement {unknown}
+ r - a scroll of enchant armour {unknown}
+ t - a scroll of brand weapon {unknown}
+ z - a scroll of teleportation
+ A - 6 scrolls of poison
+ C - 2 scrolls of amnesia {unknown}
+ G - 3 scrolls of noise
+ K - 2 scrolls of magic mapping {unknown}
+ M - 3 scrolls of enchant weapon
+ N - 2 scrolls of fog {unknown}
+ Q - a scroll of fear {unknown}
+ R - a scroll of silence {unknown}
+Potions
+ e - 4 potions of attraction
+ n - 3 potions of haste
+ o - a potion of resistance
+ p - a potion of berserk rage {unknown}
+ E - 3 potions of lignification
+ H - 4 potions of magic
+ J - 4 potions of might
+ S - a potion of invisibility {unknown}
+ T - 2 potions of brilliance
+
+
+   Skills:
+ + Level 6.5 Fighting
+ + Level 6.3 Long Blades
+ * Level 10.6 Ranged Weapons
+ + Level 9.0 Armour
+ + Level 7.2 Dodging
+ - Level 1.1 Stealth
+ + Level 8.2 Shields
+ + Level 5.6 Spellcasting
+ + Level 3.0 Conjurations
+ + Level 2.1 Hexes
+ - Level 1.2 Translocations
+
+
+You had 22 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Dazzling Flash           Conj/Hex       24%        N/A       26%         3
+ Tukima's Dance           Hex            11%        N/A       30%         3
+ Ignite Poison            Fire/Tmut/Pois 4%         N/A       58%         3
+ Iskenderun's Mystic Bla  Conj/Tloc      11%        2d4       71%         4
+ Sticky Flame             Conj/Fire      9%         2d3       78%         4
+ Passage of Golubria      Tloc           8%         N/A       82%         4
+ Anguish                  Hex/Necr       3%         N/A       85%         4
+ Yara's Violent Unravell  Hex/Tmut       3%         3d4       99%         5
+ Starburst                Conj/Fire      4%         6d4       100%        6
+ Enfeeble                 Hex            5%         N/A       100%        7
+ Ignition                 Fire           2%         3d3       100%        8
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (12/15)        Zot: 26392       Temple (1/1) D:5      Zot: 5607       
+   Lair (0/5) D:8                          Orc (0/2) D:11                     
+ Bailey (visited)                      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:11 (
+
+Portals:
+Abyss: D:6
+
+Annotations:
+D:6 2 transporters, illumed's ghost, novice TrGl
+D:8 2 transporters, 3 runed translucent doors, AlbinoMeme's ghost, novice GnWn
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your life essence is reduced to manifest your ancestor. (-10% HP)
+You have a beak for a mouth.
+You have claws for feet.
+Your magical nature lets you fly swiftly and evasively.
+
+Message History
+
+The skeletal warrior closely misses you.
+You see here a fuming green potion.
+The skeletal warrior hits you from afar with a +0 halberd!
+Something hits Xenoa!!
+Found a potion of attraction.
+e - 4 potions of attraction (gained 1)
+Okay, then.
+The skeletal warrior hits you with a +0 halberd!!
+You slash the skeletal warrior!
+Your falchion of Wyrd sighs.
+The skeletal warrior is lightly damaged.
+You hear two shouts!
+The skeletal warrior barely misses you.
+You hit the skeletal warrior but do no damage.
+You claw the skeletal warrior, but do no damage.
+You peck the skeletal warrior.
+The skeletal warrior is moderately damaged.
+The skeletal warrior hits you with a +0 halberd.
+You hit the skeletal warrior but do no damage.
+You claw the skeletal warrior, but do no damage.
+Your peck misses the skeletal warrior.
+The skeletal warrior is moderately damaged.
+The skeletal warrior hits you but does no damage.
+You barely miss the skeletal warrior. Your kick misses the skeletal warrior.
+The skeletal warrior is moderately damaged.
+The skeletal warrior hits you with a +0 halberd!
+* * * LOW HITPOINT WARNING * * *
+The skeletal warrior hits Xenoa with a +0 dire flail!
+You slash the skeletal warrior!
+You claw the skeletal warrior, but do no damage.
+Your peck misses the skeletal warrior.
+The skeletal warrior is moderately damaged.
+Xenoa hits the skeletal warrior with a +0 flail!
+The skeletal warrior completely misses you.
+The skeletal warrior hits Xenoa with a +0 dire flail!
+You completely miss the skeletal warrior.
+You claw the skeletal warrior.
+The skeletal warrior is heavily damaged.
+The skeletal warrior hits you with a +0 halberd!
+You die...
+
+               #######
+               #z....#
+               #z###.#
+               #R# #.#
+#######        #@# #.#
+......#        #z# #.#
+......##########z###z#
+......'.......>.!..z.#
+......#.######z#.#####
+......#.#..  #.#.#
+......#.#.#  #.#.#
+#####.#z#.#  #.#.#
+    #.#z#.#  #.#.#
+
+
+You could see the friendly Xenoa the knight and 4 skeletal warriors.
+
+Vanquished Creatures
+  2 two-headed ogres
+  Sonja (D:11)
+  Pikel (D:8)
+  A manticore (D:12)
+  Joseph (D:10)
+  2 kobold demonologists
+  3 trolls
+  4 slime creatures
+  2 wyverns
+  A wraith (D:7)
+  Sigmund (D:8)
+  11 yaks
+  2 vampires (D:8)
+  A basilisk (D:11)
+  A steam dragon (D:8)
+  3 wargs (D:11)
+  4 water moccasins
+  Duvessa (D:5)
+  2 ice beasts
+  A sky beast (D:7)
+  2 black bears (D:7)
+  4 orc warriors
+  An ogre (D:5)
+  3 centaurs
+  2 phantoms (D:6)
+  7 bullfrogs
+  4 scorpions
+  2 gnoll sergeants
+  19 wights
+  Dowan (D:5)
+  An electric eel (D:11)
+  6 howler monkeys
+  3 hounds
+  3 jellies
+  3 orc priests
+  A gnoll bouda (D:9)
+  2 iguanas
+  3 orc wizards (D:7)
+  5 adders
+  13 gnolls
+  A shadow imp (D:6)
+  3 white imps
+  3 ufetubi
+  2 worms
+  4 dart slugs
+  28 orcs
+  5 endoplasms
+  2 giant cockroaches
+  8 goblins
+  16 hobgoblins
+  2 jackals (D:5)
+  5 quokkas (D:4)
+  5 ball pythons
+  9 bats
+  4 frilled lizards
+  11 kobolds
+  A rat (D:1)
+239 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A boulder beetle (D:12)
+  A cyclops (D:8)
+  A kobold demonologist (D:11)
+  A troll (D:11)
+  A slime creature (D:11)
+  5 yaks
+  A basilisk (D:11)
+  A water moccasin (D:8)
+  An orc warrior (Bailey)
+  A centaur (D:11)
+  A vampire bat (D:9)
+  2 howler monkeys
+  3 orcs
+  2 bats (D:9)
+  2 hobgoblins (D:8)
+  3 kobolds (Bailey)
+27 creatures vanquished.
+
+Vanquished Creatures (others)
+  4 knights (D:12)
+  3 ancestors
+  2 orcs (D:5)
+  36 fungi (D:8)
+  71 plants
+116 creatures vanquished.
+
+Grand Total: 382 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Tengu Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 12/12 MP: 2/2
+   123 | D:1      | Reached XP level 2. HP: 17/17 MP: 3/3
+   129 | D:1      | Found a faded altar of an unknown god.
+   814 | D:2      | You fall into a shaft and drop 1 floor!
+   830 | D:3      | Identified the ring "Emidy" {rF+ Dex+4}
+   862 | D:3      | Reached XP level 3. HP: 21/21 MP: 4/4
+  1058 | D:2      | Identified the +2 robe "Coeshroa" {Rampage}
+  1176 | D:2      | Identified the +3 leather armour "Tiycuniu" {rPois}
+  1256 | D:2      | Reached skill level 1 in Armour
+  1753 | D:3      | Reached skill level 1 in Shields
+  2046 | D:3      | Identified the +8 falchion of Wyrd {vorpal, *Noise rN+
+                  | Int+7}
+  2311 | D:3      | Reached XP level 4. HP: 27/27 MP: 6/6
+  2511 | D:4      | Reached skill level 5 in Ranged Weapons
+  2511 | D:4      | Reached skill level 1 in Spellcasting
+  2525 | D:4      | Found a sparkling altar of Nemelex Xobeh.
+  2542 | D:4      | Gained mutation: Your magical nature lets you fly swiftly
+                  | and evasively. [Tengu growth]
+  2542 | D:4      | Reached XP level 5. HP: 29/31 MP: 7/7
+  3636 | D:5      | Entered Level 5 of the Dungeon
+  3661 | D:5      | Reached skill level 1 in Long Blades
+  3803 | D:5      | Noticed an ogre
+  3850 | D:5      | Killed an ogre
+  3851 | D:5      | Reached XP level 6. HP: 36/36 MP: 9/9
+  4015 | D:5      | Noticed Dowan
+  4017 | D:5      | Noticed Duvessa
+  4078 | D:5      | Killed Duvessa
+  4081 | D:5      | Killed Dowan
+  4082 | D:5      | Reached XP level 7. HP: 23/41 MP: 10/10
+  4526 | D:5      | Found a staircase to the Ecumenical Temple.
+  4541 | Temple   | Entered the Ecumenical Temple
+  4952 | Temple   | Became a worshipper of Hepliaklqana the Forgotten
+  4995 | D:5      | Reached skill level 6 in Ranged Weapons
+  5149 | D:6      | Reached XP level 8. HP: 41/46 MP: 12/12
+  5155 | D:6      | Found the amulet of Elemental Vulnerability {rPois rF--
+                  | rC-- AC+8}
+  5428 | D:6      | Found a transporter.
+  5436 | D:6      | Found a transporter.
+  5544 | D:6      | Found a one-way gate to the infinite horrors of the Abyss.
+  5544 | D:6      | Noticed illumed's ghost (novice TrGl)
+  5616 | D:6      | Found a glowing golden altar of the Shining One.
+  6027 | D:6      | Reached skill level 7 in Ranged Weapons
+  6027 | D:6      | Reached skill level 5 in Armour
+  6031 | D:6      | Reached XP level 9. HP: 37/52 MP: 14/14
+  6434 | D:7      | Reached * piety under Hepliaklqana
+  6551 | D:7      | Reached skill level 5 in Shields
+  6689 | D:7      | Reached skill level 5 in Dodging
+  6957 | D:7      | Found a broken altar of Ashenzari.
+  6957 | D:7      | Found a shadowy altar of Dithmenos.
+  7058 | D:7      | Reached skill level 8 in Ranged Weapons
+  7502 | D:8      | Reached XP level 10. HP: 52/52 MP: 16/16
+  7585 | D:8      | Reached skill level 5 in Fighting
+  7619 | D:8      | Noticed a cyclops
+  7656 | D:8      | Killed a cyclops
+  7770 | D:8      | Found a staircase to the Lair.
+  7771 | D:8      | Noticed Pikel
+  7779 | D:8      | Killed Pikel
+  7839 | D:8      | Reached ** piety under Hepliaklqana
+  7840 | D:8      | Remembered your ancestor Xenoa as a knight
+  7943 | D:8      | Noticed Sigmund
+  7950 | D:8      | Killed Sigmund
+  7951 | D:8      | Reached skill level 5 in Long Blades
+  7951 | D:8      | Reached skill level 9 in Ranged Weapons
+  7985 | D:8      | Found a transporter.
+  8123 | D:8      | Found a transporter.
+  8145 | D:8      | Found a runed translucent gate.
+  8145 | D:8      | Found a runed translucent gate.
+  8145 | D:8      | Found a runed translucent gate.
+  8147 | D:8      | Found an opulent altar of Gozag.
+  8149 | D:8      | Noticed a two-headed ogre
+  8149 | D:8      | Noticed AlbinoMeme's ghost (novice GnWn)
+  8307 | D:9      | Reached XP level 11. HP: 41/57 MP: 17/19
+  8879 | D:9      | Found a flagged portal.
+  8926 | Bailey   | Entered a bailey
+  8933 | Bailey   | Noticed an orc warlord
+  9028 | Bailey   | Found a runed translucent gate.
+  9031 | Bailey   | Found a runed translucent gate.
+  9033 | Bailey   | Found a runed translucent gate.
+  9465 | D:10     | Entered Level 10 of the Dungeon
+  9631 | D:10     | Reached *** piety under Hepliaklqana
+  9772 | D:10     | Reached skill level 5 in Spellcasting
+  9772 | D:10     | Reached skill level 1 in Translocations
+ 10018 | D:10     | Reached skill level 1 in Hexes
+ 10220 | D:10     | Noticed Joseph
+ 10230 | D:10     | Killed Joseph
+ 10485 | D:11     | Noticed a two-headed ogre
+ 10491 | D:11     | Killed a two-headed ogre
+ 10582 | D:11     | Reached skill level 10 in Ranged Weapons
+ 10582 | D:11     | Reached skill level 1 in Conjurations
+ 10602 | D:11     | Found a staircase to the Orcish Mines.
+ 10607 | D:11     | Reached **** piety under Hepliaklqana
+ 10972 | D:11     | Noticed Sonja
+ 10981 | D:11     | Killed Sonja
+ 11437 | D:11     | Found Qoac's Weapon Emporium.
+ 11591 | D:12     | Reached XP level 12. HP: 47/63 MP: 21/21
+ 11592 | D:12     | Noticed a boulder beetle
+ 11863 | D:12     | Killed a boulder beetle
+ 11912 | D:12     | Reached ***** piety under Hepliaklqana
+ 11942 | D:12     | Noticed a two-headed ogre
+ 11952 | D:12     | Killed a two-headed ogre
+ 12208 | D:12     | Mangled by a skeletal warrior
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      mrwooster_arrival_statue_3, layout_basic,
+          chequers_ecumenical_altar_island
+D:2:      layout_basic, minmay_fountain_box
+D:3:      layout_loops_ring, serial_forest, infiniplex_forest_lined_1,
+          infiniplex_forest_split, infiniplex_forest_clump_double,
+          infiniplex_forest_zigzag_2, infiniplex_forest_straight_5
+D:4:      wad_woods_stonehenge, layout_layer_cave
+D:5:      layout_loops_cross, minmay_temple_entry_nine_rooms, uniq_duvessa
+D:6:      layout_basic, tso_oasis_becter, gammafunk_ghost_abyssal_escape,
+          minmay_pentangle
+D:7:      layout_basic, gammafunk_temple_overflow_wave
+D:8:      gammafunk_cloud_chamber, layout_basic, due_lair_maze_entry_diamond,
+          ebering_ghost_gozag, sigmund_army, uniq_pikel
+D:9:      layout_loops_cross, enter_bailey_8, roderic_batcave
+D:10:     layout_stronghold, serial_bayou_crossing, uniq_joseph
+D:11:     layout_stronghold, minmay_orc_entry_guard_dogs, serial_shops,
+          nicolae_lakefront_shop, kennysheep_flooded_box, reono_crystal_passage,
+          uniq_sonja
+D:12:     layout_basic, nicolae_looking_at_the_future
+Temple:   compressed_dpeg_triangle_lava_temple
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 |
+---------------+-------------------------------------+-----
+Armour         |        1     2  3     5  6  7  8  9 |  9.0
+Shields        |        1     2     3  4  5  7  8    |  8.2
+Ranged Weapons |           5        6  7  8  9 10    | 10.6
+Spellcasting   |           1        2  3     4  5    |  5.6
+Dodging        |              3        4  5  6  7    |  7.2
+Long Blades    |              1     2  3  4  5  6    |  6.3
+Fighting       |                 3     4     5  6    |  6.5
+Translocations |                                1    |  1.2
+Hexes          |                                1  2 |  2.1
+Conjurations   |                                2  3 |  3.0
+Stealth        |                                     |  1.1
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Falchion          |       |    18 |    79 |   187 ||   284
+       Kick              |       |     7 |    21 |    80 ||   108
+       Peck              |       |     3 |    11 |    46 ||    60
+       Punch             |       |       |     1 |     1 ||     2
+ Fire: Shortbow          |    94 |   109 |   186 |   173 ||   562
+Invok: Ancestor Identity |       |       |     1 |       ||     1
+       Ancestor Life: Kn |       |       |       |     1 ||     1
+  Use: Potion            |       |     3 |       |     5 ||     8
+       Scroll            |       |       |     3 |    11 ||    14
+ Stab: Distracted        |       |       |       |     5 ||     5
+Armor: Leather armour    |    11 |    13 |    11 |       ||    35
+       Ring mail         |       |       |    24 |   107 ||   131
+Dodge: Dodged            |    21 |    41 |    75 |   251 ||   388
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  11576 |  10967 |    609 |    368 |   8249 |  14 |  826.9 |
+       Dungeon |  10907 |  10422 |    485 |    368 |   7868 |  12 |  908.9 |
+        Temple |    392 |    268 |    124 |      0 |    207 |   1 |  392.0 |
+        Bailey |    276 |    276 |      0 |      0 |    174 |   1 |  276.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:4: 1283 daAuts
+    D:11: 1267 daAuts
+     D:6: 1240 daAuts
+     D:7: 916 daAuts
+    D:10: 907 daAuts
+     D:8: 884 daAuts
+     D:1: 829 daAuts
+     D:9: 810 daAuts
+     D:3: 808 daAuts
+     D:5: 798 daAuts
+     D:2: 782 daAuts
+  Temple: 392 daAuts
+    D:12: 379 daAuts
+  Bailey: 276 daAuts
+

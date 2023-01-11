@@ -1,0 +1,63 @@
+code2828
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a stone
+(7, 27, D:1)
+  5 stones
+(11, -16, D:1)
+  a +0 mace
+(15, 8, D:1)
+  9 stones
+(25, 6, D:1)
+  a +0 club
+(26, 13, D:1)
+  6 boomerangs
+(30, 18, D:1)
+  a +0 dagger
+  2 stones
+(32, -17, D:1)
+  a +0 dagger
+(34, -21, D:1)
+  a +0 dagger
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 club
+(3, 5, D:2)
+  a +0 long sword
+(7, 26, D:2)
+  a +0 robe
+(16, 31, D:2)
+  a +0 pair of gloves
+(17, 24, D:2)
+  2 poisoned darts
+(25, 40, D:2)
+  a +0 dagger
+(40, 8, D:2)
+  a +0 robe
+(51, 0, D:2)
+  a +0 club
+(55, 20, D:2)
+  a bat corpse (skeletalised by now)
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a ball python corpse
+(0, 4, D:3)
+  a quokka corpse
+(1, -3, D:3)
+  a +0 club
+  a kobold corpse
+(4, -11, D:3)
+  a +0 quarterstaff
+(4, -4, D:3)
+  a +0 flail
+  a +0 whip
+(4, 4, D:3)
+  a frilled lizard corpse
+(7, -9, D:3)
+  a +0 leather armour
+(12, 0, D:3)
+  an adder corpse
+

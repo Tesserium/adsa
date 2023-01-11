@@ -1,0 +1,395 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-578-gdee14c5 (webtiles) character file.
+
+Game seed: 11272911628554822442
+
+3902 code2828 the Grappler (level 10, -19/91 HPs)
+             Began as a Ghoul Monk on Jan 1, 2023.
+             Was a High Priest of Okawaru.
+             Shot with an arrow by a centaur warrior (20 damage)
+             ... on level 9 of the Dungeon.
+             The game lasted 00:22:00 (8115 turns).
+
+code2828 the Grappler (Ghoul Monk)                  Turns: 8115, Time: 00:22:01
+
+Health: -19/91     AC: 19    Str: 20    XL:     10   Next: 20%
+Magic:  9/9        EV: 10    Int:  5    God:    Okawaru [*****.]
+Gold:   182        SH:  9    Dex: 11    Spells: 9/9 levels left
+
+rFire   . . .      SeeInvis .     - Unarmed
+rCold   + . .      Faith    +   z - +1 kite shield of the Ant {rN+}
+rNeg    + + +      Spirit   .   u - +0 plate armour
+rPois   ∞          Reflect  .   v - +1 helmet
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   w - +2 pair of boots {Fly}
+Stlth                           q - amulet of faith
+HPRegen 0.00/turn               p - +5 ring of evasion
+MPRegen 0.11/turn               m - +4 ring of protection
+
+@: flying, inhibited regen
+A: claws 1, cold resistance 1, negative energy resistance 3, inhibited
+regeneration, torment resistance 2, devour on kill
+a: Renounce Religion, Heroism, Finesse, Duel
+
+
+You were on level 9 of the Dungeon.
+You worshipped Okawaru.
+Okawaru was extremely pleased with you.
+You visited 2 branches of the dungeon, and saw 10 of its levels.
+
+You collected 457 gold pieces.
+You spent 275 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ x - the +11 quarterstaff "Wiofit" {drain, *Noise rPois Dex+3}
+   (You found it on level 6 of the Dungeon)   
+   
+   A truly terrible weapon, it drains the life of any living foe it strikes.
+   
+   Dex:       It affects your dexterity (+3).
+   rPois:     It protects you from poison.
+   *Noise:    It may make noises in combat.
+Missiles
+ e - 40 poisoned darts (quivered)
+ g - 2 throwing nets
+Armour
+ u - a +0 plate armour (worn)
+ v - a +1 helmet (worn)
+ w - a +2 pair of boots of flying (worn)
+ z - the +1 kite shield of the Ant (worn) {rN+}
+   (Okawaru gifted it to you on level 7 of the Dungeon)   
+   
+   rN:        It protects you from negative energy.
+Jewellery
+ m - a +4 ring of protection (right claw)
+ p - a +5 ring of evasion (left claw)
+ q - an amulet of faith (around neck)
+ C - a +5 ring of evasion
+Wands
+ f - a wand of paralysis (17)
+ y - a wand of roots (12)
+Scrolls
+ a - 4 scrolls of blinking
+ c - 17 scrolls of identify {unknown}
+ d - 4 scrolls of fear {unknown}
+ h - 2 scrolls of vulnerability {unknown}
+ i - a scroll of enchant armour {unknown}
+ j - a scroll of summoning {unknown}
+ n - a scroll of amnesia
+ r - a scroll of fog {unknown}
+ s - 3 scrolls of teleportation {unknown}
+ t - a scroll of noise {unknown}
+Potions
+ b - 3 potions of curing
+ k - 8 potions of heal wounds
+ l - a potion of mutation {unknown}
+ o - a potion of flight {unknown}
+ A - 2 potions of attraction {unknown}
+ B - a potion of berserk rage {unknown}
+
+
+   Skills:
+ * Level 9.4 Fighting
+ - Level 1.6 Staves
+ + Level 5.7 Dodging
+ + Level 6.9 Stealth
+ - Level 3.0 Shields
+ * Level 9.5 Unarmed Combat
+
+
+You had 9 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Magic Dart               Conj           0%         1d3       100%        1
+ Blink                    Tloc           0%         N/A       100%        2
+ Momentum Strike          Conj/Tloc      0%         3d8       100%        2
+ Lesser Beckoning         Tloc           0%         N/A       100%        3
+ Mephitic Cloud           Conj/Pois/Air  0%         N/A       100%        3
+ Vhi's Electric Charge    Tloc/Air       0%         N/A       100%        3
+ Arcjolt                  Conj/Air       0%         1d10      100%        5
+ Iskenderun's Battlesphe  Conj           0%         2d6       100%        5
+ Iron Shot                Conj/Erth      0%         9d1       100%        6
+ Maxwell's Capacitive Co  Air            0%         ∞         100%        8
+ Summon Small Mammal      Summ           Unusable   N/A       N/A         1
+ Call Imp                 Summ           Unusable   N/A       N/A         2
+ Call Canine Familiar     Summ           Unusable   N/A       N/A         3
+ Summon Guardian Golem    Hex/Summ       Unusable   N/A       N/A         3
+ Spellforged Servitor     Conj/Summ      Unusable   N/A       N/A         7
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (9/15)         Zot: 26972       Temple (1/1) D:4      Zot: 5963       
+  Lair: D:8-11         Orc: D:9-12      
+
+Altars:
+Ashenzari
+Dithmenos
+Fedhas
+Gozag
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Sif Muna
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+
+Shops:
+D:1 ?   D:3 :[[?   D:7 *
+
+Annotations:
+D:5 2 transporters, fleugma's ghost, novice MfGl
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to poison.
+You have sharp fingernails.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+You thrive by killing the living.
+
+Message History
+
+Done exploring.
+Done exploring.
+Done exploring.
+Done exploring.
+There is a stone staircase leading down here.
+You fly downwards.
+Found a quarterstaff.
+There is a stone staircase leading up here.
+You now have 182 gold pieces (gained 4).
+A centaur warrior comes into view.
+The centaur warrior shouts!
+The centaur warrior wields a +0 shortbow.
+The centaur warrior shoots an arrow. You block the arrow.
+The centaur warrior shoots an arrow. The arrow hits you but does no damage.
+The centaur warrior shoots an arrow. The arrow barely misses you.
+The centaur warrior shoots an arrow. The arrow hits you.
+You hear a shout!
+The centaur warrior shoots an arrow. The arrow barely misses you.
+The centaur warrior shoots an arrow. The arrow hits you.
+The centaur warrior shoots an arrow. You block the arrow.
+An orc priest comes into view. It is wielding a +0 short sword.
+An orc priest comes into view. It is wielding a +0 whip.
+The centaur warrior shoots an arrow. The arrow hits you!!
+The centaur warrior shoots an arrow. The arrow completely misses you.
+The centaur warrior shoots an arrow. The arrow hits you!
+The centaur warrior shoots an arrow. You block the arrow.
+The centaur warrior shoots an arrow. The arrow hits you!!
+The orc priest invokes the aid of Beogh against you.
+Beogh smites you!
+* * * LOW HITPOINT WARNING * * *
+The centaur warrior shoots an arrow. The arrow closely misses you.
+The centaur warrior shoots an arrow. You block the arrow.
+The centaur warrior shoots an arrow. The arrow hits you!
+* * * LOW HITPOINT WARNING * * *
+The centaur warrior shoots an arrow. The arrow hits you!
+* * * LOW HITPOINT WARNING * * *
+The orc priest looks encouraged for a moment.
+There is a stone staircase leading up here.
+The centaur warrior shoots an arrow. The arrow hits you!!
+You die...
+
+     #..........#
+     #..o.......#
+     #...o......#
++#####....c..)..#
+..........#.....#
+................#
+................#
+................#
+.............##@#
+................#
+................#
+................#
+#################
+
+
+You could see a centaur warrior and 2 orc priests.
+
+Vanquished Creatures
+  3 yaks (D:8)
+  A steam dragon (D:7)
+  2 water moccasins (D:7)
+  An ice beast (D:8)
+  3 black bears
+  2 ogres
+  4 centaurs
+  2 phantoms (D:5)
+  A kobold brigand (D:8)
+  4 bullfrogs
+  A necrophage (D:5)
+  A gnoll sergeant (D:5)
+  5 scorpions
+  12 wights
+  3 hounds
+  5 orc priests
+  A jelly (D:5)
+  A gnoll bouda (D:6)
+  Terence (D:3)
+  2 iguanas
+  5 orc wizards
+  11 gnolls
+  7 adders
+  A shadow imp (D:6)
+  A white imp (D:8)
+  2 ufetubi (D:5)
+  A dart slug (D:5)
+  24 orcs
+  6 ball pythons
+  5 endoplasms
+  4 giant cockroaches
+  8 goblins
+  7 hobgoblins
+  2 quokkas (D:4)
+  4 bats
+  5 frilled lizards
+  10 kobolds
+  7 rats
+165 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Ghoul Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+    36 | D:1      | Found Uromupu's Magic Scroll Emporium.
+   274 | D:1      | Reached XP level 2. HP: 23/26 MP: 1/1
+  1003 | D:2      | Reached XP level 3. HP: 32/33 MP: 2/2
+  1716 | D:3      | Reached XP level 4. HP: 40/40 MP: 3/3
+  1728 | D:3      | Noticed Terence
+  1740 | D:3      | Killed Terence
+  1764 | D:3      | Found a faded altar of an unknown god.
+  1774 | D:3      | Prayed at the altar of an unknown god.
+  1774 | D:3      | Became a worshipper of Warmaster Okawaru
+  1774 | D:3      | Reached * piety under Okawaru
+  1774 | D:3      | Reached ** piety under Okawaru
+  1863 | D:3      | Found Fafyimea's Antique Armour Emporium.
+  2035 | D:3      | Found Isefem's Book Emporium.
+  2148 | D:3      | Found Lepryh's Antique Armour Shop.
+  2172 | D:3      | Found Zuog's Magic Scroll Boutique.
+  2319 | D:4      | Reached XP level 5. HP: 47/47 MP: 4/4
+  2465 | D:4      | Reached *** piety under Okawaru
+  2685 | D:4      | Found a staircase to the Ecumenical Temple.
+  2726 | Temple   | Entered the Ecumenical Temple
+  2726 | Temple   | Found a transporter.
+  2726 | Temple   | Found a transporter.
+  2728 | Temple   | Found a transporter.
+  2728 | Temple   | Found a transporter.
+  2892 | D:4      | Reached XP level 6. HP: 55/55 MP: 5/5
+  2922 | D:4      | Reached skill level 5 in Unarmed Combat
+  3117 | D:4      | Found an ancient bone altar of Kikubaaqudgha.
+  3196 | D:4      | Reached skill level 5 in Fighting
+  3361 | D:5      | Entered Level 5 of the Dungeon
+  3455 | D:5      | Reached XP level 7. HP: 14/61 MP: 6/6
+  3508 | D:5      | Reached **** piety under Okawaru
+  3511 | D:5      | HP: 2/62 [gnoll/+0 halberd[a gnoll sergeant] (3)]
+  3890 | D:5      | Found a transporter.
+  3907 | D:5      | Found a transporter.
+  3907 | D:5      | Noticed fleugma's ghost (novice MfGl)
+  3907 | D:5      | Noticed a yak
+  4080 | D:5      | Found a broken altar of Ashenzari.
+  4416 | D:5      | Reached ***** piety under Okawaru
+  4417 | D:5      | Reached XP level 8. HP: 59/71 MP: 7/7
+  4970 | D:3      | Bought a pair of embroidered boots for 180 gold pieces
+  5250 | D:6      | Reached skill level 5 in Stealth
+  5535 | D:6      | Identified the +11 quarterstaff "Wiofit" {drain, *Noise
+                  | rPois Dex+3}
+  5716 | D:6      | Reached XP level 9. HP: 80/80 MP: 8/8
+  5717 | D:6      | Reached skill level 1 in Staves
+  5921 | D:6      | You are sucked into a shaft and drop 1 floor!
+  5958 | D:7      | Found Jamem's Assorted Antiques.
+  5996 | D:7      | Bought a potion of heal wounds for 95 gold pieces
+  6065 | D:7      | Reached skill level 5 in Dodging
+  6081 | D:7      | Identified the +1 kite shield of the Ant {rN+} (Okawaru
+                  | gifted it to you on level 7 of the Dungeon)
+  6081 | D:7      | Received a gift from Okawaru
+  6472 | D:7      | Reached skill level 1 in Shields
+  7243 | D:8      | Reached XP level 10. HP: 91/91 MP: 9/9
+  8101 | D:9      | Noticed a centaur warrior
+  8114 | D:9      | HP: 1/91 [centaur warrior/arrow (7)]
+  8115 | D:9      | Shot with an arrow by a centaur warrior
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      psy_arrival_fountain, layout_basic, serial_shops, shop,
+          minmay_stone_trees_medium, minmay_misc_feat_iff, nrook_mini_backslash,
+          st_stairs_2
+D:2:      layout_basic
+D:3:      cheibrodos_helix_gallery, layout_basic, serial_shops, shop,
+          nicolae_shop_trees, shop, nicolae_shop_stone, basic_ecumenical_altar,
+          uniq_terence
+D:4:      layout_loops_corners, mainiacjoe_overflow_alcove_4,
+          minmay_temple_entry_offerings, minmay_quantized
+D:5:      cheibrodos_quashed, layout_basic, evilmike_ruin_ashenzari,
+          gammafunk_ghost_arena
+D:6:      layout_basic, gammafunk_temple_overflow_elements
+D:7:      layout_basic, serial_shops, nicolae_shop_overgrown_old_shop
+D:8:      layout_basic, nicolae_hexahallways, chequers_avenue
+D:9:      layout_stronghold, nicolae_ru_awakened_eye
+Temple:   hellmonk_temple_divided_pantheon
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Fighting       |        4        5  6  7  9    |  9.4
+Unarmed Combat |        4        5  6  7  9    |  9.5
+Dodging        |        3           4     5    |  5.7
+Stealth        |           3     4     5  6    |  6.9
+Staves         |                          1    |  1.6
+Shields        |                          2  3 |  3.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Unarmed           |    85 |   174 |   303 |    53 ||   615
+       Punch             |     3 |     3 |    12 |       ||    18
+       Quarterstaff      |       |       |    30 |       ||    30
+Throw: Dart              |     1 |       |       |     1 ||     2
+Invok: Heroism           |       |     2 |       |       ||     2
+  Use: Potion            |       |     6 |     1 |       ||     7
+       Scroll            |       |     2 |       |       ||     2
+Armor: Chain mail        |    62 |    37 |       |       ||    99
+       Plate armour      |       |    48 |   206 |    22 ||   276
+Dodge: Dodged            |    42 |    95 |   154 |    14 ||   305
+Block: Kite shield       |       |       |    48 |    23 ||    71
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   8085 |   7710 |    375 |    316 |   5855 |  10 |  808.5 |
+       Dungeon |   8048 |   7682 |    366 |    316 |   5849 |   9 |  894.2 |
+        Temple |     36 |     27 |      9 |      0 |      6 |   1 |   36.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:5: 1627 daAuts
+     D:8: 1096 daAuts
+     D:7: 1075 daAuts
+     D:4: 1066 daAuts
+     D:1: 948 daAuts
+     D:6: 803 daAuts
+     D:2: 738 daAuts
+     D:3: 665 daAuts
+  Temple: 36 daAuts
+     D:9: 26 daAuts
+

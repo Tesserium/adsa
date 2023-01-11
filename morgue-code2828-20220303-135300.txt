@@ -1,0 +1,270 @@
+ Dungeon Crawl Stone Soup version 0.29-a0-234-g0dae59b (webtiles) character file.
+
+Game seed: 13475237853869607489
+
+149 code2828 the Chiller (level 5, -2/28 HPs)
+             Began as a Deep Elf Ice Elementalist on Mar 3, 2022.
+             Slain by an orc wizard
+             ... wielding a +0 dagger
+              (3 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:25:22 (2376 turns).
+
+code2828 the Chiller (Deep Elf Ice Elementalist)    Turns: 2376, Time: 00:25:23
+
+Health: -2/28      AC:  6    Str:  5    XL:     5   Next: 9%
+Magic:  12/13      EV:  6    Int: 22    God:    
+Gold:   69         SH:  0    Dex: 15    Spells: 12/13 levels left
+
+rFire   + . .      SeeInvis .   j - +4 flail (vorpal)
+rCold   + . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   k - +0 scale mail
+rPois   +          Reflect  .   (no helmet)
+rElec   +          Harm     .   (no cloak)
+rCorr   +          Rampage  .   (no gloves)
+Will    +....                   (no boots)
+Stlth   ..........              (no amulet)
+HPRegen 0.09/turn               f - ring of wizardry
+MPRegen 0.13/turn               (no ring)
+
+@: confused, resistant, flying
+A: strong-willed 1, wild magic 1
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 69 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ b - a +0 mace
+ j - a +4 vorpal flail (weapon)
+ n - a +2 dagger of electrocution
+Missiles
+ c - 49 stones
+Armour
+ a - a +0 robe
+ k - a +0 scale mail (worn)
+Jewellery
+ f - a ring of wizardry (left hand)
+Scrolls
+ e - a scroll of identify {unknown}
+ m - a scroll of holy word {unknown}
+Potions
+ i - a potion of brilliance {unknown}
+
+
+   Skills:
+ + Level 0.5 Fighting
+ * Level 0.8 Maces & Flails
+ + Level 0.5 Armour
+ + Level 3.0 Dodging
+ + Level 3.0 Stealth
+ - Level 0.1 Unarmed Combat
+ + Level 4.5 Spellcasting
+ * Level 5.4 Ice Magic
+
+
+You had 12 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Freeze                Ice            100%       1d11      16%         1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Frozen Ramparts          Ice            74%        1d9       38%         3
+ Ozocubu's Armour         Ice            37%        N/A       38%         3
+ Hailstorm                Conj/Ice       21%        3d6       97%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+Hepliaklqana
+Uskayaw
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are strong-willed. (Will+)
+Your spells are a little harder to cast, but a little more powerful.
+
+Message History
+
+An orc priest comes into view. It is wielding a +0 club.
+Something hits you but does no damage. The orc priest moves out of view.
+You barely miss something. Something hits you.
+You are too injured to fight recklessly!
+Aiming: Freeze (safe; 12% risk of failure)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f - you
+That would be overly suicidal.
+Okay, then.
+You barely miss something.
+You hear some strange, mumbled words.
+You are confused.
+Something hits you but does no damage.
+You barely miss something. You punch something.
+Something hits you but does no damage.
+You sock something!
+You hear some strange, mumbled words.
+You are more confused.
+Something hits you but does no damage.
+You miss something.
+You hear some strange, mumbled words.
+A magic dart appears from out of thin air!
+The magic dart hits you!
+* * * LOW HITPOINT WARNING * * *
+You're too confused to cast spells.
+It was a potion of resistance.
+You feel protected.
+You hear some strange, mumbled words.
+You are more confused.
+A magic dart appears from out of thin air!
+The magic dart hits you.
+* * * LOW HITPOINT WARNING * * *
+It was a potion of flight.
+You feel very buoyant.
+You fly up into the air.
+You start resting. Something hits you.
+* * * LOW HITPOINT WARNING * * *
+It was a potion of mutation. You feel extremely strange.
+You feel less in control of your magic. You feel strong-willed.
+Something hits you.
+You die...
+
+      #.....#.#
+      #.....#.#
+     ##..<..#.##
+     #.........#    #
+    ##.PPPPP.P.#   ..
+    #..........###..#
+#.# #..P.PPP.P......
+#.###..P.....P..###.
+#......P.._.†@..#
+#......P.....P..#
+#.####.P†PPP)...#
+#.#  #..........#
+#.####.PPPP.P...#
+#.................
+#...................
+#...........#....###
+#................#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  An orc priest (D:3)
+  Natasha (twice) (D:2)
+  Terence (D:2)
+  An adder (D:2)
+  A dart slug (D:1)
+  An orc (D:3)
+  3 ball pythons
+  An endoplasm (D:3)
+  4 giant cockroaches
+  2 goblins
+  6 hobgoblins
+  3 jackals (D:2)
+  A kobold (D:2)
+  2 quokkas (D:1)
+  3 bats (D:1)
+  3 frilled lizards
+  2 rats (D:3)
+37 creatures vanquished.
+
+Vanquished Creatures (others)
+  5 fungi (D:3)
+  3 plants (D:3)
+8 creatures vanquished.
+
+Grand Total: 45 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Deep Elf Ice Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   336 | D:1      | Reached XP level 2. HP: 15/15 MP: 5/8
+  1038 | D:2      | Reached skill level 5 in Ice Magic
+  1209 | D:2      | Reached XP level 3. HP: 19/19 MP: 8/10
+  1475 | D:2      | Noticed Terence
+  1480 | D:2      | Killed Terence
+  1603 | D:2      | Found a faded altar of an unknown god.
+  1648 | D:2      | Noticed Natasha
+  1656 | D:2      | Killed Natasha
+  1657 | D:2      | Reached XP level 4. HP: 12/24 MP: 4/12
+  1929 | D:2      | Noticed Natasha
+  1934 | D:2      | Killed Natasha
+  1987 | D:3      | Found a hazy altar of Hepliaklqana.
+  2319 | D:3      | Found a hide-covered altar of Uskayaw.
+  2353 | D:3      | Reached XP level 5. HP: 22/28 MP: 8/13
+  2375 | D:3      | HP: 1/28 [something (1)]
+  2376 | D:3      | Gained mutation: Your spells are a little harder to cast,
+                  | but a little more powerful. [potion of mutation]
+  2376 | D:3      | Gained mutation: You are strong-willed. (Will+) [potion of
+                  | mutation]
+  2376 | D:3      | Slain by an orc wizard
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      mushboom_english_gardens, layout_loops_cross, serial_bayou_pond_a
+D:2:      minmay_recursive_quarters, layout_loops_ring,
+          shapermc_ecumenical_altar_totnotflames, uniq_natasha, uniq_terence
+D:3:      layout_basic, nicolae_hepliaklqana_hazy_memory,
+          mainiacjoe_overflow_cross_hatched
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Ice Magic      |     5       |  5.4
+Spellcasting   |        4    |  4.5
+Dodging        |           3 |  3.0
+Stealth        |           3 |  3.0
+Fighting       |             |  0.5
+Maces & Flails |             |  0.8
+Armour         |             |  0.5
+Unarmed Combat |             |  0.1
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |    27 |       ||    27
+       Punch             |     2 |     1 ||     3
+       Flail             |     2 |    13 ||    15
+ Cast: Freeze            |    38 |    15 ||    53
+  Use: Scroll            |     1 |     2 ||     3
+       Potion            |       |     3 ||     3
+ Stab: Sleeping          |     1 |       ||     1
+Armor: Robe              |    17 |       ||    17
+       Scale mail        |     3 |    17 ||    20
+Dodge: Dodged            |    43 |     1 ||    44
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   2379 |   2224 |    155 |   1104 |    474 |   3 |  793.0 |
+       Dungeon |   2379 |   2224 |    155 |   1104 |    474 |   3 |  793.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:2: 993 daAuts
+     D:1: 968 daAuts
+     D:3: 418 daAuts
+

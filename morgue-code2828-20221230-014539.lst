@@ -1,0 +1,136 @@
+code2828
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 club
+  a +0 club
+(7, 4, D:1)
+  a +0 cloak
+(11, 23, D:1)
+  a +0 robe
+(18, 6, D:1)
+  6 stones
+(20, -6, D:1)
+  a +0 spear
+(26, -22, D:1)
+  4 stones
+(29, 10, D:1)
+  2 stones
+(30, -16, D:1)
+  a +0 robe
+(34, -9, D:1)
+  a +0 robe
+(37, 18, D:1)
+  a +0 short sword
+  4 stones
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a staff of cold
+(4, -3, D:2)
+  a +0 club
+(5, -15, D:2)
+  7 stones
+(5, 22, D:2)
+  a +2 dagger of venom
+(7, -13, D:2)
+  a +0 leather armour
+(9, -10, D:2)
+  a +0 club
+(12, -15, D:2)
+  3 stones
+(14, 9, D:2)
+  7 stones
+(16, 13, D:2)
+  a +0 club
+(16, 19, D:2)
+  a +0 ring mail
+(25, -2, D:2)
+  a +1 whip of flaming
+  3 stones
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 club
+(13, -3, D:3)
+  a +0 ring mail
+(17, 7, D:3)
+  a +2 short sword of venom
+(31, 21, D:3)
+  a +0 dagger
+  a +0 robe
+(31, 22, D:3)
+  a +0 hand axe of pain
+  a +0 chain mail
+  a +0 short sword
+(31, 23, D:3)
+  a +0 short sword of speed
+(32, -2, D:3)
+  a +0 leather armour
+(32, 24, D:3)
+  a +0 club
+(51, -9, D:3)
+  a +0 dagger
+
+Level 4 of the Dungeon
+[Shop] Zyodoh's Book Emporium
+  a Grand Grimoire (374 gold)
+  an Everburning Encyclopedia (396 gold)
+  a book of Winter (374 gold)
+  Sif Muna's Precepts of Breezy Excavation (528 gold)
+    Spells                            Type                      Level
+     a - Poisonous Vapours             Poison/Air                    2
+     b - Kindle Blastsparks            Fire/Translocation/Air        3
+     c - Iron Shot                     Conjuration/Earth             6
+     d - Chain Lightning               Conjuration/Air               9
+  a Young Poisoner's Handbook (220 gold)
+  a book of Displacement (264 gold)
+  a book of Party Tricks (176 gold)
+  a Young Poisoner's Handbook (220 gold)
+  a book of Unlife (396 gold)
+(0, 0, D:4)
+  a jackal corpse (skeletalised by now)
+  a jackal corpse (skeletalised by now)
+  a jackal corpse (skeletalised by now)
+  a ball python corpse (skeletalised by now)
+(31, 14, D:4)
+  a +0 hand axe
+  a +0 club
+  an orc corpse (skeletalised by now)
+(32, 14, D:4)
+  a +0 club
+(32, 15, D:4)
+  a +0 hand axe
+(32, 16, D:4)
+  a +0 dagger
+  a +0 robe
+  an orc corpse (skeletalised by now)
+  a black bear corpse (skeletalised by now)
+(33, -13, D:4)
+  a +0 dagger
+  an orc corpse (skeletalised by now)
+(34, -6, D:4)
+  a +0 robe
+  a +4 dagger of electrocution
+(34, -5, D:4)
+  a +0 hand axe
+  a +0 ring mail
+  a +0 club
+  a +0 dagger
+  an orc corpse (skeletalised by now)
+(41, -6, D:4)
+  a +0 dagger
+  a +0 hand axe
+  a kobold corpse
+  an orc corpse
+  a jackal corpse
+(41, -5, D:4)
+  a jackal corpse
+  a jackal corpse
+(51, -16, D:4)
+  a scroll of blinking
+(56, -5, D:4)
+  a +0 dagger
+  a +0 robe
+  an orc corpse
+

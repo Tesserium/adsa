@@ -1,0 +1,180 @@
+ Dungeon Crawl Stone Soup version 0.29-a0-243-g602b31c (webtiles) character file.
+
+Game seed: 15657950400387810871
+
+4 code2828 the Chiller (level 1, -1/13 HPs)
+             Began as a Human Ice Elementalist on Mar 5, 2022.
+             Slain by a jackal (2 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:01:18 (153 turns).
+
+code2828 the Chiller (Human Ice Elementalist)        Turns: 153, Time: 00:01:19
+
+Health: -1/13      AC:  6    Str:  8    XL:     1   Next: 66%
+Magic:  0/3        EV:  8    Int: 15    God:    
+Gold:   10         SH:  0    Dex: 13    Spells: 3/4 levels left
+
+rFire   . . .      SeeInvis .   (no weapon)
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   b - +0 scale mail
+rPois   .          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   +.........              (no amulet)
+HPRegen 0.04/turn               (no ring)
+MPRegen 0.08/turn               (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 10 gold pieces.
+
+Inventory:
+
+Armour
+ a - a +0 robe
+ b - a +0 scale mail (worn)
+Scrolls
+ c - a scroll of identify {unknown}
+ d - a scroll of torment {unknown}
+
+
+   Skills:
+ + Level 2.1 Dodging
+ + Level 2.1 Stealth
+ + Level 2.0 Spellcasting
+ + Level 4.0 Ice Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Freeze                Ice            52%        1d7       38%         1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Frozen Ramparts          Ice            26%        1d4       77%         3
+ Ozocubu's Armour         Ice            13%        N/A       77%         3
+ Hailstorm                Conj/Ice       7%         3d4       100%        4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+You hit the goblin but do no damage. The goblin closely misses you.
+You miss the goblin. The goblin hits you with a +0 club.
+You closely miss the goblin. The goblin hits you but does no damage.
+You hit the goblin.
+The goblin is moderately wounded.
+The goblin hits you but does no damage.
+You closely miss the goblin.
+The goblin is moderately wounded.
+The goblin hits you but does no damage.
+You barely miss the goblin.
+The goblin is moderately wounded.
+The goblin hits you with a +0 club.
+You hit the goblin but do no damage. The goblin hits you with a +0 club.
+You hit the goblin.
+The goblin is heavily wounded.
+The goblin hits you with a +0 club.
+* * * LOW HITPOINT WARNING * * *
+You hit the goblin.
+The goblin is severely wounded.
+The goblin hits you but does no damage.
+You are too injured to fight recklessly!
+Aiming: Freeze (safe; 41% risk of failure)
+Press: ? - help, Q - select action
+Shift-Dir - straight line, f - goblin
+Aim: a goblin, wielding a +0 club (severely wounded)
+You freeze the goblin.
+You kill the goblin!
+Your magical contamination has completely faded away.
+Unknown command.
+You barely miss the jackal. The jackal bites you.
+* * * LOW HITPOINT WARNING * * *
+The jackal bites you but does no damage.
+You closely miss the jackal. Your punch misses the jackal.
+The jackal bites you.
+* * * LOW HITPOINT WARNING * * *
+You hit the jackal but do no damage.
+The jackal bites you but does no damage.
+You hit the jackal.
+The jackal is heavily wounded.
+The jackal bites you.
+You die...
+
+        ############
+        #..........#
+        #....†.....#
+        #..........#
+.#.######..........######
+....lhgh@..........'.....
+.#.######..........##.###
+        #..........##.#
+        #..........##.#
+        #############.#
+                    #.#
+                    #.#
+                    #.#
+                    #.#
+
+
+You could see 2 jackals, a hobgoblin and a frilled lizard.
+
+Vanquished Creatures
+  2 bats (D:1)
+  A goblin (D:1)
+  A rat (D:1)
+4 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Human Ice Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   153 | D:1      | Slain by a jackal
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_round_a, layout_basic
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||    28
+ Cast: Freeze            ||     4
+Armor: Scale mail        ||    41
+Dodge: Dodged            ||    18
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |    153 |    153 |      0 |      0 |     16 |   1 |  153.0 |
+       Dungeon |    153 |    153 |      0 |      0 |     16 |   1 |  153.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 153 daAuts
+

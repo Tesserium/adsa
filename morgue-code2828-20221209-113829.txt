@@ -1,0 +1,169 @@
+ Dungeon Crawl Stone Soup version 0.27.1-35-g4d5d836 (webtiles) character file.
+
+Game seed: 11618289212868989102
+
+0 code2828 the Skirmisher (level 1, -2/19 HPs)
+             Began as a Palentonga Abyssal Knight on Dec 9, 2022.
+             Was a Follower of Lugonu.
+             Slain by a tentacled starspawn (21 damage)
+             ... on level 1 of the Abyss.
+             The game lasted 00:02:17 (377 turns).
+
+code2828 the Skirmisher (Palentonga Abyssal Knight)  Turns: 377, Time: 00:02:18
+
+Health: -2/19      AC:  4    Str: 15    XL:     1   Next: 0%
+Magic:  2/2        EV:  4    Int: 12    God:    Lugonu [*.....]
+Gold:   7          SH: 10    Dex:  9    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis +   a - +1 hand axe
+rCold    . . .     Faith    .   c - +0 tower shield
+rNeg     . . .     Spirit   .   b - +0 leather armour
+rPois    +         Reflect  .   (no helmet)
+rElec    .         Harm     .   (no cloak)
+rCorr    .         Rampage  .   (no gloves)
+Will     .....                  (no barding)
+Stlth    +.........             (no amulet)
+HPRegen  0.06/turn              d - ring of poison resistance
+MPRegen  0.08/turn              (no ring)
+
+@: no status effects
+A: large, rugged brown scales 3, see invisible, deformed body, roll 1, armoured
+tail
+a: Rolling Charge, Renounce Religion, Depart the Abyss
+
+
+You were on level 1 of the Abyss.
+You worshipped Lugonu.
+Lugonu was aware of your devotion.
+You visited 0 branches of the dungeon, and saw 0 of its levels.
+You visited the Abyss 1 time.
+
+You collected 7 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 hand axe (weapon)
+Armour
+ b - a +0 leather armour (worn)
+ c - a +0 tower shield (worn)
+Jewellery
+ d - a ring of poison resistance (left hand)
+Scrolls
+ e - 2 scrolls of identify {unknown}
+
+
+   Skills:
+ + Level 3.0 Fighting
+ + Level 2.0 Axes
+ + Level 1.5 Armour
+ + Level 0.7 Dodging
+ + Level 2.0 Invocations
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (0/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are completely covered in rugged brown scales. (AC +3, +7% HP)
+You have supernaturally acute eyesight. (SInv)
+Armour fits poorly on your strangely shaped body.
+You can roll at nearby foes to attack.
+You have a long armoured tail.
+
+Message History
+
+c - a +0 tower shield
+You start putting on your armour.
+You continue putting on your +0 tower shield. x4
+You finish putting on your +0 tower shield.
+You are suddenly pulled into a different region of the Abyss!
+Found 5 gold pieces.
+You now have 5 gold pieces.
+Found 27 stones.
+Found a whip.
+Found a dagger.
+You see here a +0 dagger.
+Found an encrusted diamond ring.
+d - a ring of poison resistance
+d - a ring of poison resistance (left hand)
+Found 2 scrolls labelled CEIDDALIQA.
+e - 2 scrolls labelled CEIDDALIQA
+Search for what [? for help]? armor
+Found 2 gold pieces.
+An eye of devastation comes into view.
+The eye of devastation turns its gaze towards you.
+You see here 2 gold pieces.
+You now have 7 gold pieces (gained 2).
+Press: ? - help, v - describe, . - travel
+Here: an eye of devastation
+The floor.
+An eye of devastation is nearby!
+Press: ? - help, v - describe, . - travel
+Here: an eye of devastation
+The floor.
+Press: ? - help, v - describe, . - travel
+The floor.
+A tentacled starspawn comes into view.
+Okay, then.
+An efreet comes into view. It is wielding a +4 scimitar of flaming.
+Press: ? - help, . - travel
+You can't see that place.
+You block the tentacled starspawn's attack.
+The tentacled starspawn tentacle-slaps you!!
+Ouch! That really hurt!
+You die...
+
+               ## ### .
+               .##..#○
+           ### ...#○○#
+          ##.##.#.R#..
+          #.##.......#
+          ##...#X#
+  ### #####.#.#@#
+##  .. ##...#.##.#
+#....#..#...#.. ##
+  #.#.#..##..#.#
+   #..##..###..#
+    #......# ..#
+   # ##...##  ..#
+   ..  #. .## ##.#
+#.. . #.... #   ..
+
+
+You could see a tentacled starspawn and an efreet.
+
+Vanquished Creatures (others)
+  2 starspawn tentacles (Abyss:1)
+2 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | Abyss:1  | code2828 the Palentonga Abyssal Knight began the quest for
+                  | the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 19/19 MP: 2/2
+   342 | Abyss:1  | Noticed an eye of devastation
+   372 | Abyss:1  | Noticed a tentacled starspawn
+   375 | Abyss:1  | Noticed an efreet
+   377 | Abyss:1  | Slain by a tentacled starspawn
+
+Illustrated notes
+
+Levels and vault maps discovered:
+Abyss:1:  base: Temple, base: Temple
+
+Action                   || total
+-------------------------++-------
+Block: Tower shield      ||     1
+

@@ -1,0 +1,278 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-585-g9311517 (webtiles) character file.
+
+Game seed: 5547501758432241450
+
+219 code2828 the Shooter (level 5, -9/32 HPs)
+             Began as a Tengu Hunter on Jan 2, 2023.
+             Mangled by Duvessa
+             ... wielding a +1 short sword of venom
+              (13 damage)
+             ... on level 4 of the Dungeon on Jan 3, 2023.
+             The game lasted 00:12:11 (3853 turns).
+
+code2828 the Shooter (Tengu Hunter)                 Turns: 3853, Time: 00:12:12
+
+Health: -9/32      AC:  4    Str: 12    XL:     5   Next: 96%
+Magic:  7/7        EV: 15    Int:  9    God:    
+Gold:   271        SH:  0    Dex: 19    Spells: 6/6 levels left
+
+rFire   . . .      SeeInvis .   a - +0 shortbow
+rCold   . . .      Faith    .   (shield currently unavailable)
+rNeg    + . .      Spirit   .   c - +1 leather armour
+rPois   .          Reflect  .   (helmet restricted)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (boots unavailable)
+Stlth   ++                      (no amulet)
+HPRegen 0.25/turn               o - ring of positive energy
+MPRegen 0.10/turn               (no ring)
+
+@: lethally poisoned (-9 -> -13), about to teleport, weak-willed, flying quickly
+and evasively, quick
+A: beak, talons 3, nimble flight
+a: no special abilities
+
+
+You were on level 4 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 271 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 shortbow (weapon)
+Missiles
+ i - 5 atropa-tipped darts (quivered)
+Armour
+ c - a +1 leather armour (worn)
+Jewellery
+ o - a ring of positive energy (left hand)
+Wands
+ p - a wand of polymorph (7)
+ r - a wand of charming (5)
+Scrolls
+ b - 2 scrolls of immolation
+ d - 2 scrolls of enchant armour
+ e - 2 scrolls of vulnerability
+ f - 3 scrolls of identify
+ g - 2 scrolls of noise {unknown}
+ h - 2 scrolls of teleportation
+ m - a scroll of silence {unknown}
+ n - a scroll of fog {unknown}
+Potions
+ j - 4 potions of degeneration {unknown}
+ l - a potion of flight {unknown}
+ q - a potion of ambrosia {unknown}
+
+
+   Skills:
+ * Level 3.5 Fighting
+ * Level 5.3 Ranged Weapons
+ + Level 1.6 Armour
+ * Level 3.3 Dodging
+ + Level 2.1 Stealth
+ + Level 1.1 Spellcasting
+
+
+You had 6 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Freeze                   Ice            0%         1d3       43%         1
+ Necrotise                Necr           0%         1d4       43%         1
+ Summon Small Mammal      Summ           0%         N/A       43%         1
+ Ensorcelled Hibernation  Hex/Ice        0%         N/A       56%         2
+ Passwall                 Tmut/Erth      0%         N/A       56%         2
+ Call Canine Familiar     Summ           0%         N/A       80%         3
+ Frozen Ramparts          Ice            0%         1d1       80%         3
+ Hailstorm                Conj/Ice       0%         3d3       80%         3
+ Summon Guardian Golem    Hex/Summ       0%         N/A       80%         3
+ Swiftness                Air            0%         N/A       80%         3
+ Vampiric Draining        Necr           0%         2d6       80%         3
+ Agony                    Necr           0%         N/A       100%        5
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)         Zot: 20182      
+Temple: D:4-7       
+
+Altars:
+Elyvilon
+Xom
+
+Annotations:
+D:4 Duvessa
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+Your magical nature lets you fly swiftly and evasively.
+
+Message History
+
+Unknown command.
+Unknown command.
+Fire: a) +0 shortbow
+Press: ? - help, Shift-Dir - straight line, f - Duvessa
+Aim: Duvessa, wielding a +1 short sword of venom and wearing a +0 chain mail
+(berserk, 74% to hit)
+You shoot an arrow.
+The arrow hits Duvessa but does no damage.
+As you read the scroll labelled FARICW XASHUSA, it crumbles to dust.
+It is a scroll of enchant armour.
+Your +0 leather armour glows green for a moment.
+As you read the scroll labelled FUKA ICHERUN, it crumbles to dust.
+Magic quickly surges around you. It was a scroll of vulnerability.
+Duvessa hits you with a +1 short sword of venom!
+You are poisoned.
+It was a potion of curing. You feel better. Duvessa barely misses you.
+As you read the scroll labelled TOICIC WANIG, it crumbles to dust.
+It is a scroll of identify.
+h - 3 scrolls of teleportation
+Duvessa hits you with a +1 short sword of venom!
+* * * LOW HITPOINT WARNING * * *
+You are lethally poisoned!
+Duvessa misses you.
+You feel better.
+Duvessa hits you with a +1 short sword of venom!
+You are lethally poisoned!
+You feel better.
+Duvessa hits you with a +1 short sword of venom.
+Duvessa hits you with a +1 short sword of venom!
+* * * LOW HITPOINT WARNING * * *
+You are lethally poisoned!
+You feel better.
+Duvessa hits you with a +1 short sword of venom!
+* * * LOW HITPOINT WARNING * * *
+You are lethally poisoned!
+As you read the scroll of teleportation, it crumbles to dust.
+You feel strangely unstable.
+* * * LOW HITPOINT WARNING * * *
+You feel sick. Duvessa barely misses you.
+Duvessa hits you with a +1 short sword of venom!
+You die...
+
+.......#           #......#####.#
+..####.#           #.#######  #.#
+..# ##'##          #.......####.#
+..###8.8##         #.##.#####....
+..##.....###########.##.#   #.#..
+.##8.....8##.........##.#   #.#..
+##.........##........##.#   #..#.
+#8.........8#........##.#   ##⌠##
+'...........'..e@....##.#  ##...#
+#8.........8#........##.#  #~~^..
+##.........##.........#.###♣^...§
+ ##8.....8#######.....#...#{^##~.
+  ##.....###    #.....#...⌠#.._.{
+   ##8.8##.##########.#..##♣~^#.♣
+  ####'##.....(...# #.#...#....~§
+  #.....#...##....# #....###{###♣
+  #.###.#.........######## ##.^.#
+
+
+You could see Duvessa (berserk, weak-willed).
+
+Vanquished Creatures
+  Dowan (D:4)
+  A hound (D:4)
+  Natasha (D:3)
+  Robin (D:4)
+  2 adders (D:3)
+  A worm (D:2)
+  A dart slug (D:3)
+  6 orcs (D:4)
+  4 endoplasms
+  5 giant cockroaches
+  10 goblins
+  6 hobgoblins
+  8 jackals
+  5 quokkas
+  4 ball pythons
+  5 bats
+  2 frilled lizards (D:1)
+  5 kobolds
+  4 rats
+72 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Tengu Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 12/12 MP: 2/2
+   247 | D:1      | Reached XP level 2. HP: 17/17 MP: 3/3
+   879 | D:2      | Reached XP level 3. HP: 22/22 MP: 4/4
+  1102 | D:2      | Found a white marble altar of Elyvilon.
+  1521 | D:3      | Reached XP level 4. HP: 22/27 MP: 5/5
+  1559 | D:3      | Reached skill level 1 in Armour
+  1588 | D:3      | Noticed Natasha
+  1832 | D:3      | Found a faded altar of an unknown god.
+  1944 | D:3      | Killed Natasha
+  1945 | D:3      | Reached skill level 5 in Ranged Weapons
+  2159 | D:4      | Noticed Robin
+  2238 | D:4      | Killed Robin
+  2263 | D:4      | Gained mutation: Your magical nature lets you fly swiftly
+                  | and evasively. [Tengu growth]
+  2263 | D:4      | Reached XP level 5. HP: 28/32 MP: 7/7
+  2350 | D:4      | Found a shimmering altar of Xom.
+  2353 | D:4      | Found a shimmering altar of Xom.
+  2578 | D:4      | Noticed Dowan
+  2910 | D:4      | Killed Dowan
+  2911 | D:4      | Reached skill level 1 in Spellcasting
+  3188 | D:4      | Noticed Duvessa
+  3853 | D:4      | Mangled by Duvessa
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      lemuel_arrival_river_ford, layout_basic
+D:2:      layout_loops_ring, basic_altar
+D:3:      layout_rooms, hellmonk_ecumenical_altar_dog_temple,
+          minmay_misc_feat_enclosed, kennysheep_another_room, uniq_natasha
+D:4:      layout_basic, xom_redecorated, dk_noncrumbling_4, uniq_robin,
+          uniq_duvessa
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Armour         |           1    |  1.6
+Ranged Weapons |           5    |  5.3
+Fighting       |           3    |  3.5
+Dodging        |              3 |  3.3
+Stealth        |              2 |  2.1
+Spellcasting   |              1 |  1.1
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+ Fire: Shortbow          |    91 |   119 ||   210
+Throw: Dart              |     1 |     7 ||     8
+  Use: Scroll            |       |     4 ||     4
+       Potion            |       |     4 ||     4
+Armor: Leather armour    |     4 |     7 ||    11
+Dodge: Dodged            |    18 |    42 ||    60
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   3816 |   3613 |    203 |    631 |   2291 |   4 |  954.0 |
+       Dungeon |   3816 |   3613 |    203 |    631 |   2291 |   4 |  954.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:4: 1565 daAuts
+     D:3: 843 daAuts
+     D:1: 795 daAuts
+     D:2: 612 daAuts
+

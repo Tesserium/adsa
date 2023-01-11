@@ -1,0 +1,222 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-571-gdf30a72 (webtiles) character file.
+
+Game seed: 17294899662597928468
+
+55 code2828 the Trooper (level 3, 0/29 HPs)
+             Began as a Demonspawn Monk on Dec 30, 2022.
+             Slain by Sigmund
+             ... wielding a +3 scythe of holy wrath
+              (4 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:02:47 (1344 turns).
+
+code2828 the Trooper (Demonspawn Monk)              Turns: 1344, Time: 00:02:47
+
+Health: 0/29       AC: 10    Str: 13    XL:     3   Next: 67%
+Magic:  3/3        EV:  8    Int: 11    God:    
+Gold:   116        SH:  4    Dex: 15    Spells: 2/2 levels left
+
+rFire   . . .      SeeInvis .   a - +0 falchion
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   e - +0 plate armour
+rPois   .          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth                           (no amulet)
+HPRegen 0.24/turn               k - +5 ring of evasion
+MPRegen 0.08/turn               (no ring)
+
+@: no status effects
+A: condensation shield
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 116 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 falchion (weapon)
+Armour
+ e - a +0 plate armour (worn)
+Jewellery
+ k - a +5 ring of evasion (left hand)
+Scrolls
+ b - a scroll of magic mapping {unknown}
+ g - 2 scrolls of identify {unknown}
+ h - a scroll of torment {unknown}
+ i - a scroll of vulnerability {unknown}
+ j - a scroll of teleportation {unknown}
+ m - 2 scrolls of poison {unknown}
+ n - a scroll of blinking {unknown}
+ o - a scroll of fog {unknown}
+Potions
+ c - a potion of ambrosia
+ d - a potion of flight {unknown}
+ f - a potion of berserk rage {unknown}
+ l - 2 potions of haste {unknown}
+
+
+   Skills:
+ * Level 3.5 Fighting
+ * Level 3.3 Long Blades
+ + Level 1.1 Armour
+ + Level 2.8 Dodging
+ + Level 2.0 Stealth
+
+
+You had 2 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)         Zot: 10634      
+
+Altars:
+
+Annotations:
+D:2 Sigmund
+
+
+Innate Abilities, Weirdness & Mutations
+
+A meltable shield of frost defends you. (SH +4)
+
+Message History
+
+You slash the hobgoblin!
+You kill the hobgoblin!
+HP restored.
+You now have 116 gold pieces (gained 5).
+n - a scroll labelled XABYEX FURCHOBB
+No target in view!
+o - a scroll labelled XETE OXTOJOSE
+No target in view!
+Sigmund shouts!
+Sigmund points at you and mumbles some strange words.
+The magic dart hits you but does no damage.
+Sigmund is nearby!
+Sigmund is nearby!
+Sigmund is nearby!
+Sigmund is nearby!
+Sigmund points at you and mumbles some strange words.
+You resist with significant effort.
+Sigmund is nearby!
+Sigmund mumbles some strange words.
+Sigmund flickers and vanishes!
+Deactivating autopickup; reactivate with Ctrl-A.
+You closely miss something. Something hits you but does no damage.
+You hit something.
+You barely miss something. Something hits you. You convulse.
+You barely miss something. Something hits you. You convulse.
+You slash something!
+You hear some strange, mumbled words.
+Something tries to affect you, but you resist.
+You hit something. Something hits you. You convulse.
+You hit something but do no damage.
+You hit something.
+You hear some strange, mumbled words.
+Something tries to affect you, but you resist.
+You barely miss something. You block something's attack.
+You barely miss something. Something hits you!
+* * * LOW HITPOINT WARNING * * *
+You convulse.
+* * * LOW HITPOINT WARNING * * *
+You closely miss something. Something hits you.
+You die...
+
+   #.#.##.#    #...#######.#...##
+#  #.#.##.#    #........##...####
+#  #.#.##.######...####.##...####
+####..(##..................#....†
+.............................##.#
+####...##.................##.##.#
+####..##########...####.####.##.#
+##<.....#      #.)......#  #.##.#
+##.#..#.#   ####@..######  #.....
+ #.#..#.#   #..~......#    #.##.#
+ #.#..#.#   #.........#    #.##.#
+ #.##.#.#   #....)....#    #.##..
+##......#   ####....###    #.....
+......###    #........#    #.####
+#######    #..........#    #.....
+           #.#...##...###########
+           # #......†.......#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  2 worms (D:2)
+  2 ball pythons (D:1)
+  3 bats (D:1)
+  3 endoplasms
+  5 giant cockroaches
+  6 goblins
+  5 hobgoblins
+  4 kobolds (D:1)
+  2 quokkas
+  3 frilled lizards (D:1)
+  9 rats
+44 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Demonspawn Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 1/1
+   150 | D:1      | Gained mutation: A meltable shield of frost defends you.
+                  | (SH +4) [demonic ancestry]
+   150 | D:1      | Reached XP level 2. HP: 21/24 MP: 2/2
+   530 | D:1      | Reached XP level 3. HP: 29/29 MP: 3/3
+  1023 | D:2      | Noticed Sigmund
+  1214 | D:2      | Reached skill level 1 in Armour
+  1344 | D:2      | Slain by Sigmund
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      minmay_arrival_cross, layout_loops_cross, minmay_rat_gold_closets
+D:2:      layout_loops_cross, uniq_sigmund
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Long Blades    |     3    |  3.3
+Stealth        |     2    |  2.0
+Armour         |        1 |  1.1
+Fighting       |          |  3.5
+Dodging        |          |  2.8
+
+Action                   || total
+-------------------------++-------
+Melee: Falchion          ||   143
+       Punch             ||     5
+Armor: Plate armour      ||    77
+       Chain mail        ||     8
+Dodge: Dodged            ||    30
+Block: Other             ||    31
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   1364 |   1276 |     88 |      0 |    931 |   2 |  682.0 |
+       Dungeon |   1364 |   1276 |     88 |      0 |    931 |   2 |  682.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 888 daAuts
+     D:2: 475 daAuts
+

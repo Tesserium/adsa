@@ -1,0 +1,367 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-390-g80c34de (webtiles) character file.
+
+Game seed: 2372079980353063053
+
+2245 code2828 the Basher (level 9, -8/121 HPs)
+             Began as a Minotaur Berserker on Dec 4, 2022.
+             Was an Elder of Trog.
+             Mangled by an orc warrior
+             ... wielding a +0 glaive
+              (28 damage)
+             ... in a bailey on Dec 5, 2022.
+             The game lasted 00:14:25 (5056 turns).
+
+code2828 the Basher (Minotaur Berserker)            Turns: 5056, Time: 00:14:26
+
+Health: -8/121     AC: 11    Str: 30    XL:     9   Next: 15%
+Magic:  8/8        EV: 14    Int:  4    God:    Trog [****..]
+Gold:   343        SH:  0    Dex: 12    Spells: 8/8 levels left
+
+rFire   + . .      SeeInvis .   u - +3 quarterstaff (chaos)
+rCold   . . .      Faith    .   (shield currently unavailable)
+rNeg    . . .      Spirit   .   D - +2 ring mail {rC+}
+rPois   .          Reflect  .   (helmet restricted)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   s - +1 pair of boots {Fly}
+Stlth   ..........              (no amulet)
+HPRegen 0.40/turn               l - ring of fire
+MPRegen 0.11/turn               v - +6 ring of strength
+
+@: berserking (expiring), flying, very quick
+A: horns 2, retaliatory headbutt
+a: Renounce Religion, Berserk, Trog's Hand, Brothers in Arms
+
+
+You were in a bailey.
+You worshipped Trog.
+Trog was greatly pleased with you.
+You visited 2 branches of the dungeon, and saw 8 of its levels.
+You also visited: Bailey.
+
+You collected 343 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 mace
+ u - a +3 quarterstaff of chaos (weapon)
+ x - a +2 rapier of speed
+Missiles
+ t - 5 silver boomerangs (quivered)
+Armour
+ s - a +1 pair of boots of flying (worn)
+ D - a +2 ring mail of cold resistance (worn)
+Jewellery
+ b - an amulet of the acrobat
+ l - a ring of fire (left hand)
+ v - a +6 ring of strength (right hand)
+ y - a ring of protection from cold
+ G - an amulet of magic regeneration
+ H - a ring of protection from cold
+ I - a +6 ring of intelligence
+Wands
+ n - a wand of charming (20)
+ w - a wand of flame (12)
+ J - a wand of mindburst (15)
+ M - a wand of acid (3)
+Scrolls
+ d - 3 scrolls of torment
+ f - 3 scrolls of immolation
+ g - 2 scrolls of poison
+ j - a scroll of butterflies {unknown}
+ k - 2 scrolls of vulnerability
+ o - a scroll of silence {unknown}
+ p - 3 scrolls of fear
+ q - 2 scrolls of enchant weapon
+ r - 2 scrolls of teleportation {unknown}
+ A - a scroll of blinking {unknown}
+ B - a scroll of amnesia {unknown}
+ E - a scroll of magic mapping {unknown}
+Potions
+ c - 4 potions of degeneration {unknown}
+ e - 4 potions of curing {unknown}
+ h - a potion of brilliance {unknown}
+ m - a potion of mutation {unknown}
+ z - 2 potions of attraction {unknown}
+ C - a potion of flight {unknown}
+ F - a potion of magic {unknown}
+ K - a potion of berserk rage {unknown}
+ L - 2 potions of heal wounds {unknown}
+ N - a potion of ambrosia {unknown}
+ O - a potion of lignification {unknown}
+ P - a potion of cancellation {unknown}
+
+
+   Skills:
+ + Level 8.1 Fighting
+ + Level 8.2 Maces & Flails
+ + Level 7.6 Armour
+ + Level 7.0 Dodging
+
+
+You had 8 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)             Temple (1/1) D:7          Bailey (1/1)             
+
+Altars:
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+
+Shops:
+D:2 [:(
+
+Annotations:
+Bailey 2 runed translucent doors
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+You feel a strong urge to attack something.
+The orc knight hits you with a +0 trident!
+The orc warrior hits you with a +0 glaive!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You closely miss the orc knight. Your headbutt misses the orc knight.
+The orc knight hits you but does no damage.
+The orc warrior hits you with a +0 glaive.
+You sock the orc knight! You burn the orc knight.
+Your headbutt misses the orc knight.
+The orc knight is lightly wounded.
+You completely miss the orc knight.
+The orc knight is lightly wounded.
+The orc knight hits you with a +0 trident.
+The orc warrior misses you.
+You closely miss the orc knight.
+The orc knight is lightly wounded.
+The orc knight hits you with a +0 trident.
+* * * LOW HITPOINT WARNING * * *
+The orc warrior completely misses you.
+You bludgeon the orc knight!! You feel better.
+The orc knight is moderately wounded.
+The orc knight hits you with a +0 trident!!
+* * * LOW HITPOINT WARNING * * *
+The orc warrior closely misses you.
+You sock the orc knight! Your headbutt misses the orc knight.
+The orc knight is heavily wounded.
+You sock the orc knight! The orc knight flickers and vanishes!
+Deactivating autopickup; reactivate with Ctrl-A.
+Your headbutt misses something.
+The orc warrior goes into a battle-frenzy!
+The orc warrior misses you.
+Unknown command.
+You miss something. Something hits you.
+* * * LOW HITPOINT WARNING * * *
+The orc warrior hits you with a +0 glaive!!
+You die...
+
+           #..#..).≈≈≈
+ #.8##.  !##8.#...####
+ #..#..  [)#..#.......
+ #..+..  $?#..'.......
+  o.+..##?$#..'.......
+ #  #....|!#..#.......
+ #.  #..e)##8.#...####
+ #..########..#....≈≈≈
+ #..{@).).....##.♣.≈≈≈
+#...o)))).)....#...≈≈≈
+#$.##########.$#..♣≈≈≈
+##          ####..♣≈≈≈
+              ....♣♣≈≈
+             ##..♣ ♣≈≈
+              ###  ###
+
+
+You could see a deep elf pyromancer and an orc warrior (strong).
+
+Vanquished Creatures
+  Eustachio (D:4)
+  Menkaure (D:6)
+  2 water moccasins
+  5 orc warriors
+  2 sky beasts
+  A black bear (D:4)
+  An ogre (D:4)
+  A centaur (D:7)
+  A gnoll sergeant (D:5)
+  A scorpion (D:5)
+  2 howler monkeys
+  A vampire bat (D:4)
+  4 hounds
+  2 jellies
+  2 orc priests (D:7)
+  Crazy Yiuf (D:3)
+  3 iguanas
+  Robin (D:3)
+  7 gnolls
+  8 adders
+  2 white imps
+  An ufetubus (D:7)
+  3 worms (D:4)
+  A dart slug (D:1)
+  15 orcs
+  7 ball pythons
+  7 endoplasms
+  3 giant cockroaches
+  16 goblins
+  12 hobgoblins
+  10 jackals
+  4 kobolds
+  A quokka (D:3)
+  10 bats
+  5 frilled lizards
+  2 rats
+146 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Minotaur Berserker began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   113 | D:1      | Reached XP level 2. HP: 22/27 MP: 1/1
+   552 | D:1      | Reached ** piety under Trog
+   556 | D:1      | Found Nuraod's Antique Weapon Shoppe.
+   742 | D:2      | Found Faluah's Book Shop.
+   970 | D:2      | Found Nuroq's Armour Boutique.
+  1034 | D:2      | Reached XP level 3. HP: 30/33 MP: 2/2
+  1193 | D:2      | Found Gugrulek's Antique Weapon Emporium.
+  1446 | D:2      | Found a faded altar of an unknown god.
+  1777 | D:3      | Reached XP level 4. HP: 36/41 MP: 3/3
+  1988 | D:3      | Found a runed translucent door.
+  1989 | D:3      | Noticed Crazy Yiuf
+  2008 | D:3      | Noticed Robin
+  2016 | D:3      | Killed Robin
+  2314 | D:3      | Killed Crazy Yiuf
+  2378 | D:4      | Reached XP level 5. HP: 44/47 MP: 4/4
+  2412 | D:4      | Noticed Eustachio
+  2430 | D:4      | Killed Eustachio
+  2431 | D:4      | Reached skill level 5 in Fighting
+  2431 | D:4      | Reached skill level 5 in Maces & Flails
+  2431 | D:4      | Reached XP level 6. HP: 56/56 MP: 5/5
+  2754 | D:4      | Reached skill level 5 in Armour
+  2754 | D:4      | Reached XP level 7. HP: 41/62 MP: 6/6
+  3127 | D:4      | Reached *** piety under Trog
+  3178 | D:5      | Entered Level 5 of the Dungeon
+  3210 | D:5      | Reached skill level 5 in Dodging
+  3973 | D:6      | Found a basalt altar of Yredelemnul.
+  4064 | D:6      | Reached XP level 8. HP: 71/71 MP: 7/7
+  4080 | D:6      | Found a shimmering altar of Xom.
+  4160 | D:6      | Noticed Menkaure
+  4165 | D:6      | Killed Menkaure
+  4360 | D:7      | Noticed a +0 hand axe
+  4360 | D:7      | Found a flagged portal.
+  4473 | D:7      | Noticed a +0 hand axe
+  4488 | D:7      | Found a hide-covered altar of Uskayaw.
+  4674 | D:7      | Found a staircase to the Ecumenical Temple.
+  4700 | Temple   | Entered the Ecumenical Temple
+  4866 | Bailey   | Entered a bailey
+  4974 | Bailey   | Reached XP level 9. HP: 68/81 MP: 8/8
+  5033 | Bailey   | Found a large runed translucent door.
+  5033 | Bailey   | Found a large runed translucent door.
+  5035 | Bailey   | Reached **** piety under Trog
+  5036 | Bailey   | Noticed a deep elf pyromancer
+  5036 | Bailey   | Noticed an orc knight
+  5056 | Bailey   | Mangled by an orc warrior
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      erik_arrival_blinker_ship, layout_basic, serial_shops, shop,
+          minmay_misc_feat_doors, hangedman_abyss_or_decor_stabs
+D:2:      layout_basic, ebering_ecumenical_altar_mist, serial_shops,
+          nicolae_lakefront_shop, nicolae_shop_hallway_stairs,
+          nicolae_shop_hallway_plus
+D:3:      layout_rooms, minivault_11, serial_bayou_pond_b,
+          nicolae_concentric_dashed_squares_wild, uniq_crazy_yiuf_cottage,
+          uniq_robin
+D:4:      layout_basic, roderic_batcave, uniq_eustachio
+D:5:      layout_rooms, serial_bayou, serial_bayou_pond_c, serial_bayou_pond_c,
+          serial_bayou_shore_b, serial_bayou_crossing, chequers_arboretum,
+          wad_floor_pattern_untrapped, minmay_misc_feat_secret_circle
+D:6:      layout_basic, hangedman_feature_mirror, uniq_menkaure
+D:7:      layout_cave_pools, dancing_weapons_uskayaw,
+          minmay_temple_entry_butterflies, enter_bailey_2, uniq_joseph
+Temple:   hellmonk_temple_of_storms
+Bailey:   bailey_polearm_elven_captive_hellmonk, bailey
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Fighting       |     4        5     6  8    |  8.1
+Maces & Flails |     4        5     6  8    |  8.2
+Armour         |     3        4  5  6  7    |  7.6
+Dodging        |        3     4     5  6  7 |  7.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Mace              |    76 |    31 |       ||   107
+       Headbutt          |    10 |     9 |    18 ||    37
+       Punch             |     1 |     2 |       ||     3
+       Quarterstaff      |       |    35 |   123 ||   158
+       Rapier            |       |    15 |       ||    15
+Invok: Berserk           |       |     1 |     3 ||     4
+  Use: Scroll            |       |       |     6 ||     6
+ Stab: Sleeping          |     1 |       |       ||     1
+Armor: Animal skin       |    10 |       |       ||    10
+       Leather armour    |     9 |     3 |       ||    12
+       Ring mail         |       |    11 |    60 ||    71
+Dodge: Dodged            |    49 |    37 |   124 ||   210
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   5107 |   4984 |    123 |     55 |   3877 |   9 |  567.4 |
+       Dungeon |   4801 |   4678 |    123 |      4 |   3802 |   7 |  685.9 |
+        Temple |    117 |    117 |      0 |      0 |     50 |   1 |  117.0 |
+        Bailey |    188 |    188 |      0 |     51 |     25 |   1 |  188.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:2: 954 daAuts
+     D:4: 825 daAuts
+     D:5: 768 daAuts
+     D:1: 736 daAuts
+     D:3: 685 daAuts
+     D:6: 427 daAuts
+     D:7: 402 daAuts
+  Bailey: 188 daAuts
+  Temple: 117 daAuts
+

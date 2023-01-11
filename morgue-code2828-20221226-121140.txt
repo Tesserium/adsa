@@ -1,0 +1,186 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-540-g0af0142 (webtiles) character file.
+
+Game seed: 11667849336605284320
+
+4 code2828 the Ruffian (level 1, 0/19 HPs)
+             Began as a Ghoul Monk on Dec 26, 2022.
+             Slain by a kobold
+             ... wielding a +1 short sword of speed
+              (3 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:01:11 (198 turns).
+
+code2828 the Ruffian (Ghoul Monk)                    Turns: 198, Time: 00:01:12
+
+Health: 0/19       AC:  2    Str: 14    XL:     1   Next: 60%
+Magic:  0/0        EV: 12    Int:  5    God:    
+Gold:   5          SH:  0    Dex: 11    Spells: 0/0 levels left
+
+rFire   . . .      SeeInvis .     - Unarmed
+rCold   + . .      Faith    .   (no shield)
+rNeg    + + +      Spirit   .   a - +0 robe
+rPois   ∞          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   ++                      (no amulet)
+HPRegen 0.00/turn               (no ring)
+MPRegen 0.07/turn               (no ring)
+
+@: inhibited regen
+A: claws 1, cold resistance 1, negative energy resistance 3, inhibited
+regeneration, torment resistance 2, devour on kill
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 5 gold pieces.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Scrolls
+ c - a scroll of identify {unknown}
+ d - a scroll of immolation {unknown}
+ f - 3 scrolls of teleportation {unknown}
+Potions
+ b - a potion of ambrosia
+ e - a potion of brilliance {unknown}
+ g - 2 potions of heal wounds {unknown}
+
+
+   Skills:
+ * Level 3.3 Fighting
+ + Level 2.7 Dodging
+ + Level 2.2 Stealth
+ * Level 3.4 Unarmed Combat
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)         Zot: 5803       
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to poison.
+You have sharp fingernails.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+You thrive by killing the living.
+
+Message History
+
+The rat closely misses you.
+You closely miss the rat.
+The rat is severely wounded.
+The rat bites you.
+You barely miss the rat.
+The rat is severely wounded.
+The rat barely misses you.
+You scratch the rat.
+You kill the rat!
+You feel better.
+No target in view!
+No target in view!
+No target in view!
+You open the door.
+There is an open door here.
+Found a pair of gloves.
+A kobold comes into view. It is wielding a +1 short sword of speed.
+Found a There-And-Back Book.
+The kobold shouts!
+You barely miss the kobold. The kobold barely misses you.
+You barely miss the kobold. The kobold barely misses you.
+The kobold hits you with a +1 short sword of speed.
+You barely miss the kobold.
+The kobold hits you with a +1 short sword of speed.
+You barely miss the kobold. The kobold closely misses you.
+The kobold hits you with a +1 short sword of speed.
+You closely miss the kobold. The kobold closely misses you.
+You closely miss the kobold.
+The kobold hits you with a +1 short sword of speed.
+* * * LOW HITPOINT WARNING * * *
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You closely miss the kobold. The kobold barely misses you.
+The kobold hits you with a +1 short sword of speed.
+* * * LOW HITPOINT WARNING * * *
+You scratch the kobold but do no damage.
+The kobold hits you with a +1 short sword of speed.
+You die...
+
+######'.#.#
+......#...##      ####.
+####'.#....#      . .. .
+....#.#.##.#   ###... .#
+.##.#.#.##.##  #.. . [.
+.##.#.#.##..#  #...#.#.#
+†...#.#.###.#  #.#.....#
+####+.#.###.## #K..#...#
+......#.##...###@.......
+######+. #.#.....#####:.
+)..........####........
+.........##   #........
+#########     #########
+
+
+You could see a kobold.
+
+Vanquished Creatures
+  An endoplasm (D:1)
+  A kobold (D:1)
+  2 rats (D:1)
+4 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Ghoul Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   198 | D:1      | Slain by a kobold
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_snail, layout_rooms, hellmonk_ecumenical_altar_blasted,
+          hangedman_decor_lopped, minivault_11
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||    26
+ Stab: Sleeping          ||     1
+Armor: Robe              ||     2
+Dodge: Dodged            ||    10
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |    196 |    196 |      0 |      0 |    133 |   1 |  196.0 |
+       Dungeon |    196 |    196 |      0 |      0 |    133 |   1 |  196.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 196 daAuts
+

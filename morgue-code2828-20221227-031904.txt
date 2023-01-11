@@ -1,0 +1,196 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-553-g7fabdf1 (webtiles) character file.
+
+Game seed: 215454414714641876
+
+18 code2828 the Ruffian (level 2, -2/26 HPs)
+             Began as a Ghoul Monk on Dec 27, 2022.
+             Slain by a gnoll
+             ... wielding a +0 spear
+              (4 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:00:30 (198 turns).
+
+code2828 the Ruffian (Ghoul Monk)                    Turns: 198, Time: 00:00:30
+
+Health: -2/26      AC:  2    Str: 14    XL:     2   Next: 66%
+Magic:  1/1        EV: 12    Int:  5    God:    
+Gold:   0          SH:  0    Dex: 11    Spells: 1/1 levels left
+
+rFire   . . .      SeeInvis .     - Unarmed
+rCold   + . .      Faith    .   (no shield)
+rNeg    + + +      Spirit   .   a - +0 robe
+rPois   ∞          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   ++                      (no amulet)
+HPRegen 0.00/turn               (no ring)
+MPRegen 0.07/turn               (no ring)
+
+@: inhibited regen
+A: claws 1, cold resistance 1, negative energy resistance 3, inhibited
+regeneration, torment resistance 2, devour on kill
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Potions
+ b - a potion of ambrosia
+ c - 2 potions of heal wounds {unknown}
+ d - a potion of curing {unknown}
+
+
+   Skills:
+ * Level 3.6 Fighting
+ + Level 2.9 Dodging
+ + Level 2.4 Stealth
+ * Level 3.6 Unarmed Combat
+
+
+You had one spell level left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Freeze                   Ice            0%         1d3       47%         1
+ Frozen Ramparts          Ice            0%         1d1       85%         3
+ Hailstorm                Conj/Ice       0%         3d3       85%         3
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)         Zot: 5803       
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to poison.
+You have sharp fingernails.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+You thrive by killing the living.
+
+Message History
+
+The kobold hits you with a +0 short sword.
+Things that are here:
+6 poisoned darts; a viscous inky potion; a bat corpse
+There are monsters nearby!
+You barely miss the kobold.
+The kobold hits you with a +0 short sword.
+There are monsters nearby!
+You closely miss the kobold. The kobold barely misses you.
+The gnoll hits you from afar with a +0 spear.
+There are monsters nearby!
+You closely miss the kobold. The kobold closely misses you.
+The gnoll hits you from afar with a +0 spear!
+There are monsters nearby!
+You are too injured to fight recklessly!
+There are monsters nearby!
+You are too injured to fight recklessly!
+There are monsters nearby!
+You are too injured to fight recklessly!
+There are monsters nearby!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+There are monsters nearby!
+You scratch the kobold.
+The kobold is severely wounded.
+The gnoll hits you but does no damage.
+The kobold hits you with a +0 short sword.
+* * * LOW HITPOINT WARNING * * *
+You scratch the kobold.
+You kill the kobold!
+The gnoll hits you from afar with a +0 spear.
+* * * LOW HITPOINT WARNING * * *
+The gnoll hits you with a +0 spear.
+* * * LOW HITPOINT WARNING * * *
+Things that are here:
+a +0 short sword; 4 stones; a kobold corpse
+You scratch the gnoll but do no damage. The gnoll barely misses you.
+You barely miss the gnoll.
+You closely miss the gnoll. The gnoll misses you.
+You closely miss the gnoll. The gnoll hits you with a +0 spear.
+You die...
+
+          ##
+           ..  ###  ##
+         .##.# #.# #.##
+         .............#
+         #.#.#.#>#.#.##
+          ............#
+          ##.#.#g#.#.##
+          #.....@.....#
+          ##.#.#(#.#.##
+          #.....).....#
+          ##.#.#.#.#.##
+          #.....†.....###
+          ##.#.#.#.#.#..##
+#          #######.......##
+.##         ... #...>..$..#
+ ..  #####   #.##.........#
+
+
+You could see a gnoll.
+
+Vanquished Creatures
+  A bat (D:1)
+  3 endoplasms (D:1)
+  A goblin (D:1)
+  3 hobgoblins (D:1)
+  2 jackals (D:1)
+  A kobold (D:1)
+  A ball python (D:1)
+  2 frilled lizards (D:1)
+  A rat (D:1)
+15 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Ghoul Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   104 | D:1      | Reached XP level 2. HP: 26/26 MP: 1/1
+   198 | D:1      | Slain by a gnoll
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_rooms_b, layout_rooms, st_stairs_10
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||    35
+       Punch             ||     1
+ Stab: Distracted        ||     1
+Armor: Robe              ||     6
+Dodge: Dodged            ||    24
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |    195 |    195 |      0 |      0 |    104 |   1 |  195.0 |
+       Dungeon |    195 |    195 |      0 |      0 |    104 |   1 |  195.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 195 daAuts
+

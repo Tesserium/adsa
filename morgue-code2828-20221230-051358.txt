@@ -1,0 +1,201 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-571-gdf30a72 (webtiles) character file.
+
+Game seed: 9420529996540552894
+
+24 code2828 the Shooter (level 3, -1/22 HPs)
+             Began as a Tengu Hunter on Dec 30, 2022.
+             Slain by an adder (2 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:02:32 (676 turns).
+
+code2828 the Shooter (Tengu Hunter)                  Turns: 676, Time: 00:02:33
+
+Health: -1/22      AC:  3    Str: 13    XL:     3   Next: 2%
+Magic:  4/4        EV: 12    Int:  9    God:    
+Gold:   27         SH:  0    Dex: 17    Spells: 2/2 levels left
+
+rFire   . . .      SeeInvis .   a - +0 shortbow
+rCold   . . .      Faith    .   (shield currently unavailable)
+rNeg    . . .      Spirit   .   c - +0 leather armour
+rPois   .          Reflect  .   (helmet restricted)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (boots unavailable)
+Stlth   ++                      (no amulet)
+HPRegen 0.23/turn               (no ring)
+MPRegen 0.09/turn               (no ring)
+
+@: lethally poisoned (-1 -> -6)
+A: beak, talons 3
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 27 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 shortbow (weapon)
+Armour
+ c - a +0 leather armour (worn)
+Jewellery
+ e - a +5 ring of evasion
+ f - a ring of fire
+Scrolls
+ b - a scroll of immolation
+ d - a scroll of fog {unknown}
+
+
+   Skills:
+ * Level 2.5 Fighting
+ * Level 4.7 Ranged Weapons
+ + Level 0.4 Armour
+ + Level 2.4 Dodging
+ + Level 1.4 Stealth
+
+
+You had 2 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)         Zot: 11304      
+
+Altars:
+
+Shops:
+D:1 (
+
+Annotations:
+D:2 Terence
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+
+Message History
+
+The arrow hits Terence but does no damage.
+There is a stone staircase leading up here.
+You climb upwards.
+There is a stone staircase leading down here.
+There is a stone staircase leading down here.
+You climb downwards.
+Level annotation: Terence
+The goblin shouts!
+Found 2 stones, a coppery potion and 10 gold pieces.
+There is a stone staircase leading up here.
+You shoot an arrow.
+The arrow hits the goblin but does no damage.
+You hear an angry hiss.
+An adder comes into view.
+You shoot an arrow. The arrow closely misses the goblin.
+You shoot an arrow. The arrow barely misses the goblin.
+The goblin barely misses you.
+You shoot an arrow.
+The arrow hits the adder but does no damage.
+The adder bites you.
+You are poisoned.
+The adder poisons you! The goblin hits you but does no damage.
+The adder bites you but does no damage. The goblin hits you with a +0 dagger.
+You shoot an arrow. The arrow closely misses the adder. You feel sick.
+The adder closely misses you. The goblin hits you with a +0 dagger.
+The adder closely misses you.
+You feel sick. The goblin hits you with a +0 dagger. The adder bites you.
+You climb upwards. You feel sick.
+There is a stone staircase leading down here.
+You aren't carrying any potions.
+You shoot an arrow. The arrow barely misses the adder. You feel sick.
+The adder bites you.
+* * * LOW HITPOINT WARNING * * *
+You are lethally poisoned!
+The adder poisons you! The goblin hits you but does no damage.
+The adder bites you but does no damage. The goblin misses you.
+You shoot an arrow. The arrow closely misses the adder.
+* * * LOW HITPOINT WARNING * * *
+You feel sick. The adder bites you.
+You die...
+
+    #.........#
+    #.........#
+    #.........#
+#####.........# #####
+..............# #...#
+####....).....# #...#
+   ##.........# #...#
+#   #>........###...#
+#   #..........g@...#
+#   #..........##S..#
+## ##.......#####...#
+.###..###.###   #...#
+.....## #.#     #####
+#.#.##  #.#
+#....####.#########
+..................#
+######.##..########
+
+
+You could see an adder and a goblin.
+
+Vanquished Creatures
+  2 ball pythons (D:1)
+  An endoplasm (D:1)
+  2 goblins (D:1)
+  5 hobgoblins
+  2 kobolds (D:1)
+  6 bats (D:1)
+  A frilled lizard (D:1)
+  2 rats (D:1)
+21 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Tengu Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 12/12 MP: 2/2
+   130 | D:1      | Found Zauhyn Vunuf's Weapon Shoppe.
+   166 | D:1      | Reached XP level 2. HP: 17/17 MP: 3/3
+   246 | D:1      | Found a faded altar of an unknown god.
+   639 | D:2      | Reached XP level 3. HP: 22/22 MP: 4/4
+   643 | D:2      | Noticed Terence
+   676 | D:1      | HP: 1/22 [poisoned by an adder]
+   676 | D:1      | Slain by an adder
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      elethiomel_arrival_quiet, layout_rooms, serial_shops,
+          nicolae_shop_bloodbath_and_beyond, chequers_ecumenical_altar_lobes
+D:2:      layout_loops_ring, uniq_terence
+
+Action                   || total
+-------------------------++-------
+ Fire: Shortbow          ||    58
+Armor: Leather armour    ||    11
+Dodge: Dodged            ||    13
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |    694 |    653 |     41 |      0 |    522 |   2 |  347.0 |
+       Dungeon |    694 |    653 |     41 |      0 |    522 |   2 |  347.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 660 daAuts
+     D:2: 33 daAuts
+

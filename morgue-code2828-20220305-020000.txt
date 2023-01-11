@@ -1,0 +1,234 @@
+ Dungeon Crawl Stone Soup version 0.29-a0-243-g602b31c (webtiles) character file.
+
+Game seed: 162632956121457479
+
+36 code2828 the Chiller (level 3, -3/19 HPs)
+             Began as a Deep Elf Ice Elementalist on Mar 5, 2022.
+             Killed from afar by Sigmund (9 damage)
+             ... with a puff of flame
+             ... on level 2 of the Dungeon.
+             The game lasted 00:13:35 (2087 turns).
+
+code2828 the Chiller (Deep Elf Ice Elementalist)    Turns: 2087, Time: 00:13:36
+
+Health: -3/19      AC:  2    Str:  5    XL:     3   Next: 19%
+Magic:  10/10      EV: 13    Int: 21    God:    
+Gold:   64         SH:  0    Dex: 15    Spells: 8/9 levels left
+
+rFire   . . .      SeeInvis .   g - +0 hand axe
+rCold   . . .      Faith    .   e - orb {*channel}
+rNeg    . . .      Spirit   .   a - +0 robe
+rPois   .          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   +.........              (no amulet)
+HPRegen 0.06/turn               (no ring)
+MPRegen 0.12/turn               (no ring)
+
+@: confused
+A: no striking features
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 64 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ g - a +0 hand axe (weapon)
+ i - a +0 dagger
+ m - a +0 short sword
+Missiles
+ j - 86 stones
+Armour
+ a - a +0 robe (worn)
+ b - a +0 ring mail
+ d - a +0 ring mail
+ e - an orb of energy (worn)
+ f - a +0 scale mail
+Scrolls
+ c - a scroll of amnesia {unknown}
+ k - a scroll of holy word {unknown}
+ l - a scroll of identify {unknown}
+Potions
+ h - a potion of lignification {unknown}
+
+
+   Skills:
+ + Level 0.3 Axes
+ + Level 2.9 Dodging
+ + Level 3.1 Stealth
+ * Level 3.7 Spellcasting
+ + Level 4.6 Ice Magic
+
+
+You had 8 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Freeze                Ice            92%        1d10      1%          1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Frozen Ramparts          Ice            46%        1d6       5%          3
+ Ozocubu's Armour         Ice            23%        N/A       5%          3
+ Hailstorm                Conj/Ice       13%        3d5       43%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+Annotations:
+D:2 Sigmund
+
+Message History
+
+You see here an adder corpse.
+The kobold shouts! You hear a shout! You hear an angry hiss.
+The giant cockroach barely misses you.
+You see here an adder corpse.
+You freeze the giant cockroach.
+You kill the giant cockroach!
+You freeze the kobold!
+You kill the kobold!
+You start resting.
+Magic restored.
+Things that are here:
+a +0 whip; a kobold corpse; an adder corpse
+Things that are here:
+a +0 whip; a kobold corpse; an adder corpse
+Things that are here:
+a +0 whip; a kobold corpse; an adder corpse
+Things that are here:
+a +0 whip; a kobold corpse; an adder corpse
+Sigmund shouts!
+Things that are here:
+a +0 whip; a kobold corpse; an adder corpse
+Sigmund closely misses you.
+Things that are here:
+a +0 whip; a kobold corpse; an adder corpse
+Sigmund giggles. "Time to reap what you sow."
+Sigmund points at you and mumbles some strange words.
+You are confused.
+You're too confused to cast spells.
+You're too confused to cast spells.
+You're too confused to cast spells.
+You're too confused to cast spells.
+Sigmund screams, "Don't try to resist!"
+Sigmund hits you from afar with a +4 scythe of venom!
+Ouch! That really hurt!
+* * * LOW HITPOINT WARNING * * *
+Sigmund gestures at you while chanting.
+You resist with some effort.
+Sigmund gestures at you while chanting.
+The puff of flame hits you!
+You die...
+
+........                  $..
+........                 ...##.
+ .......             ####......##
+  .....#             .....# #..#.
+   ....#             #....###....
+   #.#.#             #..#......$.
+####.#.###############.####......
+......<.........@..@)............
+##...#.##############..#.....#.<.
+...###.#           #.....#####...
+##   #..           #..####   #..#
+     ##.#       #.....#      #..#
+       ..     .......##      #..#
+       ##.    ..##@##        #..#
+         .    .  #.          #.?#
+                 ..          #..#
+
+
+You could see Sigmund.
+
+Vanquished Creatures
+  An adder (D:2)
+  4 endoplasms
+  A giant cockroach (D:2)
+  4 goblins (D:1)
+  A hobgoblin (D:1)
+  3 jackals (D:1)
+  3 kobolds
+  2 ball pythons (D:1)
+  A bat (D:1)
+  A frilled lizard (D:1)
+  2 rats (D:1)
+23 creatures vanquished.
+
+Vanquished Creatures (others)
+  A fungus (D:2)
+  A plant (D:2)
+2 creatures vanquished.
+
+Grand Total: 25 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Deep Elf Ice Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   524 | D:1      | Reached XP level 2. HP: 5/15 MP: 2/8
+  1947 | D:2      | Noticed Sigmund
+  1979 | D:2      | Reached XP level 3. HP: 19/19 MP: 7/10
+  2087 | D:2      | Killed from afar by Sigmund
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_rooms_with_view, layout_loops_corners,
+          amcnicky_mini_rare_corridor_liquid
+D:2:      layout_rooms, serial_shops, nicolae_shop_advertising_works
+          [nicolae_subvault_shop_adworks], shapermc_ecumenical_altar_rom_forum,
+          uniq_sigmund
+
+Skill      XL: |  1  2 |
+---------------+-------+-----
+Stealth        |     3 |  3.1
+Axes           |       |  0.3
+Dodging        |       |  2.9
+Spellcasting   |       |  3.7
+Ice Magic      |       |  4.6
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||    16
+       Hand axe          ||    13
+Throw: Stone             ||     2
+ Cast: Freeze            ||    29
+  Use: Potion            ||     1
+Armor: Ring mail         ||     6
+       Scale mail        ||    26
+       Robe              ||     3
+Dodge: Dodged            ||    26
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   2092 |   2000 |     92 |    642 |    405 |   2 | 1046.0 |
+       Dungeon |   2092 |   2000 |     92 |    642 |    405 |   2 | 1046.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 1950 daAuts
+     D:2: 141 daAuts
+

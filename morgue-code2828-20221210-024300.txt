@@ -1,0 +1,313 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-424-g7412bad (webtiles) character file.
+
+Game seed: 17308792882357506160
+
+195 code2828 the Magician (level 6, -2/41 HPs)
+             Began as a Djinni Ice Elementalist on Dec 10, 2022.
+             Was an Initiate of Nemelex Xobeh.
+             Slain by Pikel
+             ... wielding a +2 whip of electrocution
+              (11 damage)
+             ... on level 4 of the Dungeon.
+             The game lasted 00:15:54 (3479 turns).
+
+code2828 the Magician (Djinni Ice Elementalist)     Turns: 3479, Time: 00:15:55
+
+Health: -2/41      AC:  4    Str:  7    XL:     6   Next: 4%
+Gold:   74         EV: 11    Int: 18    God:    Nemelex Xobeh [......]
+                   SH:  3    Dex: 14
+
+rFire   + + .      SeeInvis +   f - +1 dagger (venom)
+rCold   x . .      Faith    .   o - +0 buckler
+rNeg    . . .      Spirit   .   g - +0 leather armour
+rPois   ∞          Reflect  .   q - +0 helmet {SInv}
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    +....                   (boots unavailable)
+Stlth   ++........              (no amulet)
+HPRegen 0.26/turn               h - ring of willpower
+MPRegen 0.00/turn               (no ring)
+
+@: flying
+A: sickness immunity, fire resistance 2, cold vulnerability 1, float, innate
+caster, HP casting, extra vitality 1
+a: Renounce Religion, Draw Escape, Draw Destruction, Draw Summoning
+
+
+You were on level 4 of the Dungeon.
+You worshipped Nemelex Xobeh.
+Nemelex Xobeh was noncommittal.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 254 gold pieces.
+You spent 180 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ f - a +1 dagger of venom (weapon)
+Armour
+ a - a +0 robe
+ g - a +0 leather armour (worn)
+ o - a +0 buckler (worn)
+ q - a +0 helmet of see invisible (worn)
+Jewellery
+ h - a ring of willpower (left hand)
+Scrolls
+ d - a scroll of immolation {unknown}
+ i - a scroll of brand weapon {unknown}
+ j - a scroll of torment {unknown}
+ k - a scroll of enchant armour {unknown}
+ l - 2 scrolls of magic mapping {unknown}
+ m - 2 scrolls of identify {unknown}
+ n - 2 scrolls of summoning {unknown}
+ r - a scroll of teleportation {unknown}
+ s - a scroll of vulnerability {unknown}
+Potions
+ b - 2 potions of lignification {unknown}
+ c - 3 potions of haste {unknown}
+ p - a potion of mutation {unknown}
+ t - a potion of degeneration {unknown}
+
+
+   Skills:
+ + Level 0.4 Fighting
+ + Level 0.7 Armour
+ + Level 3.1 Dodging
+ + Level 1.9 Stealth
+ + Level 0.4 Shields
+ + Level 4.8 Spellcasting
+
+
+You couldn't memorise any spells.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Freeze                Ice            84%        1d9       3%          1
+b - Frozen Ramparts       Ice            42%        1d7       12%         3
+c - Ozocubu's Armour      Ice            21%        N/A       12%         3
+d - Summon Ice Beast      Ice/Summ       21%        N/A       36%         4
+e - Shock                 Conj/Air       84%        1d8       3%          1
+f - Momentum Strike       Conj/Tloc      42%        3d9       6%          2
+
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)         Zot: 20521      
+Temple: D:4-7       
+
+Altars:
+Nemelex Xobeh
+Okawaru
+
+Shops:
+D:3 (([:[
+
+Annotations:
+D:4 Pikel
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to sickness and miasma.
+You are immune to poison.
+Your flesh is very heat resistant. (rF++)
+You are vulnerable to cold. (rC-)
+You float through the air rather than walking.
+You learn spells naturally, not from books.
+Your magical power is your life essence.
+You have superior vitality. (+4 MHP)
+
+Message History
+
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f - Pikel
+Aim: Pikel, wielding a +2 whip of electrocution and wearing a +0 robe (lightly
+wounded)
+You freeze Pikel.
+Pikel is moderately wounded.
+Pikel closely misses you.
+Unknown command.
+Aiming: Freeze (safe; 3% risk of failure)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f/p - Pikel
+Aim: Pikel, wielding a +2 whip of electrocution and wearing a +0 robe
+(moderately wounded)
+You freeze Pikel.
+Pikel is moderately wounded.
+Pikel closely misses you.
+Aiming: Freeze (safe; 3% risk of failure)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f/p - Pikel
+Aim: Pikel, wielding a +2 whip of electrocution and wearing a +0 robe
+(moderately wounded)
+You freeze Pikel!
+Pikel is heavily wounded.
+Pikel completely misses you.
+You feel better.
+Pikel scowls and wipes his hands on his robe.
+Pikel hits you with a +2 whip of electrocution!
+* * * LOW HITPOINT WARNING * * *
+You feel better.
+Pikel hits you with a +2 whip of electrocution.
+Aiming: Freeze (safe; 3% risk of failure)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f/p - Pikel
+Aim: Pikel, wielding a +2 whip of electrocution and wearing a +0 robe (heavily
+wounded)
+You freeze Pikel.
+Pikel is severely wounded.
+Pikel hits you with a +2 whip of electrocution.
+* * * LOW HITPOINT WARNING * * *
+Aiming: Freeze (safe; 3% risk of failure)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f/p - Pikel
+Aim: Pikel, wielding a +2 whip of electrocution and wearing a +0 robe (severely
+wounded)
+You freeze Pikel.
+Pikel is severely wounded.
+* * * LOW HITPOINT WARNING * * *
+Pikel hits you with a +2 whip of electrocution!
+You die...
+Your body disappears without a glow.
+
+..#†#...#....#....#.#
+..#....###...###..#.#
+.##...............#.#
+)##..#.).).#..###.#.###
+.#..##.._..##.#  .#...#
+.....#.).).#..#  .....
+..............#  #..
+####...###...####K#
+#  ##...#....# #@##
+#   ##.......####.##
+#    ##............#
+#     #..#########...#
+#######..#       .$......
+.....##..#      ##.#.####
+####.##..#       #.#.#
+   #.##..######. #.#.#
+   #............ ..#.#
+
+
+You could see Pikel.
+
+Vanquished Creatures
+  4 lemures (D:4)
+  A hound (D:4)
+  An orc wizard (D:4)
+  6 adders
+  A worm (D:2)
+  5 dart slugs
+  2 endoplasms
+  6 giant cockroaches
+  13 hobgoblins
+  4 jackals (D:2)
+  A quokka (D:3)
+  9 ball pythons
+  8 bats
+  A frilled lizard (D:2)
+  4 goblins
+  4 kobolds
+  7 rats
+77 creatures vanquished.
+
+Vanquished Creatures (others)
+  A demonic plant (D:1)
+  4 toadstools (D:1)
+5 creatures vanquished.
+
+Grand Total: 82 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Djinni Ice Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | code2828 set off with the following spells memorised:
+                  | Freeze, Frozen Ramparts, Ozocubu's Armour, Summon Ice
+                  | Beast.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 0/0
+   241 | D:1      | Reached XP level 2. HP: 19/21 MP: 0/0
+   532 | D:1      | Found a faded altar of an unknown god.
+   625 | D:1      | Reached XP level 3. HP: 23/25 MP: 0/0
+   625 | D:1      | Learned a level 1 spell: Shock
+  1182 | D:2      | Reached skill level 4 in Spellcasting
+  1243 | D:2      | Reached XP level 4. HP: 30/31 MP: 0/0
+  1255 | D:2      | You are sucked into a shaft and drop 1 floor!
+  1396 | D:3      | Found Pokapa's Book Boutique.
+  1943 | D:2      | Found a sparkling altar of Nemelex Xobeh.
+  2294 | D:3      | Found Dihunil's Armour Emporium.
+  2303 | D:3      | Bought a +0 buckler for 54 gold pieces
+  2456 | D:3      | Reached XP level 5. HP: 33/35 MP: 0/0
+  2456 | D:3      | Learned a level 2 spell: Momentum Strike
+  2558 | D:3      | Found a sparkling altar of Nemelex Xobeh.
+  2568 | D:3      | Found Duacw's Weapon Boutique.
+  2615 | D:3      | Found Kangauj's Armour Boutique.
+  2622 | D:3      | Bought a +0 helmet of see invisible for 126 gold pieces
+  2848 | D:3      | Found Fifi's Weapon Boutique.
+  2984 | D:3      | Became a worshipper of Nemelex Xobeh the Trickster
+  3001 | D:4      | Found an iron altar of Okawaru.
+  3166 | D:4      | Noticed a lemure
+  3166 | D:4      | Noticed a lemure
+  3166 | D:4      | Noticed a lemure
+  3194 | D:4      | Killed a lemure
+  3200 | D:4      | Killed a lemure
+  3328 | D:4      | Noticed Pikel
+  3353 | D:4      | Reached XP level 6. HP: 29/41 MP: 0/0
+  3479 | D:4      | Slain by Pikel
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      ldierk_water_garden, layout_loops_ring, shapermc_ecumenical_altar_gd
+D:2:      layout_loops_cross, basic_altar, minmay_puff
+D:3:      layout_loops_ring, mainiacjoe_overflow_chevrons, serial_shops,
+          shop_fountains, shop, nicolae_shop_behind_doors, nicolae_shop_stone,
+          shop, serial_bayou_crossing
+D:4:      minmay_general_purpose_star, layout_loops_ring,
+          okawaru_ov_weapons_minmay, temple_pool_b, uniq_pikel
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Spellcasting   |        4       |  4.8
+Dodging        |              3 |  3.1
+Fighting       |                |  0.4
+Armour         |                |  0.7
+Stealth        |                |  1.9
+Shields        |                |  0.4
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |     2 |       ||     2
+       Dagger            |     2 |    22 ||    24
+ Cast: Freeze            |    54 |    93 ||   147
+       Shock             |       |    15 ||    15
+  Use: Potion            |       |     3 ||     3
+Armor: Robe              |     8 |     2 ||    10
+       Leather armour    |       |    18 ||    18
+Dodge: Dodged            |    26 |    38 ||    64
+Block: Buckler           |       |    11 ||    11
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   3477 |   3276 |    201 |    178 |   2423 |   4 |  869.2 |
+       Dungeon |   3477 |   3276 |    201 |    178 |   2423 |   4 |  869.2 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:2: 1177 daAuts
+     D:1: 930 daAuts
+     D:3: 878 daAuts
+     D:4: 491 daAuts
+

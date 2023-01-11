@@ -1,0 +1,277 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-451-ge042605 (webtiles) character file.
+
+Game seed: 5776148384923619764
+
+58 code2828 the Skirmisher (level 4, -2/38 HPs)
+             Began as a Gnoll Hunter on Dec 12, 2022.
+             Slain by a gnoll
+             ... wielding a +0 halberd
+              (9 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:03:20 (827 turns).
+
+code2828 the Skirmisher (Gnoll Hunter)               Turns: 827, Time: 00:03:22
+
+Health: -2/38      AC:  8    Str: 12    XL:     4   Next: 2%
+Magic:  5/5        EV:  6    Int:  8    God:    
+Gold:   65         SH:  0    Dex: 16    Spells: 5/5 levels left
+
+rFire   . . .      SeeInvis .   a - +0 shortbow
+rCold   . . .      Faith    .   (shield currently unavailable)
+rNeg    . . .      Spirit   .   d - +0 chain mail
+rPois   .          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    +....                   (no boots)
+Stlth   ..........              (no amulet)
+HPRegen 0.26/turn               (no ring)
+MPRegen 0.09/turn               (no ring)
+
+@: flying, hasted, very quick
+A: fangs 1, strong nose, distributed training, deterioration 1, strong-willed 1,
+wild magic 1
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 65 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 shortbow (weapon)
+Missiles
+ f - 5 boomerangs (quivered)
+Armour
+ c - a +0 leather armour
+ d - a +0 chain mail (worn)
+Scrolls
+ b - a scroll of immolation
+ i - a scroll of identify {unknown}
+
+
+   Skills:
+ + Level 4.6 Fighting
+ + Level 1.0 Short Blades
+ + Level 1.0 Long Blades
+ + Level 1.0 Axes
+ + Level 1.0 Maces & Flails
+ + Level 1.0 Polearms
+ + Level 1.0 Staves
+ + Level 8.5 Ranged Weapons
+ + Level 1.0 Throwing
+ + Level 1.0 Armour
+ + Level 4.6 Dodging
+ + Level 2.5 Stealth
+ + Level 1.0 Shields
+ + Level 1.0 Unarmed Combat
+ + Level 1.0 Spellcasting
+ + Level 0.8 Conjurations
+ + Level 0.8 Hexes
+ + Level 0.8 Summonings
+ + Level 0.8 Necromancy
+ + Level 0.8 Translocations
+ + Level 0.8 Transmutations
+ + Level 0.8 Fire Magic
+ + Level 0.8 Ice Magic
+ + Level 0.8 Air Magic
+ + Level 0.8 Earth Magic
+ + Level 0.8 Poison Magic
+ + Level 1.1 Invocations
+ + Level 1.0 Evocations
+
+
+You had 5 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)         Zot: 11146      
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have very sharp teeth.
+Your uncanny sense of smell can sniff out nearby items.
+Your experience applies equally to all skills.
+Your body sometimes deteriorates upon taking damage.
+You are strong-willed. (Will+)
+Your spells are a little harder to cast, but a little more powerful.
+
+Message History
+
+The arrow hits the gnoll but does no damage.
+The gnoll is severely wounded.
+The gnoll hits you but does no damage.
+Fire: a) +0 shortbow
+Press: ? - help, Shift-Dir - straight line, f/p - gnoll
+Aim: a gnoll, wielding a +0 club (moderately wounded, 69% to hit)
+You shoot an arrow. The arrow hits the gnoll!
+You kill the gnoll!
+The gnoll barely misses you.
+You have reached level 4!
+You feel agile.
+Fire: a) +0 shortbow
+Press: ? - help, Shift-Dir - straight line, f/p - gnoll
+Aim: a gnoll, wielding a +0 club (moderately wounded, 69% to hit)
+You shoot an arrow.
+The arrow hits the gnoll but does no damage.
+The gnoll is severely wounded.
+The gnoll hits you but does no damage.
+Fire: a) +0 shortbow
+Press: ? - help, Shift-Dir - straight line, f/p - gnoll
+Aim: a gnoll, wielding a +0 club (moderately wounded, 69% to hit)
+You shoot an arrow. The arrow barely misses the gnoll.
+The arrow hits the gnoll!
+The gnoll is severely wounded.
+The gnoll barely misses you.
+Fire: a) +0 shortbow
+Press: ? - help, Shift-Dir - straight line, f/p - gnoll
+Aim: a gnoll, wielding a +0 club (moderately wounded, 69% to hit)
+You shoot an arrow.
+The arrow hits the gnoll but does no damage.
+The gnoll is severely wounded.
+The gnoll hits you from afar with a +0 halberd.
+* * * LOW HITPOINT WARNING * * *
+Fire: a) +0 shortbow
+Press: ? - help, Shift-Dir - straight line, f/p - gnoll
+Aim: a gnoll, wielding a +0 club (moderately wounded, 69% to hit)
+You shoot an arrow. The arrow hits the gnoll.
+The gnoll is almost dead.
+The gnoll hits you from afar with a +0 halberd!
+You die...
+
+##.##...#.......
+ #.##.)##.....###
+ #.............
+ ##†..###.######
+  #g###   #
+  #g#
+  #g#
+  #.#
+  #@#
+  #.#    ~
+  #.#
+  #.#
+  #.#
+  #.#
+  #.#
+  #$#
+
+
+You could see 3 gnolls.
+
+Vanquished Creatures
+  2 gnolls (D:2)
+  A dart slug (D:1)
+  2 ball pythons (D:1)
+  2 bats (D:1)
+  3 endoplasms (D:1)
+  A giant cockroach (D:1)
+  3 goblins (D:1)
+  4 hobgoblins
+  3 jackals (D:1)
+  2 frilled lizards
+  7 kobolds (D:1)
+  4 rats (D:1)
+34 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Gnoll Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 20/20 MP: 1/1
+    62 | D:1      | Reached XP level 2. HP: 26/26 MP: 2/2
+   271 | D:1      | Reached XP level 3. HP: 31/31 MP: 3/3
+   601 | D:1      | Reached skill level 1 in Invocations
+   804 | D:2      | Reached skill level 1 in Short Blades
+   804 | D:2      | Reached skill level 1 in Long Blades
+   804 | D:2      | Reached skill level 1 in Axes
+   804 | D:2      | Reached skill level 1 in Maces & Flails
+   804 | D:2      | Reached skill level 1 in Polearms
+   804 | D:2      | Reached skill level 1 in Staves
+   804 | D:2      | Reached skill level 1 in Throwing
+   804 | D:2      | Reached skill level 1 in Armour
+   804 | D:2      | Reached skill level 1 in Shields
+   804 | D:2      | Reached skill level 1 in Unarmed Combat
+   804 | D:2      | Reached skill level 1 in Spellcasting
+   804 | D:2      | Reached skill level 1 in Evocations
+   818 | D:2      | Gained mutation: Your body sometimes deteriorates upon
+                  | taking damage. [potion of mutation]
+   818 | D:2      | Gained mutation: You are strong-willed. (Will+) [potion of
+                  | mutation]
+   818 | D:2      | Gained mutation: Your spells are a little harder to cast,
+                  | but a little more powerful. [potion of mutation]
+   824 | D:2      | Reached XP level 4. HP: 11/38 MP: 5/5
+   827 | D:2      | Slain by a gnoll
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      enne_arrival_octagon_isle, layout_loops_corners
+D:2:      layout_loops_ring, ebering_ecumenical_altar_mist
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Invocations    |        1 |  1.1
+Short Blades   |        1 |  1.0
+Long Blades    |        1 |  1.0
+Axes           |        1 |  1.0
+Maces & Flails |        1 |  1.0
+Polearms       |        1 |  1.0
+Staves         |        1 |  1.0
+Throwing       |        1 |  1.0
+Armour         |        1 |  1.0
+Shields        |        1 |  1.0
+Unarmed Combat |        1 |  1.0
+Spellcasting   |        1 |  1.0
+Evocations     |        1 |  1.0
+Fighting       |          |  4.6
+Ranged Weapons |          |  8.5
+Dodging        |          |  4.6
+Stealth        |          |  2.5
+Conjurations   |          |  0.8
+Hexes          |          |  0.8
+Summonings     |          |  0.8
+Necromancy     |          |  0.8
+Translocations |          |  0.8
+Transmutations |          |  0.8
+Fire Magic     |          |  0.8
+Ice Magic      |          |  0.8
+Air Magic      |          |  0.8
+Earth Magic    |          |  0.8
+Poison Magic   |          |  0.8
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+ Fire: Shortbow          |    89 |     4 ||    93
+Throw: Boomerang         |     1 |       ||     1
+  Use: Potion            |     3 |       ||     3
+Armor: Chain mail        |    16 |     1 ||    17
+       Leather armour    |     2 |       ||     2
+Dodge: Dodged            |    31 |     1 ||    32
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |    852 |    848 |      4 |      0 |    643 |   2 |  426.0 |
+       Dungeon |    852 |    848 |      4 |      0 |    643 |   2 |  426.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 793 daAuts
+     D:2: 58 daAuts
+

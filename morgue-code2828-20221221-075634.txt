@@ -1,0 +1,358 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-475-g03497ec (webtiles) character file.
+
+Game seed: 8207543039487602789
+
+2046 code2828 the Firebug (level 9, -1/78 HPs)
+             Began as a Pale Draconian Cinder Acolyte on Dec 21, 2022.
+             Was a High Priest of Ignis.
+             Slain by a sky beast (4 damage)
+             ... on level 7 of the Dungeon.
+             The game lasted 00:19:53 (5406 turns).
+
+code2828 the Firebug (DrCA)                         Turns: 5406, Time: 00:19:55
+
+Health: -1/78      AC:  9    Str: 17    XL:     9   Next: 4%
+Magic:  16/16      EV: 11    Int: 17    God:    Ignis [*****.]
+Gold:   224        SH:  0    Dex: 10    Spells: 15/17 levels left
+
+rFire   + . .      SeeInvis .   D - +10 hammer "Xorrigil" {freeze, +Blink Will++ Int+2}
+rCold   + . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   (body armour unavailable)
+rPois   .          Reflect  .   (helmet restricted)
+rElec   .          Harm     .   a - +0 cloak
+rCorr   +          Rampage  .   (no gloves)
+Will    ++...                   o - +0 pair of boots
+Stlth   +.........              (no amulet)
+HPRegen 0.33/turn               k - ring of protection from cold
+MPRegen 0.15/turn               u - ring of resist corrosion
+
+@: about to teleport, short of breath, attractive, on blink cooldown
+A: breathe steam, AC +7, unfitting armour, cold-blooded, steam resistance
+a: Breathe Steam, Renounce Religion, Evoke Blink, Fiery Armour, Foxfire Swarm,
+Rising Flame
+
+
+You were on level 7 of the Dungeon.
+You worshipped Ignis.
+Ignis was extremely pleased with you.
+You visited 2 branches of the dungeon, and saw 8 of its levels.
+
+You collected 224 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ D - the +10 hammer "Xorrigil" (weapon) {freeze, +Blink Will++ Int+2}
+   (You found it on level 5 of the Dungeon)   
+   
+   It freezes those it strikes, dealing additional cold damage. It can also
+   slow down cold-blooded creatures.
+   
+   Int:       It affects your intelligence (+2).
+   +Blink:    It lets you blink.
+   Will:      It greatly increases your willpower.
+Armour
+ a - a +0 cloak (worn)
+ o - a +0 pair of boots (worn)
+Jewellery
+ k - a ring of protection from cold (left hand)
+ u - a ring of resist corrosion (right hand)
+ B - a +6 ring of intelligence
+Wands
+ l - a wand of flame (15)
+ s - a wand of digging (1)
+ t - a wand of iceblast (9)
+Scrolls
+ c - a scroll of brand weapon {unknown}
+ f - 12 scrolls of identify {unknown}
+ g - a scroll of torment {unknown}
+ h - 3 scrolls of teleportation
+ q - a scroll of immolation {unknown}
+ w - a scroll of enchant weapon {unknown}
+ y - a scroll of noise {unknown}
+ z - 2 scrolls of magic mapping {unknown}
+ A - 2 scrolls of fear {unknown}
+ C - a scroll of blinking {unknown}
+ E - 2 scrolls of vulnerability {unknown}
+Potions
+ b - 2 potions of cancellation {unknown}
+ d - a potion of flight {unknown}
+ i - a potion of invisibility {unknown}
+ j - a potion of attraction
+ m - a potion of lignification {unknown}
+ n - a potion of brilliance {unknown}
+ p - a potion of mutation {unknown}
+ v - a potion of degeneration {unknown}
+ x - a potion of magic {unknown}
+
+
+   Skills:
+ + Level 6.4 Fighting
+ * Level 6.3 Maces & Flails
+ - Level 3.1 Polearms
+ + Level 4.7 Spellcasting
+ + Level 6.8 Fire Magic
+ + Level 3.8 Air Magic
+
+
+You had 15 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Scorch                Fire           54%        2d8       1%          2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Static Discharge         Conj/Air       20%        2-3/arc   10%         2
+ Necrotise                Necr           16%        1d4       14%         1
+ Vhi's Electric Charge    Tloc/Air       20%        N/A       21%         3
+ Vampiric Draining        Necr           4%         2d6       41%         3
+ Arcjolt                  Conj/Air       5%         1d15      88%         5
+ Lightning Bolt           Conj/Air       5%         1d17      88%         5
+ Agony                    Necr           4%         N/A       99%         5
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)         Zot: 26718       Temple (1/1) D:4      Zot: 5769       
+
+Altars:
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+
+
+Innate Abilities, Weirdness & Mutations
+
+You can breathe blasts of scalding, opaque steam.
+Your pale cyan-grey scales are hard. (AC +7)
+You cannot fit into any form of body armour.
+You are cold-blooded and may be slowed by cold attacks.
+You are immune to the effects of steam.
+
+Message History
+
+Press: ? - help, Shift-Dir - straight line, f - ice beast
+Aim: an ice beast (lightly wounded, 71% to hit)
+You exhale a blast of scalding steam. The ball of steam hits the ice beast!
+The ice beast is moderately wounded.
+The sky beast hits you but does no damage.
+The ice beast barely misses you.
+Okay, then.
+Okay, then.
+Okay, then.
+It was a potion of attraction.
+You feel attractive to monsters.
+A steam dragon comes into view.
+The ice beast hits you.
+* * * LOW HITPOINT WARNING * * *
+The ice beast freezes you. You resist.
+* * * LOW HITPOINT WARNING * * *
+The sky beast hits you but does no damage.
+The steam dragon is attracted toward you.
+You feel better. The steam dragon bites you.
+* * * LOW HITPOINT WARNING * * *
+The steam dragon barely misses you. The sky beast hits you.
+* * * LOW HITPOINT WARNING * * *
+The sky beast shocks you.
+* * * LOW HITPOINT WARNING * * *
+The ice beast is engulfed in a cloud of scalding steam.
+The ice beast closely misses you.
+You feel better. The steam dragon bites you.
+* * * LOW HITPOINT WARNING * * *
+The steam dragon claws you.
+* * * LOW HITPOINT WARNING * * *
+The ice beast misses you.
+The sky beast is engulfed in a cloud of scalding steam.
+The sky beast barely misses you.
+As you read the scroll labelled MIOTEU XYSIUM, it crumbles to dust.
+You feel strangely unstable. It was a scroll of teleportation.
+The steam dragon bites you but does no damage.
+The steam dragon closely misses you.
+The sky beast is engulfed in a cloud of scalding steam.
+The sky beast hits you.
+You die...
+
+   ##......#     ###
+    ##.....##
+     #..#...##    ####.
+     #.####..####...<.#
+     #.   ##......(..#
+     #.    ##..##....#
+    ##.     #§###..##
+   ##..#   ##.I§..#
+    ....## #.@I§..#
+      #..###D.....#
+      ##........(.#
+      #..####.....#
+ ##   #§##  ##....#
+ .#  ##§#    ##...#
+#.## #§.#     #.....
+#..###I##      ..###
+#.......#     ..##
+
+
+You could see a steam dragon, an ice beast and a sky beast.
+
+Vanquished Creatures
+  A hornet (D:7)
+  Sigmund (D:2)
+  A steam dragon (D:6)
+  An ice beast (D:7)
+  2 ogres
+  A phantom (D:5)
+  2 necrophages
+  A bullfrog (D:7)
+  2 scorpions (D:5)
+  4 wights (D:6)
+  3 howler monkeys
+  2 jellies
+  Crazy Yiuf (D:5)
+  2 hounds
+  3 orc priests (D:6)
+  Ijyb (D:3)
+  An iguana (D:4)
+  2 orc wizards
+  9 adders
+  6 worms
+  4 dart slugs
+  36 orcs
+  7 endoplasms
+  5 giant cockroaches
+  7 goblins
+  8 hobgoblins
+  5 jackals
+  5 quokkas
+  6 ball pythons
+  10 bats
+  A frilled lizard (D:1)
+  10 kobolds
+  4 rats
+154 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Draconian Cinder Acolyte began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 2/2
+   108 | D:1      | Reached XP level 2. HP: 22/26 MP: 3/3
+   357 | D:1      | Learned a level 2 spell: Scorch
+   437 | D:1      | Reached XP level 3. HP: 29/33 MP: 5/5
+  1098 | D:2      | Noticed Sigmund
+  1115 | D:2      | Killed Sigmund
+  1116 | D:2      | Reached XP level 4. HP: 19/41 MP: 5/7
+  1116 | D:2      | Reached XP level 5. HP: 22/47 MP: 5/8
+  1496 | D:3      | Found a radiant altar of Vehumet.
+  1498 | D:3      | Found a shimmering blue altar of Sif Muna.
+  1811 | D:3      | Reached XP level 6. HP: 41/53 MP: 10/10
+  2037 | D:3      | Noticed Ijyb
+  2046 | D:3      | Killed Ijyb
+  2272 | D:3      | Reached skill level 1 in Polearms
+  2353 | D:3      | Found a faded altar of an unknown god.
+  2975 | D:4      | Reached skill level 5 in Fighting
+  2975 | D:4      | Your scales start taking on a pale cyan-grey colour.
+  2975 | D:4      | Reached skill level 5 in Fire Magic
+  2975 | D:4      | Reached XP level 7. HP: 61/61 MP: 11/11
+  2975 | D:4      | Gained mutation: You are immune to the effects of steam.
+                  | [Pale Draconian growth]
+  3133 | D:4      | Found a staircase to the Ecumenical Temple.
+  3183 | Temple   | Entered the Ecumenical Temple
+  3764 | D:5      | Entered Level 5 of the Dungeon
+  3853 | D:5      | Reached skill level 1 in Air Magic
+  3945 | D:5      | Found a runed translucent door.
+  3946 | D:5      | Noticed Crazy Yiuf
+  3952 | D:5      | Killed Crazy Yiuf
+  3981 | D:5      | Identified the +7 hammer of Sequestration {vorpal, Str+3}
+  3982 | D:5      | Identified the +10 hammer "Xorrigil" {freeze, +Blink Will++
+                  | Int+2}
+  4401 | D:6      | Reached XP level 8. HP: 69/69 MP: 13/13
+  4465 | D:6      | Reached skill level 5 in Maces & Flails
+  5372 | D:7      | Noticed a hornet
+  5387 | D:7      | Killed a hornet
+  5399 | D:7      | Reached XP level 9. HP: 22/78 MP: 16/16
+  5403 | D:7      | HP: 2/78 [ice beast (3)]
+  5406 | D:7      | Slain by a sky beast
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      amcnicky_arrival_blooded_trapdoor, layout_loops_ring
+D:2:      layout_rooms, st_stairs_4, uniq_sigmund
+D:3:      minmay_diamond_boxcup, layout_basic,
+          mainiacjoe_overflow_catwalk_spiral, nicolae_ecumenical_snake_handling,
+          uniq_ijyb
+D:4:      layout_basic, minmay_temple_entry_glassed_door, minivault_24
+D:5:      layout_loops_ring, uniq_crazy_yiuf_cottage, uniq_grinder
+D:6:      layout_rooms, minmay_misc_feat_diagonals
+D:7:      layout_layer_cave, mainiacjoe_overflow_catwalk,
+          mainiacjoe_overflow_small_starburst
+Temple:   minmay_temple_bridge_d
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Fighting       |        4        5     6 |  6.4
+Maces & Flails |        4              6 |  6.3
+Spellcasting   |        2        3     4 |  4.7
+Fire Magic     |        4        5     6 |  6.8
+Polearms       |                 2  3    |  3.1
+Air Magic      |                    2  3 |  3.8
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Mace              |   117 |    76 |   108 ||   301
+       Tailslap          |     9 |    12 |    11 ||    32
+       Punch             |     3 |       |       ||     3
+       Glaive            |       |    86 |    52 ||   138
+Invok: Fiery Armour      |     1 |       |     1 ||     2
+ Abil: Breathe Steam     |       |       |     3 ||     3
+       Evoke Blink       |       |       |     2 ||     2
+Evoke: Wand              |       |       |     3 ||     3
+  Use: Potion            |       |       |     6 ||     6
+       Scroll            |       |       |     1 ||     1
+Armor: Skin              |    57 |    65 |    57 ||   179
+Dodge: Dodged            |    77 |   102 |   114 ||   293
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   5567 |   5296 |    271 |    216 |   3850 |   8 |  695.9 |
+       Dungeon |   5336 |   5073 |    263 |    216 |   3639 |   7 |  762.3 |
+        Temple |    230 |    222 |      8 |      0 |    211 |   1 |  230.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:3: 1257 daAuts
+     D:4: 1094 daAuts
+     D:6: 898 daAuts
+     D:1: 829 daAuts
+     D:2: 550 daAuts
+     D:5: 548 daAuts
+  Temple: 230 daAuts
+     D:7: 158 daAuts
+

@@ -1,0 +1,534 @@
+ Dungeon Crawl Stone Soup version 0.27.1-35-g4d5d836 (webtiles) character file.
+
+Game seed: 3289556393439247831
+
+38193 code2828 the Spear-Bearer (level 13, -6/116 HPs)
+             Began as a Minotaur Berserker on Dec 22, 2022.
+             Was an Elder of Trog.
+             Collided with some lava (11 damage)
+             ... caused by a swamp worm
+             ... on level 1 of the Lair of Beasts on Dec 23, 2022.
+             The game lasted 00:56:45 (20082 turns).
+
+code2828 the Spear-Bearer (Minotaur Berserker)     Turns: 20082, Time: 00:56:45
+
+Health: -6/116     AC: 18    Str: 30    XL:     13   Next: 62%
+Magic:  12/12      EV: 15    Int:  4    God:    Trog [****..]
+Gold:   437        SH: 13    Dex: 13    Spells: 12/12 levels left
+
+rFire    . . .     SeeInvis .   P - +2 demon trident
+rCold    . . .     Faith    .   D - +0 kite shield
+rNeg     + . .     Spirit   .   J - +0 plate armour
+rPois    .         Reflect  .   (helmet restricted)
+rElec    .         Harm     .   g - +0 cloak
+rCorr    .         Rampage  .   a - +0 pair of gloves
+Will     .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.29/turn              m - +4 ring of evasion
+MPRegen  0.13/turn              u - ring "Tuemneel" {rN+ Str+6}
+
+@: lethally poisoned (-6 -> -40)
+A: horns 2, retaliatory headbutt
+a: Renounce Religion, Berserk, Trog's Hand, Brothers in Arms
+
+
+You were on level 1 of the Lair of Beasts.
+You worshipped Trog.
+Trog was greatly pleased with you.
+You visited 2 branches of the dungeon, and saw 16 of its levels.
+You also visited: Ossuary.
+
+You collected 830 gold pieces.
+You spent 393 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ B - a +0 hand crossbow of freezing
+ I - a +4 vorpal glaive
+ P - a +2 demon trident (weapon)
+Armour
+ a - a +0 pair of gloves (worn)
+ g - a +0 cloak (worn)
+ D - a +0 kite shield (worn)
+ J - a +0 plate armour (worn)
+Jewellery
+ m - a +4 ring of evasion (left hand)
+ u - a ring "Tuemneel" (right hand) {rN+ Str+6}
+   (You found it on level 14 of the Dungeon)   
+   
+   [ring of strength]
+   
+   Str:       It affects your strength (+6).
+   rN:        It protects you from negative energy.
+Wands
+ f - a wand of charming (9)
+ p - a wand of iceblast (8)
+ y - a wand of polymorph (11)
+ A - a wand of flame (35)
+ C - a wand of digging (7)
+ O - a wand of mindburst (22)
+Scrolls
+ b - a scroll of holy word {unknown}
+ h - 11 scrolls of teleportation
+ i - 3 scrolls of torment
+ j - 4 scrolls of noise
+ n - 4 scrolls of amnesia
+ o - 2 scrolls of blinking
+ r - 5 scrolls of brand weapon
+ s - a scroll of enchant weapon {unknown}
+ t - 5 scrolls of identify
+ E - 2 scrolls of acquirement
+ G - a scroll of fog {unknown}
+ K - a scroll of magic mapping {unknown}
+ L - 3 scrolls of enchant armour
+ M - a scroll of summoning {unknown}
+Potions
+ c - a potion of invisibility {unknown}
+ d - 6 potions of flight
+ e - 5 potions of haste
+ k - 3 potions of berserk rage
+ l - 4 potions of lignification
+ q - a potion of cancellation {unknown}
+ v - a potion of resistance {unknown}
+ w - 4 potions of curing
+ x - 2 potions of degeneration
+ F - a potion of ambrosia {unknown}
+ H - a potion of attraction {unknown}
+ N - a potion of mutation {unknown}
+ Q - a potion of magic {unknown}
+
+
+   Skills:
+ + Level 11.2 Fighting
+ * Level 14.6 Polearms
+ * Level 9.1 Crossbows
+ + Level 11.4 Armour
+ * Level 9.9 Dodging
+ + Level 5.3 Stealth
+ * Level 9.9 Shields
+
+
+You had 12 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (15/15)            Temple (0/1) D:6            Lair (1/6) D:11
+    Orc (0/2) D:9          Vaults (0/5) D:14        Ossuary (visited)
+Depths: D:15        
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Nemelex Xobeh
+Qazlal
+Ru
+Trog
+Uskayaw
+Yredelemnul
+The Shining One
+
+Shops:
+D:4 *   D:5 ([?:   D:6 *((:(   D:7 [   D:10 !
+
+Annotations:
+Lair:1 1 transporter, exclusion: 2 oklob plants
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+You struggle against the net.
+The swamp worm fires a harpoon shot at you.
+The harpoon shot hits you!!
+You are yanked forward by the harpoon shot.
+You violently stop moving!
+You are struck by the briar patch's thorns.
+You puncture the briar patch!
+The briar patch is severely damaged.
+You are engulfed in dark miasma.
+You are poisoned. You feel very sick.
+You are struck by the briar patch's thorns.
+You hit the briar patch.
+You destroy the briar patch!
+You are engulfed in dark miasma.
+You are lethally poisoned!
+* * * LOW HITPOINT WARNING * * * x2
+You feel extremely sick.
+The swamp worm fires a harpoon shot at you.
+The harpoon shot hits you!
+* * * LOW HITPOINT WARNING * * *
+You are yanked forward by the harpoon shot.
+You violently stop moving!
+You feel much better. You are engulfed in dark miasma.
+You are lethally poisoned!
+* * * LOW HITPOINT WARNING * * *
+You feel extremely sick.
+The swamp worm fires a harpoon shot at you.
+The harpoon shot misses you.
+Really walk into that net trap? 
+[Y]es or [N]o only, please.
+Really walk into that net trap? 
+You become entangled in the net!
+* * * LOW HITPOINT WARNING * * *
+You feel extremely sick.
+The swamp worm fires a harpoon shot at you.
+The harpoon shot hits you!
+* * * LOW HITPOINT WARNING * * *
+You are yanked forward by the harpoon shot.
+You violently stop moving!
+You die...
+
+....##           ##...##...######
+...##     ########......#...#
+..#.#   ###...............#.##
+.####   #...#########...).#..###
+##    ###...##w#♣#w##......#...#
+#  ####.#..##§§{{#{{####...##..##
+ ###.......#PPPPP§PP#$[#...###..#
+##......##©#§^§^^^^°+!©#©..##...#
+##.........#PPPP@.PP#)"#...P#.P..
+#..........##§{§#{{{####...#####.
+............#♣#w#♣#w#.......#  #.
+............#########.....###  #P
+.......................####    ##
+#.............f#########
+#...........####
+##.........##
+ #.........#              ##### #
+
+
+You could see 4 swamp worms.
+
+Vanquished Creatures
+  Azrael (D:14)
+  An ogre mage (D:14)
+  4 hydras
+  A boulder beetle (D:14)
+  5 centaur warriors
+  3 two-headed ogres
+  A catoblepas (D:14)
+  Nergalle (D:11)
+  A skeletal warrior (D:14)
+  2 deep elf pyromancers (D:14)
+  The ghost of lobf the Cleaver, a novice MiBe of Trog (D:5)
+  An orb spider (shapeshifter) (D:13)
+  11 ugly things
+  3 cyclopes
+  2 manticores
+  Maurice (D:8)
+  A cane toad (Lair:1)
+  4 centaur skeletons (D:14)
+  2 gargoyles (D:12)
+  A rime drake (Lair:1)
+  An efreet (D:13)
+  A komodo dragon (D:11)
+  Psyche (D:8)
+  A troll (D:11)
+  8 slime creatures
+  A wolf spider simulacrum (D:12)
+  2 wraiths
+  2 wyverns (D:11)
+  2 steam dragons
+  21 yaks
+  3 basilisks
+  2 fire elementals (D:13)
+  7 vampire mosquitoes
+  3 wargs (D:9)
+  5 acid dragons
+  7 water moccasins
+  2 hell hounds
+  A hornet zombie (D:9)
+  An orc warrior (D:9)
+  Duvessa (D:7)
+  2 ice beasts
+  5 sky beasts
+  A necrophage (D:4)
+  A boggart (D:14)
+  11 centaurs
+  7 ogres
+  2 phantoms
+  An elf zombie (Ossuary)
+  7 kobold brigands
+  2 bullfrogs
+  4 scorpions
+  Dowan (D:7)
+  4 wights (D:9)
+  4 howler monkeys
+  A bullfrog zombie (D:6)
+  3 centaur zombies
+  2 gnoll shamans
+  2 human zombies (Ossuary)
+  A jelly (D:5)
+  A bullfrog skeleton (D:7)
+  3 hounds
+  2 orc priests
+  11 orc wizards
+  2 iguanas (D:5)
+  A killer bee zombie (D:8)
+  4 mummies (Ossuary)
+  A hound skeleton (D:5)
+  A howler monkey skeleton (D:5)
+  14 gnolls
+  7 adders
+  A shadow imp (D:7)
+  4 white imps
+  3 ufetubi
+  An adder zombie (Ossuary)
+  4 worms
+  2 dart slugs (D:4)
+  24 orcs
+  4 bats
+  7 endoplasms
+  A giant cockroach (D:2)
+  6 goblins
+  19 hobgoblins
+  10 jackals
+  3 quokkas (D:3)
+  7 ball pythons
+  5 frilled lizards
+  A goblin zombie (Ossuary)
+  A hobgoblin zombie (Ossuary)
+  A jackal zombie (Ossuary)
+  36 kobolds
+  2 kobold zombies (Ossuary)
+  2 orc zombies (Ossuary)
+  3 rats (D:2)
+  A rat zombie (Ossuary)
+  A briar patch (Lair:1)
+376 creatures vanquished.
+
+Vanquished Creatures (others)
+  A wizard (D:10)
+  A fungus (D:5)
+  3 plants (D:5)
+  A withered plant (D:14)
+6 creatures vanquished.
+
+Grand Total: 382 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Minotaur Berserker began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+    26 | D:1      | Found a faded altar of an unknown god.
+   283 | D:1      | Reached skill level 4 in Polearms
+   330 | D:1      | Reached XP level 2. HP: 27/27 MP: 1/1
+   661 | D:2      | Reached XP level 3. HP: 29/33 MP: 2/2
+  1001 | D:2      | Reached ** piety under Trog
+  1035 | D:2      | Reached XP level 4. HP: 41/41 MP: 3/3
+  1300 | D:2      | Reached skill level 5 in Polearms
+  1384 | D:3      | Reached skill level 5 in Fighting
+  1385 | D:3      | Found a hide-covered altar of Uskayaw.
+  1585 | D:3      | Reached XP level 5. HP: 48/48 MP: 4/4
+  1627 | D:3      | Found a hazy altar of Hepliaklqana.
+  1960 | D:3      | Reached *** piety under Trog
+  2074 | D:4      | Noticed an ogre
+  2074 | D:4      | Noticed a phantom
+  2095 | D:3      | Killed a phantom
+  2096 | D:3      | Reached XP level 6. HP: 50/56 MP: 5/5
+  2107 | D:4      | Reached skill level 6 in Polearms
+  2300 | D:4      | Reached skill level 5 in Armour
+  2363 | D:4      | Reached XP level 7. HP: 61/62 MP: 6/6
+  2508 | D:4      | Reached skill level 7 in Polearms
+  2545 | D:4      | Found Giboff's Elemental Accessories.
+  2659 | D:5      | Entered Level 5 of the Dungeon
+  2665 | D:5      | Found a runed translucent gate.
+  2665 | D:5      | Noticed lobf's ghost (novice MiBe)
+  2666 | D:5      | Found a runed translucent gate.
+  2667 | D:5      | Found a runed translucent gate.
+  2948 | D:4      | Reached skill level 8 in Polearms
+  3074 | D:5      | Reached XP level 8. HP: 30/71 MP: 7/7
+  3474 | D:5      | Found Keots's Book Shoppe.
+  3476 | D:5      | Found Umpoip's Magic Scroll Shoppe.
+  3477 | D:5      | Found Cocanu Ozacs's Armour Shoppe.
+  3477 | D:5      | Found Puhiomp's Weapon Shoppe.
+  3526 | D:5      | Reached skill level 9 in Polearms
+  3659 | D:5      | Bought a scroll of teleportation for 33 gold pieces
+  3659 | D:5      | Bought a scroll of teleportation for 33 gold pieces
+  3659 | D:5      | Bought a scroll of blinking for 82 gold pieces
+  4204 | D:5      | Killed lobf's ghost
+  4205 | D:5      | Reached skill level 10 in Polearms
+  4217 | D:5      | Reached **** piety under Trog
+  4322 | D:6      | Found Xolo's Book Shop.
+  4323 | D:6      | Found a staircase to the Ecumenical Temple.
+  4341 | D:6      | Reached XP level 9. HP: 80/80 MP: 8/8
+  4349 | D:6      | Found an opulent altar of Gozag.
+  4403 | D:6      | Found a sand-covered staircase.
+  4643 | Ossuary  | Entered an ossuary
+  5145 | D:6      | Found Ovidad's Weapon Emporium.
+  5585 | D:6      | Found a large runed translucent door.
+  5586 | D:6      | Found a large runed translucent door.
+  5607 | D:6      | Found Ydixkuh's Weapon Boutique.
+  5666 | D:6      | Found Moedim's Assorted Antiques.
+  5689 | D:6      | Found Voym's Antique Weapon Shop.
+  5923 | D:6      | Found a blossoming altar of Fedhas.
+  5943 | D:6      | Found a glowing golden altar of the Shining One.
+  5951 | D:6      | Reached skill level 11 in Polearms
+  6040 | D:7      | Noticed Dowan
+  6058 | D:7      | Noticed Duvessa
+  6065 | D:7      | Killed Duvessa
+  6070 | D:7      | Killed Dowan
+  6212 | D:7      | Found a snail-covered altar of Cheibriados.
+  6243 | D:7      | Found Mubuffis's Antique Armour Shoppe.
+  6867 | D:7      | Found a sparkling altar of Nemelex Xobeh.
+  6978 | D:7      | Reached ***** piety under Trog
+  7598 | D:6      | Bought a glowing spear for 102 gold pieces
+  7899 | D:8      | Noticed Psyche
+  7919 | D:8      | Killed Psyche
+  7920 | D:8      | Reached skill level 1 in Stealth
+  7920 | D:8      | Reached skill level 1 in Shields
+  7920 | D:8      | Reached XP level 10. HP: 55/91 MP: 9/9
+  8142 | D:8      | Noticed Maurice
+  8144 | D:8      | Reached skill level 1 in Crossbows
+  8158 | D:8      | Killed Maurice
+  8220 | D:8      | Found a basalt altar of Yredelemnul.
+  9194 | D:9      | Found a broken altar of Ashenzari.
+  9312 | D:9      | Found a shadowy altar of Dithmenos.
+  9478 | D:9      | Reached skill level 12 in Polearms
+  9486 | D:9      | Reached skill level 5 in Dodging
+  9634 | D:9      | Found a staircase to the Orcish Mines.
+  9734 | D:9      | Noticed a centaur warrior
+  9748 | D:9      | Killed a centaur warrior
+  9804 | D:9      | Noticed a manticore
+  9821 | D:9      | Killed a manticore
+ 10329 | D:9      | Found an ancient bone altar of Kikubaaqudgha.
+ 10452 | D:10     | Entered Level 10 of the Dungeon
+ 10541 | D:10     | Identified the ring of Hapyseng {Ice MP+9 Int+3}
+ 10554 | D:10     | Found a stormy altar of Qazlal.
+ 10560 | D:10     | Found Ushunucoqy's Distillery.
+ 10586 | D:9      | Received a gift from Trog
+ 10778 | D:10     | Noticed a two-headed ogre
+ 10787 | D:10     | Killed a two-headed ogre
+ 10788 | D:10     | Reached skill level 10 in Armour
+ 10788 | D:10     | Reached XP level 11. HP: 97/97 MP: 10/10
+ 10848 | D:10     | Bought a potion of heal wounds for 55 gold pieces
+ 10848 | D:10     | Bought a potion of heal wounds for 55 gold pieces
+ 10848 | D:10     | Bought a potion of lignification for 33 gold pieces
+ 10895 | D:10     | Reached skill level 5 in Shields
+ 10988 | D:10     | You fall into a shaft and drop 2 floors!
+ 10988 | D:12     | Noticed an eight-headed hydra
+ 11236 | D:12     | Noticed a two-headed ogre
+ 11244 | D:12     | Killed a two-headed ogre
+ 11245 | D:12     | Noticed a green ugly thing
+ 11263 | D:12     | Killed a green ugly thing
+ 11273 | D:12     | Reached skill level 5 in Crossbows
+ 11890 | D:10     | Found a white marble altar of Elyvilon.
+ 11914 | D:10     | Found a bloodstained altar of Trog.
+ 11918 | D:10     | Noticed a wizard
+ 11922 | D:10     | Killed a wizard
+ 12046 | D:10     | Found a sacrificial altar of Ru.
+ 12222 | D:11     | Noticed Nergalle
+ 12241 | D:11     | Killed Nergalle
+ 12242 | D:11     | Reached skill level 10 in Fighting
+ 12242 | D:11     | Reached skill level 13 in Polearms
+ 12544 | D:11     | Identified the +2 robe "Haruuch" {+Blink Str+7}
+ 12788 | D:11     | Found a staircase to the Lair.
+ 13446 | D:11     | Reached XP level 12. HP: 106/106 MP: 11/11
+ 13712 | D:12     | Killed an eight-headed hydra
+ 13923 | D:12     | Noticed an eight-headed hydra
+ 13924 | D:12     | Noticed a five-headed hydra
+ 13945 | D:12     | Killed a five-headed hydra
+ 13949 | D:12     | Killed an eight-headed hydra
+ 14329 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 14803 | D:13     | Noticed a centaur warrior
+ 14819 | D:13     | Killed a centaur warrior
+ 14848 | D:13     | Noticed a centaur warrior
+ 14862 | D:13     | Killed a centaur warrior
+ 15218 | D:14     | Noticed Azrael
+ 15532 | D:14     | Killed Azrael
+ 15533 | D:14     | Received a gift from Trog
+ 15684 | D:14     | Reached skill level 14 in Polearms
+ 15875 | D:14     | Noticed a centaur warrior
+ 15889 | D:14     | Killed a centaur warrior
+ 15890 | D:14     | Reached XP level 13. HP: 71/115 MP: 12/12
+ 16682 | D:14     | Identified a ring "Tuemneel" {rN+ Str+6}
+ 16688 | D:14     | Identified 2 scrolls of acquirement
+ 17268 | D:14     | Found a gate to the Vaults.
+ 17291 | D:14     | Found a basalt altar of Yredelemnul.
+ 17711 | D:14     | Reached skill level 5 in Stealth
+ 18506 | D:15     | Entered Level 15 of the Dungeon
+ 18643 | Lair:1   | Found a transporter.
+ 18912 | Lair:1   | Found a transporter.
+ 19061 | Lair:1   | Found a blossoming altar of Fedhas.
+ 20082 | Lair:1   | HP: 5/116 [swamp worm/harpoon shot (16)]
+ 20082 | Lair:1   | Collided with some lava
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      amcnicky_arrival_flooded_fountain, layout_basic,
+          hellmonk_ecumenical_altar_arch_garden
+D:2:      layout_rooms
+D:3:      layout_rooms, mainiacjoe_overflow_catch_the_wave
+D:4:      layout_rooms, nicolae_elemental_shop, corner_web_ring
+D:5:      layout_loops_ring, gammafunk_ghost_nasty_kobolds,
+          minmay_shop_grid_forest, amcnicky_mini_pool_medium
+D:6:      layout_rooms, jmf_multi_god_temple2, nicolae_gozag_seed_capital,
+          minmay_temple_entry_statues_pillars,
+          nicolae_ossuary_entry_false_entrances, serial_shops,
+          nicolae_stop_n_shop_1, kennysheep_mini, nicolae_shop_window_shopping,
+          shop, shop, minmay_strange_pillars, dk_noncrumbling_3
+D:7:      corexii_shantytown, layout_loops_cross,
+          nemelex_xobeh_ov_fountains_minmay, chei_slow_surprise, serial_shops,
+          nicolae_shop_overgrown_old_shop, chequers_serial_rivers_marsh,
+          kennysheep_generic_room_2, uniq_duvessa
+D:8:      layout_layer_cave, marbit_many_paths, uniq_psyche, uniq_maurice
+D:9:      layout_roguey, mainiacjoe_overflow_paths, evilmike_ruin_ashenzari,
+          kennysheep_little_box, minmay_orc_entry_guard_dogs,
+          minmay_misc_feat_tower, minmay_three_doors
+D:10:     layout_basic, elyvilon_altar_1, nicolae_ru_path_of_blood,
+          grunt_qazlal_clouds, trog_wizard, serial_shops, nicolae_shop_trees
+D:11:     layout_loops_ring, erik_lair_dragon, uniq_nergalle
+D:12:     layout_rooms, st_stairs_8
+D:13:     layout_rooms
+D:14:     layout_roguey, hangedman_vaults_entry_quadrant_bands,
+          yredelemnul_altar_generic, uniq_azrael
+D:15:     hangedman_depths_entry_civil_slaughter, layout_cave_pods,
+          serial_shops, shop, nicolae_diamond_shop, shop, nrook_mini_backslash,
+          minivault_7, uniq_rupert
+Lair:1:   gammafunk_worm_tunnel, layout_cave_pods, hangedman_tree_tricks
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 |
+---------------+----------------------------------------+-----
+Polearms       |  4        5     6  8 10 11 12 13 14    | 14.6
+Fighting       |     4     5        6  7  9    10    11 | 11.2
+Armour         |           3  4  5     7  9 10    11    | 11.4
+Dodging        |                          4  5  7  9    |  9.9
+Stealth        |                          1  2  3  4  5 |  5.3
+Shields        |                          1  4  7  8  9 |  9.9
+Crossbows      |                             4  6  8  9 |  9.1
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Melee: Spear             |    63 |   188 |   500 |   777 |       ||  1528
+       Headbutt          |     6 |    36 |   101 |   217 |    71 ||   431
+       Demon trident     |       |       |       |    49 |   237 ||   286
+Invok: Berserk           |     1 |       |     4 |    10 |     1 ||    16
+       Trog's Hand       |       |       |     1 |     4 |     1 ||     6
+       Brothers in Arms  |       |       |       |     1 |       ||     1
+  Use: Scroll            |       |       |     9 |     5 |     3 ||    17
+       Potion            |       |       |       |     6 |     1 ||     7
+Armor: Animal skin       |     1 |       |       |       |       ||     1
+       Scale mail        |     5 |     3 |       |       |       ||     8
+       Chain mail        |       |    42 |    91 |    71 |       ||   204
+       Plate armour      |       |       |       |   192 |    73 ||   265
+Dodge: Dodged            |    24 |    34 |   144 |   223 |    69 ||   494
+Block: Kite shield       |       |       |     6 |   298 |    85 ||   389
+       Buckler           |       |       |     5 |       |       ||     5
+

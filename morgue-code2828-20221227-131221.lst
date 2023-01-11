@@ -1,0 +1,519 @@
+code2828
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 club
+(1, -39, D:1)
+  a +0 short sword
+(1, -24, D:1)
+  15 stones
+(29, -20, D:1)
+  a +0 dagger
+(30, -22, D:1)
+  a +0 short sword
+(31, -21, D:1)
+  a +0 club
+
+Level 2 of the Dungeon
+(3, 8, D:2)
+  17 stones
+(5, 4, D:2)
+  a +0 robe
+(10, -8, D:2)
+  a +0 animal skin
+(17, -10, D:2)
+  15 stones
+(39, 6, D:2)
+  26 stones
+(45, 10, D:2)
+  20 stones
+
+Level 3 of the Dungeon
+(0, 18, D:3)
+  25 stones
+(1, 1, D:3)
+  a +0 scale mail
+(15, 16, D:3)
+  a +0 leather armour
+(23, 35, D:3)
+  21 sling bullets
+(27, 18, D:3)
+  a +0 club
+(30, -2, D:3)
+  a +0 war axe
+(31, -14, D:3)
+  a +0 short sword
+(31, 2, D:3)
+  19 stones
+(34, 19, D:3)
+  a +0 dagger
+  4 stones
+(36, 18, D:3)
+  a +0 dagger
+(37, 8, D:3)
+  28 bolts
+(44, -11, D:3)
+  14 stones
+(45, -12, D:3)
+  a +0 club
+(50, -3, D:3)
+  a +0 leather armour
+
+Level 4 of the Dungeon
+(3, 27, D:4)
+  24 stones
+(4, -15, D:4)
+  a stone
+(5, -13, D:4)
+  a stone
+(6, -11, D:4)
+  a stone
+(6, 6, D:4)
+  a +0 hand axe
+(7, -14, D:4)
+  3 large rocks
+(8, -12, D:4)
+  a stone
+(9, -12, D:4)
+  a stone
+(14, 17, D:4)
+  a +0 falchion
+(20, -15, D:4)
+  a +0 helmet
+(28, 11, D:4)
+  a +0 whip
+(29, 13, D:4)
+  a +0 dagger
+(29, 16, D:4)
+  a +0 halberd
+(29, 17, D:4)
+  a +0 club
+(37, -2, D:4)
+  22 stones
+(42, -12, D:4)
+  a +0 robe
+(42, 11, D:4)
+  15 stones
+(48, 17, D:4)
+  a book of Blasting
+(52, -4, D:4)
+  a +0 dagger
+  4 stones
+(52, 21, D:4)
+  21 stones
+(52, 33, D:4)
+  a +0 cloak
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 ring mail
+(33, -12, D:5)
+  a +0 quarterstaff
+(45, -37, D:5)
+  23 stones
+(45, -17, D:5)
+  a +0 spear
+
+Level 6 of the Dungeon
+[Shop] Hountid's Antique Weapon Shoppe
+  a +0 club (28 gold)
+  a +0 war axe (98 gold)
+  the +5 war axe "Ywnist" {elec, rN+ Str+2} (1374 gold)
+    It occasionally discharges a powerful burst of electricity upon striking a
+    foe.
+    
+    Str:       It affects your strength (+2).
+    rN:        It protects you from negative energy.
+  a +1 vorpal hand axe (322 gold)
+  a +0 broad axe (112 gold)
+  a +1 vorpal spear (322 gold)
+  a +0 hand axe (84 gold)
+  a +0 dagger (56 gold)
+  a +0 mace (84 gold)
+  a +1 hand crossbow of flaming (372 gold)
+(0, 0, D:6)
+  a +0 pair of gloves
+(4, -33, D:6)
+  a +0 giant club
+(12, 7, D:6)
+  a +0 falchion
+(12, 9, D:6)
+  a +0 club
+(13, -33, D:6)
+  8 bolts
+(14, 16, D:6)
+  a +0 long sword
+(17, -8, D:6)
+  17 stones
+(17, -6, D:6)
+  a +0 hunting sling
+(22, -15, D:6)
+  19 arrows
+(23, -25, D:6)
+  a +0 whip
+(27, -14, D:6)
+  a +0 rapier
+  a +0 leather armour
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a +0 club
+(5, -27, D:7)
+  a +0 giant club
+  a +0 giant club
+(6, -27, D:7)
+  a +0 trident
+  a +0 scale mail
+(7, -33, D:7)
+  a +0 short sword
+(8, -37, D:7)
+  a +0 cloak
+(14, -37, D:7)
+  a +0 helmet
+(21, -16, D:7)
+  a +0 robe
+(22, -4, D:7)
+  21 stones
+(24, -22, D:7)
+  21 stones
+(29, -11, D:7)
+  22 sling bullets
+(29, -10, D:7)
+  an amulet of guardian spirit
+(30, -27, D:7)
+  a +4 scimitar
+  a +0 robe
+  a +3 spear of freezing
+  a +0 robe
+  a +0 great sword
+  a +0 robe
+(31, -14, D:7)
+  a +0 shortbow
+  a +0 shortbow
+  15 arrows
+(31, -11, D:7)
+  11 bolts
+(32, -14, D:7)
+  a +0 dagger
+  a +0 robe
+(32, -11, D:7)
+  5 silver javelins
+(32, -9, D:7)
+  28 stones
+(32, -8, D:7)
+  a scarf of shadows
+(33, -16, D:7)
+  13 sling bullets
+(33, -9, D:7)
+  a +0 leather armour
+(36, -22, D:7)
+  22 sling bullets
+(40, -13, D:7)
+  Great Wizards, Vol. II
+(46, -27, D:7)
+  a +0 cloak
+  a +0 scale mail
+(50, -9, D:7)
+  a +0 club
+  a +0 leather armour
+(51, -9, D:7)
+  a +1 vorpal spear
+  a +0 ring mail
+  a +0 kite shield
+
+Level 8 of the Dungeon
+[Shop] Anganov's Distillery
+  a potion of berserk rage (55 gold)
+  a potion of cancellation (88 gold)
+  a potion of lignification (33 gold)
+  a potion of attraction (33 gold)
+  a potion of mutation (88 gold)
+  a potion of mutation (88 gold)
+  a potion of lignification (33 gold)
+  a potion of lignification (33 gold)
+[Shop] Jytt's Distillery
+  a potion of lignification (30 gold)
+  a potion of flight (30 gold)
+  a potion of berserk rage (50 gold)
+  a potion of mutation (80 gold)
+  a potion of brilliance (40 gold)
+(3, -18, D:8)
+  a +0 chain mail
+(6, -20, D:8)
+  a +1 dagger of distortion
+  a +0 robe
+(6, -8, D:8)
+  18 bolts
+(9, -8, D:8)
+  a +0 falchion
+(9, -1, D:8)
+  15 sling bullets
+(29, -9, D:8)
+  a +0 quarterstaff
+(35, 7, D:8)
+  a +0 trident
+(42, 10, D:8)
+  a +0 short sword
+  a +0 scale mail
+(42, 13, D:8)
+  a +0 short sword
+(42, 15, D:8)
+  a +0 dagger
+  a +0 robe
+  a +0 hand axe
+(43, 1, D:8)
+  a +0 quarterstaff
+  a +0 hunting sling
+  22 sling bullets
+  a +0 leather armour
+(43, 9, D:8)
+  a +0 short sword
+  a +0 chain mail
+(48, 7, D:8)
+  a +0 chain mail
+(54, 8, D:8)
+  a +0 pair of boots
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a +0 trident
+  a +0 leather armour
+(1, 0, D:9)
+  a +0 long sword
+  a +0 plate armour
+  a +0 dagger
+  a +0 robe
+(4, -44, D:9)
+  a +0 short sword
+(11, -26, D:9)
+  a +0 whip
+(12, -25, D:9)
+  a +0 shortbow
+  22 arrows
+(12, -23, D:9)
+  a +0 spear
+(12, 3, D:9)
+  a +0 whip of venom
+(13, -31, D:9)
+  a +0 dagger
+(13, -30, D:9)
+  a +0 mace
+  a +0 plate armour
+(13, -29, D:9)
+  a +0 hand axe
+  a +0 leather armour
+(14, -30, D:9)
+  a +0 dagger
+  a +0 robe
+(15, -23, D:9)
+  a +0 short sword
+  4 poisoned darts
+  a +0 short sword
+  5 stones
+  a +0 dagger
+  a curare-tipped dart
+(15, -22, D:9)
+  a +0 whip
+  7 poisoned darts
+  a +0 dagger
+  2 stones
+(15, -21, D:9)
+  a +0 short sword
+  8 poisoned darts
+  a +0 club
+  2 stones
+(20, -32, D:9)
+  a +0 halberd
+(25, -36, D:9)
+  a +0 trident
+  a +0 ring mail
+  a +0 buckler
+(25, -35, D:9)
+  a +0 halberd
+(25, -33, D:9)
+  a +0 whip
+(36, -42, D:9)
+  a +0 dagger
+  a +0 robe
+(39, -34, D:9)
+  a +0 dagger
+(41, -44, D:9)
+  a book of Sloth
+(46, -41, D:9)
+  a +0 mace
+(47, -19, D:9)
+  a +0 shortbow
+  8 arrows
+(51, -23, D:9)
+  25 bolts
+(58, -44, D:9)
+  a +0 dagger
+(58, -41, D:9)
+  a +0 short sword
+  a +3 vampiric whip
+  5 poisoned darts
+(59, -40, D:9)
+  a +0 club
+  a curare-tipped dart
+
+Level 10 of the Dungeon
+(0, 0, D:10)
+  a ring of wizardry
+(3, 4, D:10)
+  a +0 giant club
+  a +0 dire flail
+(3, 7, D:10)
+  24 arrows
+(13, -33, D:10)
+  a +0 chain mail
+(35, -33, D:10)
+  a +0 scale mail
+(35, -5, D:10)
+  12 arrows
+(38, -12, D:10)
+  a +0 giant club
+  a +0 giant club
+(42, -38, D:10)
+  a +0 mace
+(43, -9, D:10)
+  17 stones
+(54, -40, D:10)
+  a +1 vampiric falchion
+
+Level 11 of the Dungeon
+(0, 0, D:11)
+  24 stones
+(15, -20, D:11)
+  5 large rocks
+(19, -2, D:11)
+  14 poisoned darts
+(22, -36, D:11)
+  6 large rocks
+(28, 14, D:11)
+  a book of Vapours
+(29, -18, D:11)
+  24 sling bullets
+(31, 1, D:11)
+  a +0 long sword
+(37, 14, D:11)
+  3 large rocks
+(53, 9, D:11)
+  20 arrows
+(53, 14, D:11)
+  a +0 long sword
+  a +0 chain mail
+(54, 14, D:11)
+  a +0 club
+  a +0 chain mail
+(54, 15, D:11)
+  a +0 club
+  a +0 leather armour
+
+Level 12 of the Dungeon
+(0, 0, D:12)
+  a +0 robe
+(3, -4, D:12)
+  a +0 flail
+(3, 0, D:12)
+  14 stones
+(7, -7, D:12)
+  5 large rocks
+(14, -41, D:12)
+  a +0 leather armour
+(14, -21, D:12)
+  a +4 vorpal battleaxe
+  a +0 leather armour
+(15, -44, D:12)
+  a book of Maledictions
+(19, -38, D:12)
+  a +0 hunting sling
+(23, 2, D:12)
+  a +0 chain mail
+(24, -40, D:12)
+  a +0 robe
+(27, -19, D:12)
+  a +0 short sword
+(27, -18, D:12)
+  a +0 hand axe
+  a +1 dagger of speed
+  a +0 robe
+(27, 1, D:12)
+  18 stones
+(28, -19, D:12)
+  a +0 dagger
+  a +0 robe
+(28, -18, D:12)
+  a +0 dagger
+  a +0 robe
+(29, -8, D:12)
+  a +0 giant club
+  a +0 giant club
+(32, 0, D:12)
+  17 stones
+(32, 1, D:12)
+  5 large rocks
+(54, -29, D:12)
+  a +0 chain mail
+
+Level 13 of the Dungeon
+(0, 0, D:13)
+  19 sling bullets
+(6, 3, D:13)
+  a +1 shortbow of freezing
+  21 arrows
+(7, -34, D:13)
+  a potion of flight
+(7, 3, D:13)
+  a +0 shortbow
+  15 arrows
+(8, 3, D:13)
+  a +0 shortbow
+  10 arrows
+(12, -37, D:13)
+  a +0 dagger
+  an elf corpse (skeletalised by now)
+(21, -5, D:13)
+  20 stones
+(30, 5, D:13)
+  a +0 quarterstaff
+(31, 5, D:13)
+  a +0 rapier (still there?)
+  a +0 leather armour (still there?)
+(31, 6, D:13)
+  a +0 bardiche (still there?)
+  a +0 arbalest (still there?)
+  6 bolts (still there?)
+  a +0 scale mail (still there?)
+  a tengu corpse (still there?)
+(32, 18, D:13)
+  a book of Blasting
+(33, 16, D:13)
+  a +0 troll leather armour
+  a +2 shortbow of flaming
+  7 arrows
+  a troll skeleton
+  a centaur skeleton
+(33, 17, D:13)
+  a staff of poison (still there?)
+  a +0 shortbow (still there?)
+  21 arrows (still there?)
+  a scroll of immolation (still there?)
+  20 gold pieces (still there?)
+  a +0 long sword (still there?)
+(33, 18, D:13)
+  a +1 vorpal long sword (still there?)
+  an elf skeleton (still there?)
+  a basilisk skeleton (still there?)
+(34, 15, D:13)
+  3 large rocks
+(37, 14, D:13)
+  a +0 buckler (still there?)
+  a tengu skeleton (still there?)
+(38, 14, D:13)
+  4 large rocks
+(39, 15, D:13)
+  a +0 longbow (still there?)
+  16 arrows (still there?)
+
+the Ecumenical Temple
+

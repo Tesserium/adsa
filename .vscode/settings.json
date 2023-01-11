@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "main": "plaintext",
+        "*.win": "makefile",
+        "*.o": "shared_object",
+        "*.s": "gas",
+        "*.mcmeta": "jsonc",
+        "iostream": "cpp",
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp"
+    }
+}

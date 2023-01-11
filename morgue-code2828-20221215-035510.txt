@@ -1,0 +1,250 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-458-g86641cc (webtiles) character file.
+
+Game seed: 11961819630468760017
+
+49 code2828 the Magician (level 4, -3/31 HPs)
+             Began as a Djinni Ice Elementalist on Dec 15, 2022.
+             Slain by Grinder (7 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:07:19 (1744 turns).
+
+code2828 the Magician (Djinni Ice Elementalist)     Turns: 1744, Time: 00:07:20
+
+Health: -3/31      AC:  8    Str:  7    XL:     4   Next: 2%
+Gold:   77         EV: 13    Int: 19    God:    
+                   SH:  0    Dex: 19
+
+rFire   + + .      SeeInvis .   n - +0 rapier
+rCold   x . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   a - +0 robe
+rPois   ∞          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (boots unavailable)
+Stlth   ++........              j - amulet of the acrobat
+HPRegen 0.25/turn               g - +6 ring of dexterity
+MPRegen 0.00/turn               (no ring)
+
+@: ice-armoured, flying
+A: sickness immunity, fire resistance 2, cold vulnerability 1, float, innate
+caster, HP casting, extra vitality 1
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 77 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ n - a +0 rapier (weapon)
+Armour
+ a - a +0 robe (worn)
+Jewellery
+ g - a +6 ring of dexterity (left hand)
+ j - an amulet of the acrobat (around neck)
+ l - an amulet of reflection
+Scrolls
+ c - 2 scrolls of teleportation {unknown}
+ e - 4 scrolls of identify {unknown}
+ f - a scroll of enchant weapon {unknown}
+ h - a scroll of fog {unknown}
+ m - a scroll of magic mapping {unknown}
+Potions
+ b - a potion of ambrosia {unknown}
+ d - a potion of attraction {unknown}
+ i - a potion of degeneration {unknown}
+ k - a potion of heal wounds {unknown}
+ o - a potion of curing {unknown}
+
+
+   Skills:
+ + Level 3.1 Dodging
+ - Level 2.2 Stealth
+ * Level 3.7 Spellcasting
+
+
+You couldn't memorise any spells.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Freeze                Ice            68%        1d8       3%          1
+b - Frozen Ramparts       Ice            34%        1d6       10%         3
+c - Ozocubu's Armour      Ice            17%        N/A       10%         3
+d - Summon Ice Beast      Ice/Summ       17%        N/A       30%         4
+e - Summon Small Mammal   Summ           68%        N/A       3%          1
+
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)         Zot: 16256      
+
+Altars:
+
+Annotations:
+D:3 Grinder
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to sickness and miasma.
+You are immune to poison.
+Your flesh is very heat resistant. (rF++)
+You are vulnerable to cold. (rC-)
+You float through the air rather than walking.
+You learn spells naturally, not from books.
+Your magical power is your life essence.
+You have superior vitality. (+4 MHP)
+
+Message History
+
+The wall freezes Grinder but does no damage.
+Grinder blinks!
+Casting: Frozen Ramparts (quite dangerous; 10% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+The spell is extremely dangerous to miscast (30% risk of failure)! Continue
+anyway? 
+You miscast Summon Ice Beast.
+You are very lightly contaminated with residual magic.
+Nothing appears to happen.
+Casting: Summon Ice Beast (extremely dangerous; 30% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+The spell is extremely dangerous to miscast (30% risk of failure)! Continue
+anyway? 
+A chill wind blows around you.
+The wall freezes the endoplasm.
+The endoplasm barely misses your ice beast.
+Your ice beast hits the endoplasm but does no damage.
+The wall freezes the endoplasm.
+The endoplasm hits your ice beast but does no damage.
+Your ice beast hits the endoplasm.
+The endoplasm dies!
+Grinder hits your ice beast. Your ice beast writhes in agony.
+Your ice beast hits Grinder but does no damage.
+The frozen ramparts melt away.
+Your ice beast completely misses Grinder.
+Your ice beast hits Grinder but does no damage.
+Grinder grins, showing sharp teeth.
+You freeze Grinder. Grinder resists.
+Grinder is lightly wounded.
+Grinder hits you. You writhe in agony.
+* * * LOW HITPOINT WARNING * * *
+Your magical contamination has completely faded away.
+You are too injured to fight recklessly!
+Aiming: Freeze (safe; 3% risk of failure)
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f/p - Grinder
+Aim: Grinder (lightly wounded, ally target)
+You freeze Grinder. Grinder resists.
+Grinder is lightly wounded.
+* * * LOW HITPOINT WARNING * * *
+Your ice beast hits Grinder but does no damage.
+Grinder hits you!
+You die...
+
+  ##.#  ..
+ ##...##.
+##.......      #
+#.......#     .
+#.......#    .#
+#.....I. ####.####
+ #....5###........
+##....@........)..
+#....$..#.."......
+#.......#.......#
+#.......#.......##.
+##.....###>.......
+ ##...###.......#..
+  ####  #.......#.#
+        #.........#
+        ##.......#
+
+
+You could see Grinder (ally target) and a friendly ice beast (summoned).
+
+Vanquished Creatures
+  2 dart slugs
+  2 bats (D:1)
+  7 endoplasms
+  4 goblins (D:1)
+  3 hobgoblins (D:1)
+  4 jackals (D:1)
+  2 quokkas (D:1)
+  3 ball pythons
+  6 frilled lizards
+  4 kobolds
+  4 rats (D:1)
+41 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  An endoplasm (D:3)
+1 creature vanquished.
+
+Grand Total: 42 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Djinni Ice Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | code2828 set off with the following spells memorised:
+                  | Freeze, Frozen Ramparts, Ozocubu's Armour, Summon Ice
+                  | Beast.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 0/0
+   196 | D:1      | Reached XP level 2. HP: 19/21 MP: 0/0
+   437 | D:1      | Reached XP level 3. HP: 19/25 MP: 0/0
+   437 | D:1      | Learned a level 1 spell: Summon Small Mammal
+  1185 | D:2      | Found a faded altar of an unknown god.
+  1577 | D:2      | Reached XP level 4. HP: 28/31 MP: 0/0
+  1730 | D:3      | Noticed Grinder
+  1744 | D:3      | Slain by Grinder
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_signposts, layout_basic, grunt_decor_cap, minmay_vboxes
+D:2:      layout_basic, shapermc_ecumenical_altar_starsandcircs,
+          minmay_stone_trees_large
+D:3:      layout_rooms, mainiacjoe_overflow_alcove_4, minmay_checkerbox,
+          uniq_grinder
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Stealth        |     2    |  2.2
+Dodging        |        3 |  3.1
+Spellcasting   |          |  3.7
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |    13 |       ||    13
+ Cast: Freeze            |    57 |     2 ||    59
+       Summon Ice Beast  |       |     1 ||     1
+       Ozocubu's Armour  |       |     1 ||     1
+       Frozen Ramparts   |       |     1 ||     1
+ Stab: Sleeping          |     1 |       ||     1
+Armor: Robe              |     5 |       ||     5
+Dodge: Dodged            |    29 |       ||    29
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   1742 |   1640 |    102 |     54 |   1295 |   3 |  580.7 |
+       Dungeon |   1742 |   1640 |    102 |     54 |   1295 |   3 |  580.7 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 1184 daAuts
+     D:2: 523 daAuts
+     D:3: 34 daAuts
+

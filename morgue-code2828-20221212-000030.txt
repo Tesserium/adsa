@@ -1,0 +1,260 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-451-ge042605 (webtiles) character file.
+
+Game seed: 9818893554468498048
+
+102 code2828 the Sneak (level 4, 0/33 HPs)
+             Began as a Demonspawn Brigand on Dec 11, 2022.
+             Slain by a gnoll sergeant
+             ... wielding a +0 spear
+              (8 damage)
+             ... on level 3 of the Dungeon on Dec 12, 2022.
+             The game lasted 00:10:40 (1807 turns).
+
+code2828 the Sneak (Demonspawn Brigand)             Turns: 1807, Time: 00:10:42
+
+Health: 0/33       AC: 10    Str: 13    XL:     4   Next: 49%
+Magic:  4/4        EV:  6    Int: 13    God:    
+Gold:   117        SH:  0    Dex: 14    Spells: 3/3 levels left
+
+rFire   . . .      SeeInvis .   a - +2 dagger
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   j - +0 chain mail
+rPois   .          Reflect  .   (no helmet)
+rElec   .          Harm     .   c - +0 cloak
+rCorr   .          Rampage  .   n - +0 pair of gloves
+Will    .....                   (no boots)
+Stlth   ..........              o - amulet of the acrobat
+HPRegen 0.25/turn               (no ring)
+MPRegen 0.09/turn               (no ring)
+
+@: no status effects
+A: ignite blood 2, spiny 1
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 117 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 dagger (weapon)
+Missiles
+ d - 4 poisoned darts (quivered)
+Armour
+ b - a +0 robe
+ c - a +0 cloak (worn)
+ j - a +0 chain mail (worn)
+ n - a +0 pair of gloves (worn)
+Jewellery
+ o - an amulet of the acrobat (around neck)
+Scrolls
+ f - a scroll of teleportation {unknown}
+ h - a scroll of identify {unknown}
+ l - a scroll of enchant weapon {unknown}
+ p - a scroll of fear {unknown}
+Potions
+ g - a potion of attraction {unknown}
+ m - a potion of curing {unknown}
+ q - a potion of mutation {unknown}
+ s - a potion of brilliance {unknown}
+ t - a potion of heal wounds {unknown}
+
+
+   Skills:
+ + Level 2.2 Fighting
+ + Level 2.1 Short Blades
+ + Level 2.6 Throwing
+ + Level 1.3 Armour
+ + Level 1.6 Dodging
+ + Level 4.2 Stealth
+
+
+You had 3 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Hailstorm                Conj/Ice       0%         3d3       100%        3
+ Ice Form                 Ice/Tmut       0%         N/A       100%        4
+ Simulacrum               Ice/Necr       0%         N/A       100%        6
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)         Zot: 16209      
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your demonic aura often causes spilled blood to erupt in flames.
+You are partially covered in sharp spines.
+
+Message History
+
+The gnoll sergeant is heavily wounded.
+Throw: 8 darts (poison)
+Press: ? - help, Q - select action
+Shift-Dir - straight line, f/p - gnoll sergeant
+Aim: a gnoll sergeant, wielding a +0 spear, wearing a +0 scale mail and wearing
+a +0 buckler (heavily wounded, 68% to hit)
+You throw a poisoned dart.
+The poisoned dart barely misses the gnoll sergeant.
+The gnoll sergeant hits you but does no damage.
+Throw: 7 darts (poison)
+Press: ? - help, Q - select action
+Shift-Dir - straight line, f/p - gnoll sergeant
+Aim: a gnoll sergeant, wielding a +0 spear, wearing a +0 scale mail and wearing
+a +0 buckler (heavily wounded, 68% to hit)
+You throw a poisoned dart.
+The gnoll sergeant blocks the poisoned dart.
+The gnoll sergeant is struck by your spines.
+The gnoll sergeant barely misses you.
+Throw: 6 darts (poison)
+Press: ? - help, Q - select action
+Shift-Dir - straight line, f/p - gnoll sergeant
+Aim: a gnoll sergeant, wielding a +0 spear, wearing a +0 scale mail and wearing
+a +0 buckler (heavily wounded, 68% to hit)
+You throw a poisoned dart.
+The poisoned dart barely misses the gnoll sergeant.
+The gnoll sergeant hits you with a +0 spear.
+Throw: 5 darts (poison)
+Press: ? - help, Q - select action
+Shift-Dir - straight line, f/p - gnoll sergeant
+Aim: a gnoll sergeant, wielding a +0 spear, wearing a +0 scale mail and wearing
+a +0 buckler (heavily wounded, 68% to hit)
+You throw a poisoned dart.
+The poisoned dart hits the gnoll sergeant.
+The gnoll sergeant is poisoned.
+The gnoll sergeant is heavily wounded.
+The gnoll sergeant hits you with a +0 spear.
+Unknown command.
+You closely miss the gnoll sergeant.
+The gnoll sergeant is heavily wounded.
+The gnoll sergeant hits you with a +0 spear!
+* * * LOW HITPOINT WARNING * * *
+The gnoll sergeant blocks your attack.
+The gnoll sergeant is heavily wounded.
+The gnoll sergeant closely misses you.
+You hit the gnoll sergeant but do no damage.
+The gnoll sergeant is heavily wounded.
+The gnoll sergeant hits you with a +0 spear!
+You die...
+
+     ........#####.##
+   #.####.#..<.......
+## #.   #.##.#####.#.
+..##.####.##.#
+........#.#)†#
+........#.#)#####.[
+........#.((.......
+#......[(.((######)
+#.......#.@(.......
+#...((..###g######.
+>........g.#(......
+.....######.#######
+#####      .#
+           .#
+           ..
+           ##
+
+
+You could see a gnoll sergeant (poisoned).
+
+Vanquished Creatures
+  An orc priest (D:3)
+  A gnoll (D:3)
+  An adder (D:3)
+  A dart slug (D:3)
+  3 orcs (D:3)
+  A ball python (D:1)
+  7 endoplasms
+  3 giant cockroaches
+  6 goblins
+  5 hobgoblins
+  4 jackals (D:1)
+  A quokka (D:1)
+  5 bats
+  3 frilled lizards
+  2 kobolds
+  2 rats
+46 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Demonspawn Brigand began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 1/1
+   166 | D:1      | Reached skill level 1 in Dodging
+   195 | D:1      | Reached skill level 4 in Stealth
+   195 | D:1      | Gained mutation: Your demonic aura sometimes causes spilled
+                  | blood to erupt in flames. [demonic ancestry]
+   195 | D:1      | Reached XP level 2. HP: 17/22 MP: 2/2
+   947 | D:2      | Gained mutation: You are partially covered in sharp spines.
+                  | [demonic ancestry]
+   947 | D:2      | Reached XP level 3. HP: 27/27 MP: 3/3
+   969 | D:2      | Found a faded altar of an unknown god.
+  1678 | D:3      | Reached skill level 1 in Armour
+  1678 | D:3      | Gained mutation: Your demonic aura often causes spilled
+                  | blood to erupt in flames. [demonic ancestry]
+  1678 | D:3      | Reached XP level 4. HP: 23/33 MP: 4/4
+  1740 | D:3      | Noticed a gnoll sergeant
+  1807 | D:3      | Slain by a gnoll sergeant
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      mrwooster_arrival_statue_3, layout_basic, serial_aquarium,
+          aquarium_bridge_island_small [aquarium_subvault_small_open,
+          aquarium_subvault_wall, aquarium_subvault_balcony,
+          aquarium_subvault_window, aquarium_subvault_bridge],
+          aquarium_window_corridor_3, aquarium_window_double, aquarium_window_1,
+          aquarium_window_1, aquarium_view_2g, aquarium_pool_1
+D:2:      layout_basic, chequers_ecumenical_altar_simple_redux
+D:3:      layout_loops_ring, mainiacjoe_overflow_cross_hatched,
+          gup_sewer_entry_spiral, minmay_guardbox, uniq_natasha
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Dodging        |  1       |  1.6
+Stealth        |  4       |  4.2
+Throwing       |     2    |  2.6
+Short Blades   |        2 |  2.1
+Armour         |        1 |  1.3
+Fighting       |          |  2.2
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Dagger            |    88 |    16 ||   104
+Throw: Dart              |    58 |    13 ||    71
+  Use: Potion            |     3 |       ||     3
+       Scroll            |     1 |       ||     1
+Armor: Robe              |    14 |       ||    14
+       Chain mail        |    25 |     6 ||    31
+Dodge: Dodged            |    68 |    13 ||    81
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   1789 |   1757 |     32 |     40 |   1212 |   3 |  596.3 |
+       Dungeon |   1789 |   1757 |     32 |     40 |   1212 |   3 |  596.3 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 872 daAuts
+     D:2: 742 daAuts
+     D:3: 173 daAuts
+

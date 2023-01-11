@@ -1,0 +1,219 @@
+code2828
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 dagger
+(2, 9, D:1)
+  a +0 short sword
+(13, 27, D:1)
+  4 stones
+(25, -8, D:1)
+  a +0 club
+(28, 3, D:1)
+  a +0 robe
+(29, -4, D:1)
+  a +0 club
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  17 gold pieces
+(3, -11, D:2)
+  a +0 leather armour
+(5, -10, D:2)
+  5 stones
+(10, -9, D:2)
+  a +0 club
+(16, -20, D:2)
+  a scroll of blinking
+(17, -25, D:2)
+  10 gold pieces
+(21, -22, D:2)
+  8 gold pieces
+(22, -21, D:2)
+  a +0 sling
+
+Level 3 of the Dungeon
+(15, -14, D:3)
+  a +0 dagger
+(23, -32, D:3)
+  a +0 long sword
+(24, -11, D:3)
+  4 stones
+(28, -26, D:3)
+  a +0 club
+(35, -22, D:3)
+  a stone
+  a +0 dagger
+(36, -31, D:3)
+  a +0 club
+  a +0 whip
+(37, -24, D:3)
+  a +0 dagger
+
+Level 4 of the Dungeon
+[Shop] Zestrylu's Magic Scroll Boutique
+  a scroll of poison (44 gold)
+  a scroll of noise (11 gold)
+  a scroll of enchant weapon (82 gold)
+  a scroll of identify (22 gold)
+  a scroll of silence (104 gold)
+  a scroll of immolation (44 gold)
+  a scroll of blinking (82 gold)
+  a scroll of identify (22 gold)
+(0, 0, D:4)
+  a +0 battleaxe
+  a +0 chain mail
+(5, -1, D:4)
+  a +0 dagger
+  a +0 robe
+(10, 4, D:4)
+  a +0 spear
+  a +0 sling
+  5 stones
+(19, -15, D:4)
+  a +0 club
+(24, -19, D:4)
+  a +0 dagger
+(27, -7, D:4)
+  a +0 halberd
+(38, 11, D:4)
+  a +0 leather armour
+(43, -12, D:4)
+  a +0 chain mail
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 flail
+(3, 13, D:5)
+  a +0 war axe
+(3, 16, D:5)
+  4 stones
+(4, 21, D:5)
+  a +0 hand axe
+(8, 12, D:5)
+  a +0 leather armour
+  a +1 ring mail
+  a +0 hand axe
+(9, 12, D:5)
+  a +0 robe
+  a +0 dagger
+(10, 12, D:5)
+  a +0 falchion
+(11, 12, D:5)
+  a +0 shortbow
+(11, 26, D:5)
+  a +0 club
+(12, 25, D:5)
+  a +0 hand axe
+(12, 26, D:5)
+  a +0 dagger
+  a +0 robe
+(13, 23, D:5)
+  a +0 whip
+(23, 29, D:5)
+  a +0 dagger
+  a +0 ring mail
+(48, 6, D:5)
+  a +0 dagger
+(50, 6, D:5)
+  7 stones
+(59, 9, D:5)
+  a +0 dagger
+  a +0 club
+(59, 10, D:5)
+  a +0 dagger
+  a +0 leather armour
+  a +0 dagger
+  a +0 chain mail
+  a +0 whip
+(59, 11, D:5)
+  a +0 whip
+  a +0 ring mail
+  a +0 flail
+  a +0 leather armour
+  a +3 hand axe
+  a +0 ring mail
+(59, 12, D:5)
+  a +0 morningstar
+  a +0 leather armour
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 mace
+(37, -43, D:6)
+  a +0 mace
+(38, -43, D:6)
+  a +0 dagger
+  a +0 robe
+(39, -43, D:6)
+  a +0 club
+  a +0 dagger
+  a +0 robe
+  a +0 dagger of draining
+  a +0 robe
+(40, -45, D:6)
+  a +0 scale mail
+(43, 1, D:6)
+  a +0 dagger
+  a +0 robe
+(44, -34, D:6)
+  a staff of air
+(47, -10, D:6)
+  a +0 shortbow
+(47, -8, D:6)
+  4 stones
+(56, 3, D:6)
+  a +0 short sword
+(57, -40, D:6)
+  6 stones
+(57, 3, D:6)
+  a +0 club
+(57, 4, D:6)
+  a +0 flail
+(57, 14, D:6)
+  a +0 leather armour
+
+Level 7 of the Dungeon
+[Shop] Usoptucu's Book Shoppe
+  a book of Decay (390 gold)
+  a book of Blasting (520 gold)
+  a book of the Tundra (416 gold)
+  a book of Callings (260 gold)
+  a book of the Senses (416 gold)
+  a book of Iron (468 gold)
+  a book of Chaos (650 gold)
+  a book of Cantrips (156 gold)
+  a book of the Moon (520 gold)
+  Great Wizards, Vol. VII (390 gold)
+(14, -19, D:7)
+  4 stones
+(24, -14, D:7)
+  a +0 dagger
+  a +0 leather armour
+(24, -13, D:7)
+  a +0 flail
+  a +0 chain mail
+  a +0 dagger
+  a +0 robe
+(24, -12, D:7)
+  a +0 flail
+  a +0 club
+  a +0 leather armour
+  an orc corpse (skeletalised by now)
+(29, -19, D:7)
+  10 gold pieces
+(32, 0, D:7)
+  6 stones
+(42, 3, D:7)
+  a +0 chain mail
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  4 stones
+(11, 15, D:8)
+  a bullfrog corpse
+(19, -1, D:8)
+  a +0 whip
+(24, 0, D:8)
+  a +0 whip
+

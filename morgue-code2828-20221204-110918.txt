@@ -1,0 +1,216 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-389-g8d7d949 (webtiles) character file.
+
+Game seed: 9236206744375252524
+
+18 code2828 the Digger (level 2, -1/20 HPs)
+             Began as a Ghoul Earth Elementalist on Dec 4, 2022.
+             Slain by a gnoll
+             ... wielding a +0 flail
+              (5 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:02:29 (525 turns).
+
+code2828 the Digger (Ghoul Earth Elementalist)       Turns: 525, Time: 00:02:30
+
+Health: -1/20      AC:  2    Str: 11    XL:     2   Next: 70%
+Magic:  3/3        EV: 12    Int: 10    God:    
+Gold:   34         SH:  0    Dex:  9    Spells: 3/4 levels left
+
+rFire   . . .      SeeInvis .   (no weapon)
+rCold   + . .      Faith    .   (no shield)
+rNeg    + + +      Spirit   .   a - +0 robe
+rPois   ∞          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   ++........              (no amulet)
+HPRegen 0.00/turn               (no ring)
+MPRegen 0.08/turn               (no ring)
+
+@: inhibited regen
+A: claws 1, cold resistance 1, negative energy resistance 3, inhibited
+regeneration, torment resistance 2, devour on kill
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 34 gold pieces.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Scrolls
+ c - a scroll of poison {unknown}
+ d - a scroll of identify {unknown}
+Potions
+ b - a potion of magic
+
+
+   Skills:
+ + Level 2.0 Dodging
+ + Level 2.4 Stealth
+ + Level 0.9 Unarmed Combat
+ + Level 1.9 Spellcasting
+ + Level 1.2 Transmutations
+ + Level 3.5 Earth Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Sandblast             Erth           14%        2d6       8%          1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Passwall                 Tmut/Erth      4%         N/A       19%         2
+ Stone Arrow              Conj/Erth      8%         3d7       43%         3
+ Petrify                  Tmut/Erth      5%         N/A       75%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to poison.
+You have sharp fingernails.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+You thrive by killing the living.
+
+Message History
+
+The bat closely misses you.
+The bat barely misses you.
+The bat closely misses you. The bat barely misses you.
+The bat attacks as you move away! The bat barely misses you.
+The bat hits you but does no damage.
+You barely miss the bat. The bat hits you but does no damage.
+The bat misses you.
+The dart slug briefly extends its eye-stalks.
+You scratch the bat but do no damage. The bat barely misses you.
+The bat hits you but does no damage.
+You scratch the bat.
+You kill the bat!
+The dart slug launches a dart at you.
+The slug dart misses you.
+The dart slug launches a dart at you.
+The slug dart hits you.
+You see here a bat corpse.
+You scratch the dart slug.
+The dart slug is heavily wounded.
+The dart slug barely misses you.
+You scratch the dart slug but do no damage.
+The dart slug is heavily wounded.
+You scratch the dart slug.
+The dart slug is severely wounded.
+The dart slug bites you.
+You scratch the dart slug.
+The dart slug is almost dead.
+The dart slug launches a dart at you.
+The slug dart misses you.
+You scratch the dart slug.
+You kill the dart slug!
+Your Dodging skill increases to level 2!
+You scratch the gnoll.
+The gnoll is lightly wounded.
+The gnoll hits you with a +0 flail!
+* * * LOW HITPOINT WARNING * * *
+You scratch the gnoll but do no damage.
+The gnoll is lightly wounded.
+The gnoll hits you with a +0 flail.
+You die...
+
+..........    .#.#
+.....(...      ...
+........       ..#
+g......        #.#
+ .....         #.#
+  ...          #.#
+  #'#          #†#
+###g######     #.#
+#....w...#     #@#
+.....###.#     #g#
+.....###.#######.#
+..........gw.....#
+.....###.#########
+..#..# #.#
+..#..# #.#
+..#..###.#
+...†.†...#
+
+
+You could see a gnoll.
+
+Vanquished Creatures
+  A dart slug (D:1)
+  2 bats (D:1)
+  2 endoplasms (D:1)
+  A giant cockroach (D:1)
+  2 goblins (D:1)
+  2 hobgoblins (D:1)
+  2 ball pythons (D:1)
+  A frilled lizard (D:1)
+  A rat (D:1)
+14 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Ghoul Earth Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 2/2
+    33 | D:1      | Reached skill level 1 in Transmutations
+   134 | D:1      | Reached XP level 2. HP: 20/20 MP: 3/3
+   525 | D:1      | Slain by a gnoll
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      tarquinn_simple_flora_water_a, layout_loops_corners
+
+Skill      XL: |  1  2 |
+---------------+-------+-----
+Transmutations |  1    |  1.2
+Dodging        |     2 |  2.0
+Stealth        |       |  2.4
+Unarmed Combat |       |  0.9
+Spellcasting   |       |  1.9
+Earth Magic    |       |  3.5
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||    64
+ Stab: Sleeping          ||     2
+Armor: Robe              ||    22
+Dodge: Dodged            ||    64
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |    524 |    524 |      0 |      0 |    393 |   1 |  524.0 |
+       Dungeon |    524 |    524 |      0 |      0 |    393 |   1 |  524.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 524 daAuts
+

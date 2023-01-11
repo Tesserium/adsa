@@ -1,0 +1,408 @@
+code2828
+
+Level 1 of the Dungeon
+(2, -6, D:1)
+  2 stones
+(7, -9, D:1)
+  a +0 dagger
+(8, -9, D:1)
+  a +0 dagger
+  a +0 dagger
+(17, -18, D:1)
+  a stone
+(24, 10, D:1)
+  a +0 dagger
+(28, 12, D:1)
+  a +0 club
+(33, -1, D:1)
+  a +0 whip
+(36, -25, D:1)
+  a +0 dagger
+(36, -12, D:1)
+  a +0 ring mail
+(38, -1, D:1)
+  a +0 short sword
+(43, 13, D:1)
+  5 stones
+(45, -5, D:1)
+  a +0 robe
+  a +0 dagger
+(49, 3, D:1)
+  a +0 club
+(52, 2, D:1)
+  a +0 whip
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 leather armour
+(1, -29, D:2)
+  a +0 robe
+(1, 2, D:2)
+  3 stones
+(10, -46, D:2)
+  a +0 dagger
+(13, -44, D:2)
+  a +0 dagger
+(16, -50, D:2)
+  7 stones
+(16, -35, D:2)
+  a +0 trident
+(36, -4, D:2)
+  a +2 short sword of draining
+(36, -2, D:2)
+  a +0 short sword
+(36, -1, D:2)
+  a +0 mace
+(37, -1, D:2)
+  a +0 short sword
+  a +0 falchion
+  a +0 chain mail
+
+Level 3 of the Dungeon
+[Shop] Umem's Jewellery Emporium
+  a ring of protection from fire (350 gold)
+  a +6 ring of intelligence (504 gold)
+  a ring of protection from cold (350 gold)
+  a ring of willpower (350 gold)
+  the ring "Heustrit" {EV+4 Str+3} (690 gold)
+    [ring of evasion]
+    
+    EV:        It affects your evasion (+4).
+    Str:       It affects your strength (+3).
+  a ring of ice (350 gold)
+  a ring of protection from fire (350 gold)
+  a ring of poison resistance (280 gold)
+  a ring of protection from cold (350 gold)
+  an amulet of faith (560 gold)
+(0, 0, D:3)
+  a +0 dagger
+(4, -5, D:3)
+  a +0 dagger
+  a +0 robe
+(4, 5, D:3)
+  a ring of ice
+  a +0 scale mail
+(15, -4, D:3)
+  a +0 long sword
+(19, -5, D:3)
+  a +0 short sword
+(19, 29, D:3)
+  a +2 whip of pain
+(20, 35, D:3)
+  a +0 rapier
+(22, 32, D:3)
+  a +0 spear
+(25, -9, D:3)
+  a +0 short sword
+(29, -8, D:3)
+  a +0 club
+(29, 32, D:3)
+  3 potions of degeneration
+  5 stones
+  a +0 dagger
+(29, 34, D:3)
+  4 stones
+  a +0 dagger
+(33, 14, D:3)
+  a +0 club
+(38, 0, D:3)
+  a +0 dagger
+(42, -9, D:3)
+  a +0 whip
+  a +0 flail
+(44, -8, D:3)
+  a +0 flail
+(48, 26, D:3)
+  9 stones
+(48, 31, D:3)
+  a +0 sling
+
+Level 4 of the Dungeon
+[Shop] Maxat's Book Emporium
+  a book of Touch (308 gold)
+  a There-And-Back Book (420 gold)
+  the Quarto of Foul Translocation (336 gold)
+    Spells                            Type                      Level
+     a - Poisonous Vapours             Poison/Air                    2
+     b - Gell's Gravitas               Translocation                 3
+     c - Iskenderun's Mystic Blast     Conjuration/Translocation     4
+  a book of Winter (476 gold)
+  a book of Hexes (504 gold)
+  a book of the Warp (588 gold)
+  the Handbook of Necromancy and the Wind (504 gold)
+    Spells                            Type                      Level
+     a - Necrotise                     Necromancy                    1
+     b - Vhi's Electric Charge         Translocation/Air             3
+     c - Arcjolt                       Conjuration/Air               5
+     d - Silence                       Hexes/Air                     5
+  a book of the Earth (504 gold)
+  a Young Poisoner's Handbook (280 gold)
+  Ozocubu's Autobiography (336 gold)
+  a book of Changes (252 gold)
+(0, 0, D:4)
+  a +0 chain mail
+(6, -6, D:4)
+  3 stones
+(6, -3, D:4)
+  a staff of earth
+(12, -5, D:4)
+  2 stones
+(16, 0, D:4)
+  a +0 scale mail
+(18, 13, D:4)
+  a +0 short sword
+  a stone
+(27, -6, D:4)
+  a +0 dagger
+(30, 2, D:4)
+  a book of Conjurations
+(36, -5, D:4)
+  a +0 dagger
+  a +0 dagger
+  a +0 ring mail
+(36, -4, D:4)
+  a +0 club
+  a +0 scale mail
+(37, -5, D:4)
+  a +0 club
+  a +0 dagger
+(38, 11, D:4)
+  a +0 short sword
+(43, 10, D:4)
+  14 gold pieces
+(43, 11, D:4)
+  11 gold pieces
+(43, 14, D:4)
+  4 gold pieces
+(44, 12, D:4)
+  10 gold pieces
+(44, 13, D:4)
+  6 gold pieces
+(44, 14, D:4)
+  6 gold pieces
+(44, 22, D:4)
+  a +1 dagger of venom
+  4 stones
+(45, 0, D:4)
+  a +0 hand axe
+  a +0 flail
+  a boomerang
+(45, 1, D:4)
+  a +0 dagger
+(53, 23, D:4)
+  a +0 dagger
+(54, 20, D:4)
+  2 stones
+(57, 5, D:4)
+  a +0 short sword
+(60, 4, D:4)
+  9 stones
+(63, 29, D:4)
+  5 stones
+  a +0 club
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a potion of degeneration
+(15, -16, D:5)
+  a +0 whip
+(24, -24, D:5)
+  5 stones
+(38, 4, D:5)
+  a +0 plate armour
+(40, -14, D:5)
+  a +0 dagger
+(40, 7, D:5)
+  a +0 spear
+
+Level 6 of the Dungeon
+[Shop] Huxuik's Assorted Antiques
+  a potion of magic (224 gold)
+  a +0 great sword (182 gold)
+  a +0 rapier (112 gold)
+(0, 0, D:6)
+  a +0 mace
+(7, -1, D:6)
+  a +0 flail
+(8, -1, D:6)
+  a +0 club
+  a +0 robe
+(9, -1, D:6)
+  a +0 club
+(9, 1, D:6)
+  a +0 spear
+(15, -23, D:6)
+  a +0 hand axe
+(20, -33, D:6)
+  a +0 whip
+  a +0 leather armour
+(22, -12, D:6)
+  a +0 dagger
+  2 boomerangs
+  a +0 plate armour
+  a +0 dagger
+(23, -13, D:6)
+  a +0 hand axe
+(23, -12, D:6)
+  a +0 flail
+  a +0 leather armour
+(23, 7, D:6)
+  a +0 scale mail
+(26, -8, D:6)
+  a +0 chain mail
+(32, 12, D:6)
+  a +0 hand axe
+(37, 16, D:6)
+  a +0 leather armour
+(62, -28, D:6)
+  a +0 hand axe
+  a +0 scale mail
+  a +0 hand axe
+  a +0 leather armour
+(63, -29, D:6)
+  a +0 dagger
+  a +0 robe
+(63, -28, D:6)
+  a +0 dagger
+
+Level 7 of the Dungeon
+(2, 4, D:7)
+  a +0 falchion
+(13, -8, D:7)
+  a +0 dagger
+(23, 9, D:7)
+  a +0 hand axe
+(27, 17, D:7)
+  a +0 trident
+(27, 24, D:7)
+  a +0 spear
+(32, 11, D:7)
+  a +0 falchion
+  a +0 robe
+(34, 13, D:7)
+  a +1 short sword of protection
+  a +0 robe
+(36, -10, D:7)
+  a +0 dagger
+  a +0 robe
+(37, -11, D:7)
+  a +0 dagger
+  a +0 scale mail
+  a +0 hand axe
+(37, 14, D:7)
+  a +0 scimitar
+  a +0 robe
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a +0 quarterstaff
+(11, 29, D:8)
+  a +0 dagger
+  a +0 robe
+(12, 28, D:8)
+  a +0 flail
+  a +0 chain mail
+(13, 29, D:8)
+  a +0 dagger
+  a +0 robe
+(14, 28, D:8)
+  a +4 dagger of chaos
+  a +2 robe of cold resistance
+(21, 20, D:8)
+  a +0 war axe
+(24, 1, D:8)
+  a +0 quarterstaff
+(30, 10, D:8)
+  a +0 giant club
+  a +0 giant spiked club
+(33, 22, D:8)
+  a +0 trident
+(37, 1, D:8)
+  a potion of degeneration
+(40, 6, D:8)
+  a +3 dire flail of freezing
+  a +0 robe
+(41, -4, D:8)
+  a +0 long sword
+(41, 6, D:8)
+  a +4 long sword
+  a +0 robe
+(45, 7, D:8)
+  a +0 mace
+(49, -8, D:8)
+  a +0 plate armour
+(49, 25, D:8)
+  a +0 club
+  a +0 leather armour
+(49, 27, D:8)
+  a +0 mace
+  a stone
+  a +0 leather armour
+(50, 27, D:8)
+  a +0 club
+  a +0 scale mail
+(52, 18, D:8)
+  a +0 war axe
+(54, 7, D:8)
+  a +0 long sword
+(54, 12, D:8)
+  a +0 flail
+(54, 15, D:8)
+  2 poisoned darts
+(55, 5, D:8)
+  a +0 spear
+  a +0 robe
+(55, 7, D:8)
+  a +1 hand axe
+  a +0 robe
+(56, 8, D:8)
+  a +3 war axe of freezing
+  a +0 robe
+(61, 9, D:8)
+  a +0 sling
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a +0 scimitar
+  a +0 chain mail
+(0, 1, D:9)
+  a +0 short sword
+(0, 2, D:9)
+  a +0 flail
+  a +4 ring mail
+(3, -37, D:9)
+  a +0 ring mail
+(3, -21, D:9)
+  a staff of poison
+(15, -37, D:9)
+  a staff of cold
+(16, -6, D:9)
+  a +0 hand axe
+  a +0 ring mail
+(16, -5, D:9)
+  a +0 club
+(17, -6, D:9)
+  a +0 flail
+  a +0 leather armour
+(17, -4, D:9)
+  a +0 dagger
+(19, -39, D:9)
+  a +0 short sword
+  a +0 robe
+  a +0 war axe
+  a +0 robe
+(19, -38, D:9)
+  a +0 hand axe
+  a +0 robe
+(25, -39, D:9)
+  a wyvern corpse (skeletalised by now)
+(25, 5, D:9)
+  2 poisoned darts
+(38, -22, D:9)
+  4 poisoned darts
+(38, -18, D:9)
+  a +1 vorpal war axe
+  +0 steam dragon scales
+
+the Ecumenical Temple
+

@@ -1,0 +1,191 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-553-g7fabdf1 (webtiles) character file.
+
+Game seed: 6378733704152923082
+
+0 code2828 the Digger (level 1, -4/14 HPs)
+             Began as a Ghoul Earth Elementalist on Dec 26, 2022.
+             Slain by a hobgoblin (5 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:00:29 (36 turns).
+
+code2828 the Digger (Ghoul Earth Elementalist)        Turns: 36, Time: 00:00:30
+
+Health: -4/14      AC:  2    Str: 11    XL:     1   Next: 0%
+Magic:  1/2        EV: 12    Int: 10    God:    
+Gold:   17         SH:  0    Dex:  9    Spells: 2/3 levels left
+
+rFire   . . .      SeeInvis .   (no weapon)
+rCold   + . .      Faith    .   (no shield)
+rNeg    + + +      Spirit   .   a - +0 robe
+rPois   ∞          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   ++                      (no amulet)
+HPRegen 0.00/turn               (no ring)
+MPRegen 0.08/turn               (no ring)
+
+@: inhibited regen
+A: claws 1, cold resistance 1, negative energy resistance 3, inhibited
+regeneration, torment resistance 2, devour on kill
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 17 gold pieces.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Potions
+ b - a potion of magic
+
+
+   Skills:
+ + Level 0.0 Fighting
+ + Level 1.7 Dodging
+ + Level 2.1 Stealth
+ * Level 0.0 Unarmed Combat
+ + Level 1.7 Spellcasting
+ - Level 0.8 Transmutations
+ * Level 3.2 Earth Magic
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Sandblast             Erth           14%        2d6       9%          1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Passwall                 Tmut/Erth      4%         N/A       21%         2
+ Stone Arrow              Conj/Erth      8%         3d7       43%         3
+ Petrify                  Tmut/Erth      5%         N/A       80%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)         Zot: 5961       
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to poison.
+You have sharp fingernails.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+You thrive by killing the living.
+
+Message History
+
+The hobgoblin shouts!
+The quokka bites you.
+Aiming: Sandblast (safe; 9% risk of failure)
+Press: ? - help, Q - select action
+Shift-Dir - straight line, f - quokka
+Aim: a quokka (73% to hit)
+The blast of sand misses the quokka.
+The quokka misses you. The quokka barely misses you.
+Aiming: Sandblast (safe; 9% risk of failure)
+Press: ? - help, Q - select action
+Shift-Dir - straight line, f/p - quokka
+Aim: a quokka (73% to hit)
+The blast of sand misses the quokka.
+The quokka bites you but does no damage. x2
+You don't have enough magic to cast this spell.
+You don't have enough magic to cast this spell.
+The quokka attacks as you move away! The quokka closely misses you.
+An endoplasm comes into view.
+The hobgoblin hits you but does no damage.
+The quokka attacks as you move away! The quokka barely misses you.
+The quokka misses you.
+You see here a +0 whip.
+The quokka attacks as you move away! The quokka bites you.
+The quokka attacks as you move away! The quokka misses you.
+The quokka bites you.
+There is an open door here.
+You scratch the quokka.
+The quokka is moderately wounded.
+The quokka bites you.
+You barely miss the quokka.
+The quokka is moderately wounded.
+The quokka bites you.
+You miss the quokka.
+The quokka is moderately wounded.
+The quokka closely misses you. The hobgoblin hits you.
+* * * LOW HITPOINT WARNING * * *
+The quokka misses you.
+The quokka attacks as you move away! The quokka barely misses you.
+The hobgoblin attacks as you move away! The hobgoblin hits you.
+* * * LOW HITPOINT WARNING * * *
+The hobgoblin attacks as you move away! The hobgoblin hits you.
+You die...
+
+         ~~....#
+         {~~.#.##
+         {{~....#
+     #####{~~.#.#
+    ##...##~~...#
+    #..>..#{~~..#    ...
+    #..<..#{{~..#   ...
+    #..@..#~~~..###...
+ {  ##.g.##~~........
+ {{~~##r##......###.
+{{~~~...J...)...#..
+{~~~............#.#  ##
+~~~~............#.#...#
+~~~.......~~........#
+.......~~~~~~.......#
+......~~~~~~~.......#
+
+
+You could see an endoplasm, a quokka and a hobgoblin.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Ghoul Earth Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 2/2
+    36 | D:1      | Slain by a hobgoblin
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      minmay_arrival_shoal_huts, layout_basic
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||     3
+ Cast: Sandblast         ||     2
+Armor: Robe              ||     3
+Dodge: Dodged            ||     9
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |     38 |     38 |      0 |      0 |     16 |   1 |   38.0 |
+       Dungeon |     38 |     38 |      0 |      0 |     16 |   1 |   38.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 38 daAuts
+

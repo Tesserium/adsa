@@ -1,0 +1,190 @@
+ Dungeon Crawl Stone Soup version 0.11.4-5-g9f24978 (webtiles) character file.
+
+162 code2828 the Chiller (level 3, -11/19 HPs)
+             Began as a Deep Elf Ice Elementalist on Mar 5, 2022.
+             Was an Initiate of Makhleb.
+             Killed by divine providence
+             ... invoked by an orc priest
+              (14 damage)
+             ... on Level 3 of the Dungeon on Dec 2, 2022.
+             The game lasted 00:13:20 (1603 turns).
+
+code2828 the Chiller (Deep Elf Ice Elementalist)    Turns: 1603, Time: 00:13:21
+
+HP -11/19        AC  2     Str  5      XL: 3   Next: 80%
+MP   1/10        EV 14     Int 20      God: Makhleb [......]
+Gold 103         SH  0     Dex 15      Spells:  3 memorised,  2 levels left
+
+Res.Fire  : . . .   See Invis. : .   h - +0 short sword
+Res.Cold  : . . .   Warding    : .   a - +0 elf robe
+Life Prot.: . . .   Conserve   : .   (no shield)
+Res.Poison: .       Res.Corr.  : .   (no helmet)
+Res.Elec. : .       Clarity    : .   (no cloak)
+Sust.Abil.: . .     Spirit.Shd : .   (no gloves)
+Res.Mut.  : .       Stasis     : .   (no boots)
+Res.Rott. : .       Ctrl.Telep.: .   (no amulet)
+Saprovore : . . .   Levitation : .   r - +2,+3 ring of slaying {unknown}
+                    Ctrl.Flight: .   n - ring of protection from magic {unknown}
+
+@: very slightly contaminated, somewhat resistant to hostile enchantments,
+fairly stealthy
+A: no striking features
+a: Renounce Religion
+
+
+You were on level 3 of the Dungeon.
+You worshipped Makhleb.
+Makhleb was noncommittal.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 83 gold pieces.
+
+Inventory:
+
+Hand weapons
+ d - a +0,+0 dagger (quivered)
+ h - a +0,+0 short sword (weapon)
+Armour
+ a - a +0 elven robe (worn)
+Comestibles
+ m - an orange
+Scrolls
+ f - a scroll of identify {unknown}
+ j - a scroll of amnesia {unknown}
+ k - 2 scrolls of blinking {unknown}
+ p - a scroll of noise {unknown}
+ s - a scroll of enchant weapon I {unknown}
+Jewellery
+ n - a ring of protection from magic (left hand) {unknown}
+ r - a +2,+3 ring of slaying (right hand) {unknown}
+Potions
+ c - a potion of heal wounds {unknown}
+ e - a potion of invisibility {unknown}
+ g - 2 potions of magic {unknown}
+ i - a potion of curing {unknown}
+ l - a potion of paralysis {unknown}
+ q - a potion of agility {unknown}
+Books
+ b - a book of Frost   
+   
+   Spells                             Type                      Level
+   *Freeze                            Ice                          1
+   *Throw Frost                       Conjuration/Ice              2
+   *Ozocubu's Armour                  Charms/Ice                   3
+   Throw Icicle                       Conjuration/Ice              4
+   Summon Ice Beast                   Ice/Summoning                4
+   Condensation Shield                Ice/Transmutation            4
+ o - a book of Hinderance   
+   
+   Spells                             Type                      Level
+   Confusing Touch                    Hexes                        1
+   Slow                               Hexes                        2
+   Confuse                            Hexes                        3
+   Petrify                            Transmutation/Earth          4
+   Leda's Liquefaction                Transmutation/Earth          4
+   Metabolic Englaciation             Hexes/Ice                    6
+
+
+   Skills:
+ + Level 3.7 Dodging
+ - Level 2.4 Stealth
+ * Level 3.1 Spellcasting
+ - Level 1.1 Conjurations
+ + Level 3.8 Ice Magic
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Freeze                Ice            ####.        2%          1    None
+b - Throw Frost           Conj/Ice       ###....      10%         2    ##.....
+c - Ozocubu's Armour      Chrm/Ice       ###.......   21%         3    ###....
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/27)            
+
+Altars:
+Makhleb
+Yredelemnul
+
+Message History
+
+The orc wizard is heavily wounded.
+The orc wizard gestures wildly while chanting.
+The orc wizard blinks! The orc throws an orcish club.
+The orcish club misses you. The orcish club misses the orc wizard.
+The orc priest mumbles some strange prayers to Beogh against you.
+Something smites you!
+* * * LOW HITPOINT WARNING * * *
+You hit the orc wizard but do no damage.
+The orc wizard is heavily wounded.
+The orc wizard mumbles some strange words.
+The orc wizard seems to speed up.
+The orc priest becomes somewhat translucent.
+You barely miss the orc wizard.
+The orc wizard is heavily wounded.
+The orc wizard hits you but does no damage.
+The orc wizard closely misses you.
+The orc priest calls down the wrath of Beogh upon you.
+Something smites you!
+Ouch! That really hurt!
+You die...
+
+          ..........
+          #....#...#
+    .######....#...
+   .................
+   ########.##.######
+   #.....#..........#
+   #.P.P.#.#.#......#
+####.._..#.#.########.#
+.....P.P...#)..o@o..[o#
+####.....##############
+   #######
+
+
+You could see an orc priest, an orc wizard and an orc.
+
+Vanquished Creatures
+  2 adders (D:2)
+  A worm (D:2)
+  A giant gecko (D:2)
+  An orc (D:3)
+  9 goblins
+  A hobgoblin (D:2)
+  A ball python (D:3)
+  3 bats
+  7 giant cockroaches
+  2 giant newts (D:2)
+  5 kobolds
+  A rat (D:2)
+34 creatures vanquished.
+
+Vanquished Creatures (others)
+  A goblin (D:2)
+  A toadstool (D:2)
+2 creatures vanquished.
+
+Grand Total: 36 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | code2828, the Deep Elf Ice Elementalist, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+   314 | D:2      | Reached XP level 2. HP: 15/15 MP: 6/6
+   315 | D:2      | Upgraded the game from 0.11.4-3-g4668e67 to 0.11.4-5-g9f24978
+   750 | D:2      | Reached XP level 3. HP: 19/19 MP: 9/9
+  1058 | D:2      | Learned a level 2 spell: Throw Frost
+  1062 | D:2      | Learned a level 3 spell: Ozocubu's Armour
+  1261 | D:3      | Found a burning altar of Makhleb.
+  1271 | D:3      | Became a worshipper of Makhleb the Destroyer
+  1570 | D:3      | Found a basalt altar of Yredelemnul.
+  1603 | D:3      | Killed from afar by an orc priest
+

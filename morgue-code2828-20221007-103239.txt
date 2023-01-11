@@ -1,0 +1,292 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-219-gf2db51d (webtiles) character file.
+
+Game seed: 7261079404367801980
+
+367 code2828 the Chiller (level 6, -3/45 HPs)
+             Began as a Draconian Ice Elementalist on Oct 7, 2022.
+             Slain by a mummy (7 damage)
+             ... in an ossuary.
+             The game lasted 00:24:25 (1716 turns).
+
+code2828 the Chiller (Draconian Ice Elementalist)   Turns: 1716, Time: 00:24:26
+
+Health: -3/45      AC:  6    Str:  9 (12) XL:     6   Next: 41%
+Magic:  11/11      EV: 12    Int: 18 (19) God:    
+Gold:   62         SH:  0    Dex:  8 (10) Spells: 11/12 levels left
+
+rFire   . . .      SeeInvis .   i - +2 dagger (venom)
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   (body armour unavailable)
+rPois   .          Reflect  .   (helmet restricted)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   ++........              (no amulet)
+HPRegen 0.27/turn               (no ring)
+MPRegen 0.12/turn               (no ring)
+
+@: brilliant
+A: AC +6, unfitting armour, cold-blooded, clever 1
+a: no special abilities
+
+
+You were in an ossuary.
+You visited 1 branch of the dungeon, and saw 6 of its levels.
+You also visited: Ossuary.
+
+You collected 62 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ c - a +0 sling
+ d - a +0 dagger
+ g - a +0 spear
+ i - a +2 dagger of venom (weapon)
+ j - a +2 morningstar of holy wrath
+Missiles
+ l - 2 throwing nets
+Wands
+ m - a wand of mindburst (15)
+ p - a wand of digging (7)
+Scrolls
+ b - a scroll of identify {unknown}
+ e - a scroll of teleportation {unknown}
+ h - a scroll of magic mapping {unknown}
+ k - a scroll of brand weapon {unknown}
+ o - a scroll of vulnerability {unknown}
+Potions
+ a - a potion of magic
+ n - a potion of mutation
+
+
+   Skills:
+ * Level 2.7 Short Blades
+ + Level 1.7 Maces & Flails
+ + Level 2.8 Dodging
+ - Level 2.2 Stealth
+ * Level 3.5 Spellcasting
+ * Level 5.2 Ice Magic
+
+
+You had 11 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Freeze                Ice            100%       1d11      1%          1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Frozen Ramparts          Ice            66%        1d10      5%          3
+ Ozocubu's Armour         Ice            33%        N/A       5%          3
+ Ensorcelled Hibernation  Hex/Ice        36%        N/A       9%          2
+ Passwall                 Tmut/Erth      3%         N/A       24%         2
+ Swiftness                Air            4%         N/A       43%         3
+ Summon Ice Beast         Ice/Summ       18%        N/A       47%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)            Ossuary (1/1)             
+Temple: D:4-7       
+
+Altars:
+Gozag
+
+Annotations:
+D:6 Pikel
+Ossuary Menkaure
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your plain brown scales are hard. (AC +6)
+You cannot fit into any form of body armour.
+You are cold-blooded and may be slowed by cold attacks.
+Your mind is acute. (Int +4, Str/Dex -1)
+
+Message History
+
+You hit the orc skeleton.
+The orc skeleton is severely damaged.
+The orc skeleton barely misses you.
+You hit the orc skeleton.
+You destroy the orc skeleton!
+Press: ? - help, v - describe, . - travel
+Here: Menkaure
+The floor.
+It was a potion of mutation. You feel extremely strange.
+You feel clever.
+You barely miss the mummy. The mummy hits you!
+You hit the mummy.
+The mummy is lightly damaged.
+You barely miss the mummy. Your tail-slap misses the mummy.
+The mummy is lightly damaged.
+Menkaure mumbles some strange words.
+Menkaure seems to speed up. The mummy closely misses you.
+You hit the mummy.
+You tail-slap the mummy, but do no damage.
+The mummy is lightly damaged.
+You barely miss the mummy.
+The mummy is lightly damaged.
+The mummy hits you.
+You hit the mummy. You tail-slap the mummy.
+The mummy is heavily damaged.
+You hit the mummy but do no damage.
+The mummy is heavily damaged.
+The mummy hits you!
+* * * LOW HITPOINT WARNING * * *
+You hit the mummy but do no damage.
+The mummy is heavily damaged.
+The mummy hits you!
+* * * LOW HITPOINT WARNING * * *
+It was a potion of brilliance.
+You feel clever all of a sudden.
+It was a potion of degeneration.
+There was something very wrong with that liquid.
+You feel weakened. You feel dopey. You feel clumsy.
+The mummy hits you!
+You die...
+
+      ##..##..##..####..##..##..#
+     ##..##..##..##  ##..##..##..
+    ##..##..##..##    ##..##..##.
+   ##..##..##^.##      ##..##..##
+  ##..##..##..##        ##..##.^#
+ ##..##..##..##          ##..##..
+##..##..##..##            ##..##.
+#..##..##..#############   ##..##
+..##..##........@MMZ....    ##..#
+.##..##########################..
+##...............................
+#################################
+.................................
+#################################
+
+
+You could see Menkaure (fast), a mummy and a rat zombie.
+
+Vanquished Creatures
+  Blork the orc (D:5)
+  A howler monkey (D:6)
+  A hound (D:7)
+  A gnoll bouda (D:7)
+  A jelly (D:7)
+  An orc wizard (D:3)
+  An iguana (D:6)
+  5 gnolls
+  2 adders
+  3 orcs (D:3)
+  4 ball pythons
+  3 endoplasms
+  A goblin (D:1)
+  A hobgoblin (D:2)
+  2 quokkas
+  A bat (D:2)
+  5 gnoll skeletons (Ossuary)
+  2 gnoll zombies (Ossuary)
+  3 goblin skeletons (Ossuary)
+  3 goblin zombies (Ossuary)
+  7 hobgoblin skeletons (Ossuary)
+  3 hobgoblin zombies (Ossuary)
+  A kobold (D:3)
+  6 kobold skeletons (Ossuary)
+  4 kobold zombies (Ossuary)
+  3 orc skeletons (Ossuary)
+  5 orc zombies (Ossuary)
+  3 rats
+  A rat skeleton (Ossuary)
+  3 rat zombies (Ossuary)
+78 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Draconian Ice Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 3/3
+   106 | D:2      | Reached XP level 2. HP: 20/20 MP: 1/5
+   296 | D:3      | Found an opulent altar of Gozag.
+   448 | D:3      | Reached XP level 3. HP: 24/26 MP: 0/6
+   576 | D:3      | Reached skill level 1 in Short Blades
+   578 | D:3      | Reached XP level 4. HP: 32/33 MP: 1/7
+   746 | D:3      | You fall into a shaft and drop 3 floors!
+   790 | D:6      | Reached skill level 1 in Maces & Flails
+   832 | D:7      | Reached XP level 5. HP: 20/38 MP: 0/9
+  1056 | D:7      | Reached skill level 5 in Ice Magic
+  1152 | D:6      | Reached XP level 6. HP: 45/45 MP: 5/10
+  1187 | D:6      | Noticed Pikel
+  1213 | D:5      | Entered Level 5 of the Dungeon
+  1216 | D:5      | Noticed Blork the orc
+  1229 | D:5      | Killed Blork the orc
+  1328 | D:5      | Found a sand-covered staircase.
+  1347 | Ossuary  | Entered an ossuary
+  1701 | Ossuary  | Noticed Menkaure
+  1706 | Ossuary  | Gained mutation: Your mind is acute. (Int +4, Str/Dex -1)
+                  | [potion of mutation]
+  1716 | Ossuary  | Slain by a mummy
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      psy_arrival_whirlpool, layout_loops_ring, serial_park_tiny_1,
+          minmay_misc_feat_nine_boxes
+D:2:      layout_basic, serial_shops, shop, minmay_tall_x
+D:3:      layout_loops_ring, lemuel_round_altar,
+          shapermc_ecumenical_altar_starsandcircs, kennysheep_generic_room_9
+D:5:      layout_basic, nicolae_wu_jian_immortal_techniques,
+          okawaru_altar_gauntlet_db, lemuel_round_altar,
+          minmay_temple_entry_overgrown, nicolae_ossuary_entry_false_entrances,
+          corexii_checkpoint_a, uniq_blork_the_orc
+D:6:      layout_rooms, tso_metal_star, serial_shops, shop, uniq_pikel
+D:7:      layout_loops_corners, general_overflow_altar, serial_shops,
+          nicolae_shop_hallway_stairs, amcnicky_mini_pool_small
+Ossuary:  ossuary_due_pyramid
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Stealth        |  2             |  2.2
+Dodging        |  2             |  2.8
+Short Blades   |        1     2 |  2.7
+Maces & Flails |           1    |  1.7
+Spellcasting   |           3    |  3.5
+Ice Magic      |              5 |  5.2
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Dagger            |    42 |   170 ||   212
+       Unarmed           |     9 |       ||     9
+       Tailslap          |     4 |    31 ||    35
+       Punch             |     1 |     2 ||     3
+ Cast: Freeze            |    19 |    48 ||    67
+  Use: Potion            |       |     6 ||     6
+ Stab: Sleeping          |     1 |       ||     1
+Armor: Skin              |    18 |    36 ||    54
+Dodge: Dodged            |    40 |   101 ||   141
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   1700 |   1486 |    214 |    526 |     48 |   7 |  242.9 |
+       Dungeon |   1352 |   1138 |    214 |    510 |     41 |   6 |  225.3 |
+       Ossuary |    347 |    347 |      0 |     16 |      7 |   1 |  347.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:3: 523 daAuts
+ Ossuary: 347 daAuts
+     D:7: 312 daAuts
+     D:6: 156 daAuts
+     D:5: 133 daAuts
+     D:2: 122 daAuts
+     D:1: 104 daAuts
+

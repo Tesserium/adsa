@@ -1,0 +1,255 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-457-g4b7bca3 (webtiles) character file.
+
+Game seed: 2686666473557842558
+
+94 code2828 the Insei (level 4, -7/37 (38) HPs)
+             Began as a Naga Transmuter on Dec 14, 2022.
+             Was a Believer of Zin.
+             Mangled by Crazy Yiuf
+             ... wielding a +2 quarterstaff of chaos
+              (14 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:08:22 (2437 turns).
+
+code2828 the Insei (Naga Transmuter)                Turns: 2437, Time: 00:08:23
+
+HP:   -7/37 (38)    AC:  3    Str: 12    XL:     4   Next: 63%
+MP:   7/7           EV: 10    Int: 13    God:    Zin [**....]
+Gold: 119           SH:  0    Dex: 14    Spells: 6/7 levels left
+
+rFire   . . .      SeeInvis +     - Unarmed
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   a - +0 robe
+rPois   +          Reflect  .   f - +0 helmet
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no barding)
+Stlth   ++........              d - amulet of magic regeneration
+HPRegen 0.26/turn               (no ring)
+MPRegen 0.50/turn               (no ring)
+
+@: short of breath, on recite cooldown, lightly drained, very slow
+A: AC +1, large, see invisible, deformed body, poison resistance, slowness 2,
+spit poison 1, naga tail 1, wild magic 1
+a: Spit Poison, Renounce Religion, Recite, Vitalisation, Donate Gold
+
+
+You were on level 3 of the Dungeon.
+You worshipped Zin.
+Zin was pleased with you.
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 132 gold pieces.
+You donated 13 gold pieces to Zin.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+ f - a +0 helmet (worn)
+Jewellery
+ d - an amulet of magic regeneration (around neck)
+Scrolls
+ b - a scroll of identify {unknown}
+ c - a scroll of fear {unknown}
+ e - a scroll of torment {unknown}
+ g - a scroll of teleportation {unknown}
+Potions
+ h - a potion of flight
+
+
+   Skills:
+ + Level 1.0 Fighting
+ + Level 1.9 Dodging
+ + Level 2.3 Stealth
+ * Level 4.6 Unarmed Combat
+ + Level 2.0 Spellcasting
+ + Level 2.0 Transmutations
+
+
+You had 6 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Beastly Appendage     Tmut           16%        N/A       16%         1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Wereblood                Tmut           8%         N/A       24%         2
+ Spider Form              Tmut/Pois      5%         N/A       54%         3
+ Ice Form                 Ice/Tmut       5%         N/A       90%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)         Zot: 14903      
+
+Altars:
+Zin
+
+Annotations:
+D:3 Crazy Yiuf
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your serpentine skin is tough. (AC +1)
+You have supernaturally acute eyesight. (SInv)
+Armour fits poorly on your strangely shaped body.
+Your system is resistant to poisons. (rPois)
+You cover ground very slowly.
+You can spit poison.
+You have a snake-like lower body.
+Your spells are a little harder to cast, but a little more powerful.
+
+Message History
+
+Things that are here:
+a +0 club; a goblin corpse
+h - a potion of flight
+Found a hammer. Found a runed translucent door.
+Crazy Yiuf shouts!
+You see here a hobgoblin corpse.
+There is a stone staircase leading up here.
+You see here 8 stones.
+Crazy Yiuf shouts!
+Crazy Yiuf yells, "Powder mobile sing-song!"
+Unknown command.
+Okay, then.
+You open the door.
+Activating: Recite (9% risk of failure)
+Press: ? - help, Dir - look around, f - activate
+Look: Crazy Yiuf, wielding a +2 quarterstaff of chaos and wearing a +0 cloak
+You clear your throat and prepare to recite.
+"Zin said that cleanliness shall be the law of the land, and..."
+Crazy Yiuf barely misses you.
+You punch Crazy Yiuf!
+Crazy Yiuf is heavily wounded.
+The splash of poison misses Crazy Yiuf.
+"...those who turn to uncleanliness will be smitten. This was fair..."
+Crazy Yiuf barely misses you.
+You completely miss Crazy Yiuf.
+Crazy Yiuf is heavily wounded.
+"...and just, and not a voice dissented."
+Crazy Yiuf is smitten by the wrath of Zin.
+Crazy Yiuf is almost dead.
+You finish reciting Ablutions 7:19.
+Crazy Yiuf hits you with a +2 quarterstaff of chaos!
+You feel drained.
+You barely miss Crazy Yiuf.
+Crazy Yiuf is almost dead.
+Crazy Yiuf hits you with a +2 quarterstaff of chaos!
+* * * LOW HITPOINT WARNING * * *
+You hit Crazy Yiuf but do no damage. Your punch misses Crazy Yiuf.
+Crazy Yiuf is almost dead.
+Crazy Yiuf hits you with a +2 quarterstaff of chaos!
+You die...
+
+#########..#          #.........)
+.....#....##          ####...####
+.......####              #)......
+..)...###                #...####
+.....÷).#              ##########
+.....####              #.........
+......####♣♣       ### ##########
+#####......♣♣  ♣♣#..)#
+    ##......♣♣♣♣@g...#
+     ##......♣..♣#...#
+      ##....♣.♣♣♣  ###
+       ###♣♣♣♣♣
+
+
+You could see Crazy Yiuf.
+
+Vanquished Creatures
+  Robin (D:3)
+  An adder (D:2)
+  2 worms (D:2)
+  A dart slug (D:1)
+  4 orcs (D:3)
+  6 bats
+  5 endoplasms
+  2 giant cockroaches
+  9 goblins
+  8 hobgoblins
+  4 jackals (D:2)
+  A kobold (D:3)
+  3 quokkas
+  2 ball pythons (D:2)
+  7 rats
+56 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Naga Transmuter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 3/3
+   185 | D:1      | Reached skill level 1 in Stealth
+   335 | D:1      | Reached XP level 2. HP: 22/25 MP: 5/5
+   497 | D:1      | Found a faded altar of an unknown god.
+   557 | D:1      | Prayed at the altar of an unknown god.
+   557 | D:1      | Became a worshipper of Zin the Law-Giver
+   557 | D:1      | Reached * piety under Zin
+   819 | D:2      | Reached XP level 3. HP: 16/31 MP: 6/6
+   896 | D:2      | Reached ** piety under Zin
+  1101 | D:2      | Reached skill level 4 in Unarmed Combat
+  1705 | D:3      | Reached XP level 4. HP: 16/38 MP: 7/7
+  2158 | D:3      | Noticed Robin
+  2180 | D:3      | Gained mutation: Your spells are a little harder to cast,
+                  | but a little more powerful. [potion of mutation]
+  2193 | D:3      | Killed Robin
+  2272 | D:3      | Found a runed translucent door.
+  2273 | D:3      | Noticed Crazy Yiuf
+  2437 | D:3      | Mangled by Crazy Yiuf
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_shelter, layout_loops_ring,
+          ebering_ecumenical_altar_webs, st_stairs_14, nicolae_eternal_life,
+          dreamdust_princess_corridor, hangedman_decor_points
+D:2:      layout_loops_ring, moated_statue
+D:3:      layout_rooms, uniq_robin, uniq_crazy_yiuf_cottage
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Stealth        |  1  2    |  2.3
+Unarmed Combat |        4 |  4.6
+Fighting       |          |  1.0
+Dodging        |          |  1.9
+Spellcasting   |          |  2.0
+Transmutations |          |  2.0
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |   121 |    62 ||   183
+       Punch             |     4 |     2 ||     6
+Invok: Recite            |       |     1 ||     1
+ Abil: Spit Poison       |     8 |     9 ||    17
+  Use: Potion            |     3 |     2 ||     5
+ Stab: Sleeping          |     4 |       ||     4
+       Distracted        |       |     1 ||     1
+Armor: Robe              |    22 |    15 ||    37
+Dodge: Dodged            |    52 |    33 ||    85
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   3095 |   3058 |     37 |     69 |   2509 |   3 | 1031.7 |
+       Dungeon |   3095 |   3058 |     37 |     69 |   2509 |   3 | 1031.7 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 1041 daAuts
+     D:3: 1033 daAuts
+     D:2: 1021 daAuts
+

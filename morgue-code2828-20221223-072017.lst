@@ -1,0 +1,183 @@
+code2828
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 club
+(8, 8, D:1)
+  a +0 ring mail
+(10, 26, D:1)
+  a +0 leather armour
+(22, 50, D:1)
+  a +0 dagger
+  2 stones
+(32, 5, D:1)
+  a +0 robe
+(35, 29, D:1)
+  a +0 whip
+(54, 8, D:1)
+  a +0 leather armour
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 quarterstaff
+(6, -8, D:2)
+  4 stones
+(6, 29, D:2)
+  a +0 dagger
+(11, -10, D:2)
+  7 stones
+(11, 0, D:2)
+  a +0 dagger
+  2 stones
+(11, 25, D:2)
+  4 stones
+  a +0 scale mail
+(28, 8, D:2)
+  a +0 dagger
+(31, -11, D:2)
+  5 stones
+(35, -19, D:2)
+  the +3 ring mail "Qaed" {MP+9 Str+4}
+    Str:       It affects your strength (+4).
+    MP:        It affects your magic capacity (+9).
+(37, 2, D:2)
+  a +2 short sword of venom
+(41, 3, D:2)
+  a +0 sling
+(45, 25, D:2)
+  a +0 leather armour
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 sling
+(2, 6, D:3)
+  6 stones
+(14, 24, D:3)
+  a +0 dagger
+(14, 26, D:3)
+  a stone
+(27, 6, D:3)
+  an orb of wrath
+(34, -6, D:3)
+  6 stones
+(40, 1, D:3)
+  a +0 club
+(40, 37, D:3)
+  6 stones
+(42, 7, D:3)
+  a +0 club
+(45, 37, D:3)
+  a +0 chain mail
+(46, 6, D:3)
+  a +2 dagger of speed
+  a +0 robe
+(51, 24, D:3)
+  a +0 short sword
+(56, 29, D:3)
+  7 stones
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 flail
+(2, -29, D:4)
+  a +0 club
+(6, -1, D:4)
+  a +0 flail
+  a +0 robe
+  a +0 dagger
+(7, -1, D:4)
+  a +0 leather armour
+  a +0 flail
+(9, 23, D:4)
+  a +0 battleaxe
+(11, 2, D:4)
+  a +0 flail
+(23, -28, D:4)
+  a +0 dagger
+(25, -42, D:4)
+  a +0 dagger
+(37, 13, D:4)
+  a +0 quarterstaff
+(39, -20, D:4)
+  a +0 war axe
+(41, 9, D:4)
+  5 stones
+(47, 11, D:4)
+  a +0 leather armour
+(56, -33, D:4)
+  a staff of poison
+(56, -3, D:4)
+  a +2 mace of draining
+
+Level 5 of the Dungeon
+[Shop] Gydyves's Antique Weapon Boutique
+  a +0 dagger of protection (127 gold)
+  a +6 hand axe of holy wrath (1084 gold)
+  a +0 spear (87 gold)
+  a +0 mace (87 gold)
+  a +0 hand axe (87 gold)
+  a +2 vorpal spear (478 gold)
+  a +0 spear (87 gold)
+  a +0 sling (43 gold)
+(4, -15, D:5)
+  2 poisoned darts
+(6, -18, D:5)
+  a +0 leather armour
+(12, -9, D:5)
+  5 poisoned darts
+(12, 14, D:5)
+  a +0 flail
+(15, -6, D:5)
+  a +0 dagger
+(16, 3, D:5)
+  a +0 halberd
+(16, 7, D:5)
+  a +0 rapier
+(16, 10, D:5)
+  an adder corpse (skeletalised by now)
+(17, -12, D:5)
+  a +0 morningstar
+(19, 24, D:5)
+  a +0 whip
+(20, 17, D:5)
+  a +0 giant spiked club
+(20, 26, D:5)
+  a +0 ring mail
+(22, -17, D:5)
+  a +0 giant club
+  an ogre corpse
+(22, -2, D:5)
+  a +0 ring mail
+(22, 19, D:5)
+  a staff of fire
+(23, -18, D:5)
+  a book of Air
+(23, 16, D:5)
+  a +0 spear
+(25, -13, D:5)
+  a +0 war axe of venom
+(25, 3, D:5)
+  a +0 dagger
+  a +0 robe
+(26, -12, D:5)
+  a +0 club
+  a +0 ring mail
+(26, -11, D:5)
+  a +0 mace
+(26, 12, D:5)
+  a +0 shortbow
+  4 curare-tipped darts
+(26, 20, D:5)
+  a +0 robe
+(28, -12, D:5)
+  a +0 dagger
+  a +0 robe
+(37, 15, D:5)
+  a +0 leather armour
+(44, -10, D:5)
+  a +0 leather armour
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a scroll of fear
+

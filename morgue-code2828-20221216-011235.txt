@@ -1,0 +1,404 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-459-g9104f0f (webtiles) character file.
+
+Game seed: 5555102866187438069
+
+2872 code2828 the Geomancer (level 9, -6/45 HPs)
+             Began as a Gargoyle Earth Elementalist on Dec 16, 2022.
+             Was a Follower of Vehumet.
+             Mangled by Gastronok (21 damage)
+             ... on level 8 of the Dungeon.
+             The game lasted 00:21:33 (7249 turns).
+
+code2828 the Geomancer (GrEE)                       Turns: 7249, Time: 00:21:36
+
+Health: -6/45      AC: 11    Str: 12    XL:     9   Next: 76%
+Magic:  0/16       EV: 12    Int: 27    God:    Vehumet [*.....]
+Gold:   283        SH:  0    Dex: 12    Spells: 4/17 levels left
+
+rFire   + . .      SeeInvis .   i - +1 whip (venom)
+rCold   . . .      Faith    .   (no shield)
+rNeg    + . .      Spirit   .   r - +0 leather armour "Zeoguwn" {Int+3 Stlth+}
+rPois   ∞          Reflect  .   (no helmet)
+rElec   +          Harm     .   m - +0 cloak
+rCorr   .          Rampage  .   s - +0 pair of gloves
+Will    .....                   (no boots)
+Stlth   ++++......              (no amulet)
+HPRegen 0.27/turn               e - +6 ring of intelligence
+MPRegen 0.15/turn               t - ring of protection from fire
+
+@: no status effects
+A: sickness immunity, AC +6, negative energy resistance 1, electricity
+resistance, torment resistance 1, petrification resistance
+a: Renounce Religion
+
+
+You were on level 8 of the Dungeon.
+You worshipped Vehumet.
+Vehumet was aware of your devotion.
+You visited 2 branches of the dungeon, and saw 9 of its levels.
+
+You collected 515 gold pieces.
+You spent 232 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ i - a +1 whip of venom (weapon)
+Missiles
+ A - a throwing net
+Armour
+ m - a +0 cloak (worn)
+ r - the +0 leather armour "Zeoguwn" (worn) {Int+3 Stlth+}
+   (You found it on level 4 of the Dungeon)   
+   
+   Int:       It affects your intelligence (+3).
+   Stlth:     It makes you more stealthy.
+ s - a +0 pair of gloves (worn)
+Jewellery
+ e - a +6 ring of intelligence (left hand)
+ t - a ring of protection from fire (right hand)
+ v - a ring of magical power
+ y - a ring of magical power
+Wands
+ o - a wand of polymorph (8)
+Scrolls
+ d - 6 scrolls of identify {unknown}
+ g - 4 scrolls of blinking {unknown}
+ j - 2 scrolls of magic mapping {unknown}
+ k - 2 scrolls of noise {unknown}
+ l - a scroll of summoning {unknown}
+ u - a scroll of enchant weapon {unknown}
+ w - a scroll of fog {unknown}
+ x - 3 scrolls of teleportation
+Potions
+ b - 3 potions of magic
+ c - 2 potions of might {unknown}
+ f - 6 potions of curing
+ h - 4 potions of haste {unknown}
+ n - a potion of berserk rage
+ p - a potion of lignification {unknown}
+ q - 3 potions of invisibility {unknown}
+ B - a potion of flight {unknown}
+
+
+   Skills:
+ + Level 4.6 Maces & Flails
+ + Level 4.4 Dodging
+ + Level 6.3 Stealth
+ + Level 4.9 Spellcasting
+ + Level 5.0 Conjurations
+ - Level 1.0 Transmutations
+ * Level 9.3 Earth Magic
+
+
+You had 4 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Sandblast             Erth           100%       2d20      1%          1
+b - Passwall              Tmut/Erth      28%        N/A       1%          2
+c - Stone Arrow           Conj/Erth      90%        3d12      1%          3
+d - Petrify               Tmut/Erth      34%        N/A       11%         4
+e - Ozocubu's Armour      Ice            6%         N/A       28%         3
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Kiss of Death            Conj/Necr      80%        2d11      3%          1
+ Magic Dart               Conj           100%       1d8       1%          1
+ Call Imp                 Summ           6%         N/A       14%         2
+ Mephitic Cloud           Conj/Pois/Air  15%        N/A       14%         3
+ Manifold Assault         Tloc           6%         N/A       67%         4
+ Metabolic Englaciation   Hex/Ice        3%         N/A       95%         5
+ Dispersal                Tloc           3%         N/A       100%        6
+ Simulacrum               Ice/Necr       3%         N/A       100%        6
+ Disjunction              Tloc           3%         N/A       100%        8
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)         Zot: 26769       Temple (1/1) D:4      Zot: 5981       
+  Lair: D:8-11      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:1 !   D:4 (:   D:5 *
+
+Annotations:
+D:8 Gastronok
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to sickness and miasma.
+Your stone body is resilient. (AC +6)
+You are immune to poison.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You are resistant to unholy torment.
+You are immune to petrification.
+
+Message History
+
+Confirm with . or Enter, or press ? or * to list all spells.
+Okay, then.
+Casting: Stone Arrow (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Sandblast (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - Gastronok
+Aim: Gastronok, wearing a +2 hat of see invisible (heavily wounded, 100% to
+hit)
+Okay, then.
+Gastronok bites you! The rat closely misses you.
+Casting: Sandblast (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Sandblast (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - Gastronok
+Aim: Gastronok, wearing a +2 hat of see invisible (heavily wounded, 100% to
+hit)
+The blast of sand hits Gastronok.
+Gastronok is heavily wounded.
+The bat hits you but does no damage. The rat misses you. Gastronok bites you!
+You feel much better. The rat barely misses you.
+The bat hits you but does no damage.
+You hit Gastronok. You punch Gastronok.
+Gastronok is severely wounded.
+The bat hits you but does no damage. The rat closely misses you.
+Gastronok bites you!!
+Ouch! That really hurt!
+You barely miss Gastronok.
+Gastronok is severely wounded.
+The bat hits you but does no damage. The rat misses you.
+You hit Gastronok but do no damage. Gastronok is poisoned.
+Gastronok is severely wounded.
+The bat hits you but does no damage. The bat barely misses you.
+The rat bites you but does no damage.
+Casting: Sandblast (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Sandblast (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - Gastronok
+Aim: Gastronok, wearing a +2 hat of see invisible (severely wounded, very
+poisoned, 100% to hit)
+The blast of sand hits Gastronok!
+Gastronok is severely wounded.
+The bat barely misses you. Gastronok bites you!!
+You die...
+
+............####.....+
+..######.............#
+..#....#.............#
+..#....#.............#
+..#....'.............#
+..###..#.............#
+########.......####'##
+.......#.......#br.†.#
+.......#.......#@....#
+#####..#.......#.j[..#
+....#..#.......###'###
+....#..'........ ....
+....#..#..............
+[...#..#................
+....#..#..........!.....
+....'..#................
+....####.................
+
+
+You could see Gastronok (very poisoned), a bat (summoned) and a rat (summoned).
+
+Vanquished Creatures
+  A water moccasin (D:3)
+  2 orc warriors
+  2 sky beasts
+  5 ice beasts
+  2 black bears
+  3 ogres
+  2 phantoms
+  A kobold brigand (D:8)
+  A bullfrog (D:6)
+  A scorpion (D:5)
+  2 howler monkeys (D:8)
+  5 jellies
+  2 orc priests
+  2 gnoll boudas (D:6)
+  5 hounds
+  5 iguanas
+  10 orc wizards
+  Robin (D:2)
+  9 gnolls
+  9 adders
+  4 shadow imps
+  A white imp (D:7)
+  19 orcs
+  2 ball pythons
+  8 endoplasms
+  3 giant cockroaches
+  18 goblins
+  7 hobgoblins
+  A quokka (D:1)
+  3 bats
+  3 frilled lizards (D:1)
+  11 kobolds
+  3 rats
+153 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Gargoyle Earth Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 3/3
+   147 | D:1      | Reached skill level 1 in Transmutations
+   147 | D:1      | Reached XP level 2. HP: 15/15 MP: 1/5
+   564 | D:1      | Found Luogu's Distillery.
+   581 | D:1      | Reached skill level 4 in Earth Magic
+   897 | D:1      | Found a sparkling altar of Nemelex Xobeh.
+   959 | D:2      | Reached XP level 3. HP: 19/19 MP: 4/6
+   979 | D:2      | Found a basalt altar of Yredelemnul.
+  1213 | D:2      | Noticed Robin
+  1222 | D:2      | Killed Robin
+  1324 | D:2      | Learned a level 2 spell: Passwall
+  1328 | D:2      | Learned a level 3 spell: Stone Arrow
+  1699 | D:3      | Reached skill level 1 in Conjurations
+  1699 | D:3      | Reached XP level 4. HP: 24/24 MP: 4/7
+  1775 | D:3      | Found an ornate altar of the Wu Jian Council.
+  1974 | D:3      | Reached skill level 1 in Maces & Flails
+  2180 | D:3      | Noticed a water moccasin
+  2192 | D:3      | Killed a water moccasin
+  2193 | D:3      | Reached skill level 5 in Earth Magic
+  2193 | D:3      | Reached XP level 5. HP: 24/28 MP: 4/9
+  2193 | D:3      | Reached XP level 6. HP: 28/32 MP: 4/10
+  2503 | D:3      | Found a faded altar of an unknown god.
+  2818 | D:4      | Found Ulleklur's Weapon Emporium.
+  2843 | D:4      | Found a staircase to the Ecumenical Temple.
+  2941 | D:4      | Identified the +0 leather armour "Zeoguwn" {Int+3 Stlth+}
+  2945 | D:4      | Found Maerao's Tremendous Tomes.
+  3108 | D:4      | Learned a level 4 spell: Petrify
+  3453 | D:5      | Entered Level 5 of the Dungeon
+  3604 | D:5      | Reached XP level 7. HP: 36/36 MP: 9/11
+  3695 | D:5      | Reached skill level 6 in Earth Magic
+  3785 | D:5      | Found a stormy altar of Qazlal.
+  3788 | D:5      | Found a burning altar of Makhleb.
+  3788 | D:5      | Found a blossoming altar of Fedhas.
+  4152 | D:5      | Found Tefoluturr's General Store.
+  4159 | D:5      | Bought a scroll of teleportation for 36 gold pieces
+  4213 | D:5      | Learned a level 3 spell: Ozocubu's Armour
+  4220 | D:5      | Reached XP level 8. HP: 33/41 MP: 8/13
+  4248 | D:5      | Found a hazy altar of Hepliaklqana.
+  4596 | D:5      | Found a radiant altar of Vehumet.
+  4597 | D:5      | Found a snail-covered altar of Cheibriados.
+  4747 | D:1      | Bought a potion of heal wounds for 70 gold pieces
+  4747 | D:1      | Bought 2 potions of curing for 84 gold pieces
+  4747 | D:1      | Bought a potion of curing for 42 gold pieces
+  4840 | Temple   | Entered the Ecumenical Temple
+  4907 | D:5      | Became a worshipper of Vehumet
+  4967 | D:6      | Reached skill level 7 in Earth Magic
+  5179 | D:6      | Reached skill level 5 in Stealth
+  5529 | D:6      | Found a broken altar of Ashenzari.
+  5591 | D:6      | Reached skill level 8 in Earth Magic
+  5691 | D:6      | Reached XP level 9. HP: 45/45 MP: 12/15
+  6317 | D:7      | Found an iron altar of Okawaru.
+  6379 | D:7      | Reached * piety under Vehumet
+  6379 | D:7      | Offered knowledge of Kiss of Death by Vehumet.
+  6717 | D:7      | Found a shimmering blue altar of Sif Muna.
+  6749 | D:7      | Reached skill level 9 in Earth Magic
+  7058 | D:8      | Found a bloodstained altar of Trog.
+  7222 | D:8      | Reached skill level 5 in Conjurations
+  7232 | D:8      | Noticed Gastronok
+  7249 | D:8      | Mangled by Gastronok
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_lava_altar, layout_loops_ring, serial_shops, shop,
+          hangedman_feature_mirror
+D:2:      layout_basic, basic_altar, uniq_robin
+D:3:      layout_loops_ring, old_standard_altar,
+          hellmonk_ecumenical_altar_leap_of_faith
+D:4:      layout_rooms, temple_pool_b, serial_shops, nicolae_shop_trees,
+          serial_curves, eino_curves_01, eino_curves_03, grunt_decor_one_mirror,
+          nicolae_shop_i_like_big_books
+D:5:      layout_loops_corners, lemuel_doored_altar, grunt_temple_overflow_open,
+          gammafunk_temple_overflow_statue, serial_shops,
+          nicolae_shop_temple_entry_statues_fountains, cheibrodos_gnoll_hut
+D:6:      minmay_skewed_foursquare, layout_basic, nicolae_ashenzari_skybound
+D:7:      layout_basic, mainiacjoe_overflow_24_doors,
+          nicolae_sif_muna_condensation
+D:8:      layout_gridville, lemuel_crystal_altar, ebering_ghost_rock_garden,
+          uniq_gastronok
+Temple:   minmay_freezing_vapour_temple
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Transmutations |  1                         |  1.0
+Earth Magic    |     4     5        6  8  9 |  9.3
+Dodging        |        2           3     4 |  4.4
+Conjurations   |        1        2  3  4  5 |  5.0
+Maces & Flails |           1     2     3  4 |  4.6
+Stealth        |           3        4  5  6 |  6.3
+Spellcasting   |                 3     4    |  4.9
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Unarmed           |     8 |       |       ||     8
+       Hand axe          |     2 |       |       ||     2
+       Whip              |    19 |    15 |    24 ||    58
+       Punch             |       |       |     2 ||     2
+ Cast: Sandblast         |    44 |    50 |   148 ||   242
+       Stone Arrow       |       |       |     3 ||     3
+       Passwall          |       |       |     1 ||     1
+       Petrify           |       |       |     1 ||     1
+  Use: Potion            |       |       |     2 ||     2
+Armor: Robe              |    11 |    13 |       ||    24
+       Leather armour    |       |       |    51 ||    51
+Dodge: Dodged            |    16 |    18 |    57 ||    91
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   7372 |   6933 |    439 |    196 |   5514 |   9 |  819.1 |
+       Dungeon |   7354 |   6918 |    436 |    196 |   5504 |   8 |  919.2 |
+        Temple |     18 |     16 |      2 |      0 |     10 |   1 |   18.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:5: 1392 daAuts
+     D:6: 1250 daAuts
+     D:3: 1077 daAuts
+     D:1: 946 daAuts
+     D:2: 857 daAuts
+     D:7: 800 daAuts
+     D:4: 800 daAuts
+     D:8: 229 daAuts
+  Temple: 18 daAuts
+

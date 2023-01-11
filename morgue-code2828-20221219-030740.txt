@@ -1,0 +1,242 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-465-g8901f6c (webtiles) character file.
+
+Game seed: 12454722682837935634
+
+46 code2828 the Digger (level 3, -2/19 HPs)
+             Began as a Gargoyle Earth Elementalist on Dec 19, 2022.
+             Constricted to death by Terence (4 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:03:16 (1346 turns).
+
+code2828 the Digger (Gargoyle Earth Elementalist)   Turns: 1346, Time: 00:03:17
+
+Health: -2/19      AC:  6    Str: 11    XL:     3   Next: 66%
+Magic:  3/6        EV:  8    Int: 17    God:    
+Gold:   67         SH:  0    Dex: 10    Spells: 5/6 levels left
+
+rFire   . . .      SeeInvis .   (no weapon)
+rCold   . . .      Faith    .   (no shield)
+rNeg    + . .      Spirit   .   e - +0 leather armour
+rPois   ∞          Reflect  .   (no helmet)
+rElec   +          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   ++........              (no amulet)
+HPRegen 0.23/turn               (no ring)
+MPRegen 0.10/turn               (no ring)
+
+@: brilliant, grasped by roots, very slightly contaminated, constricted
+A: sickness immunity, AC +3, negative energy resistance 1, electricity
+resistance, torment resistance 1, petrification resistance
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 67 gold pieces.
+
+Inventory:
+
+Armour
+ a - a +0 robe
+ e - a +0 leather armour (worn)
+Scrolls
+ f - a scroll of amnesia {unknown}
+ g - a scroll of enchant weapon {unknown}
+ k - a scroll of fog {unknown}
+Potions
+ b - a potion of magic
+ c - 2 potions of curing {unknown}
+ d - 2 potions of attraction {unknown}
+ h - a potion of berserk rage {unknown}
+ i - a potion of haste
+
+
+   Skills:
+ + Level 1.8 Dodging
+ * Level 3.1 Stealth
+ + Level 2.2 Spellcasting
+ + Level 1.0 Conjurations
+ - Level 0.7 Transmutations
+ * Level 4.3 Earth Magic
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Sandblast             Erth           48%        2d12      4%          1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Passwall                 Tmut/Erth      12%        N/A       13%         2
+ Stone Arrow              Conj/Erth      32%        3d9       26%         3
+ Petrify                  Tmut/Erth      15%        N/A       65%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)         Zot: 16651      
+
+Altars:
+
+Shops:
+D:2 [
+
+Annotations:
+D:2 Terence
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to sickness and miasma.
+Your stone body is resilient. (AC +3)
+You are immune to poison.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You are resistant to unholy torment.
+You are immune to petrification.
+
+Message History
+
+A goblin comes into view. It is wielding a +0 club.
+The blast of sand misses Terence.
+A goblin comes into view. It is wielding a +0 dagger.
+Terence zaps a wand. The roots erupt in riotous growth!
+The grasping roots grab you!
+The grasping roots constrict you. x2
+You hear an angry hiss. The goblin shouts! You hear a shout! x2
+You miscast Sandblast.
+You are very lightly contaminated with residual magic.
+Nothing appears to happen. Terence barely misses you.
+The grasping roots constrict you.
+The grasping roots release their grip on you.
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+Aiming: Sandblast (safe; 4% risk of failure)
+Press: ? - help, Q - select action
+Shift-Dir - straight line, f/p - Terence
+Aim: Terence, wielding a +0 morningstar, wearing a +0 ring mail and carrying a
+wand of roots (3) (84% to hit)
+The blast of sand hits Terence but does no damage.
+Terence says, "How do you enjoy it?"
+Terence zaps a wand. The roots erupt in riotous growth!
+The grasping roots grab you!
+Terence is unaffected. The grasping roots constrict you.
+You hear a shout!
+The roots grasp on you weakens, but your attempt to escape fails.
+Terence closely misses you. The grasping roots constrict you.
+* * * LOW HITPOINT WARNING * * *
+You escape the roots grasp. Terence zaps a wand.
+The roots erupt in riotous growth! The goblin is unaffected.
+Terence is unaffected.
+The grasping roots grab you!
+The grasping roots constrict you.
+* * * LOW HITPOINT WARNING * * *
+You escape the roots grasp.
+It was a potion of brilliance.
+You feel clever all of a sudden.
+Terence zaps a wand. The roots erupt in riotous growth!
+The goblin is unaffected. x2; Terence is unaffected.
+The grasping roots grab you!
+The now-empty wand crumbles to dust. The grasping roots constrict you.
+You die...
+
+.....#       #.#######.#.######
+.....#       #.##....#.#...†..#
+.....#       #.##.##.#.#.##.#.#
+.....##.#    #.##.............#
+........######....########.#..#
+.<.....##....>....#      #.#..#
+.......##.........#      #.#..#
+.......#......g...#      #.#.##
+.....[.......[@g@.#      #.#.#
+.##.....###...###|#      #.#.#
+.  #g####...#.  #.#      #.#
+.   ## #..#...  #.#
+.      ..  ...  #.#
+       .  #.##   .#
+          #.     ..
+          #.     ..
+
+
+You could see Terence and 2 goblins.
+
+Vanquished Creatures
+  An adder (D:2)
+  A worm (D:2)
+  3 endoplasms
+  3 giant cockroaches
+  4 hobgoblins
+  3 quokkas (D:1)
+  4 ball pythons
+  4 bats
+  A frilled lizard (D:2)
+  2 goblins (D:2)
+  4 kobolds
+  A rat (D:2)
+31 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Gargoyle Earth Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 3/3
+   165 | D:1      | Reached XP level 2. HP: 15/15 MP: 1/5
+   559 | D:2      | You fall into a shaft and drop 1 floor!
+   576 | D:3      | Reached skill level 4 in Earth Magic
+   794 | D:2      | Reached XP level 3. HP: 18/19 MP: 1/6
+  1058 | D:2      | Found Zachooh's Armour Shoppe.
+  1155 | D:2      | Reached skill level 1 in Conjurations
+  1336 | D:2      | Noticed Terence
+  1346 | D:2      | Constricted to death by Terence
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      ncdulo_halloftheorcs, layout_rooms, dreamdust_princess_corridor
+D:2:      layout_basic, serial_shops, shop, minivault_5,
+          guppyfry_early_orc_mine, uniq_terence
+D:3:      layout_basic, lemuel_zombie_altar_yredelemnul, st_stairs_6,
+          grunt_ministairs_2
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Earth Magic    |     4    |  4.3
+Stealth        |        3 |  3.1
+Conjurations   |        1 |  1.0
+Dodging        |          |  1.8
+Spellcasting   |          |  2.2
+Transmutations |          |  0.7
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||    16
+ Cast: Sandblast         ||    43
+  Use: Potion            ||     2
+Armor: Leather armour    ||     7
+Dodge: Dodged            ||    16
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   1347 |   1315 |     32 |     21 |   1063 |   3 |  449.0 |
+       Dungeon |   1347 |   1315 |     32 |     21 |   1063 |   3 |  449.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:2: 707 daAuts
+     D:1: 565 daAuts
+     D:3: 75 daAuts
+

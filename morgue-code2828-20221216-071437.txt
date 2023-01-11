@@ -1,0 +1,270 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-459-g9104f0f (webtiles) character file.
+
+Game seed: 2935328521075515118
+
+378 code2828 the Gusty (level 6, -2/32 HPs)
+             Began as a Tengu Air Elementalist on Dec 16, 2022.
+             Slain by an iron imp (11 damage)
+             ... on level 5 of the Dungeon.
+             The game lasted 00:10:47 (3135 turns).
+
+code2828 the Gusty (Tengu Air Elementalist)         Turns: 3135, Time: 00:10:48
+
+Health: -2/32      AC:  2    Str:  9    XL:     6   Next: 74%
+Magic:  2/11       EV: 16    Int: 17    God:    
+Gold:   94         SH:  0    Dex: 14    Spells: 7/10 levels left
+
+rFire   . . .      SeeInvis .   l - staff of conjuration
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   a - +0 robe
+rPois   .          Reflect  .   (helmet restricted)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (boots unavailable)
+Stlth   ++........              (no amulet)
+HPRegen 0.25/turn               (no ring)
+MPRegen 0.12/turn               (no ring)
+
+@: flying quickly and evasively, quick
+A: beak, talons 3, nimble flight
+a: no special abilities
+
+
+You were on level 5 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 94 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ d - a +0 quarterstaff
+Armour
+ a - a +0 robe (worn)
+ c - a +0 ring mail
+Magical Staves
+ l - a staff of conjuration (weapon)
+Jewellery
+ k - a ring of poison resistance
+ o - a ring of willpower
+Wands
+ n - a wand of flame (25)
+Scrolls
+ f - 3 scrolls of fear
+ i - a scroll of amnesia {unknown}
+ j - a scroll of magic mapping
+ m - 3 scrolls of identify
+Potions
+ b - a potion of magic
+ e - a potion of resistance {unknown}
+ g - a potion of berserk rage {unknown}
+ h - 2 potions of heal wounds
+
+
+   Skills:
+ * Level 4.2 Dodging
+ + Level 3.1 Stealth
+ + Level 2.8 Spellcasting
+ * Level 4.6 Conjurations
+ * Level 5.9 Air Magic
+
+
+You had 7 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Shock                 Conj/Air       100%       1d9       1%          1
+b - Static Discharge      Conj/Air       60%        2-5/arc   3%          2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Swiftness                Air            22%        N/A       4%          3
+ Airstrike                Air            11%        2d(2-18)  16%         4
+ Summon Small Mammal      Summ           8%         N/A       19%         1
+ Call Canine Familiar     Summ           2%         N/A       47%         3
+ Gell's Gravitas          Tloc           2%         N/A       47%         3
+ Lesser Beckoning         Tloc           4%         N/A       47%         3
+ Summon Guardian Golem    Hex/Summ       2%         N/A       47%         3
+ Teleport Other           Tloc           2%         N/A       47%         3
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (6/15)         Zot: 26288      
+Temple: D:4-7       
+
+Altars:
+Makhleb
+Uskayaw
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+Your magical nature lets you fly swiftly and evasively.
+
+Message History
+
+You hit the iron imp.
+The iron imp is moderately wounded.
+The iron imp hits you.
+You hit the iron imp.
+You claw the iron imp, but do no damage.
+Your peck misses the iron imp.
+The iron imp is moderately wounded.
+The iron imp barely misses you.
+You hit the iron imp but do no damage. You blast the iron imp.
+You peck the iron imp, but do no damage.
+The iron imp is heavily wounded.
+The iron imp closely misses you.
+You hit the iron imp but do no damage. You claw the iron imp.
+The iron imp is almost dead.
+The iron imp closely misses you.
+You hit the iron imp but do no damage. Your kick misses the iron imp.
+You punch the iron imp, but do no damage.
+The iron imp is almost dead.
+The iron imp misses you.
+You closely miss the iron imp.
+You peck the iron imp, but do no damage.
+The iron imp is almost dead.
+The iron imp completely misses you.
+You completely miss the iron imp.
+The iron imp is almost dead.
+The iron imp hits you!
+You completely miss the iron imp. Your kick misses the iron imp.
+You peck the iron imp.
+The iron imp is almost dead.
+You hit the iron imp but do no damage.
+The iron imp is almost dead.
+The iron imp hits you.
+* * * LOW HITPOINT WARNING * * *
+You closely miss the iron imp. Your peck misses the iron imp.
+The iron imp is almost dead.
+The iron imp misses you.
+You barely miss the iron imp.
+The iron imp is almost dead.
+The iron imp hits you!
+You die...
+
+#####....§§{.....#   #.....
+#.........{{.....#   ##..#.
+#........{8..._..##.###....
+#.........{{.....#.........
+#.........{{.....#..###....
+#..........{§....#    #...>
+###.#.......{{{{.#    #....
+  #..........{{{.#    #....
+  ###.....@5.....#   ....##
+    ############## .......
+                   .......
+                   ......
+                   .....
+
+
+You could see an iron imp.
+
+Vanquished Creatures
+  An ice beast (D:5)
+  A howler monkey (D:5)
+  A hound (D:5)
+  2 iron imps (D:5)
+  An iguana (D:5)
+  Robin (D:3)
+  4 adders (D:5)
+  A shadow imp (D:5)
+  A white imp (D:5)
+  An ufetubus (D:5)
+  2 worms (D:2)
+  A dart slug (D:3)
+  3 endoplasms (D:2)
+  15 goblins
+  9 hobgoblins
+  4 jackals
+  5 kobolds
+  5 ball pythons
+  A bat (D:2)
+  A frilled lizard (D:2)
+  5 rats
+65 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Tengu Air Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+   337 | D:1      | Reached XP level 2. HP: 13/15 MP: 1/6
+   964 | D:2      | Learned a level 2 spell: Static Discharge
+  1103 | D:2      | Reached XP level 3. HP: 19/19 MP: 4/7
+  1928 | D:2      | Found a hide-covered altar of Uskayaw.
+  2169 | D:3      | Noticed Robin
+  2182 | D:3      | Reached XP level 4. HP: 21/24 MP: 2/8
+  2272 | D:3      | Killed Robin
+  2410 | D:3      | You fall into a shaft and drop 3 floors!
+  2421 | D:5      | Entered Level 5 of the Dungeon
+  2501 | D:5      | Reached skill level 5 in Air Magic
+  2532 | D:5      | Gained mutation: Your magical nature lets you fly swiftly
+                  | and evasively. [Tengu growth]
+  2532 | D:5      | Reached XP level 5. HP: 28/28 MP: 4/9
+  2640 | D:5      | Noticed an ice beast
+  2646 | D:5      | Killed an ice beast
+  2748 | D:5      | Reached XP level 6. HP: 32/32 MP: 5/10
+  3087 | D:5      | Found a burning altar of Makhleb.
+  3135 | D:5      | Slain by an iron imp
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      lemuel_arrival_lava_pool, layout_basic
+D:2:      layout_basic, basic_altar, minmay_between
+D:3:      layout_basic, mainiacjoe_overflow_chevrons, minmay_box_of_dots,
+          uniq_robin
+D:5:      layout_basic, demons_altar, moated_statue
+D:6:      layout_rooms
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Conjurations   |     2     3  4    |  4.6
+Dodging        |           3     4 |  4.2
+Air Magic      |           5       |  5.9
+Stealth        |                 3 |  3.1
+Spellcasting   |                   |  2.8
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Quarterstaff      |    17 |       ||    17
+       Kick              |     6 |    13 ||    19
+       Peck              |     1 |    12 ||    13
+       Staff             |     1 |    42 ||    43
+       Punch             |       |     2 ||     2
+ Cast: Shock             |    82 |    77 ||   159
+       Static Discharge  |       |     3 ||     3
+  Use: Scroll            |       |     4 ||     4
+       Potion            |       |     1 ||     1
+Armor: Robe              |     9 |     1 ||    10
+Dodge: Dodged            |    33 |    52 ||    85
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   3136 |   3096 |     40 |    146 |   2430 |   5 |  627.2 |
+       Dungeon |   3136 |   3096 |     40 |    146 |   2430 |   5 |  627.2 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:2: 1216 daAuts
+     D:1: 956 daAuts
+     D:5: 710 daAuts
+     D:3: 243 daAuts
+     D:6: 10 daAuts
+

@@ -1,0 +1,578 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-381-g6ea064c (webtiles) character file.
+
+Game seed: 10681011912021151278
+
+36915 code2828 the Protected (level 13, -10/118 HPs)
+             Began as a Minotaur Berserker on Dec 2, 2022.
+             Was an Elder of Trog.
+             Engulfed by a fire crab's flame (20 damage)
+             ... on level 5 of the Lair of Beasts.
+             The game lasted 00:57:30 (16400 turns).
+
+code2828 the Protected (Minotaur Berserker)        Turns: 16400, Time: 00:57:35
+
+Health: -10/118    AC: 20    Str: 25    XL:     13   Next: 55%
+Magic:  4/4        EV:  9    Int:  4    God:    Trog [****..]
+Gold:   841        SH:  6    Dex: 12    Spells: 12/12 levels left
+
+rFire   . . .      SeeInvis .   R - +9 morningstar (antimagic)
+rCold   . . .      Faith    .   t - +0 buckler
+rNeg    . . .      Spirit   .   N - +0 plate armour
+rPois   .          Reflect  .   (helmet restricted)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   y - +0 pair of gloves
+Will    .....                   f - +1 pair of boots
+Stlth   ..........              (no amulet)
+HPRegen 0.39/turn               u - ring of fire
+MPRegen 0.09/turn               Q - ring of ice
+
+@: no status effects
+A: horns 2, retaliatory headbutt
+a: Renounce Religion, Berserk, Trog's Hand, Brothers in Arms
+
+
+You were on level 5 of the Lair of Beasts.
+You worshipped Trog.
+Trog was greatly pleased with you.
+You visited 4 branches of the dungeon, and saw 17 of its levels.
+
+You collected 931 gold pieces.
+You spent 90 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ m - the +11 quarterstaff of Luxury {vorpal, rC++ Str-3}
+   (You found it on level 5 of the Dungeon)   
+   
+   It inflicts extra damage upon your enemies.
+   
+   Str:       It affects your strength (-3).
+   rC:        It greatly protects you from cold.
+ o - the +7 mace of Watchfulness {protect, rPois}
+   (You found it on level 2 of the Dungeon)   
+   
+   It grants its wielder temporary protection when it strikes (+7 to AC).
+   
+   rPois:     It protects you from poison.
+ H - the +14 obsidian axe {vorpal, Mesm Drain Fly SInv}
+   (You found it on level 5 of the Dungeon)   
+   
+   It inflicts extra damage upon your enemies.
+   
+   It occasionally summons demons to assist the wielder when it strikes in
+   combat.
+   
+   Its wielder is mesmerised by any visible foes.
+   It cannot be unequipped while any foes are visible.
+   
+   SInv:      It lets you see invisible.
+   Fly:       It grants you flight.
+   Drain:     It drains your maximum health when unequipped.
+ R - a +9 antimagic morningstar (weapon)
+Missiles
+ K - 2 throwing nets (quivered)
+Armour
+ f - a +1 pair of boots (worn)
+ t - a +0 buckler (worn)
+ y - a +0 pair of gloves (worn)
+ N - a +0 plate armour (worn)
+Jewellery
+ u - a ring of fire (left hand)
+ Q - a ring of ice (right hand)
+Wands
+ w - a wand of digging (9)
+ z - a wand of flame (18)
+ L - a wand of polymorph (10)
+ M - a wand of mindburst (17)
+ O - a wand of paralysis (9)
+Scrolls
+ a - 2 scrolls of summoning {unknown}
+ b - 5 scrolls of poison
+ c - 6 scrolls of teleportation
+ d - 2 scrolls of brand weapon {unknown}
+ h - a scroll of torment {unknown}
+ j - 2 scrolls of amnesia {unknown}
+ k - 7 scrolls of identify
+ l - 3 scrolls of magic mapping
+ p - 4 scrolls of immolation
+ C - 6 scrolls of butterflies {unknown}
+ E - 3 scrolls of blinking {unknown}
+ F - 2 scrolls of silence {unknown}
+ J - a scroll of noise {unknown}
+ P - 2 scrolls of acquirement {unknown}
+ U - a scroll of fear {unknown}
+Potions
+ e - 2 potions of might
+ g - 4 potions of attraction
+ i - 3 potions of haste
+ n - 2 potions of ambrosia
+ q - 2 potions of invisibility
+ r - 4 potions of magic {unknown}
+ s - 4 potions of cancellation {unknown}
+ v - 14 potions of curing
+ x - 4 potions of brilliance {unknown}
+ A - 3 potions of mutation {unknown}
+ B - a potion of lignification {unknown}
+ D - 2 potions of berserk rage {unknown}
+ G - 2 potions of resistance
+ I - 3 potions of flight {unknown}
+ T - a potion of degeneration {unknown}
+
+
+   Skills:
+ + Level 12.3 Fighting
+ + Level 11.4(14.2) Axes
+ + Level 11.7(14.3) Maces & Flails
+ + Level 6.9(11.0) Polearms
+ + Level 6.8(11.1) Staves
+ + Level 12.9 Armour
+ + Level 6.6 Dodging
+ + Level 3.6 Stealth
+ + Level 8.1 Shields
+ + Level 3.9 Unarmed Combat
+
+
+You had 12 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (10/15)            Temple (1/1) D:6            Lair (5/5) D:10        
+  Swamp (0/4) Lair:2       Spider (0/4) Lair:2        Slime (0/5) Lair:4      
+    Orc (1/2) D:9         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Jiyva
+
+Shops:
+D:3 !   D:8 (
+
+Annotations:
+D:9 3 runed translucent doors, Terrapin's ghost, novice VSBr; TuffENuff's ghost,
+novice FoFi
+D:10 1 runed translucent door, birdsarechill's ghost, journeyman DrWr
+Lair:1 exclusion: oklob plant
+Lair:4 3 runed translucent doors, Zinkuecu's ghost, journeyman HOCA
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+The water moccasin is engulfed in blazing flames.
+The water moccasin dies!
+No reachable target in view!
+No reachable target in view!
+No reachable target in view!
+No reachable target in view!
+No reachable target in view!
+No reachable target in view!
+You are engulfed in blazing flames. You feel sick.
+You feel sick. The fire crab bites you! You are engulfed in flames!
+* * * LOW HITPOINT WARNING * * *
+The fire crab claws you but does no damage.
+You feel better. You block the fire crab's attack. The fire crab claws you.
+* * * LOW HITPOINT WARNING * * *
+You are engulfed in flames!
+* * * LOW HITPOINT WARNING * * *
+You feel much better.
+The fire crab bites you but does no damage.
+You block the fire crab's attack.
+You bludgeon the fire crab!!
+The fire crab is heavily wounded.
+The blink frog hits you but does no damage.
+The fire crab breathes flames at you.
+The blast of flame engulfs you but does no damage.
+You bludgeon the fire crab!!
+The fire crab is almost dead.
+You are engulfed in blazing flames.
+The blink frog is engulfed in blazing flames.
+The blink frog hits you but does no damage.
+The fire crab bites you but does no damage.
+The fire crab claws you. You are engulfed in flames!
+* * * LOW HITPOINT WARNING * * *
+The fire crab attacks as you move away!
+The fire crab bites you but does no damage.
+The fire crab claws you!
+* * * LOW HITPOINT WARNING * * *
+You are engulfed in flames!
+* * * LOW HITPOINT WARNING * * *
+You are engulfed in blazing flames.
+You die...
+
+.......#..........#......
+.#.P...............#.....
+...#...............#.#...
+#........P.....#...#.....
+.......P........#....#...
+.......P.................
+.............P.P#....#...
+.............PP.#Ft°.....
+.........P......@○°..P...
+.............#.P°°°......
+.....................#...
+.........................
+.......#.......#.........
+................#........
+         ................
+         ......#.........
+
+
+You could see a fire crab and a blink frog.
+
+Vanquished Creatures
+  2 hydras (Lair:5)
+  2 catoblepae
+  A boulder beetle (Lair:4)
+  2 bog bodies (Lair:2)
+  A wolf spider (Lair:2)
+  A manticore (D:9)
+  5 elephants (Lair:3)
+  Joseph (D:7)
+  4 black mambas
+  A torpor snail (Lair:2)
+  7 cane toads
+  4 rime drakes
+  An unseen horror zombie (D:9)
+  6 komodo dragons
+  2 trolls
+  6 polar bears
+  20 blink frogs
+  2 jumping spiders (Lair:2)
+  Sigmund (D:4)
+  A wraith (D:10)
+  2 wyverns
+  45 yaks
+  3 basilisks
+  A redback (Lair:2)
+  3 steam dragons
+  Menkaure (D:6)
+  Duvessa (D:4)
+  8 water moccasins
+  3 ice beasts
+  3 orc warriors
+  6 black bears
+  An ogre (Orc:1)
+  6 centaurs
+  5 wolves
+  A phantom (D:7)
+  Blork the orc (D:4)
+  6 bullfrogs
+  A wyvern zombie (D:9)
+  A gnoll sergeant (D:7)
+  2 necrophages (D:6)
+  3 scorpions
+  11 wights
+  Dowan (D:4)
+  10 killer bees
+  An electric eel (D:8)
+  3 howler monkeys
+  A centaur zombie (D:9)
+  4 orc priests
+  6 hounds
+  5 jellies
+  2 gnoll boudas
+  4 iguanas
+  14 orc wizards
+  Natasha (thrice) (D:4)
+  A killer bee zombie (D:9)
+  A howler monkey zombie (D:9)
+  Robin (D:4)
+  17 gnolls
+  6 adders
+  A shadow imp (D:7)
+  2 white imps
+  2 ufetubi
+  4 worms
+  4 dart slugs
+  53 orcs
+  3 bats (D:2)
+  4 endoplasms
+  5 giant cockroaches
+  11 hobgoblins
+  3 quokkas
+  5 ball pythons
+  3 frilled lizards
+  17 goblins
+  5 kobolds
+  5 rats
+391 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  Erolcha (D:9)
+  A hydra (Lair:3)
+  A cane toad (Lair:2)
+  2 polar bears (Lair:2)
+  6 yaks
+  4 black bears
+  A gnoll sergeant (D:9)
+  3 wights (D:9)
+  An orc priest (D:9)
+  An orc wizard (D:9)
+  4 gnolls (D:9)
+25 creatures vanquished.
+
+Vanquished Creatures (others)
+  A water moccasin (Lair:5)
+  A wolf (Lair:4)
+  A bush (Lair:3)
+  17 fungi
+  30 plants
+  12 withered plants (D:9)
+62 creatures vanquished.
+
+Grand Total: 478 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Minotaur Berserker began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   174 | D:1      | Reached XP level 2. HP: 27/27 MP: 1/1
+   315 | D:1      | Found a faded altar of an unknown god.
+   618 | D:2      | You fall into a shaft and drop 1 floor!
+   769 | D:2      | Reached XP level 3. HP: 33/33 MP: 2/2
+   850 | D:2      | HP: 2/49 [gnoll/+2 vorpal spear (4)]
+   852 | D:2      | Reached XP level 4. HP: 1/41 MP: 3/3
+  1106 | D:2      | Identified the +7 mace of Watchfulness {protect, rPois}
+  1129 | D:2      | Reached ** piety under Trog
+  1131 | D:2      | Reached skill level 5 in Axes
+  1804 | D:3      | Reached skill level 1 in Stealth
+  1807 | D:3      | Reached skill level 1 in Polearms
+  1807 | D:3      | Reached XP level 5. HP: 47/47 MP: 4/4
+  1914 | D:3      | Found Iwe Bosk's Distillery.
+  1924 | D:3      | Bought a potion of curing for 30 gold pieces
+  1924 | D:3      | Bought a potion of curing for 30 gold pieces
+  1924 | D:3      | Bought a potion of curing for 30 gold pieces
+  2474 | D:4      | Noticed Sigmund
+  2493 | D:4      | Killed Sigmund
+  2494 | D:4      | Reached skill level 1 in Shields
+  2494 | D:4      | Reached XP level 6. HP: 44/55 MP: 5/5
+  2641 | D:4      | Noticed Dowan
+  2641 | D:4      | Noticed Robin
+  2646 | D:4      | Noticed Duvessa
+  2655 | D:4      | Killed Dowan
+  2662 | D:4      | Reached *** piety under Trog
+  2665 | D:4      | Killed Duvessa
+  2666 | D:4      | Reached skill level 5 in Fighting
+  2666 | D:4      | Reached XP level 7. HP: 51/61 MP: 6/6
+  2671 | D:4      | Killed Robin
+  2797 | D:4      | Reached skill level 5 in Polearms
+  3005 | D:4      | Noticed Natasha
+  3009 | D:4      | Killed Natasha
+  3051 | D:4      | Noticed Natasha
+  3057 | D:4      | Killed Natasha
+  3062 | D:4      | Noticed Natasha
+  3070 | D:4      | Killed Natasha
+  3212 | D:4      | Noticed Blork the orc
+  3219 | D:4      | Killed Blork the orc
+  3558 | D:5      | Entered Level 5 of the Dungeon
+  3699 | D:5      | Found a glowing golden altar of the Shining One.
+  3921 | D:5      | Identified the +11 quarterstaff of Luxury {vorpal, rC++
+                  | Str-3}
+  3949 | D:5      | Found the +14 obsidian axe {vorpal, Mesm Drain Fly SInv}
+  4220 | D:5      | Reached skill level 5 in Armour
+  4220 | D:5      | Reached XP level 8. HP: 68/68 MP: 7/7
+  4555 | D:6      | Noticed Menkaure
+  4565 | D:6      | Killed Menkaure
+  4577 | D:6      | Reached **** piety under Trog
+  4775 | D:6      | Found a white marble altar of Elyvilon.
+  4775 | D:6      | Found a sacrificial altar of Ru.
+  4780 | D:6      | Reached skill level 1 in Unarmed Combat
+  4783 | D:6      | Found a hide-covered altar of Uskayaw.
+  5175 | D:6      | Found a staircase to the Ecumenical Temple.
+  5259 | D:6      | Reached skill level 5 in Dodging
+  5300 | D:6      | Reached XP level 9. HP: 75/75 MP: 8/8
+  5558 | Temple   | Entered the Ecumenical Temple
+  5607 | D:7      | Found an ancient bone altar of Kikubaaqudgha.
+  5717 | D:7      | Noticed Joseph
+  5722 | D:7      | Killed Joseph
+  5774 | D:7      | Identified the +4 dagger of Yesterday {vorpal, rC+}
+  6307 | D:8      | Found Ybrovygi's Weapon Shop.
+  6716 | D:8      | Reached XP level 10. HP: 77/86 MP: 9/9
+  7338 | D:9      | Reached skill level 5 in Shields
+  7340 | D:9      | Reached skill level 10 in Axes
+  7350 | D:9      | Noticed Erolcha
+  7354 | D:9      | Killed Erolcha
+  8056 | D:9      | Noticed a manticore
+  8064 | D:9      | Killed a manticore
+  8255 | D:9      | Reached skill level 1 in Maces & Flails
+  8255 | D:9      | Reached XP level 11. HP: 90/95 MP: 10/10
+  8351 | D:9      | Identified the +4 sling "Fiah" {vorpal, rF+}
+  8389 | D:9      | Reached ***** piety under Trog
+  8400 | D:9      | Found a staircase to the Orcish Mines.
+  8571 | D:9      | Found a runed translucent gate.
+  8571 | D:9      | Found a runed translucent gate.
+  8571 | D:9      | Found a runed translucent gate.
+  8574 | D:9      | Noticed Terrapin's ghost (novice VSBr)
+  8575 | D:9      | Noticed TuffENuff's ghost (novice FoFi)
+  8719 | D:9      | Received a gift from Trog
+  9049 | Orc:1    | Entered Level 1 of the Orcish Mines
+  9055 | Orc:1    | Reached skill level 5 in Maces & Flails
+  9098 | D:10     | Entered Level 10 of the Dungeon
+  9102 | D:10     | Found a staircase to the Lair.
+  9298 | D:10     | Found a runed translucent door.
+  9305 | D:10     | Noticed birdsarechill's ghost (journeyman DrWr)
+ 10316 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 10523 | Lair:1   | Reached skill level 1 in Staves
+ 10764 | Lair:1   | Noticed a catoblepas
+ 10780 | Lair:1   | Killed a catoblepas
+ 10781 | Lair:1   | Reached skill level 10 in Armour
+ 10993 | Lair:1   | Found a broken altar of Ashenzari.
+ 10993 | Lair:1   | Noticed an oklob plant
+ 11111 | Lair:1   | Reached skill level 5 in Staves
+ 11111 | Lair:1   | Reached XP level 12. HP: 106/106 MP: 11/11
+ 11402 | Lair:2   | Reached skill level 10 in Fighting
+ 11596 | Lair:2   | Found a gate leading to a gauntlet.
+ 12694 | Lair:2   | Found a staircase to the Swamp.
+ 13194 | Lair:2   | Found a hole to the Spider Nest.
+ 13472 | Lair:3   | Noticed a six-headed hydra
+ 13481 | Lair:3   | Killed a seven-headed hydra
+ 13488 | Lair:3   | Reached skill level 10 in Maces & Flails
+ 13488 | Lair:3   | Reached XP level 13. HP: 116/116 MP: 12/12
+ 13867 | Lair:3   | Received a gift from Trog
+ 14817 | Lair:4   | Found a viscous altar of Jiyva.
+ 14817 | Lair:4   | Found a staircase to the Slime Pits.
+ 14958 | Lair:4   | Identified the +9 flail "Melal" {freeze, Int+6 Dex-2 SInv
+                  | Stlth+}
+ 15354 | Lair:4   | Found a runed translucent gate.
+ 15354 | Lair:4   | Found a runed translucent gate.
+ 15355 | Lair:4   | Found a runed translucent gate.
+ 15355 | Lair:4   | Noticed Zinkuecu's ghost (journeyman HOCA)
+ 15686 | Lair:5   | Entered Level 5 of the Lair of Beasts
+ 16400 | Lair:5   | Engulfed by a fire crab's flame
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      mrwooster_arrival_statue_2, layout_basic,
+          hellmonk_ecumenical_altar_inner_sanctum
+D:2:      layout_basic
+D:3:      layout_basic, serial_shops, nicolae_shop_crystal,
+          minmay_misc_feat_enclosed
+D:4:      layout_gridville, chequers_serial_rivers_micro_b,
+          reono_crystal_passage, uniq_duvessa, uniq_blork_the_orc, uniq_sigmund,
+          uniq_robin, uniq_natasha
+D:5:      layout_loops_cross, mainiacjoe_overflow_six_doors_small
+D:6:      layout_rooms, chequers_temple_overflow_statue_of_worship,
+          minmay_temple_entry_statues, minmay_quadrilaterals, uniq_menkaure
+D:7:      layout_rooms, mainiacjoe_overflow_tiny_flanked, minmay_misc_feat_tiny,
+          uniq_joseph
+D:8:      layout_gridville, serial_shops, shop_fountains, serial_bayou_lake_a
+D:9:      layout_long_grid, hiddenorc2_lemuel, gammafunk_ghost_cemetery,
+          serial_undead, serial_undead_b, serial_undead_c, serial_undead_e,
+          serial_undead_f, serial_undead_d, serial_undead_a,
+          kennysheep_generic_room_6, uniq_erolcha
+D:10:     layout_long_grid, lair_entry_dummy, ebering_ghost_reflecting_pool
+Temple:   sentei_temple_godly_chess
+Lair:1:   layout_chaotic_city, lemuel_oklob_altar
+Lair:2:   beast_lair_carwin_large_4, layout_gridlike, skrybe_swamp_entry_bodies,
+          spider_nest_entry_funnel_web, gauntlet_entry_generic,
+          portal_ice_cave_rime
+Lair:3:   layout_cave_pods, beast_lair_carwin_1, lemuel_fruit_fields,
+          grunt_megastairs_3, serial_bayou_shore_b
+Lair:4:   layout_regular_city, nicolae_slime_entry_slimehenge,
+          gammafunk_ghost_hydra_chop, lemuel_fruit_tree
+Lair:5:   due_jungle_book, layout_long_grid, disabler_island
+Orc:1:    layout_diamond_mine, gammafunk_ghost_stat_death
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 |
+---------------+----------------------------------------+-----
+Axes           |  4        5              8 11          | 11.4
+Fighting       |     4           5        7  8  9 11 12 | 12.3
+Dodging        |           3        4  5     6          |  6.6
+Stealth        |           1     2        3             |  3.6
+Polearms       |           1  3  4  6                   |  6.9
+Armour         |              3     5  6  7  8 10 12    | 12.9
+Shields        |              1     2  3  4  5  6  7  8 |  8.1
+Unarmed Combat |                       3                |  3.9
+Maces & Flails |                             1  7 10 11 | 11.7
+Staves         |                                5  6    |  6.8
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Melee: Hand axe          |    50 |       |       |       |       ||    50
+       Headbutt          |     3 |    10 |    34 |   139 |    58 ||   244
+       Spear             |       |   143 |    93 |       |       ||   236
+       Unarmed           |       |       |    86 |       |       ||    86
+       Broad axe         |       |       |    74 |    45 |       ||   119
+       Mace              |       |       |       |   440 |    69 ||   509
+       Quarterstaff      |       |       |       |    80 |       ||    80
+       Morningstar       |       |       |       |       |   121 ||   121
+Invok: Berserk           |     1 |     3 |     4 |     6 |       ||    14
+       Trog's Hand       |       |     1 |       |     2 |       ||     3
+       Brothers in Arms  |       |       |       |     4 |     1 ||     5
+  Use: Scroll            |       |       |       |    10 |       ||    10
+       Potion            |       |       |       |     3 |     2 ||     5
+ Stab: Sleeping          |     1 |     2 |     1 |       |       ||     4
+       Distracted        |       |       |       |     2 |       ||     2
+       Petrified         |       |       |       |     1 |       ||     1
+Armor: Animal skin       |     9 |     7 |       |       |       ||    16
+       Ring mail         |       |    23 |   103 |     2 |       ||   128
+       Plate armour      |       |       |       |   370 |   130 ||   500
+Dodge: Dodged            |    32 |    48 |   119 |   287 |    64 ||   550
+Block: Buckler           |       |    11 |    38 |   138 |    55 ||   242
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  16455 |  14911 |   1544 |    268 |  11986 |  17 |  967.9 |
+       Dungeon |  10385 |   9001 |   1384 |    232 |   7094 |  10 | 1038.5 |
+        Temple |     28 |     28 |      0 |      0 |      2 |   1 |   28.0 |
+          Lair |   6029 |   5869 |    160 |     36 |   4890 |   5 | 1205.8 |
+  Orcish Mines |     12 |     12 |      0 |      0 |      0 |   1 |   12.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+  Lair:2: 1925 daAuts
+     D:9: 1562 daAuts
+     D:5: 1342 daAuts
+  Lair:3: 1335 daAuts
+    D:10: 1213 daAuts
+     D:2: 1124 daAuts
+     D:4: 1120 daAuts
+  Lair:1: 1073 daAuts
+  Lair:4: 1017 daAuts
+     D:8: 960 daAuts
+     D:6: 869 daAuts
+     D:3: 851 daAuts
+     D:1: 679 daAuts
+  Lair:5: 677 daAuts
+     D:7: 661 daAuts
+

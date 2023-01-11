@@ -1,0 +1,420 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-576-g89cddaa (webtiles) character file.
+
+Game seed: 10714338268797160547
+
+6823 code2828 the Skirmisher (level 11, -3/68 HPs)
+             Began as a Tengu Hunter on Dec 30, 2022.
+             Was an Elder of Okawaru.
+             Slain by a killer bee (6 damage)
+             ... on level 8 of the Dungeon on Dec 31, 2022.
+             The game lasted 00:35:39 (11100 turns).
+
+code2828 the Skirmisher (Tengu Hunter)             Turns: 11100, Time: 00:35:40
+
+Health: -3/68      AC:  1    Str: 19    XL:     11   Next: 5%
+Magic:  12/12      EV: 26    Int: 10    God:    Okawaru [****..]
+Gold:   240        SH:  0    Dex: 20    Spells: 10/10 levels left
+
+rFire   . . .      SeeInvis .   c - +0 arbalest
+rCold   . . .      Faith    .   (shield currently unavailable)
+rNeg    . . .      Spirit   .   (no body armour)
+rPois   .          Reflect  .   (helmet restricted)
+rElec   .          Harm     .   p - +0 cloak
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (boots unavailable)
+Stlth   ++++                    (no amulet)
+HPRegen 0.31/turn               h - +5 ring of evasion
+MPRegen 0.13/turn               i - +6 ring of strength
+
+@: flying quickly and evasively, quick
+A: beak, talons 3, nimble flight
+a: Renounce Religion, Heroism, Finesse
+
+
+You were on level 8 of the Dungeon.
+You worshipped Okawaru.
+Okawaru was greatly pleased with you.
+You visited 2 branches of the dungeon, and saw 10 of its levels.
+
+You collected 532 gold pieces.
+You spent 292 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 shortbow
+ c - a +0 arbalest (weapon)
+Armour
+ p - a +0 cloak (worn)
+Jewellery
+ h - a +5 ring of evasion (left hand)
+ i - a +6 ring of strength (right hand)
+ A - a ring of protection from cold
+ G - a ring of see invisible
+ H - a ring of poison resistance
+Scrolls
+ b - 3 scrolls of immolation
+ d - a scroll of torment {unknown}
+ e - 3 scrolls of identify
+ k - a scroll of amnesia {unknown}
+ l - 2 scrolls of blinking {unknown}
+ n - a scroll of enchant armour {unknown}
+ o - 2 scrolls of fog
+ r - 4 scrolls of teleportation
+ u - a scroll of enchant weapon
+ v - a scroll of noise {unknown}
+ x - 2 scrolls of fear
+ B - a scroll of brand weapon {unknown}
+ D - a scroll of vulnerability {unknown}
+ E - 2 scrolls of poison {unknown}
+ F - a scroll of silence {unknown}
+Potions
+ f - a potion of berserk rage {unknown}
+ j - 4 potions of curing
+ m - 2 potions of heal wounds
+ q - 3 potions of brilliance
+ s - 3 potions of lignification {unknown}
+ t - 2 potions of mutation {unknown}
+ w - a potion of haste {unknown}
+ z - a potion of ambrosia {unknown}
+ C - 2 potions of attraction {unknown}
+ I - a potion of resistance {unknown}
+
+
+   Skills:
+ + Level 7.7 Fighting
+ * Level 12.2 Ranged Weapons
+ + Level 8.4 Dodging
+ + Level 8.0 Stealth
+ + Level 0.6 Invocations
+
+
+You had 10 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Cigotuvi's Dreadful Rot  Necr/Pois/Air  0%         N/A       50%         2
+ Poisonous Vapours        Pois/Air       0%         N/A       50%         2
+ Mephitic Cloud           Conj/Pois/Air  0%         N/A       75%         3
+ Olgreb's Toxic Radiance  Pois           0%         N/A       98%         4
+ Ozocubu's Refrigeration  Ice            0%         4d7       100%        7
+ Ignition                 Fire           0%         3d3       100%        8
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (9/15)         Zot: 25866       Temple (1/1) D:5      Zot: 5867       
+   Lair (0/5) D:8                      
+   Orc: D:9-12      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:3 [*
+
+Annotations:
+D:4 3 runed translucent doors, exclusion: downstairs, purpskrrrp's ghost, novice
+DsCj
+D:5 Menkaure
+D:6 Maggie
+D:8 exclusion: ice statue
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+Your magical nature lets you fly swiftly and evasively.
+
+Message History
+
+There is a stone staircase leading down, spattered with blood here.
+Okay, then.
+You shoot a bolt. The bolt misses the killer bee.
+The killer bee completely misses you. x2; The killer bee stings you!
+The killer bee completely misses you. The killer bee misses you.
+The killer bee stings you! The killer bee completely misses you. x2
+The killer bee closely misses you.
+You shoot a bolt. The bolt misses the killer bee.
+The killer bee completely misses you. The killer bee misses you.
+The killer bee completely misses you. The killer bee closely misses you. x2
+The killer bee barely misses you. The killer bee closely misses you. x2
+The killer bee misses you.
+You shoot a bolt.
+The bolt hits the killer bee but does no damage.
+The killer bee completely misses you. The killer bee barely misses you.
+The killer bee misses you. The killer bee completely misses you. x2
+The killer bee barely misses you.
+You shoot a bolt. The bolt closely misses the killer bee.
+The killer bee stings you. The killer bee completely misses you.
+The killer bee misses you. The killer bee barely misses you.
+The killer bee completely misses you. The killer bee closely misses you.
+The killer bee completely misses you. The killer bee misses you.
+The killer bee barely misses you.
+You shoot a bolt. The bolt closely misses the killer bee.
+The killer bee completely misses you. x2; The killer bee misses you.
+The killer bee stings you! The killer bee completely misses you. x2
+You shoot a bolt. The bolt barely misses the killer bee.
+The killer bee stings you!
+* * * LOW HITPOINT WARNING * * *
+The killer bee misses you. The killer bee closely misses you.
+The killer bee completely misses you. x3; The killer bee closely misses you. x3
+You shoot a bolt. The bolt misses the killer bee.
+The killer bee completely misses you. The killer bee stings you!
+* * * LOW HITPOINT WARNING * * *
+The killer bee completely misses you. The killer bee misses you. x2
+The killer bee stings you but does no damage.
+The killer bee stings you.
+* * * LOW HITPOINT WARNING * * *
+The killer bee stings you.
+You die...
+
+#############################
+#..........k@k...............
+#.##########k#########.......
+#.#.....#  #.................
+#.#.###.#  ###########.......
+#.#...#.#            ########
+#.#.###.#                 #..
+#.......#                 #..
+###(#####                 #..
+  #.#      ############   #..
+
+
+You could see 3 killer bees.
+
+Vanquished Creatures
+  Erica (D:8)
+  A two-headed ogre (D:9)
+  Pikel (D:8)
+  A manticore (D:8)
+  An elephant (D:8)
+  Maurice (D:8)
+  Sigmund (D:6)
+  A shadow (D:9)
+  A wyvern (D:9)
+  6 yaks
+  2 basilisks (D:8)
+  Edmund (D:6)
+  3 water moccasins
+  2 orc warriors
+  An ice beast (D:7)
+  2 centaurs (D:9)
+  A phantom (D:4)
+  A lemure (D:8)
+  Blork the orc (D:4)
+  A necrophage (D:6)
+  4 bullfrogs
+  4 scorpions
+  3 wights (D:7)
+  A killer bee (D:8)
+  4 hounds
+  3 jellies
+  6 orc priests
+  A gnoll bouda (D:4)
+  4 iguanas
+  6 orc wizards
+  Robin (D:4)
+  3 adders
+  4 gnolls (D:4)
+  A shadow imp (D:8)
+  A white imp (D:7)
+  An ufetubus (D:5)
+  2 worms (D:2)
+  4 dart slugs
+  24 orcs
+  16 endoplasms
+  2 giant cockroaches
+  9 goblins
+  13 hobgoblins
+  A quokka (D:2)
+  6 ball pythons
+  4 bats
+  3 frilled lizards
+  12 kobolds
+  4 rats
+177 creatures vanquished.
+
+Vanquished Creatures (others)
+  6 fungi (D:2)
+  A plant (D:5)
+  4 toadstools (D:2)
+11 creatures vanquished.
+
+Grand Total: 188 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Tengu Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 12/12 MP: 2/2
+   155 | D:1      | Reached XP level 2. HP: 17/17 MP: 3/3
+   586 | D:1      | Reached XP level 3. HP: 7/22 MP: 4/4
+  1183 | D:2      | Reached skill level 5 in Ranged Weapons
+  1827 | D:2      | Reached XP level 4. HP: 27/27 MP: 5/5
+  1887 | D:2      | Gained mutation: Your magical nature lets you fly swiftly
+                  | and evasively. [Tengu growth]
+  1887 | D:2      | Reached XP level 5. HP: 16/32 MP: 6/6
+  2253 | D:3      | Found Soyrac's Antique Armour Emporium.
+  2574 | D:3      | Found Ameciw's General Store.
+  2577 | D:3      | Bought a scroll of fear for 48 gold pieces
+  2577 | D:3      | Bought a scroll of fog for 48 gold pieces
+  2752 | D:4      | Noticed Blork the orc
+  2978 | D:4      | Reached skill level 6 in Ranged Weapons
+  2978 | D:4      | Reached XP level 6. HP: 26/37 MP: 7/7
+  3565 | D:4      | Noticed Robin
+  3727 | D:4      | Killed Robin
+  4029 | D:4      | Found a runed translucent gate.
+  4030 | D:4      | Found a runed translucent gate.
+  4031 | D:4      | Found a runed translucent gate.
+  4033 | D:4      | Noticed purpskrrrp's ghost (novice DsCj)
+  4143 | D:4      | Reached XP level 7. HP: 42/42 MP: 8/8
+  4551 | D:5      | Entered Level 5 of the Dungeon
+  4559 | D:5      | Reached skill level 7 in Ranged Weapons
+  4615 | D:5      | Noticed Menkaure
+  4786 | D:5      | Found a glowing golden altar of the Shining One.
+  4911 | D:5      | Reached XP level 8. HP: 48/48 MP: 9/9
+  4936 | D:5      | Found a basalt altar of Yredelemnul.
+  5248 | D:5      | Found a staircase to the Ecumenical Temple.
+  5257 | Temple   | Entered the Ecumenical Temple
+  5374 | Temple   | Became a worshipper of Warmaster Okawaru
+  6211 | D:4      | Killed Blork the orc
+  6212 | D:4      | Reached skill level 5 in Dodging
+  6328 | D:6      | Reached skill level 8 in Ranged Weapons
+  6366 | D:6      | Noticed Sigmund
+  6381 | D:6      | Killed Sigmund
+  6675 | D:6      | Reached skill level 5 in Fighting
+  6793 | D:6      | Reached skill level 5 in Stealth
+  6803 | D:6      | Noticed Maggie
+  7240 | D:6      | Noticed Edmund
+  7250 | D:6      | Killed Edmund
+  7422 | D:6      | Found an ornate altar of the Wu Jian Council.
+  7422 | D:6      | Found a snail-covered altar of Cheibriados.
+  7429 | D:6      | Found a faded altar of an unknown god.
+  7431 | D:6      | Found a bloodstained altar of Trog.
+  7433 | D:6      | Found a hazy altar of Hepliaklqana.
+  7622 | D:7      | Reached * piety under Okawaru
+  7623 | D:7      | Reached skill level 9 in Ranged Weapons
+  7623 | D:7      | Reached XP level 9. HP: 53/54 MP: 3/10
+  8263 | D:7      | Identified the +1 leather armour "Watay" {Harm rPois Str-3}
+  8273 | D:7      | Upgraded the game from 0.30-a0-571-gdf30a72 to
+                  | 0.30-a0-576-g89cddaa
+  8726 | D:8      | Noticed Maurice
+  8735 | D:8      | Killed Maurice
+  8735 | D:8      | Reached ** piety under Okawaru
+  8749 | D:8      | Noticed Erica
+  8756 | D:8      | Killed Erica
+  8757 | D:8      | Reached skill level 10 in Ranged Weapons
+  8886 | D:8      | Noticed Pikel
+  8909 | D:8      | Killed Pikel
+  8910 | D:8      | Reached XP level 10. HP: 61/61 MP: 11/11
+  9092 | D:8      | Noticed a manticore
+  9095 | D:8      | Killed a manticore
+  9096 | D:8      | Reached skill level 11 in Ranged Weapons
+  9098 | D:8      | Found a staircase to the Lair.
+  9098 | D:8      | Noticed an elephant
+  9103 | D:8      | Reached *** piety under Okawaru
+  9227 | D:8      | Killed an elephant
+  9757 | D:8      | Noticed an ice statue
+ 10311 | D:3      | Bought a runed scale mail for 196 gold pieces
+ 10528 | D:9      | Noticed a two-headed ogre
+ 10535 | D:9      | Killed a two-headed ogre
+ 10535 | D:9      | Reached **** piety under Okawaru
+ 10536 | D:9      | Reached skill level 12 in Ranged Weapons
+ 10603 | D:9      | Reached XP level 11. HP: 67/67 MP: 12/12
+ 11100 | D:8      | HP: 3/68 [killer bee (6)]
+ 11100 | D:8      | Slain by a killer bee
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_concentric_ovals, layout_rooms,
+          minmay_misc_feat_secret_circle, glass_columns_b,
+          minmay_indecisive_spiral
+D:2:      cheibrodos_fertilizer, layout_basic
+D:3:      layout_rooms, serial_shops, nicolae_shop_behind_doors, shop_coins
+D:4:      layout_basic, gammafunk_ghost_necromancy, kennysheep_generic_room_4,
+          uniq_blork_the_orc, uniq_robin
+D:5:      layout_loops_ring, mainiacjoe_overflow_paths,
+          mainiacjoe_overflow_alcove_4, lemuel_doored_altar, temple_hall,
+          kennysheep_generic_room_14, uniq_menkaure
+D:6:      layout_gridville, chequers_temple_overflow_minitemple, uniq_sigmund,
+          uniq_edmund, uniq_maggie
+D:7:      layout_basic
+D:8:      lemuel_ice_statue, layout_basic, david_lair_generic,
+          serial_park_tiny_2, uniq_erica, uniq_maurice, uniq_pikel
+D:9:      layout_loops_ring
+Temple:   nicolae_temple_superstar
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Ranged Weapons |        5     6     7  9 10 12    | 12.2
+Dodging        |           3     4     5  7  8    |  8.4
+Stealth        |           2     3  4  5  6  7  8 |  8.0
+Fighting       |              3     4  5  6  7    |  7.7
+Invocations    |                                  |  0.6
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Halberd           |       |    14 |    24 |       ||    38
+       Kick              |       |     3 |     5 |       ||     8
+       Peck              |       |     2 |     1 |       ||     3
+ Fire: Shortbow          |    94 |   138 |       |       ||   232
+       Arbalest          |       |    11 |   155 |   115 ||   281
+  Use: Scroll            |       |       |     6 |     1 ||     7
+       Potion            |       |       |     1 |     1 ||     2
+Armor: Leather armour    |     9 |     4 |       |       ||    13
+       Ring mail         |       |    10 |    19 |     3 ||    32
+       Skin              |       |       |       |     1 ||     1
+Dodge: Dodged            |    44 |    76 |   113 |   148 ||   381
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  10676 |   9445 |   1231 |   1145 |   6414 |  10 | 1067.6 |
+       Dungeon |  10544 |   9341 |   1203 |   1145 |   6352 |   9 | 1171.6 |
+        Temple |    132 |    105 |     27 |      0 |     62 |   1 |  132.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:4: 2553 daAuts
+     D:8: 1660 daAuts
+     D:2: 1493 daAuts
+     D:6: 1257 daAuts
+     D:7: 966 daAuts
+     D:5: 905 daAuts
+     D:1: 733 daAuts
+     D:3: 513 daAuts
+     D:9: 460 daAuts
+  Temple: 132 daAuts
+

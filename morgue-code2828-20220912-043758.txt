@@ -1,0 +1,196 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-58-gc070334 (webtiles) character file.
+
+Game seed: 7226830108257607398
+
+2 code2828 the Chiller (level 1, -3/10 HPs)
+             Began as a Deep Elf Ice Elementalist on Mar 10, 2022.
+             Was a Follower of Wu Jian.
+             Frozen to death by an endoplasm (5 damage)
+             ... on level 1 of the Dungeon on Sept 12, 2022.
+             The game lasted 00:02:59 (164 turns).
+
+code2828 the Chiller (Deep Elf Ice Elementalist)     Turns: 164, Time: 00:03:00
+
+Health: -3/10      AC:  2    Str:  5    XL:     1   Next: 33%
+Magic:  6/6        EV: 12    Int: 19    God:    Wu Jian [*.....]
+Gold:   7          SH:  0    Dex: 15    Spells: 5/6 levels left
+
+rFire   . . .      SeeInvis .   (no weapon)
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   a - +0 robe
+rPois   .          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   ++........              (no amulet)
+HPRegen 0.03/turn               (no ring)
+MPRegen 0.10/turn               (no ring)
+
+@: no status effects
+A: no striking features
+a: Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Wu Jian.
+Wu Jian was aware of your devotion.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 7 gold pieces.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Scrolls
+ c - a scroll of identify {unknown}
+Potions
+ b - a potion of magic
+
+
+   Skills:
+ + Level 2.5 Dodging
+ + Level 2.5 Stealth
+ + Level 3.0 Spellcasting
+ + Level 4.4 Ice Magic
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Freeze                Ice            76%        1d9       2%          1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Frozen Ramparts          Ice            38%        1d6       8%          3
+ Ozocubu's Armour         Ice            19%        N/A       8%          3
+ Hailstorm                Conj/Ice       11%        3d5       52%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+Wu Jian
+
+Message History
+
+Wu Jian accepts your prayer!
+The Council welcomes you!
+You can now perform damaging attacks by moving towards foes.
+You can now lightly attack monsters by moving around them.
+Save game and exit? 
+Welcome back, code2828 the Deep Elf Ice Elementalist.
+The Council says: Follow the path of wisdom and battle!
+Press ? for a list of commands and other information.
+Welcome back, code2828 the Deep Elf Ice Elementalist.
+The Council says: Follow the path of wisdom and battle!
+Press ? for a list of commands and other information.
+There is an open door here.
+Found 7 gold pieces.
+Found a stone staircase leading down.
+You now have 7 gold pieces.
+An endoplasm comes into view.
+Found a scroll labelled WETACW VILY.
+You lunge at the endoplasm.
+The helpless endoplasm fails to defend itself.
+You hit the endoplasm.
+The endoplasm is moderately wounded.
+The endoplasm freezes you.
+You are frozen.
+You hit the endoplasm but do no damage.
+The endoplasm is moderately wounded.
+The endoplasm closely misses you.
+You hit the endoplasm but do no damage.
+The endoplasm is moderately wounded.
+The endoplasm freezes you.
+You are frozen.
+You hit the endoplasm.
+The endoplasm is heavily wounded.
+The endoplasm hits you.
+* * * LOW HITPOINT WARNING * * *
+You hit the endoplasm.
+The endoplasm is severely wounded.
+The endoplasm freezes you.
+You are frozen.
+Ouch! That really hurt!
+You die...
+
+               ####
+       ###     #..
+        ..     #J#   ##
+        #. ### #@#  ..
+ ########.##.###.##.#
+ #.....##........>..####
+##'###..##.###.#.......?
+P..P.#.......##.##.#####
+.....#..##.#.#.## .#
+.....######...##  .#
+.....#    ##.##    #
+#...##     #.#
+
+
+You could see an endoplasm.
+
+Vanquished Creatures
+  A quokka (D:1)
+  A ball python (D:1)
+  A kobold (D:1)
+3 creatures vanquished.
+
+Vanquished Creatures (others)
+  5 withered plants (D:1)
+5 creatures vanquished.
+
+Grand Total: 8 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Deep Elf Ice Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+    78 | D:1      | Found a faded altar of an unknown god.
+   133 | D:1      | Prayed at the altar of an unknown god.
+   133 | D:1      | Became a worshipper of the Wu Jian Council
+   133 | D:1      | Reached * piety under Wu Jian
+   134 | D:1      | Upgraded the game from 0.29-a0-275-g389c0b5 to
+                  | 0.30-a0-58-gc070334
+   164 | D:1      | Frozen to death by an endoplasm
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      lemuel_arrival_behind_the_door_small, layout_loops_ring,
+          shapermc_ecumenical_altar_flowoftime
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||    22
+       Punch             ||     1
+ Cast: Freeze            ||     3
+Invok: Lunge             ||     1
+ Stab: Sleeping          ||     1
+Dodge: Dodged            ||     1
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |    164 |    142 |     22 |     11 |     29 |   1 |  164.0 |
+       Dungeon |    164 |    142 |     22 |     11 |     29 |   1 |  164.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 164 daAuts
+

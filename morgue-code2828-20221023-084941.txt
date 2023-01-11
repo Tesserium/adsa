@@ -1,0 +1,224 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-305-g026cb31 (webtiles) character file.
+
+Game seed: 2332407703349799814
+
+13 code2828 the Vexing (level 2, -1/24 HPs)
+             Began as an Armataur Hexslinger on Oct 23, 2022.
+             Slain by a jackal (2 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:03:09 (214 turns).
+
+code2828 the Vexing (Armataur Hexslinger)            Turns: 214, Time: 00:03:10
+
+Health: -1/24      AC:  4    Str: 15    XL:     2   Next: 24%
+Magic:  3/3        EV:  9    Int: 13    God:    
+Gold:   0          SH:  0    Dex: 10    Spells: 2/3 levels left
+
+rFire   . . .      SeeInvis .   d - +0 short sword
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   c - +0 robe
+rPois   .          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Roll     +   (no gloves)
+Will    .....                   (no barding)
+Stlth   +.........              (no amulet)
+HPRegen 0.24/turn               (no ring)
+MPRegen 0.08/turn               (no ring)
+
+@: no status effects
+A: large, rugged brown scales 3, deformed body, armoured tail, roll, long
+tongue, awkward tongue
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 sling
+ d - a +0 short sword (weapon)
+Armour
+ c - a +0 robe (worn)
+Scrolls
+ b - a scroll of poison
+ f - a scroll of torment
+
+
+   Skills:
+ + Level 1.0 Fighting
+ * Level 0.5 Short Blades
+ - Level 1.4 Ranged Weapons
+ * Level 1.6 Dodging
+ + Level 1.2 Spellcasting
+ + Level 2.7 Hexes
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Slow                  Hex            32%        N/A       9%          1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Summon Small Mammal      Summ           0%         N/A       28%         1
+ Inner Flame              Hex/Fire       4%         N/A       43%         3
+ Portal Projectile        Hex/Tloc       8%         N/A       43%         3
+ Summon Guardian Golem    Hex/Summ       4%         N/A       43%         3
+ Call Canine Familiar     Summ           0%         N/A       63%         3
+ Cause Fear               Hex            4%         N/A       65%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are completely covered in rugged brown scales. (AC +3, +7% HP)
+Armour fits poorly on your strangely shaped body.
+You have a long armoured tail.
+You roll when moving toward enemies. (Rampage)
+Your long tongue fully drains potion bottles. (2x potion effects)
+Your tongue gives you trouble enunciating. (1.5x scroll delay)
+
+Message History
+
+You climb upwards. The adder closely misses you. The jackal bites you.
+The jackal closely misses you. The adder misses you. The jackal bites you.
+The jackal closely misses you. The worm bites you!
+There is a stone staircase leading down, spattered with blood here.
+The adder barely misses you. The jackal bites you.
+The jackal barely misses you.
+You climb downwards.
+There is a stone staircase leading up, spattered with blood here.
+You hit the worm but do no damage.
+You tail-slap the worm, but do no damage.
+The adder closely misses you. The jackal bites you. x2
+The worm barely misses you.
+The jackal bites you but does no damage.
+The adder bites you but does no damage.
+The jackal bites you but does no damage.
+You aren't carrying any potions.
+You hit the worm but do no damage.
+The jackal bites you but does no damage. x2
+The adder barely misses you. The worm bites you but does no damage.
+You hit the worm. You tail-slap the worm.
+The worm is moderately wounded.
+The jackal bites you but does no damage.
+The jackal barely misses you. The adder barely misses you.
+You hit the worm but do no damage.
+The worm is moderately wounded.
+The jackal bites you.
+* * * LOW HITPOINT WARNING * * *
+The jackal bites you but does no damage.
+The adder misses you. The worm bites you but does no damage.
+The jackal bites you.
+* * * LOW HITPOINT WARNING * * *
+The jackal bites you.
+* * * LOW HITPOINT WARNING * * *
+As you slowly read the scroll labelled XUFATUFEUH, it crumbles to dust.
+It is a scroll of identify.
+f - a scroll of torment
+The adder bites you.
+* * * LOW HITPOINT WARNING * * *
+The jackal bites you.
+You die...
+
+ ..  #. #.#   #...#
+  .###.##.#   #...#
+  #. .....#   #...#
+  #.. ....#   #...####
+###..# #..#   #....... #
+......##..#####....###.##
+  #....#.................
+  #.#.)w.h...............
+  #....S@h.....<.........
+  ####.######.#.....##.##
+     #.     #.#(.......#
+     #.     #.#...#.####
+     #.     #.#...#.#
+     ..     #.#...#>#
+     ##     #....####
+              #..#
+
+
+You could see a worm, an adder and 2 jackals.
+
+Vanquished Creatures
+  A ball python (D:2)
+  A hobgoblin (D:3)
+  A jackal (D:3)
+  4 kobolds
+  A quokka (D:3)
+  A frilled lizard (D:2)
+  2 goblins (D:3)
+  A rat (D:2)
+12 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Armataur Hexslinger began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 2/2
+    28 | D:2      | Reached skill level 1 in Fighting
+   127 | D:3      | Reached XP level 2. HP: 12/24 MP: 3/3
+   214 | D:3      | HP: 1/24 [adder (1)]
+   214 | D:3      | Slain by a jackal
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      zaba_arrival_water, layout_basic,
+          shapermc_ecumenical_altar_mp_urbaneastern, serial_shops,
+          nicolae_shop_hallway_stairs
+D:2:      layout_rooms
+D:3:      minmay_diamond_boxcup, layout_loops_cross, nzn_wu_jian_council_hall,
+          uniq_crazy_yiuf_cottage, uniq_robin
+
+Skill      XL: |  1 |
+---------------+----+-----
+Fighting       |  1 |  1.0
+Short Blades   |    |  0.5
+Ranged Weapons |    |  1.4
+Dodging        |    |  1.6
+Spellcasting   |    |  1.2
+Hexes          |    |  2.7
+
+Action                   || total
+-------------------------++-------
+Melee: Short sword       ||    22
+       Tailslap          ||     4
+ Fire: Sling             ||     3
+ Cast: Slow              ||     1
+  Use: Scroll            ||     1
+Armor: Robe              ||    16
+Dodge: Dodged            ||    27
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |    222 |    222 |      0 |     74 |      8 |   3 |   74.0 |
+       Dungeon |    222 |    222 |      0 |     74 |      8 |   3 |   74.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:3: 122 daAuts
+     D:2: 72 daAuts
+     D:1: 28 daAuts
+

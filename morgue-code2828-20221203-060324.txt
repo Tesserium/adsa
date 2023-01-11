@@ -1,0 +1,308 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-385-gfebfb9b (webtiles) character file.
+
+Game seed: 8178246227456136274
+
+211 code2828 the Grasshopper (level 5, -3/40 HPs)
+             Began as an Armataur Warper on Dec 3, 2022.
+             Killed by nerve-wracking pain
+             ... invoked by an orc priest
+              (9 damage)
+             ... on level 4 of the Dungeon.
+             The game lasted 00:20:52 (4541 turns).
+
+code2828 the Grasshopper (Armataur Warper)          Turns: 4541, Time: 00:20:54
+
+Health: -3/40      AC:  7    Str: 15    XL:     5   Next: 57%
+Magic:  8/8        EV:  9    Int: 18    God:    
+Gold:   106        SH:  0    Dex: 10    Spells: 5/8 levels left
+
+rFire   + . .      SeeInvis .   m - +0 spear
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   a - +0 leather armour
+rPois   .          Reflect  .   (no helmet)
+rElec   .          Harm     .   p - +0 cloak
+rCorr   .          Roll     +   (no gloves)
+Will    .....                   (no barding)
+Stlth   +.........              (no amulet)
+HPRegen 0.26/turn               (no ring)
+MPRegen 0.11/turn               (no ring)
+
+@: unable to drink
+A: large, rugged brown scales 3, deformed body, armoured tail, roll, long
+tongue, awkward tongue, iridescent scales 1, clever 1, fire resistance 1, frail
+1, inability to drink after injury 1
+a: no special abilities
+
+
+You were on level 4 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 106 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ i - a +0 dagger
+ m - a +0 spear (weapon)
+Missiles
+ c - 4 boomerangs of dispersal (quivered)
+ w - 8 boomerangs
+Armour
+ a - a +0 leather armour (worn)
+ p - a +0 cloak (worn)
+ q - a +0 ring mail
+Jewellery
+ o - an amulet of faith
+Wands
+ t - a wand of light (8)
+Scrolls
+ d - 3 scrolls of torment {unknown}
+ f - a scroll of amnesia {unknown}
+ g - 2 scrolls of teleportation {unknown}
+ h - 2 scrolls of fear {unknown}
+ j - 9 scrolls of identify {unknown}
+ l - a scroll of noise {unknown}
+ n - 2 scrolls of enchant weapon {unknown}
+ r - a scroll of enchant armour {unknown}
+ u - a scroll of summoning {unknown}
+ x - a scroll of magic mapping {unknown}
+Potions
+ b - a potion of lignification {unknown}
+ e - a potion of heal wounds {unknown}
+ k - a potion of invisibility {unknown}
+
+
+   Skills:
+ + Level 2.4 Fighting
+ - Level 1.0 Throwing
+ + Level 2.4 Armour
+ + Level 2.0 Dodging
+ + Level 1.8 Stealth
+ + Level 2.4 Unarmed Combat
+ + Level 2.2 Spellcasting
+ + Level 1.1 Conjurations
+ * Level 3.9 Translocations
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Blink                 Tloc           32%        N/A       6%          2
+b - Magic Dart            Conj           24%        1d4       14%         1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Lesser Beckoning         Tloc           32%        N/A       13%         3
+ Teleport Other           Tloc           16%        N/A       13%         3
+ Searing Ray              Conj           12%        2d4       21%         2
+ Vhi's Electric Charge    Tloc/Air       18%        N/A       28%         3
+ Cigotuvi's Dreadful Rot  Necr/Pois/Air  4%         N/A       32%         2
+ Manifold Assault         Tloc           16%        N/A       38%         4
+ Stone Arrow              Conj/Erth      8%         3d7       45%         3
+ Fulminant Prism          Conj/Hex       2%         3d5       86%         4
+ Animate Armour           Summ/Erth      4%         N/A       91%         4
+ Dispel Undead            Necr           2%         3d7       91%         4
+ Arcjolt                  Conj/Air       2%         1d12      99%         5
+ Death Channel            Necr           1%         N/A       100%        6
+ Lehudib's Crystal Spear  Conj/Erth      2%         10d2      100%        8
+ Maxwell's Capacitive Co  Air            1%         ∞         100%        8
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Kikubaaqudgha
+Trog
+Xom
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are completely covered in rugged brown scales. (AC +3, +7% HP)
+Armour fits poorly on your strangely shaped body.
+You have a long armoured tail.
+You roll when moving toward enemies. (Rampage)
+Your long tongue fully drains potion bottles. (2x potion effects)
+Your tongue gives you trouble enunciating. (1.5x scroll delay)
+You are partially covered in iridescent scales. (AC +2)
+Your mind is acute. (Int +4, Str/Dex -1)
+Your flesh is heat resistant. (rF+)
+You are frail. (-10% HP)
+You occasionally lose the ability to drink potions when taking damage.
+
+Message History
+
+The orc priest closely misses you.
+You slurp down every last drop of the potion of curing!
+You feel better.
+The orc priest begins to cast a cantrip, but forgets the words!
+You closely miss the orc priest. Your tail-slap misses the orc priest.
+The orc priest is heavily wounded.
+The orc priest hits you but does no damage.
+You hit the orc priest but do no damage.
+The orc priest is severely wounded.
+The orc priest looks more healthy.
+The orc priest hits you with a +0 hand axe.
+You barely miss the orc priest.
+You tail-slap the orc priest, but do no damage.
+The orc priest is severely wounded.
+The orc priest closely misses you.
+The orc priest hits you with a +0 hand axe.
+You hit the orc priest. Your tail-slap misses the orc priest.
+The orc priest is almost dead.
+The orc priest mumbles some strange prayers to Beogh against you.
+Beogh smites you!
+You feel threatened and lose the ability to drink potions!
+You hit the orc priest but do no damage.
+The orc priest is almost dead.
+You can drink potions again.
+The orc priest hits you with a +0 hand axe.
+You closely miss the orc priest.
+The orc priest is almost dead.
+The orc priest looks braver for a moment.
+The orc priest looks satisfied for a moment.
+You hit the orc priest.
+The orc priest is almost dead.
+The orc priest calls down the wrath of Beogh upon you.
+Pain shoots through your body!
+You feel threatened and lose the ability to drink potions!
+* * * LOW HITPOINT WARNING * * *
+You closely miss the orc priest.
+The orc priest is almost dead.
+The orc priest mumbles some strange prayers to Beogh against you.
+Pain shoots through your body!
+You die...
+
+......##......#       #.##.##
+.(.o.  #......#########.#...#
+...o   +.....................
+..o    #.##...#########.#...#
+..     #......#       #.##.##
+.      #####o##       #.####
+           #o#       ##.####
+           #o#       #.....#
+           #@#       #...#.#
+           #.#       #.....#
+           #.#       ####.##
+           #.#          #.#
+           #.#          #.#
+           ..#          #.###
+           ###          #....
+                        #####
+
+
+You could see 2 orc priests and an orc.
+
+Vanquished Creatures
+  A hound (D:3)
+  8 gnolls
+  4 adders
+  A worm (D:2)
+  2 dart slugs (D:2)
+  2 orcs (D:4)
+  7 ball pythons
+  An endoplasm (D:4)
+  A giant cockroach (D:2)
+  5 goblins
+  8 hobgoblins
+  7 kobolds
+  2 quokkas (D:2)
+  5 bats
+  3 frilled lizards (D:2)
+  6 rats
+63 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Armataur Warper began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 3/3
+   235 | D:1      | Reached skill level 1 in Throwing
+   452 | D:1      | Reached XP level 2. HP: 21/25 MP: 4/4
+   789 | D:1      | Learned a level 2 spell: Blink
+   791 | D:1      | Learned a level 1 spell: Magic Dart
+  1152 | D:2      | Reached XP level 3. HP: 20/31 MP: 5/5
+  2210 | D:2      | Gained mutation: Your flesh is heat resistant. (rF+)
+                  | [potion of mutation]
+  2210 | D:2      | Gained mutation: Your mind is acute. (Int +4, Str/Dex -1)
+                  | [potion of mutation]
+  2210 | D:2      | Gained mutation: You occasionally lose the ability to drink
+                  | potions when taking damage. [potion of mutation]
+  2210 | D:2      | Gained mutation: You are frail. (-10% HP) [potion of
+                  | mutation]
+  2210 | D:2      | Gained mutation: You are partially covered in iridescent
+                  | scales. (AC +2) [potion of mutation]
+  2472 | D:1      | Reached skill level 1 in Stealth
+  2472 | D:1      | Reached XP level 4. HP: 7/34 MP: 7/7
+  3325 | D:3      | Found a shimmering altar of Xom.
+  3418 | D:3      | Found an ancient bone altar of Kikubaaqudgha.
+  3442 | D:3      | Reached XP level 5. HP: 28/39 MP: 8/8
+  3602 | D:3      | Reached skill level 1 in Conjurations
+  4398 | D:4      | Found a bloodstained altar of Trog.
+  4541 | D:4      | Killed from afar by an orc priest
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      shiori_shiawase, layout_basic
+D:2:      layout_basic, serial_corexii_hall, chequers_hall_statues_y,
+          corexii_hall_statues_x, minmay_pentomino_r2
+D:3:      layout_basic, kiku_gazebo_garden_becter, old_standard_altar,
+          minmay_misc_feat_rugged
+D:4:      layout_loops_corners, lemuel_crystal_altar, uniq_ijyb,
+          uniq_blork_the_orc, uniq_duvessa
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Throwing       |  1             |  1.0
+Unarmed Combat |     2          |  2.4
+Fighting       |     2          |  2.4
+Spellcasting   |        2       |  2.2
+Stealth        |        1       |  1.8
+Armour         |           2    |  2.4
+Conjurations   |              1 |  1.1
+Dodging        |              2 |  2.0
+Translocations |                |  3.9
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |    16 |       ||    16
+       Dagger            |   249 |    89 ||   338
+       Tailslap          |    27 |    18 ||    45
+       Punch             |     7 |     3 ||    10
+       Spear             |       |    46 ||    46
+Throw: Dart              |     4 |    18 ||    22
+       Boomerang         |       |     3 ||     3
+ Cast: Blink             |     6 |     4 ||    10
+  Use: Potion            |     4 |     1 ||     5
+       Scroll            |     2 |       ||     2
+ Stab: Sleeping          |       |     1 ||     1
+Armor: Leather armour    |    99 |    61 ||   160
+Dodge: Dodged            |   132 |    47 ||   179
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   4544 |   4199 |    345 |    306 |   2754 |   4 | 1136.0 |
+       Dungeon |   4544 |   4199 |    345 |    306 |   2754 |   4 | 1136.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:2: 1781 daAuts
+     D:1: 1527 daAuts
+     D:3: 1090 daAuts
+     D:4: 145 daAuts
+

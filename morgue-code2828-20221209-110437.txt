@@ -1,0 +1,600 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-422-g946f484 (webtiles) character file.
+
+Game seed: 5753467034209756354
+
+70064 code2828 the Warrior (level 14, -7/137 HPs)
+             Began as a Minotaur Berserker on Dec 9, 2022.
+             Was a High Priest of Trog.
+             Mangled by a spriggan rider
+             ... wielding a +0 spear
+              (8 damage)
+             ... on level 1 of the Swamp.
+             The game lasted 01:06:55 (21081 turns).
+
+code2828 the Warrior (Minotaur Berserker)          Turns: 21081, Time: 01:06:55
+
+Health: -7/137     AC: 25    Str: 30    XL:     14   Next: 92%
+Magic:  13/13      EV: 15    Int: 10    God:    Trog [*****.]
+Gold:   1105       SH:  5    Dex: 16    Spells: 13/13 levels left
+
+rFire   + + .      SeeInvis .   r - +10 rapier of Lik Elen {drain, rF+ rCorr}
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   O - +1 plate armour {rF+}
+rPois   +          Reflect  +   (helmet restricted)
+rElec   .          Harm     .   y - +2 cloak
+rCorr   +          Rampage  .   (no gloves)
+Will    +....                   X - +2 pair of boots
+Stlth   ..........              e - amulet of reflection
+HPRegen 0.42/turn               u - ring of poison resistance
+MPRegen 0.13/turn               a - ring of Gabiucez {Str+6 Int+6 Dex+3}
+
+@: very slow
+A: horns 2, retaliatory headbutt
+a: Renounce Religion, Berserk, Trog's Hand, Brothers in Arms
+
+
+You were on level 1 of the Swamp.
+You worshipped Trog.
+Trog was extremely pleased with you.
+You visited 4 branches of the dungeon, and saw 18 of its levels.
+You also visited: Sewer and Bailey.
+
+You collected 1292 gold pieces.
+You spent 187 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ r - the +10 rapier of Lik Elen (weapon) {drain, rF+ rCorr}
+   (You found it on level 3 of the Dungeon)   
+   
+   A truly terrible weapon, it drains the life of any living foe it strikes.
+   
+   rF:        It protects you from fire.
+   rCorr:     It protects you from acid and corrosion.
+ s - a +4 antimagic great sword
+ w - the +5 falchion of Suicidal Tendencies {flame, Fly}
+   (Trog gifted it to you in a bailey)   
+   
+   It burns those it strikes, dealing additional fire damage. Big, fiery blades
+   are also staple armaments of hydra-hunters.
+   
+   Fly:       It grants you flight.
+ A - a +0 antimagic glaive
+Missiles
+ i - 8 boomerangs (quivered)
+ U - a throwing net
+Armour
+ y - a +2 cloak (worn)
+ O - a +1 plate armour of fire resistance (worn)
+ X - a +2 pair of boots (worn)
+Jewellery
+ a - the ring of Gabiucez (right hand) {Str+6 Int+6 Dex+3}
+   (You acquired it on level 2 of the Lair of Beasts)   
+   
+   [ring of intelligence]
+   
+   Str:       It affects your strength (+6).
+   Int:       It affects your intelligence (+6).
+   Dex:       It affects your dexterity (+3).
+ e - an amulet of reflection (around neck)
+ o - a +4 ring of protection
+ q - an amulet of faith
+ t - a ring of protection from cold
+ u - a ring of poison resistance (left hand)
+ F - a +6 ring of dexterity
+ Q - an amulet of guardian spirit
+ T - a ring of flight
+ Z - a ring of resist corrosion
+Wands
+ j - a wand of flame (47)
+ B - a wand of iceblast (12)
+ D - a wand of polymorph (8)
+ P - a wand of light (3)
+ R - a wand of charming (9)
+Scrolls
+ b - 5 scrolls of butterflies
+ g - a scroll of acquirement
+ h - 7 scrolls of teleportation
+ l - 6 scrolls of magic mapping
+ m - 6 scrolls of immolation
+ n - 3 scrolls of amnesia {unknown}
+ p - 7 scrolls of poison
+ x - 5 scrolls of blinking {unknown}
+ C - 5 scrolls of noise
+ G - 2 scrolls of silence {unknown}
+ I - 5 scrolls of enchant armour
+ J - a scroll of torment {unknown}
+ M - 2 scrolls of fear
+ N - a scroll of enchant weapon {unknown}
+ V - a scroll of vulnerability {unknown}
+Potions
+ c - 3 potions of invisibility
+ d - 6 potions of haste
+ f - 3 potions of mutation
+ k - a potion of berserk rage
+ v - 11 potions of curing
+ z - 2 potions of might
+ E - 4 potions of lignification
+ H - 3 potions of brilliance
+ K - a potion of ambrosia
+ L - 2 potions of heal wounds
+ S - 3 potions of attraction
+ W - a potion of flight
+
+
+   Skills:
+ + Level 16.0 Fighting
+ + Level 6.5(11.5) Short Blades
+ + Level 15.9(16.5) Long Blades
+ + Level 15.7 Armour
+ + Level 14.5 Dodging
+
+
+You had 13 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (11/15)        Zot: 25140       Temple (1/1) D:5      Zot: 5944       
+   Lair (5/5) D:10     Zot: 21165        Swamp (1/4) Lair:2   Zot: 5969       
+  Snake (0/4) Lair:2                     Slime (0/5) Lair:5                   
+    Orc (0/2) D:10                       Sewer (visited)                      
+ Bailey (visited)                      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:11 [
+
+Annotations:
+Swamp:1 Frances
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+You kill the hornet!
+Trog accepts your kill.
+The spriggan falls from its now dead mount.
+You headbutt the spriggan!
+The spriggan is severely wounded.
+The spriggan rider hits you from afar with a +0 spear!
+The spriggan rider is engulfed in noxious fumes.
+The spriggan rider appears confused.
+The swamp worm is engulfed in noxious fumes.
+The swamp worm appears confused.
+The spriggan rider hits you from afar with a +0 spear!
+Your unstable footing causes you to fumble your attack.
+Frances completely misses you. The goliath frog hits you from afar!
+You are splashed with acid. You resist. You block the spriggan rider's attack.
+The spriggan rider hits you with a +0 spear.
+* * * LOW HITPOINT WARNING * * *
+The spriggan rider hits itself with a +0 spear!
+The spriggan rider is engulfed in noxious fumes.
+The spriggan rider appears confused.
+You feel much better.
+Frances whispers indecipherable words.
+The goliath frog hits you from afar! You are splashed with acid. You resist.
+The spriggan rider hits you but does no damage.
+The spriggan rider hits you from afar with a +0 spear!
+* * * LOW HITPOINT WARNING * * *
+The spriggan rider hits you but does no damage.
+Frances misses you.
+The spriggan splashes around in the water.
+Your unstable footing causes you to fumble your attack.
+The goliath frog barely misses you.
+The spriggan rider hits you with a +0 spear!
+* * * LOW HITPOINT WARNING * * *
+The swamp drake closely misses you.
+The spriggan rider hits you from afar with a +0 spear!
+* * * LOW HITPOINT WARNING * * *
+The swamp worm closely misses you.
+The spriggan rider hits you but does no damage.
+Frances closely misses you.
+The spriggan rider hits you from afar with a +0 spear!
+You die...
+
+ ..~~~~~~.~>!.
+ ~~§~..~~..~~♣
+~~~.~~...~~~~♣
+...~~..♣~.~~.♣
+..~~.~.~~~4~.♣♣
+~.~~.~.~~.~~~~♣
+~~~~~.iii@~♣~♣
+......k.ii~~.♣♣
+§♣♣.~♣.♣@~.~..♣
+~~~.~i~kiw.~.~~♣
+♣~~~~~~...F.....
+~~§~♣~.~~~).....
+.~.....~~~~.♣...
+.♣...~!~)~..♣♣♣.
+ ♣♣♣.~.♣~~♣.♣
+   ♣~~.♣.♣♣~.
+   ♣♣.. ♣♣  .♣
+
+
+You could see Frances (fast), 6 spriggan riders, an ice devil (summoned), a
+goliath frog, a swamp worm (confused), 2 swamp drakes and a spriggan (confused,
+drained).
+
+Vanquished Creatures
+  Rupert (Lair:4)
+  Snorg (Lair:5)
+  A fire dragon (Lair:5)
+  3 hydras
+  A ghost crab (Lair:2)
+  A catoblepas (Lair:5)
+  4 two-headed ogres
+  2 alligators (Lair:2)
+  3 boulder beetles
+  5 death yaks (Lair:5)
+  An orc high priest (Bailey)
+  Amaemon (D:9)
+  A lindwurm (Lair:3)
+  A swamp dragon (Lair:5)
+  An orc knight (Bailey)
+  An ugly thing (D:8)
+  2 will-o-the-wisps (Lair:2)
+  3 black mambas
+  A torpor snail (Lair:5)
+  14 elephants
+  Joseph (D:7)
+  A gargoyle (D:10)
+  An orange demon (D:9)
+  4 rime drakes
+  2 kobold demonologists
+  24 cane toads
+  11 komodo dragons
+  2 trolls (D:11)
+  12 polar bears
+  A raiju (Lair:5)
+  18 dream sheep
+  A hornet (Swamp:1)
+  Prince Ribbit (D:7)
+  32 blink frogs
+  3 wyverns
+  2 basilisks
+  A vampire (D:11)
+  2 wraiths
+  50 yaks
+  4 steam dragons
+  6 wargs (Lair:5)
+  2 acid dragons (Lair:5)
+  14 hell hounds (Lair:5)
+  Duvessa (D:5)
+  14 orc warriors
+  10 water moccasins
+  A swamp drake (Lair:2)
+  2 sky beasts
+  15 black bears
+  An ice beast (D:6)
+  23 wolves
+  A phantom (D:6)
+  6 centaurs
+  Blork the orc (D:5)
+  A kobold brigand (D:8)
+  7 bullfrogs
+  7 wights
+  Dowan (D:5)
+  12 killer bees
+  15 electric eels
+  4 howler monkeys
+  3 bullfrog zombies (D:5)
+  A hound (D:7)
+  2 centaur zombies (D:5)
+  A human zombie (D:5)
+  An orc priest (D:9)
+  A jelly (D:6)
+  A gnoll bouda (D:6)
+  Ijyb (D:5)
+  5 iguanas
+  6 orc wizards
+  A hound zombie (D:5)
+  3 mummies (D:5)
+  9 gnolls
+  7 river rats
+  10 adders
+  A shadow imp (D:7)
+  2 ufetubi
+  A dart slug (D:2)
+  2 worms (D:6)
+  29 orcs
+  5 bats
+  7 endoplasms
+  2 giant cockroaches (D:1)
+  19 goblins
+  13 hobgoblins
+  4 jackals
+  6 quokkas
+  8 ball pythons
+  6 frilled lizards
+  15 kobolds
+  30 rats
+567 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  3 kobold demonologists (D:10)
+  3 orc warriors (D:10)
+  A gnoll sergeant (D:11)
+  2 electric eels (Lair:3)
+  An orc priest (D:10)
+  3 orc wizards (D:10)
+  3 gnolls (D:11)
+  5 orcs
+  2 kobolds (D:10)
+23 creatures vanquished.
+
+Vanquished Creatures (others)
+  A bloated husk (Swamp:1)
+  An iguana (Lair:5)
+  2 foxfires (Swamp:1)
+  24 fungi
+  68 plants
+96 creatures vanquished.
+
+Grand Total: 686 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Minotaur Berserker began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+    55 | D:1      | Reached XP level 2. HP: 16/27 MP: 1/1
+   121 | D:1      | Found a faded altar of an unknown god.
+   363 | D:1      | Reached skill level 4 in Fighting
+   499 | D:1      | Reached ** piety under Trog
+   500 | D:1      | Reached XP level 3. HP: 33/33 MP: 2/2
+   903 | D:2      | Found an ornate altar of the Wu Jian Council.
+  1312 | D:3      | Identified the +10 rapier of Lik Elen {drain, rF+ rCorr}
+  1506 | D:3      | Found a blossoming altar of Fedhas.
+  1591 | D:3      | Reached XP level 4. HP: 40/40 MP: 3/3
+  1614 | D:3      | Reached *** piety under Trog
+  1924 | D:3      | Found a stormy altar of Qazlal.
+  2778 | D:5      | Entered Level 5 of the Dungeon
+  2783 | D:5      | Found a staircase to the Ecumenical Temple.
+  2790 | D:5      | Noticed Ijyb
+  2796 | D:5      | Killed Ijyb
+  2797 | D:5      | Reached XP level 5. HP: 47/47 MP: 4/4
+  2809 | Temple   | Entered the Ecumenical Temple
+  2809 | Temple   | Found a transporter.
+  2809 | Temple   | Found a transporter.
+  2811 | Temple   | Found a transporter.
+  2811 | Temple   | Found a transporter.
+  3043 | D:5      | Found a glowing silver altar of Zin.
+  3140 | D:5      | Reached skill level 5 in Fighting
+  3140 | D:5      | Reached skill level 5 in Long Blades
+  3157 | D:5      | Reached XP level 6. HP: 48/56 MP: 5/5
+  3300 | D:5      | Reached skill level 5 in Armour
+  3307 | D:5      | Reached XP level 7. HP: 62/62 MP: 6/6
+  3307 | D:5      | Found a basalt altar of Yredelemnul.
+  3419 | D:5      | Noticed Blork the orc
+  3424 | D:5      | Killed Blork the orc
+  3425 | D:5      | Reached skill level 6 in Fighting
+  3445 | D:5      | Noticed Duvessa
+  3456 | D:5      | Killed Duvessa
+  3457 | D:5      | Reached skill level 5 in Dodging
+  3458 | D:5      | Noticed Dowan
+  3479 | D:5      | Killed Dowan
+  3795 | D:6      | Reached XP level 8. HP: 58/71 MP: 7/7
+  3802 | D:6      | Reached **** piety under Trog
+  4133 | D:6      | Noticed a two-headed ogre
+  4142 | D:6      | Reached skill level 7 in Fighting
+  4145 | D:6      | Killed a two-headed ogre
+  4332 | D:6      | Reached XP level 9. HP: 81/81 MP: 8/8
+  4340 | D:6      | Reached skill level 8 in Fighting
+  4373 | D:6      | Found a glowing drain.
+  4422 | Sewer    | Entered a sewer
+  5238 | D:7      | Noticed Joseph
+  5238 | D:7      | Noticed Prince Ribbit
+  5238 | D:7      | Found a flagged portal.
+  5251 | D:7      | Killed Joseph
+  5256 | D:7      | Killed Prince Ribbit
+  5283 | Bailey   | Entered a bailey
+  5425 | Bailey   | Noticed an orc knight
+  5451 | Bailey   | Reached ***** piety under Trog
+  5452 | Bailey   | Killed an orc knight
+  5453 | Bailey   | Reached skill level 9 in Fighting
+  5594 | Bailey   | Noticed an orc high priest
+  5603 | Bailey   | Killed an orc high priest
+  5604 | Bailey   | Reached XP level 10. HP: 91/91 MP: 9/9
+  5758 | Bailey   | Found an iron altar of Okawaru.
+  5890 | Bailey   | Identified the +5 falchion of Suicidal Tendencies {flame,
+                  | Fly} (Trog gifted it to you in a bailey)
+  5890 | Bailey   | Received a gift from Trog
+  6956 | Bailey   | Reached skill level 10 in Fighting
+  6956 | Bailey   | Reached skill level 10 in Long Blades
+  7429 | D:7      | Found a shimmering altar of Xom.
+  7558 | D:7      | Found a bloodstained altar of Trog.
+  7798 | D:7      | Found a sparkling altar of Nemelex Xobeh.
+  7799 | D:7      | Found a snail-covered altar of Cheibriados.
+  7990 | D:8      | Noticed a purple ugly thing
+  8002 | D:8      | Killed a purple ugly thing
+  8003 | D:8      | Reached skill level 10 in Armour
+  8326 | D:8      | Found an opulent altar of Gozag.
+  8842 | D:9      | Received a gift from Trog
+  8964 | D:9      | Identified the +2 quarterstaff of Destiny {protect, Int+6}
+  8976 | D:9      | Found a glowing golden altar of the Shining One.
+  9024 | D:9      | Reached XP level 11. HP: 79/101 MP: 10/10
+  9037 | D:9      | Reached skill level 11 in Fighting
+  9147 | D:9      | Found an ancient bone altar of Kikubaaqudgha.
+  9202 | D:9      | Noticed a two-headed ogre
+  9209 | D:9      | Killed a two-headed ogre
+  9210 | D:9      | Reached skill level 10 in Dodging
+  9216 | D:9      | Noticed Amaemon
+  9229 | D:9      | Killed Amaemon
+  9368 | D:9      | Noticed a boulder beetle
+  9388 | D:9      | Killed a boulder beetle
+  9462 | D:10     | Entered Level 10 of the Dungeon
+  9525 | D:10     | Found a staircase to the Orcish Mines.
+  9583 | D:10     | Found a staircase to the Lair.
+  9674 | D:10     | Noticed a two-headed ogre
+  9682 | D:10     | Killed a two-headed ogre
+  9820 | D:10     | Reached skill level 12 in Fighting
+ 10267 | D:11     | Noticed a two-headed ogre
+ 10280 | D:11     | Killed a two-headed ogre
+ 10367 | D:11     | Reached XP level 12. HP: 59/113 MP: 11/11
+ 10930 | D:11     | Received a gift from Trog
+ 11133 | D:11     | Found a white marble altar of Elyvilon.
+ 11219 | D:11     | Found Umabb's Antique Armour Shoppe.
+ 11228 | D:11     | Bought an embroidered cloak for 187 gold pieces
+ 12044 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 12994 | Lair:1   | Reached skill level 13 in Fighting
+ 13552 | Lair:2   | Found a staircase to the Swamp.
+ 13560 | Lair:2   | Identified the +0 robe of the Nexus {Int+4}
+ 13880 | Lair:2   | Reached XP level 13. HP: 123/123 MP: 12/12
+ 13927 | Lair:2   | Found a staircase to the Snake Pit.
+ 14449 | Lair:2   | Reached skill level 14 in Fighting
+ 15515 | Lair:2   | Acquired the ring of Gabiucez {Str+6 Int+6 Dex+3}
+ 15654 | Lair:3   | Received a gift from Trog
+ 16323 | Lair:4   | Reached skill level 1 in Short Blades
+ 16476 | Lair:4   | Noticed Rupert
+ 16476 | Lair:4   | Paralysed by Rupert for 4 turns
+ 16490 | Lair:4   | Killed Rupert
+ 17484 | Lair:5   | Entered Level 5 of the Lair of Beasts
+ 17969 | Lair:5   | Reached skill level 15 in Fighting
+ 17969 | Lair:5   | Reached XP level 14. HP: 135/135 MP: 13/13
+ 17978 | Lair:5   | Found a staircase to the Slime Pits.
+ 18017 | Lair:5   | Noticed Snorg
+ 18032 | Lair:5   | Killed Snorg
+ 18033 | Lair:5   | Reached skill level 15 in Long Blades
+ 18630 | Lair:5   | Reached skill level 15 in Armour
+ 18797 | Lair:5   | Reached skill level 5 in Short Blades
+ 19483 | Lair:5   | Received a gift from Trog
+ 20488 | Swamp:1  | Entered Level 1 of the Swamp
+ 20489 | Swamp:1  | Noticed Frances
+ 20887 | Lair:2   | Reached skill level 16 in Fighting
+ 21081 | Swamp:1  | HP: 1/137 [spriggan rider/+0 spear (15)]
+ 21081 | Swamp:1  | Mangled by a spriggan rider
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_connections, layout_basic,
+          hellmonk_ecumenical_altar_arch_garden
+D:2:      layout_loops_ring, basic_altar
+D:3:      layout_basic, nicolae_qazlal_scattered_showers, fedhas_altar_2,
+          minmay_rat_hole
+D:4:      layout_loops_ring
+D:5:      layout_loops_ring, lemuel_mausoleum_altar_yredelemnul,
+          zin_scriptorium, minmay_temple_entry_glassed_door, uniq_duvessa,
+          uniq_ijyb, uniq_blork_the_orc
+D:6:      layout_cave_pods, lightli_sewer_entry_pipes
+D:7:      layout_gridville, kennysheep_mini_moat,
+          nemelex_xobeh_ov_fountains_minmay, lemuel_tele_altar,
+          lemuel_crystal_altar, enter_bailey_3, uniq_joseph, uniq_prince_ribbit1
+D:8:      layout_gridville, nicolae_gozag_cash_rules_everything_around_me
+D:9:      layout_big_octagon, mainiacjoe_overflow_tiny_flanked,
+          kiku_gazebo_pond_becter, minmay_statues_item,
+          kennysheep_generic_room_8, uniq_amaemon
+D:10:     layout_loops_cross, lair_entry_dummy, david_orc_4
+D:11:     layout_basic, serial_rivers, chequers_serial_rivers_room_a,
+          chequers_serial_rivers_micro_c, chequers_serial_rivers_small_b,
+          chequers_serial_rivers_micro_c, chequers_serial_rivers_micro_c,
+          serial_shops, nicolae_lakefront_shop, nicolae_elyvilon_peaceful_grove
+Temple:   hellmonk_temple_divided_pantheon
+Lair:1:   layout_chaotic_city, chequers_serial_rivers_micro_b,
+          grunt_megastairs_1, serial_bayou_shore_b, lemuel_fruit_tree,
+          infiniplex_staircase_pool_2
+Lair:2:   layout_loops_ring, swamp_mist, dummy_snake_entry, beast_lair_carwin_7
+Lair:3:   layout_cellular_growth, serial_bayou_shore_a
+Lair:4:   layout_hall_layers, nzn_sisyphean_effort, uniq_rupert
+Lair:5:   guppyfry_lair_end_dragon, layout_long_grid,
+          hangedman_lair_caniforms_friends, slime_entry_1,
+          gauntlet_entry_generic, minmay_stone_trees_small, uniq_snorg
+Swamp:1:  layout_falls_marsh, evilmike_swamp_ruin_house_2, uniq_frances
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 |
+---------------+-------------------------------------------+-----
+Long Blades    |     4        5     6  7  9 10 12 13 14 15 | 15.9
+Fighting       |     4        5     6  7  9 10 12 13 15 16 | 16.0
+Armour         |     3        4  5  6  7  9 10 12 13 14 15 | 15.7
+Dodging        |        3     4     5  6  8  9 11 12 13 14 | 14.5
+Short Blades   |                                      3  6 |  6.5
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Melee: Falchion          |    94 |       |       |       |       ||    94
+       Headbutt          |    15 |    13 |    25 |   143 |   244 ||   440
+       Rapier            |    18 |    83 |   190 |   640 |   876 ||  1807
+       Unarmed           |       |       |     6 |       |       ||     6
+       Punch             |       |       |     1 |    17 |    21 ||    39
+Throw: Boomerang         |       |       |       |    13 |     1 ||    14
+Invok: Berserk           |       |       |     5 |     4 |     3 ||    12
+       Trog's Hand       |       |       |     1 |     3 |       ||     4
+       Brothers in Arms  |       |       |       |     2 |     1 ||     3
+  Use: Scroll            |       |     7 |       |    10 |     8 ||    25
+       Potion            |       |       |       |       |     1 ||     1
+Armor: Animal skin       |    17 |       |       |       |       ||    17
+       Ring mail         |    14 |     2 |       |       |       ||    16
+       Plate armour      |       |    32 |    99 |   375 |   515 ||  1021
+       Skin              |       |       |     1 |       |       ||     1
+Dodge: Dodged            |    59 |    26 |    78 |   320 |   540 ||  1023
+Block: Other             |    15 |    11 |    49 |   155 |   190 ||   420
+       Reflection        |       |       |     4 |     4 |     1 ||     9
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  21085 |  20206 |    879 |   2450 |  13839 |  20 | 1054.2 |
+       Dungeon |   9743 |   9250 |    493 |    448 |   7186 |  11 |  885.7 |
+        Temple |     55 |     55 |      0 |      0 |      6 |   1 |   55.0 |
+          Lair |   8834 |   8448 |    386 |   1167 |   5490 |   5 | 1766.8 |
+         Swamp |     29 |     29 |      0 |      0 |      0 |   1 |   29.0 |
+         Sewer |    387 |    387 |      0 |      0 |    285 |   1 |  387.0 |
+        Bailey |   2034 |   2034 |      0 |    833 |    871 |   1 | 2034.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+  Lair:5: 2430 daAuts
+  Bailey: 2034 daAuts
+    D:11: 1823 daAuts
+  Lair:2: 1803 daAuts
+  Lair:3: 1594 daAuts
+  Lair:4: 1572 daAuts
+  Lair:1: 1433 daAuts
+     D:6: 1194 daAuts
+     D:5: 941 daAuts
+     D:2: 778 daAuts
+     D:8: 767 daAuts
+    D:10: 751 daAuts
+     D:7: 744 daAuts
+     D:3: 739 daAuts
+     D:9: 728 daAuts
+

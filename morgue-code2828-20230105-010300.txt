@@ -1,0 +1,439 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-591-g3c58d2b (webtiles) character file.
+
+Game seed: 15312706886711714097
+
+9667 code2828 the Thaumaturge (level 11, -2/74 HPs)
+             Began as a Grey Draconian Ice Elementalist on Jan 4, 2023.
+             Was a Priest of Sif Muna.
+             Slain by a shadow (20 damage)
+             ... on level 10 of the Dungeon on Jan 5, 2023.
+             The game lasted 00:56:28 (12437 turns).
+
+code2828 the Thaumaturge (DrIE)                    Turns: 12437, Time: 00:56:28
+
+Health: -2/74      AC: 21    Str: 10    XL:     11   Next: 26%
+Magic:  16/24      EV: 15    Int: 24    God:    Sif Muna [***...]
+Gold:   385        SH:  0    Dex: 11    Spells: 18/29 levels left
+
+rFire   . . .      SeeInvis .   F - +3 broad axe of Beyond {freeze, rPois Str-4 Int+7}
+rCold   + . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   (body armour unavailable)
+rPois   +          Reflect  .   (helmet restricted)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   +++                     (no amulet)
+HPRegen 0.32/turn               g - ring of protection from cold
+MPRegen 0.19/turn               n - ring of poison resistance
+
+@: ice-armoured, freezing walls
+A: AC +12, amphibious, unfitting armour, cold-blooded
+a: Renounce Religion, Channel Magic, Forget Spell
+
+
+You were on level 10 of the Dungeon.
+You worshipped Sif Muna.
+Sif Muna was most pleased with you.
+You visited 1 branch of the dungeon, and saw 10 of its levels.
+
+You collected 451 gold pieces.
+You spent 66 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ z - a +4 morningstar
+ F - the +3 broad axe of Beyond (weapon) {freeze, rPois Str-4 Int+7}
+   (You found it on level 7 of the Dungeon)   
+   
+   Str:       It affects your strength (-4).
+   Int:       It affects your intelligence (+7).
+   rPois:     It protects you from poison.
+Missiles
+ I - a throwing net
+Magical Staves
+ i - a staff of cold
+Jewellery
+ g - a ring of protection from cold (left hand)
+ n - a ring of poison resistance (right hand)
+ p - a ring of resist corrosion
+ D - a ring of positive energy
+Wands
+ r - a wand of polymorph (8)
+ v - a wand of flame (42)
+ C - a wand of paralysis (7)
+Scrolls
+ b - 5 scrolls of identify
+ c - 2 scrolls of teleportation {unknown}
+ f - 3 scrolls of torment
+ h - 6 scrolls of noise {unknown}
+ k - 3 scrolls of magic mapping {unknown}
+ l - 4 scrolls of enchant weapon {unknown}
+ o - 3 scrolls of brand weapon {unknown}
+ s - 3 scrolls of amnesia {unknown}
+ x - 3 scrolls of vulnerability {unknown}
+ y - a scroll of immolation {unknown}
+ A - 2 scrolls of blinking {unknown}
+Potions
+ a - a potion of magic
+ d - 2 potions of flight
+ e - a potion of heal wounds
+ j - 2 potions of brilliance
+ m - a potion of mutation
+ q - 2 potions of lignification {unknown}
+ t - 2 potions of curing {unknown}
+ u - a potion of berserk rage {unknown}
+ w - a potion of resistance {unknown}
+ B - 3 potions of cancellation {unknown}
+ E - a potion of might {unknown}
+ G - a potion of haste
+ H - a potion of attraction {unknown}
+
+
+   Skills:
+ * Level 9.6 Dodging
+ + Level 7.5 Stealth
+ * Level 9.7 Spellcasting
+ + Level 0.0 Conjurations
+ + Level 0.0 Hexes
+ + Level 8.4 Ice Magic
+ + Level 0.0 Invocations
+
+
+You had 18 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Freeze                Ice            100%       1d10      1%          1
+b - Frozen Ramparts       Ice            100%       1d16      1%          3
+c - Ozocubu's Armour      Ice            51%        N/A       1%          3
+d - Summon Ice Beast      Ice/Summ       31%        N/A       10%         4
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Magic Dart               Conj           44%        1d5       5%          1
+ Call Imp                 Summ           11%        N/A       9%          2
+ Mephitic Cloud           Conj/Pois/Air  11%        N/A       16%         3
+ Portal Projectile        Hex/Tloc       22%        N/A       16%         3
+ Tukima's Dance           Hex            11%        N/A       16%         3
+ Metabolic Englaciation   Hex/Ice        15%        N/A       26%         5
+ Petrify                  Tmut/Erth      11%        N/A       47%         4
+ Blade Hands              Tmut           5%         N/A       83%         5
+ Statue Form              Tmut/Erth      7%         N/A       100%        6
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (10/15)        Zot: 26977       Temple (0/1) D:5                      
+   Lair (0/5) D:8                          Orc (0/2) D:9                      
+
+Altars:
+Gozag
+Kikubaaqudgha
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Yredelemnul
+Zin
+
+Shops:
+D:5 ?
+
+Annotations:
+D:4 2 runed translucent doors, dolemite99's ghost, amateur MiFi
+D:5 3 runed translucent doors, p1v0's ghost, amateur OpFE
+D:8 3 runed translucent doors, stealthyc0w's ghost, novice MiBe
+D:9 exclusion: ice statue
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your dull iron-grey scales are very hard. (AC +12)
+You are amphibious.
+You cannot fit into any form of body armour.
+You are cold-blooded and may be slowed by cold attacks.
+
+Message History
+
+Confirm with . or Enter, or press ? or * to list all spells.
+Your icy armour thickens.
+The shadow slips into darkness.
+The shadow flickers and vanishes!
+Deactivating autopickup; reactivate with Ctrl-A.
+You closely miss something.
+The shadow strikes at you from the darkness!
+Reactivating autopickup.
+Casting: Ozocubu's Armour (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Casting: Frozen Ramparts (safe; 1% risk of failure)
+Press: ? - help, Dir - look around, f - activate
+A stone staircase leading up, spattered with blood.
+The walls around you are covered in ice.
+The wall freezes the shadow but does no damage.
+The shadow misses you.
+You hit the shadow.
+You tail-slap the shadow, but do no damage.
+The shadow is severely damaged.
+The shadow completely resists.
+The wall freezes the shadow but does no damage.
+The shadow misses you. The shadow completely resists.
+The wall freezes the shadow but does no damage.
+The shadow slips into darkness.
+The shadow flickers and vanishes!
+Deactivating autopickup; reactivate with Ctrl-A.
+You slash something!
+The wall freezes something but does no damage.
+The shadow strikes at you from the darkness!
+* * * LOW HITPOINT WARNING * * *
+Reactivating autopickup.
+The shadow completely resists.
+The wall freezes the shadow but does no damage.
+The shadow slips into darkness.
+The shadow flickers and vanishes!
+Deactivating autopickup; reactivate with Ctrl-A.
+You feel much better.
+The wall freezes something but does no damage.
+The shadow strikes at you from the darkness!
+You die...
+
+#....#
+#>...#
+#....#
+#....#
+#....
+ ...
+ #~#
+ #@#
+ #..#
+ ##...
+   ##.#
+     ..#
+      .#
+       #
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  An elephant (D:8)
+  A gargoyle (D:8)
+  The ghost of KittyTacky the Arsonist, a novice DEFE (D:7)
+  2 unseen horror zombies (D:9)
+  An unseen horror simulacrum (D:7)
+  18 yaks
+  2 basilisks (D:8)
+  2 steam dragons
+  The ghost of cameronpants the Gusty, an amateur DrAE (D:3)
+  Menkaure (D:6)
+  4 wargs (D:9)
+  Edmund (D:6)
+  3 water moccasins
+  4 ice beasts
+  A spectral hornet (D:7)
+  An orc warrior (D:9)
+  2 black bears
+  A sky beast (D:7)
+  An ogre (D:4)
+  2 centaurs (D:9)
+  A phantom (D:7)
+  A kobold brigand (D:8)
+  2 bullfrogs
+  8 necrophages
+  A gnoll sergeant (D:6)
+  10 wights
+  6 killer bees (D:9)
+  2 howler monkeys (D:7)
+  A human zombie (D:9)
+  3 jellies
+  7 hounds
+  6 orc priests
+  2 gnoll boudas
+  4 iguanas
+  5 orc wizards
+  2 howler monkey zombies (D:9)
+  9 adders
+  16 gnolls
+  A shadow imp (D:8)
+  A white imp (D:6)
+  An ufetubus (D:4)
+  2 worms
+  20 orcs
+  5 ball pythons
+  An endoplasm (D:3)
+  2 giant cockroaches
+  5 goblins
+  9 hobgoblins
+  7 jackals
+  5 quokkas
+  5 bats (D:3)
+  2 frilled lizards (D:3)
+  11 kobolds
+  4 rats
+217 creatures vanquished.
+
+Vanquished Creatures (others)
+  3 fungi (D:8)
+  A plant (D:8)
+4 creatures vanquished.
+
+Grand Total: 221 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Draconian Ice Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 3/3
+   285 | D:1      | Reached XP level 2. HP: 20/20 MP: 1/5
+  1367 | D:2      | Reached XP level 3. HP: 26/26 MP: 4/6
+  1469 | D:2      | Learned a level 3 spell: Frozen Ramparts
+  1479 | D:2      | Learned a level 3 spell: Ozocubu's Armour
+  2626 | D:3      | Found a runed translucent door.
+  2628 | D:3      | Noticed cameronpants's ghost (amateur DrAE)
+  2880 | D:3      | Reached XP level 4. HP: 22/33 MP: 2/8
+  2888 | D:3      | Killed cameronpants's ghost
+  2889 | D:3      | Reached XP level 5. HP: 11/38 MP: 1/10
+  3404 | D:4      | Noticed an ogre
+  3430 | D:4      | Killed an ogre
+  3431 | D:4      | Reached skill level 5 in Ice Magic
+  3431 | D:4      | Reached XP level 6. HP: 38/45 MP: 1/11
+  3716 | D:4      | Found a large runed translucent door.
+  3716 | D:4      | Found a large runed translucent door.
+  3718 | D:4      | Noticed dolemite99's ghost (amateur MiFi)
+  3798 | D:4      | Found an ancient bone altar of Kikubaaqudgha.
+  4354 | D:5      | Entered Level 5 of the Dungeon
+  4355 | D:5      | Found Pameriwu's Magic Scroll Shoppe.
+  4362 | D:5      | Your scales start taking on a dull iron-grey colour.
+  4362 | D:5      | Reached XP level 7. HP: 36/50 MP: 6/13
+  4474 | D:5      | Bought 3 scrolls of identify for 66 gold pieces
+  4625 | D:5      | Found a shimmering blue altar of Sif Muna.
+  4743 | D:5      | Found a staircase to the Ecumenical Temple.
+  4816 | D:5      | Found a runed translucent gate.
+  4940 | D:5      | Reached skill level 5 in Spellcasting
+  5112 | D:5      | Found a runed translucent gate.
+  5112 | D:5      | Found a runed translucent gate.
+  5113 | D:5      | Found an opulent altar of Gozag.
+  5114 | D:5      | Noticed p1v0's ghost (amateur OpFE)
+  5400 | D:5      | Became a worshipper of Sif Muna the Loreminder
+  5502 | D:6      | Noticed Menkaure
+  5509 | D:6      | Killed Menkaure
+  5510 | D:6      | Reached skill level 5 in Dodging
+  5510 | D:6      | Reached XP level 8. HP: 41/57 MP: 7/16
+  6005 | D:6      | Found a stormy altar of Qazlal.
+  6095 | D:6      | Found a sacrificial altar of Ru.
+  6660 | D:6      | Noticed Edmund
+  6675 | D:6      | Killed Edmund
+  7098 | D:7      | Reached skill level 5 in Stealth
+  7098 | D:7      | Reached XP level 9. HP: 44/62 MP: 7/18
+  7351 | D:7      | Found a runed translucent gate.
+  7351 | D:7      | Found a runed translucent gate.
+  7351 | D:7      | Found a runed translucent gate.
+  7359 | D:7      | Learned a level 4 spell: Summon Ice Beast
+  7360 | D:7      | Noticed KittyTacky's ghost (novice DEFE)
+  7405 | D:7      | Reached * piety under Sif Muna
+  8217 | D:7      | Killed KittyTacky's ghost
+  8228 | D:7      | Identified the +3 broad axe of Beyond {freeze, rPois Str-4
+                  | Int+7}
+  8609 | D:7      | Reached XP level 10. HP: 69/69 MP: 21/21
+  8922 | D:8      | Found a bloodstained altar of Trog.
+  9471 | D:8      | Found a staircase to the Lair.
+  9473 | D:8      | Noticed an elephant
+  9500 | D:8      | Killed an elephant
+  9768 | D:8      | Found a runed translucent gate.
+  9769 | D:8      | Found a runed translucent gate.
+  9770 | D:8      | Found a runed translucent gate.
+  9775 | D:8      | Noticed stealthyc0w's ghost (novice MiBe)
+  9888 | D:8      | Found an iron altar of Okawaru.
+  9888 | D:8      | Noticed a gargoyle
+  9900 | D:8      | Killed a gargoyle
+  9900 | D:8      | Reached ** piety under Sif Muna
+ 10635 | D:9      | Noticed an ice statue
+ 11162 | D:9      | Reached XP level 11. HP: 47/68 MP: 21/24
+ 11291 | D:9      | Found a basalt altar of Yredelemnul.
+ 11366 | D:9      | Found a staircase to the Orcish Mines.
+ 11813 | D:9      | Found a glowing silver altar of Zin.
+ 12080 | D:9      | Reached *** piety under Sif Muna
+ 12421 | D:10     | Entered Level 10 of the Dungeon
+ 12437 | D:10     | Slain by a shadow
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_round_a, layout_loops_cross, roderic_lattice_a
+D:2:      layout_loops_ring
+D:3:      layout_loops_cross, ebering_ghost_sewer_d
+D:4:      layout_loops_ring, kiku_gazebo_pond_becter,
+          ebering_ghost_disaster_area, hex_large
+D:5:      layout_rooms, nicolae_sif_muna_little_library,
+          minmay_temple_entry_nine_rooms, ebering_ghost_gozag,
+          kennysheep_windowed_goal
+D:6:      layout_loops_ring, grunt_qazlal_clouds, lemuel_crystal_altar,
+          uniq_menkaure, uniq_edmund
+D:7:      layout_loops_ring, gammafunk_ghost_necromancy, kennysheep_small_circle
+D:8:      layout_loops_corners, okawaru_metal_pillars_1_2,
+          mainiacjoe_overflow_brackets, david_lair_generic,
+          gammafunk_ghost_nasty_kobolds
+D:9:      layout_irregular_city, kennysheep_mini_moat,
+          lemuel_mausoleum_altar_yredelemnul, minmay_orc_entry_guard_dogs,
+          minivault_16
+D:10:     layout_roguey, fedhas_altar_fruit_tree, minmay_misc_feat_more_columns,
+          solitary_fountain, uniq_grum, uniq_urug
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Stealth        |     2        3     4  5  6  7 |  7.5
+Dodging        |     2     3     4  5  6  7  9 |  9.6
+Spellcasting   |           3     4  5  6  7  9 |  9.7
+Ice Magic      |              5        6  7  8 |  8.4
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Dagger            |    13 |       |       |       ||    13
+       Unarmed           |     5 |       |       |       ||     5
+       Tailslap          |     9 |     3 |    14 |    30 ||    56
+       Punch             |     1 |       |     1 |     2 ||     4
+       Staff             |    34 |    16 |    72 |    34 ||   156
+       Flail             |       |       |    24 |       ||    24
+       Broad axe         |       |       |    13 |    94 ||   107
+       Morningstar       |       |       |       |    88 ||    88
+ Cast: Freeze            |    58 |    45 |   145 |    42 ||   290
+       Ozocubu's Armour  |     1 |     4 |     9 |    18 ||    32
+       Frozen Ramparts   |       |     5 |    11 |    43 ||    59
+Evoke: Wand              |       |       |    13 |    13 ||    26
+  Use: Scroll            |       |     5 |       |       ||     5
+       Potion            |       |       |     4 |     2 ||     6
+ Stab: Distracted        |       |       |     1 |       ||     1
+       Sleeping          |       |       |       |     1 ||     1
+Armor: Skin              |    69 |    21 |   125 |   144 ||   359
+Dodge: Dodged            |    92 |    35 |   147 |   310 ||   584
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  12573 |  12120 |    453 |   1073 |   8422 |  10 | 1257.3 |
+       Dungeon |  12573 |  12120 |    453 |   1073 |   8422 |  10 | 1257.3 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:9: 2267 daAuts
+     D:7: 1635 daAuts
+     D:8: 1632 daAuts
+     D:6: 1364 daAuts
+     D:4: 1338 daAuts
+     D:5: 1278 daAuts
+     D:3: 1124 daAuts
+     D:1: 1123 daAuts
+     D:2: 787 daAuts
+    D:10: 21 daAuts
+

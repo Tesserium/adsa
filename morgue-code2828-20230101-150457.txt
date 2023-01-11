@@ -1,0 +1,288 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-585-g9311517 (webtiles) character file.
+
+Game seed: 14789845082610801643
+
+420 code2828 the Trooper (level 6, -24/56 HPs)
+             Began as a Ghoul Monk on Jan 1, 2023.
+             Was an Elder of Dithmenos.
+             Annihilated by an ogre
+             ... wielding a +0 giant club
+              (25 damage)
+             ... on level 4 of the Dungeon.
+             The game lasted 00:08:58 (3531 turns).
+
+code2828 the Trooper (Ghoul Monk)                   Turns: 3531, Time: 00:08:59
+
+Health: -24/56     AC:  9    Str: 17    XL:     6   Next: 94%
+Magic:  5/5        EV: 10    Int:  5    God:    Dithmenos [****..]
+Gold:   481        SH:  0    Dex: 11    Spells: 5/5 levels left
+
+rFire   . . .      SeeInvis .     - Unarmed
+rCold   + . .      Faith    .   (no shield)
+rNeg    + + +      Spirit   .   h - +0 scale mail
+rPois   ∞          Reflect  .   m - +2 hat
+rElec   .          Harm     .   k - +0 cloak
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   +                       (no amulet)
+HPRegen 0.00/turn               (no ring)
+MPRegen 0.09/turn               (no ring)
+
+@: inhibited regen, wreathed by umbra
+A: claws 1, cold resistance 1, negative energy resistance 3, inhibited
+regeneration, torment resistance 2, devour on kill
+a: Renounce Religion, Shadow Step
+
+
+You were on level 4 of the Dungeon.
+You worshipped Dithmenos.
+Dithmenos was greatly pleased with you.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+You also visited: Ossuary.
+
+You collected 481 gold pieces.
+
+Inventory:
+
+Missiles
+ y - a throwing net (quivered)
+Armour
+ h - a +0 scale mail (worn)
+ k - a +0 cloak (worn)
+ m - a +2 hat (worn)
+Wands
+ j - a wand of light (17)
+ t - a wand of paralysis (4)
+ z - a wand of flame (20)
+Scrolls
+ d - 5 scrolls of identify {unknown}
+ e - 2 scrolls of teleportation {unknown}
+ f - a scroll of magic mapping {unknown}
+ g - 5 scrolls of amnesia {unknown}
+ i - a scroll of immolation {unknown}
+ o - a scroll of fog {unknown}
+ p - 3 scrolls of vulnerability {unknown}
+ w - a scroll of poison {unknown}
+Potions
+ a - 2 potions of degeneration {unknown}
+ c - a potion of invisibility {unknown}
+ l - a potion of flight {unknown}
+ n - 2 potions of berserk rage {unknown}
+ q - a potion of curing {unknown}
+ r - a potion of cancellation {unknown}
+ s - 4 potions of brilliance {unknown}
+ u - a potion of lignification {unknown}
+ v - a potion of attraction {unknown}
+ x - a potion of mutation {unknown}
+
+
+   Skills:
+ * Level 5.5 Fighting
+ + Level 3.7 Dodging
+ + Level 3.8 Stealth
+ * Level 5.4 Unarmed Combat
+
+
+You had 5 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Scorch                   Fire           0%         2d5       96%         2
+ Flame Wave               Conj/Fire      0%         2d4       100%        4
+ Summon Cactus Giant      Summ           0%         N/A       100%        6
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)         Zot: 20998      Ossuary (visited)                      
+Temple: D:4-7       
+
+Altars:
+Dithmenos
+
+Shops:
+D:1 :   D:3 *((
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to poison.
+You have sharp fingernails.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+You thrive by killing the living.
+
+Message History
+
+You open the door.
+A goblin and an ogre come into view.
+The goblin shouts!
+The goblin unwields a +0 club. The goblin wields a +0 heavy sling.
+The goblin shoots a sling bullet. The sling bullet hits you.
+The ogre moves out of view.
+Found a blue potion.
+There is an open door here.
+The goblin shoots a sling bullet. The sling bullet barely misses you.
+The ogre hits you with a +0 giant club!!
+Ouch! That really hurt!
+You emit a cloud of dark smoke.
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+There is an open door here.
+You are confused.
+You feel invigorated. The ogre hits you with a +0 giant club!
+* * * LOW HITPOINT WARNING * * *
+The ogre barely misses you.
+The ogre closely misses you.
+The ogre closely misses you.
+The ogre hits you with a +0 giant club!
+You feel less invigorated.
+You feel less confused.
+You scratch the ogre.
+The ogre is lightly wounded.
+The ogre hits you with a +0 giant club!!
+* * * LOW HITPOINT WARNING * * *
+You emit a cloud of dark smoke.
+You scratch the ogre.
+The ogre is moderately wounded.
+You barely miss the ogre.
+The ogre is moderately wounded.
+Your shadow closely misses the ogre. The ogre closely misses you.
+You barely miss the ogre.
+The ogre is moderately wounded.
+The ogre hits you with a +0 giant club!!
+You die...
+
+#.§#..>#..##..##
+#§§#...#...#..#
+#.{#..##......#
+..{#.##...##..##
+...+.#...###...##
+...+.#..##......#
+..{##..##..############   ####
+#.{#..##...#.§§O§§##..#####..####
+#.{#..#....#!§§#@§§.......#......
+#.{#.#.....#.§##§§§..†....#......
+#.{##......#.. ####'####'##.....#
+..§#.......#.. #..†.#....#......#
+{{{#.......#.. #....#....#.....##
+####.......#..########..##.....##
+ #.........#..#..##..#..#.......#
+ #.........#..+......'..#.(..##..
+ ###.......#  ##8..8##..##..#####
+
+
+You could see an ogre.
+
+Vanquished Creatures
+  2 scorpions (D:4)
+  A hound (D:4)
+  An iguana (D:4)
+  Natasha (D:2)
+  8 mummies (Ossuary)
+  6 adders
+  2 worms
+  2 dart slugs
+  A bat (D:3)
+  6 endoplasms
+  3 giant cockroaches
+  2 gnoll zombies (Ossuary)
+  8 hobgoblins
+  2 jackals (D:2)
+  4 quokkas
+  8 ball pythons
+  4 frilled lizards
+  6 goblins
+  2 hobgoblin zombies (Ossuary)
+  3 kobolds
+  2 kobold zombies (Ossuary)
+  2 orc zombies (Ossuary)
+  7 rats
+83 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Ghoul Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   417 | D:1      | Reached XP level 2. HP: 26/26 MP: 1/1
+   475 | D:1      | Found Xuuw's Book Shop.
+   602 | D:1      | Found a faded altar of an unknown god.
+   621 | D:1      | Prayed at the altar of an unknown god.
+   621 | D:1      | Became a worshipper of Dithmenos the Shadowed
+   621 | D:1      | Reached * piety under Dithmenos
+   621 | D:1      | Reached ** piety under Dithmenos
+   864 | D:2      | Reached XP level 3. HP: 32/33 MP: 2/2
+   887 | D:2      | Reached *** piety under Dithmenos
+   994 | D:2      | Noticed Natasha
+  1001 | D:2      | Killed Natasha
+  1016 | D:2      | Reached XP level 4. HP: 34/40 MP: 3/3
+  1423 | D:3      | Found Leta's Antique Weapon Emporium.
+  1506 | D:3      | Found Givi's Assorted Antiques.
+  1692 | D:3      | Identified the +0 robe of Jiky {+Blink rF++ rN+ Str-4}
+  1866 | D:3      | Found Vues's Weapon Boutique.
+  1917 | D:3      | Reached XP level 5. HP: 45/47 MP: 4/4
+  2011 | D:3      | Reached **** piety under Dithmenos
+  2759 | D:4      | Found a sand-covered staircase.
+  2768 | Ossuary  | Entered an ossuary
+  2825 | Ossuary  | Reached XP level 6. HP: 11/55 MP: 5/5
+  2837 | Ossuary  | Reached skill level 5 in Fighting
+  3003 | Ossuary  | Reached skill level 5 in Unarmed Combat
+  3528 | D:4      | HP: 1/56 [ogre/+0 giant club (27)]
+  3531 | D:4      | Annihilated by an ogre
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      scummos_arrival_gate, layout_basic, serial_shops,
+          nicolae_shop_waterfront, chequers_ecumenical_altar_island
+D:2:      layout_basic, uniq_natasha
+D:3:      layout_basic, serial_shops, nicolae_shop_trees, shop_statue,
+          nicolae_shop_waterfront
+D:4:      minmay_chambers_of_twos, layout_cave_pods,
+          nicolae_ossuary_entry_ruins, kennysheep_dice
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Fighting       |        4        5 |  5.5
+Dodging        |        3          |  3.7
+Unarmed Combat |        4        5 |  5.4
+Stealth        |           3       |  3.8
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |    63 |   218 ||   281
+       Punch             |     1 |     5 ||     6
+  Use: Potion            |       |     2 ||     2
+ Stab: Sleeping          |     2 |     1 ||     3
+Armor: Scale mail        |    31 |    69 ||   100
+Dodge: Dodged            |    43 |   112 ||   155
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   3513 |   3429 |     84 |      0 |   2720 |   5 |  702.6 |
+       Dungeon |   3000 |   2916 |     84 |      0 |   2356 |   4 |  750.0 |
+       Ossuary |    513 |    513 |      0 |      0 |    364 |   1 |  513.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:3: 874 daAuts
+     D:4: 817 daAuts
+     D:1: 669 daAuts
+     D:2: 638 daAuts
+ Ossuary: 513 daAuts
+

@@ -1,0 +1,556 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-457-g4b7bca3 (webtiles) character file.
+
+Game seed: 600235370441948279
+
+13254 code2828 the Reanimator (level 11, -6/75 HPs)
+             Began as a Vampire Necromancer on Dec 13, 2022.
+             Was an Initiate of Uskayaw.
+             Mangled by a boulder beetle (14 damage)
+             ... on level 10 of the Dungeon.
+             The game lasted 01:03:10 (13706 turns).
+
+code2828 the Reanimator (Vampire Necromancer)      Turns: 13706, Time: 01:03:11
+
+Health: -6/75      AC:  9    Str: 14    XL:     11   Next: 73%
+Magic:  20/21      EV: 17    Int: 24    God:    Uskayaw [......]
+Gold:   496        SH:  5    Dex: 15    Spells: 4/24 levels left
+
+rFire   . . .      SeeInvis +   F - +5 broad axe of War {vorpal, rElec Str+3}
+rCold   + . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   q - +2 leather armour {rC+}
+rPois   .          Reflect  +   A - +0 helmet
+rElec   +          Harm     .   (no cloak)
+rCorr   .          Rampage  .   g - +2 pair of gloves
+Will    +....                   (no boots)
+Stlth   +++.......              k - amulet of reflection
+HPRegen 0.52/turn               m - +6 ring of intelligence
+MPRegen 0.17/turn               s - +4 ring of evasion
+
+@: healing quickly
+A: alive, fangs 3, see invisible, vampiric 2
+a: Exsanguinate, Renounce Religion
+
+
+You were on level 10 of the Dungeon.
+You worshipped Uskayaw.
+Uskayaw was noncommittal.
+You visited 2 branches of the dungeon, and saw 13 of its levels.
+
+You collected 606 gold pieces.
+You spent 110 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ i - a +0 spear
+ v - a +1 mace of venom
+ F - the +5 broad axe of War (weapon) {vorpal, rElec Str+3}
+   (You found it on level 5 of the Dungeon)   
+   
+   It inflicts extra damage upon your enemies.
+   
+   Str:       It affects your strength (+3).
+   rElec:     It insulates you from electricity.
+ Q - the +4 falchion "Hioplyme" {vorpal, rPois Will+ Dex-4}
+   (You found it on level 9 of the Dungeon)   
+   
+   It inflicts extra damage upon your enemies.
+   
+   Dex:       It affects your dexterity (-4).
+   rPois:     It protects you from poison.
+   Will:      It increases your willpower.
+Missiles
+ e - 3 silver javelins
+ h - 17 poisoned darts (quivered)
+ U - 2 throwing nets
+Armour
+ a - the +0 chain mail of the World {Int+7}
+   (You found it on level 3 of the Dungeon)   
+   
+   Int:       It affects your intelligence (+7).
+ g - a +2 pair of gloves (worn)
+ q - a +2 leather armour of cold resistance (worn)
+ A - a +0 helmet (worn)
+Jewellery
+ k - an amulet of reflection (around neck)
+ m - a +6 ring of intelligence (left hand)
+ s - a +4 ring of evasion (right hand)
+ y - a ring of poison resistance
+ E - a +4 ring of slaying
+ J - a +4 ring of protection
+ P - an amulet of the acrobat
+ W - a ring of resist corrosion
+Wands
+ n - a wand of flame (44)
+ M - a wand of iceblast (15)
+ N - a wand of acid (13)
+ Y - a wand of mindburst (4)
+Scrolls
+ c - 5 scrolls of vulnerability
+ d - a scroll of noise {unknown}
+ f - a scroll of fog {unknown}
+ j - 2 scrolls of immolation
+ l - 3 scrolls of teleportation
+ o - 3 scrolls of enchant weapon {unknown}
+ r - 2 scrolls of magic mapping {unknown}
+ w - 2 scrolls of poison
+ D - a scroll of blinking {unknown}
+ I - 4 scrolls of fear
+ O - a scroll of acquirement {unknown}
+ S - 2 scrolls of amnesia {unknown}
+ V - a scroll of enchant armour {unknown}
+ X - 4 scrolls of identify
+ Z - a scroll of torment {unknown}
+Potions
+ b - 3 potions of magic
+ p - 4 potions of flight
+ t - 3 potions of lignification
+ u - 2 potions of might
+ B - 2 potions of berserk rage
+ C - a potion of attraction
+ G - 2 potions of degeneration
+ H - a potion of invisibility
+ K - a potion of cancellation
+ L - a potion of mutation
+ R - 2 potions of brilliance {unknown}
+ T - 2 potions of resistance {unknown}
+
+
+   Skills:
+ - Level 3.5 Fighting
+ + Level 6.6(6.8) Axes
+ - Level 1.5(4.1) Maces & Flails
+ - Level 0.8(4.2) Polearms
+ - Level 0.2 Throwing
+ - Level 3.1 Armour
+ - Level 5.0 Dodging
+ + Level 7.4 Stealth
+ - Level 3.2 Shields
+ - Level 0.5 Unarmed Combat
+ + Level 7.3 Spellcasting
+ * Level 3.0 Conjurations
+ * Level 12.7 Necromancy
+ * Level 4.1 Air Magic
+
+
+You had 4 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Necrotise             Necr           100%       1d9       1%          1
+b - Vampiric Draining     Necr           63%        2d10      1%          3
+c - Animate Dead          Necr           63%        N/A       1%          4
+d - Agony                 Necr           63%        N/A       1%          5
+e - Static Discharge      Conj/Air       52%        2-5/arc   3%          2
+f - Ensorcelled Hibernat  Hex/Ice        16%        N/A       13%         2
+g - Swiftness             Air            28%        N/A       4%          3
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Vhi's Electric Charge    Tloc/Air       36%        N/A       11%         3
+ Passwall                 Tmut/Erth      6%         N/A       13%         2
+ Petrify                  Tmut/Erth      8%         N/A       65%         4
+ Arcjolt                  Conj/Air       13%        1d23      47%         5
+ Lightning Bolt           Conj/Air       13%        1d26      47%         5
+ Metabolic Englaciation   Hex/Ice        4%         N/A       94%         5
+ Statue Form              Tmut/Erth      5%         N/A       100%        6
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (12/15)        Zot: 25773       Temple (1/1) D:7      Zot: 5605       
+   Lair (0/5) D:11                         Orc (0/2) D:10                     
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+
+Shops:
+D:4 (!   D:5 =
+
+Annotations:
+D:11 3 runed translucent doors, Gonff's ghost, journeyman DsFi
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your natural rate of healing is accelerated.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You are afflicted with vampirism and can become a bat while bloodless.
+
+Message History
+
+The boulder beetle leaps!
+You feel better.
+The boulder beetle leaps!
+The boulder beetle leaps!
+There is a stone staircase leading down, spattered with blood here.
+There is a stone staircase leading down, spattered with blood here.
+The boulder beetle curls into a ball and begins rolling!
+There is a stone staircase leading down, spattered with blood here.
+The boulder beetle barely misses you.
+The boulder beetle stops rolling and uncurls.
+You hit the boulder beetle.
+The boulder beetle is almost dead.
+The boulder beetle bites you!!
+* * * LOW HITPOINT WARNING * * *
+You barely miss the boulder beetle.
+The boulder beetle is almost dead.
+You block the boulder beetle's attack.
+You hit the boulder beetle but do no damage.
+You bite the boulder beetle, but do no damage.
+The boulder beetle is almost dead.
+The boulder beetle leaps!
+You start resting.
+A boulder beetle is nearby!
+Okay, then.
+You feel much better.
+The boulder beetle curls into a ball and begins rolling!
+The boulder beetle hits you but does no damage.
+The boulder beetle stops rolling and uncurls.
+You see here a river rat corpse.
+You hit the boulder beetle but do no damage.
+The boulder beetle is severely wounded.
+The boulder beetle bites you!!
+* * * LOW HITPOINT WARNING * * *
+Okay, then.
+Okay, then.
+You block the boulder beetle's attack.
+Keep bloodletting? 
+You begin bloodletting. You continue bloodletting.
+The boulder beetle bites you!
+You die...
+
+......####.....#...##  ##...##
+..........###...#...#   ###..###
+...[..######.....#..##    ##...##
+..#####    #.....##..##    ##...#
+###        #......#...##    ###..
+           #.......#...##     #..
+           #.......##...#    ##.#
+           #....B...##..##   #..#
+           #....@....##..## ##.##
+           #...>....###...###..#
+           #..?...### ##...##.##
+           ##...###    ##.....###
+            #.###      ###...#...
+            ###      ###.....#...
+                   ###....#.###..
+                   #......#.# #..
+                   ########.# ###
+
+
+You could see a boulder beetle.
+
+Vanquished Creatures
+  Erica (D:9)
+  3 death yaks
+  A two-headed ogre (D:8)
+  Pikel (D:7)
+  A cyclops (D:11)
+  A gargoyle (D:10)
+  An unseen horror (D:11)
+  Maggie (D:7)
+  A troll (D:10)
+  A hornet (D:10)
+  Prince Ribbit (D:9)
+  A centaur simulacrum (D:12)
+  2 wraiths
+  2 shadows
+  Sigmund (D:2)
+  A wyvern (D:9)
+  A human (D:10)
+  10 yaks
+  Eustachio (D:4)
+  3 vampire mosquitoes (D:11)
+  A warg (D:10)
+  Edmund (D:5)
+  A water moccasin (D:7)
+  2 black bears
+  An ice beast (D:7)
+  5 orc warriors
+  2 ogres
+  4 lemures (D:6)
+  A centaur (D:10)
+  A phantom (D:5)
+  Blork the orc (D:4)
+  2 necrophages
+  2 gnoll sergeants
+  5 bullfrogs
+  2 scorpions
+  12 wights
+  9 killer bees
+  5 howler monkeys
+  8 hounds
+  8 orc priests
+  2 gnoll boudas
+  An iguana (D:6)
+  Ijyb (D:3)
+  2 hell rats
+  17 orc wizards
+  Natasha (D:4)
+  10 adders
+  20 gnolls
+  2 river rats
+  A white imp (D:5)
+  3 worms
+  A dart slug (D:1)
+  37 orcs
+  4 ball pythons
+  4 bats
+  9 endoplasms
+  5 giant cockroaches
+  7 goblins
+  8 hobgoblins
+  14 jackals
+  8 quokkas
+  6 frilled lizards
+  8 kobolds
+  3 rats
+282 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A white imp (D:6)
+  A goblin (D:4)
+  A hobgoblin (D:1)
+  A ball python (D:2)
+  A bat (D:2)
+  A kobold (D:2)
+6 creatures vanquished.
+
+Vanquished Creatures (others)
+  7 plants
+7 creatures vanquished.
+
+Grand Total: 295 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Vampire Necromancer began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   199 | D:1      | Reached XP level 2. HP: 19/19 MP: 1/5
+   816 | D:1      | Found a faded altar of an unknown god.
+   896 | D:1      | Reached skill level 5 in Necromancy
+   971 | D:1      | Gained mutation: You are afflicted with vampirism and can
+                  | become a bat while bloodless. [Vampire growth]
+   971 | D:1      | Reached XP level 3. HP: 21/21 MP: 6/6
+  1667 | D:2      | Reached XP level 4. HP: 23/27 MP: 4/7
+  1992 | D:2      | Learned a level 3 spell: Vampiric Draining
+  1997 | D:2      | Learned a level 4 spell: Animate Dead
+  2187 | D:2      | Noticed Sigmund
+  2193 | D:2      | Killed Sigmund
+  2194 | D:2      | Reached skill level 6 in Necromancy
+  2194 | D:2      | Reached XP level 5. HP: 32/36 MP: 2/9
+  2448 | D:3      | Reached XP level 6. HP: 42/42 MP: 4/11
+  2688 | D:3      | Reached skill level 7 in Necromancy
+  2841 | D:3      | Noticed Ijyb
+  2847 | D:3      | Killed Ijyb
+  2866 | D:3      | Identified the +0 chain mail of the World {Int+7}
+  3218 | D:4      | Found Atwaon's Antique Weapon Emporium.
+  3223 | D:4      | Found Aliplesaatt's Distillery.
+  3232 | D:4      | Bought a potion of heal wounds for 50 gold pieces
+  3232 | D:4      | Bought a potion of curing for 30 gold pieces
+  3232 | D:4      | Bought a potion of curing for 30 gold pieces
+  3251 | D:4      | Noticed Blork the orc
+  3268 | D:4      | Killed Blork the orc
+  3814 | D:4      | Reached skill level 1 in Armour
+  3840 | D:4      | Reached XP level 7. HP: 35/42 MP: 3/13
+  3977 | D:4      | Noticed Eustachio
+  3989 | D:4      | Killed Eustachio
+  4281 | D:4      | Reached skill level 8 in Necromancy
+  4568 | D:4      | Noticed Natasha
+  4572 | D:4      | Killed Natasha
+  4625 | D:5      | Entered Level 5 of the Dungeon
+  4629 | D:5      | Noticed Edmund
+  4638 | D:5      | Killed Edmund
+  4741 | D:5      | Reached XP level 8. HP: 42/53 MP: 5/15
+  4857 | D:5      | Identified the +5 broad axe of War {vorpal, rElec Str+3}
+  4945 | D:5      | Found Xymoeg's Jewellery Boutique.
+  4968 | D:5      | Reached skill level 1 in Maces & Flails
+  4968 | D:5      | Reached skill level 5 in Spellcasting
+  5061 | D:5      | Reached skill level 9 in Necromancy
+  5122 | D:5      | Reached skill level 1 in Shields
+  5126 | D:5      | Reached skill level 1 in Fighting
+  5714 | D:6      | Found a shimmering blue altar of Sif Muna.
+  5716 | D:6      | Found a hide-covered altar of Uskayaw.
+  5979 | D:6      | Learned a level 5 spell: Agony
+  5980 | D:6      | Became a worshipper of Uskayaw the Reveller
+  6019 | D:6      | Reached * piety under Uskayaw
+  6020 | D:6      | Reached skill level 1 in Axes
+  6020 | D:6      | Reached skill level 10 in Necromancy
+  6554 | D:6      | Reached ** piety under Uskayaw
+  6568 | D:6      | Reached *** piety under Uskayaw
+  6579 | D:6      | Reached XP level 9. HP: 59/59 MP: 0/17
+  6581 | D:6      | Reached **** piety under Uskayaw
+  7126 | D:6      | Reached ***** piety under Uskayaw
+  7339 | D:7      | Found a staircase to the Ecumenical Temple.
+  7380 | D:7      | Noticed Pikel
+  7457 | D:7      | Killed Pikel
+  7535 | Temple   | Entered the Ecumenical Temple
+  8030 | D:7      | You fall into a shaft and drop 2 floors!
+  8036 | D:9      | Noticed Prince Ribbit
+  8072 | D:9      | Killed Prince Ribbit
+  8109 | D:9      | Reached skill level 11 in Necromancy
+  8130 | D:9      | Noticed Erica
+  8147 | D:9      | Killed Erica
+  8148 | D:9      | Reached skill level 5 in Stealth
+  8148 | D:9      | Reached XP level 10. HP: 61/69 MP: 9/19
+  8148 | D:9      | Found a hazy altar of Hepliaklqana.
+  8272 | D:9      | Identified the +4 falchion "Hioplyme" {vorpal, rPois Will+
+                  | Dex-4}
+  8467 | D:8      | Noticed a two-headed ogre
+  8479 | D:8      | Killed a two-headed ogre
+  8480 | D:8      | Reached skill level 5 in Axes
+  8493 | D:7      | Noticed Maggie
+  8505 | D:7      | Killed Maggie
+  9626 | D:8      | Identified the +4 dagger of the Aged Runes {flame, rN+
+                  | Dex+3}
+  9994 | D:9      | Reached skill level 5 in Dodging
+ 10234 | D:9      | Learned a level 2 spell: Static Discharge
+ 10239 | D:10     | Entered Level 10 of the Dungeon
+ 10275 | D:9      | Reached skill level 12 in Necromancy
+ 10421 | D:10     | Reached skill level 1 in Air Magic
+ 10421 | D:10     | Reached XP level 11. HP: 63/75 MP: 21/21
+ 10435 | D:10     | Reached ****** piety under Uskayaw
+ 10440 | D:10     | Reached skill level 1 in Conjurations
+ 11007 | D:10     | Found a staircase to the Orcish Mines.
+ 11147 | D:10     | Learned a level 2 spell: Ensorcelled Hibernation
+ 11615 | D:11     | Noticed a death yak
+ 11627 | D:11     | Noticed a death yak
+ 11629 | D:11     | Killed a death yak
+ 11701 | D:11     | Noticed a death yak
+ 11711 | D:10     | Killed a death yak
+ 11803 | D:10     | Paralysed by a hornet for 3 turns
+ 11929 | D:11     | Killed a death yak
+ 12431 | D:11     | Found a staircase to the Lair.
+ 12453 | D:11     | Noticed a centaur warrior
+ 13049 | D:11     | Found a runed translucent gate.
+ 13049 | D:11     | Found a runed translucent gate.
+ 13049 | D:11     | Found a runed translucent gate.
+ 13052 | D:11     | Noticed Gonff's ghost (journeyman DsFi)
+ 13269 | D:11     | Learned a level 3 spell: Swiftness
+ 13274 | D:11     | Noticed a boulder beetle
+ 13695 | D:10     | HP: 2/75 [boulder beetle (20)]
+ 13706 | D:10     | Mangled by a boulder beetle
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_refuge, layout_basic, hellmonk_ecumenical_altar_blasted,
+          serial_bayou_crossing
+D:2:      layout_rooms, grunt_ministairs_9, reono_crystal_passage,
+          minmay_misc_feat_pillars, uniq_sigmund
+D:3:      layout_basic, corner_web_ring, uniq_ijyb
+D:4:      nicolae_cairo_tiling_large, layout_basic, nicolae_wooded_promenade,
+          corexii_checkpoint_b, kennysheep_nondescript, bh_walls_and_bars,
+          uniq_eustachio, uniq_blork_the_orc, uniq_natasha
+D:5:      layout_rooms, serial_shops, shop, uniq_edmund
+D:6:      layout_layer_cave, chequers_temple_overflow_statue_of_worship
+D:7:      layout_rooms, minmay_temple_entry_overgrown, uniq_pikel, uniq_maggie
+D:8:      cheibrodos_iron_armory, layout_cave_pods, serial_gnoll_camp,
+          gnoll_camp_mini_hut, gnoll_camp_mini_hut, gnoll_camp_mini_doghouse,
+          gnoll_camp_mini_sergeant
+D:9:      layout_rooms, nicolae_hepliaklqana_hazy_memory, uniq_erica,
+          uniq_prince_ribbit1
+D:10:     layout_cave_pods, erik_orc_4, st_stairs_14,
+          minmay_misc_feat_diagonals, minivault_24
+D:11:     gammafunk_indiana_jones, layout_rooms, dpeg_lair_monsters,
+          gammafunk_ghost_nasty_kobolds
+D:12:     layout_gridville, serial_ice, serial_ice_l, serial_ice_g,
+          serial_ice_h, serial_ice_d, serial_ice_m, serial_ice_b,
+          portal_ice_cave_entry_pillars_2
+Temple:   minmay_temple_bridge_d
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Necromancy     |     5     6     7  8 10 11 12    | 12.7
+Spellcasting   |           3     4     5  6     7 |  7.3
+Armour         |                 1     2     3    |  3.1
+Maces & Flails |                       1          |  1.5
+Dodging        |                       3  4  5    |  5.0
+Shields        |                       2     3    |  3.2
+Fighting       |                       1  2  3    |  3.5
+Axes           |                       1  4  6    |  6.6
+Stealth        |                          5     7 |  7.4
+Air Magic      |                             1  4 |  4.1
+Conjurations   |                                3 |  3.0
+Polearms       |                                  |  0.8
+Throwing       |                                  |  0.2
+Unarmed Combat |                                  |  0.5
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Unarmed           |    22 |       |       |       ||    22
+       Bite              |     8 |     8 |    26 |    61 ||   103
+       Spear             |    56 |    36 |       |       ||    92
+       Punch             |     2 |       |     4 |     8 ||    14
+       Mace              |       |    28 |   107 |       ||   135
+       Broad axe         |       |       |   157 |   383 ||   540
+Throw: Dart              |       |       |     8 |    10 ||    18
+ Cast: Necrotise         |    41 |    83 |    85 |    50 ||   259
+       Vampiric Draining |       |     6 |    27 |    17 ||    50
+       Agony             |       |       |       |     5 ||     5
+Invok: Stomp             |       |       |     2 |     6 ||     8
+ Abil: Revivify          |     1 |     2 |       |       ||     3
+       Exsanguinate      |     1 |     1 |       |     1 ||     3
+  Use: Potion            |       |     3 |     1 |    11 ||    15
+       Scroll            |       |       |       |    16 ||    16
+ Stab: Sleeping          |     2 |       |       |     3 ||     5
+       Paralysed         |       |       |    10 |    12 ||    22
+Armor: Leather armour    |    38 |    23 |   116 |    86 ||   263
+Dodge: Dodged            |    98 |    50 |   307 |   406 ||   861
+Block: Other             |    17 |    21 |   110 |   121 ||   269
+       Reflection        |       |       |     1 |     9 ||    10
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  14022 |  13579 |    443 |   2750 |   7302 |  13 | 1078.6 |
+       Dungeon |  13628 |  13318 |    310 |   2750 |   7085 |  12 | 1135.7 |
+        Temple |    394 |    261 |    133 |      0 |    217 |   1 |  394.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+    D:10: 2459 daAuts
+     D:6: 1887 daAuts
+     D:1: 1535 daAuts
+     D:4: 1429 daAuts
+     D:8: 1312 daAuts
+    D:11: 948 daAuts
+     D:5: 884 daAuts
+     D:2: 862 daAuts
+     D:3: 846 daAuts
+     D:9: 709 daAuts
+     D:7: 682 daAuts
+  Temple: 394 daAuts
+    D:12: 71 daAuts
+

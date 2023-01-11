@@ -1,0 +1,308 @@
+code2828
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 whip
+(8, 8, D:1)
+  a +0 club
+(12, 34, D:1)
+  a +2 short sword of venom
+(18, -3, D:1)
+  a +0 club
+(18, -1, D:1)
+  a +0 dagger
+(19, 35, D:1)
+  a +0 club
+(36, 29, D:1)
+  a +0 robe
+(38, 31, D:1)
+  a +0 club
+  a +0 club
+  a +0 club
+(38, 35, D:1)
+  a +0 ring mail
+(42, 38, D:1)
+  a +0 hunting sling
+(46, 32, D:1)
+  a stone
+(47, 32, D:1)
+  a stone
+(48, 33, D:1)
+  a stone
+(51, 33, D:1)
+  a +0 short sword
+(55, 15, D:1)
+  20 stones
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 mace
+(4, -11, D:2)
+  a +0 spear
+(21, -25, D:2)
+  a +0 mace
+(31, -30, D:2)
+  a +0 club
+(31, -28, D:2)
+  a +0 animal skin
+(31, -6, D:2)
+  a +0 ring mail
+(32, -28, D:2)
+  a +0 club
+(33, -29, D:2)
+  a +0 short sword
+(43, -33, D:2)
+  a cursed +0 robe
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 club
+(15, -11, D:3)
+  a +0 club
+(16, -3, D:3)
+  a +0 dagger
+(17, -34, D:3)
+  22 stones
+(20, -9, D:3)
+  a +0 dagger
+(32, 2, D:3)
+  a +0 dagger
+(34, -29, D:3)
+  a +0 dagger
+(38, -35, D:3)
+  a +0 trident
+(42, 2, D:3)
+  a +0 dagger
+(50, -30, D:3)
+  18 sling bullets
+(51, -10, D:3)
+  19 arrows
+(55, -27, D:3)
+  a +0 leather armour
+(61, -9, D:3)
+  11 arrows
+
+Level 4 of the Dungeon
+(8, -19, D:4)
+  11 arrows
+(9, 1, D:4)
+  a +0 hunting sling
+(14, -10, D:4)
+  a +0 war axe
+(15, -3, D:4)
+  a +0 leather armour
+(21, -13, D:4)
+  a +0 short sword
+  a +0 scale mail
+(21, -12, D:4)
+  a +0 dagger
+  a +0 robe
+(41, 9, D:4)
+  5 arrows
+(46, -14, D:4)
+  a +0 flail
+(46, 21, D:4)
+  a +0 giant spiked club
+(48, -23, D:4)
+  16 stones
+(58, -30, D:4)
+  a +0 robe
+(59, -14, D:4)
+  a +0 dagger
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 whip
+(0, 1, D:5)
+  a +0 giant club
+  a +0 hand axe
+  a +0 club
+  a cursed +0 ring mail
+(0, 2, D:5)
+  a +0 dagger
+  a +0 leather armour
+(5, 13, D:5)
+  a +0 scale mail
+(13, 26, D:5)
+  a cursed +0 club
+  a +0 flail
+  a +0 robe
+  a +0 dagger
+  a +0 dagger
+(14, 5, D:5)
+  3 bolts
+(15, 6, D:5)
+  a +0 hunting sling
+(16, 38, D:5)
+  a +0 ring mail
+(17, 25, D:5)
+  17 arrows
+(17, 30, D:5)
+  a +0 falchion
+(19, 7, D:5)
+  a +0 flail
+  a +0 mace
+(19, 8, D:5)
+  a +0 ring mail
+  a +0 robe
+  a +0 dagger
+  a cursed +0 ring mail
+  a +0 whip
+(21, 4, D:5)
+  a +0 scale mail (still there?)
+  a +0 flail (still there?)
+  a +0 robe (still there?)
+  a +0 dagger (still there?)
+  a +0 robe (still there?)
+  a +0 dagger (still there?)
+(22, 1, D:5)
+  26 stones
+(22, 5, D:5)
+  a cursed -1 trident
+(30, 25, D:5)
+  a +0 chain mail
+
+Level 6 of the Dungeon
+[Shop] Xekot's Gadget Emporium
+  a tin of tremorstones (2/2) (560 gold)
+  a wand of enslavement (3) (70 gold)
+  a lightning rod (4/4) (420 gold)
+  a wand of acid (9) (364 gold)
+  a tin of tremorstones (2/2) (560 gold)
+  a wand of acid (8) (336 gold)
+  a wand of random effects (16) (126 gold)
+  a lightning rod (4/4) (420 gold)
+  a wand of digging (4) (224 gold)
+  a tin of tremorstones (2/2) (560 gold)
+  a wand of acid (2) (168 gold)
+  a wand of random effects (20) (154 gold)
+(0, 0, D:6)
+  a +0 spear
+(1, 0, D:6)
+  a +0 whip
+(10, 7, D:6)
+  a +0 spear
+(13, 7, D:6)
+  a +0 whip
+(16, -1, D:6)
+  a +0 leather armour
+  a +0 flail
+(20, -31, D:6)
+  a gnoll corpse
+(20, -29, D:6)
+  a +1 war axe of flaming (still there?)
+  +0 steam dragon scales (still there?)
+  the human corpse of Maggie (still there?)
+(21, -35, D:6)
+  a +0 dagger (still there?)
+  a +0 robe (still there?)
+  15 gold pieces (still there?)
+  an orc corpse (still there?)
+(21, -34, D:6)
+  a throwing net
+(21, -29, D:6)
+  a +0 cloak
+(22, -34, D:6)
+  a gnoll corpse
+(22, -30, D:6)
+  a throwing net
+(23, -38, D:6)
+  an adder corpse
+(23, -36, D:6)
+  a +0 dagger (still there?)
+  a +0 robe (still there?)
+  an orc corpse (still there?)
+(23, -35, D:6)
+  a +0 club
+  a +0 leather armour
+(25, -35, D:6)
+  a cursed -1 flail (still there?)
+  the amulet of the Sun {Faith rElec Int+5} (still there?)
+    [amulet of faith]
+    
+    It allows you to gain divine favour quickly.
+    It affects your intelligence (+5).
+    It insulates you from electricity.
+  a potion of mutation (still there?)
+  a scroll of remove curse (still there?)
+  an orc corpse (still there?)
+(25, -6, D:6)
+  an uncursed staff of cold
+(27, -5, D:6)
+  a +0 short sword
+  a +0 leather armour
+  a +0 club
+(27, -3, D:6)
+  an arrow
+(28, -6, D:6)
+  a +0 flail
+  a +0 chain mail
+  a +0 whip
+  a +0 flail
+(28, -5, D:6)
+  a +0 club
+  a +0 dagger
+  a +0 robe
+  a stone
+  a +0 hand axe
+  a +1 chain mail of fire resistance
+  a +0 club
+(29, -8, D:6)
+  a +0 shortbow
+  26 arrows
+  a +0 ring mail
+(29, -7, D:6)
+  an arrow
+  a +0 club
+  a +0 robe
+(29, -6, D:6)
+  an arrow
+(29, -5, D:6)
+  a +0 rapier
+  a +0 leather armour
+(30, -7, D:6)
+  9 stones
+(30, -6, D:6)
+  10 stones
+  a +0 dagger
+  a +0 robe
+  a +0 mace
+(30, -5, D:6)
+  a +0 dagger
+(31, -12, D:6)
+  a +0 whip
+  a +0 robe
+(31, -8, D:6)
+  10 stones
+(33, -14, D:6)
+  a +0 short sword
+(33, -13, D:6)
+  a +1 dagger of protection
+  a +0 robe
+(34, -14, D:6)
+  a +0 dagger
+  14 stones
+(34, -13, D:6)
+  a stone
+(39, 4, D:6)
+  a +0 robe
+(39, 5, D:6)
+  a +0 rapier
+(43, -21, D:6)
+  a +0 dagger
+  a +0 robe
+(43, -20, D:6)
+  a +0 short sword
+  a +0 leather armour
+  the elf corpse of Duvessa
+(45, -1, D:6)
+  a +0 club
+  a gnoll corpse (skeletalised by now)
+(46, -15, D:6)
+  26 bolts
+(46, 0, D:6)
+  a +0 spear
+  a gnoll corpse (skeletalised by now)
+(54, -4, D:6)
+  a +0 war axe
+

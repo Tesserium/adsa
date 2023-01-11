@@ -1,0 +1,215 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-534-gdc55766 (webtiles) character file.
+
+Game seed: 16359696098882701227
+
+19 code2828 the Caller (level 2, -1/19 HPs)
+             Began as a Vampire Summoner on Dec 25, 2022.
+             Slain by a goblin
+             ... wielding a +0 dagger
+              (2 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:03:32 (425 turns).
+
+code2828 the Caller (Vampire Summoner)               Turns: 425, Time: 00:03:33
+
+Health: -1/19      AC:  2    Str:  7    XL:     2   Next: 55%
+Magic:  3/5        EV: 12    Int: 17    God:    
+Gold:   49         SH:  0    Dex: 14    Spells: 2/5 levels left
+
+rFire   . . .      SeeInvis +   e - +0 whip
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   a - +0 robe
+rPois   .          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   ++                      (no amulet)
+HPRegen 0.43/turn               (no ring)
+MPRegen 0.09/turn               (no ring)
+
+@: healing quickly
+A: alive, fangs 3, see invisible, vampiric 1
+a: Exsanguinate
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 49 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ e - a +0 whip (weapon)
+Armour
+ a - a +0 robe (worn)
+Scrolls
+ c - a scroll of fear {unknown}
+ d - a scroll of teleportation {unknown}
+ f - a scroll of enchant weapon {unknown}
+Potions
+ b - a potion of magic
+
+
+   Skills:
+ + Level 2.5 Dodging
+ + Level 3.6 Stealth
+ + Level 2.2 Spellcasting
+ + Level 4.2 Summonings
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Summon Small Mammal   Summ           64%        N/A       3%          1
+b - Call Imp              Summ           16%        N/A       4%          2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Call Canine Familiar     Summ           16%        N/A       10%         3
+ Summon Guardian Golem    Hex/Summ       9%         N/A       24%         3
+ Summon Lightning Spire   Summ/Air       9%         N/A       61%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)         Zot: 5571       
+
+Altars:
+
+Shops:
+D:1 ![?
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your natural rate of healing is accelerated.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You are afflicted with vampirism.
+
+Message History
+
+Things that are here:
+a jackal corpse; a jackal corpse
+You swap places.
+A goblin comes into view. It is wielding a +0 dagger.
+The jackal closely misses you.
+You barely miss the jackal. You bite the jackal, but do no damage.
+The jackal is almost dead.
+The jackal bites you.
+The goblin hits your crimson imp but does no damage.
+You hit the jackal.
+You kill the jackal!
+Your crimson imp blinks!
+You hit the goblin.
+The goblin is moderately wounded.
+The goblin hits you with a +0 dagger. The goblin hits you with a +0 club.
+* * * LOW HITPOINT WARNING * * *
+Okay, then.
+You barely miss the goblin. The goblin hits you but does no damage.
+The goblin barely misses you.
+You completely miss the goblin. The goblin misses you. x2
+Your crimson imp blinks!
+You barely miss the goblin.
+Your crimson imp disappears in a puff of smoke!
+The goblin closely misses you. The goblin barely misses you.
+A dart slug comes into view.
+The goblin hits you with a +0 dagger.
+* * * LOW HITPOINT WARNING * * *
+The goblin hits you with a +0 club.
+* * * LOW HITPOINT WARNING * * *
+Okay, then.
+Casting: Call Imp (safe; 4% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+A beastly little devil appears in a puff of frigid air.
+The goblin misses you. The goblin hits you but does no damage.
+You completely miss the goblin. The goblin hits you with a +0 dagger.
+* * * LOW HITPOINT WARNING * * *
+The goblin closely misses you.
+Your white imp closely misses the goblin.
+You closely miss the goblin. The goblin hits you with a +0 dagger.
+You die...
+
+........######...#.....#
+....####.......#.......#
+#####  #.###...#...>...#
+       #.....#####.....#
+       #####...#hh.#..##
+           ###.#.### .#
+             #...#   .#
+             ##g####..##.#
+              #5@gw......#
+              ######.(....
+                     .####
+                      #
+
+
+You could see a dart slug, 2 goblins and a friendly white imp (summoned).
+
+Vanquished Creatures
+  A ball python (D:1)
+  3 bats (D:1)
+  3 endoplasms (D:1)
+  A goblin (D:1)
+  4 jackals (D:1)
+  3 rats (D:1)
+15 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A kobold (D:1)
+1 creature vanquished.
+
+Grand Total: 16 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Vampire Summoner began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+    89 | D:1      | Found Mutruqoi's Distillery.
+   132 | D:1      | Found Quhuxt's Armour Emporium.
+   157 | D:1      | Found Jovil's Magic Scroll Emporium.
+   271 | D:1      | Reached XP level 2. HP: 19/19 MP: 5/5
+   361 | D:1      | Learned a level 2 spell: Call Imp
+   425 | D:1      | Slain by a goblin
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      mrwooster_arrival_statue_3, layout_loops_ring, serial_shops,
+          nicolae_shop_stone, nicolae_square_shop, nicolae_shop_trees,
+          nicolae_shop_stone, shop, minmay_misc_feat_rows
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||    87
+       Bite              ||     8
+       Whip              ||    27
+       Punch             ||     2
+ Cast: Call Imp          ||     2
+       Summon Small Mamm ||     1
+ Stab: Sleeping          ||     1
+Armor: Robe              ||    48
+Dodge: Dodged            ||    94
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |    427 |    427 |      0 |      3 |    214 |   1 |  427.0 |
+       Dungeon |    427 |    427 |      0 |      3 |    214 |   1 |  427.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 427 daAuts
+

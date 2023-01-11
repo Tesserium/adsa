@@ -1,0 +1,253 @@
+ Dungeon Crawl Stone Soup version 0.27.1-35-g4d5d836 (webtiles) character file.
+
+Game seed: 3768740710134247130
+
+232 code2828 the Skirmisher (level 5, -5/44 HPs)
+             Began as a Palentonga Abyssal Knight on Dec 9, 2022.
+             Was a Believer of Lugonu.
+             Killed by nerve-wracking pain
+             ... invoked by a shadow imp
+             ... summoned by Eustachio
+              (14 damage)
+             ... on level 4 of the Dungeon.
+             The game lasted 00:14:35 (5286 turns).
+
+code2828 the Skirmisher (Palentonga Abyssal Knight) Turns: 5286, Time: 00:14:35
+
+Health: -5/44      AC: 13    Str: 15    XL:     5   Next: 73%
+Magic:  6/6        EV:  9    Int: 12    God:    Lugonu [**....]
+Gold:   124        SH:  0    Dex: 17    Spells: 4/4 levels left
+
+rFire    . . .     SeeInvis +   l - +2 dagger (protect)
+rCold    . . .     Faith    .   (no shield)
+rNeg     . . .     Spirit   .   d - +0 ring mail
+rPois    .         Reflect  .   (no helmet)
+rElec    .         Harm     .   (no cloak)
+rCorr    +         Rampage  .   (no gloves)
+Will     .....                  (no barding)
+Stlth    +.........             (no amulet)
+HPRegen  0.14/turn              k - ring of resist corrosion
+MPRegen  0.10/turn              n - +6 ring of dexterity
+
+@: under a protective aura
+A: large, rugged brown scales 3, see invisible, deformed body, roll 1, armoured
+tail
+a: Rolling Charge, Renounce Religion, Depart the Abyss, Bend Space
+
+
+You were on level 4 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was pleased with you.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+You visited the Abyss 1 time.
+
+You collected 124 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 falchion
+ e - a +0 lajatang
+ l - a +2 dagger of protection (weapon)
+Armour
+ b - a +0 leather armour
+ d - a +0 ring mail (worn)
+Jewellery
+ k - a ring of resist corrosion (left hand)
+ n - a +6 ring of dexterity (right hand)
+Scrolls
+ f - 2 scrolls of noise {unknown}
+ g - a scroll of enchant weapon
+Potions
+ c - a potion of ambrosia {unknown}
+ h - a potion of attraction {unknown}
+ m - a potion of flight
+
+
+   Skills:
+ + Level 4.1 Fighting
+ + Level 1.3(2.6) Short Blades
+ + Level 3.4(3.6) Long Blades
+ + Level 2.7 Armour
+ + Level 1.7 Dodging
+ + Level 0.3 Stealth
+ + Level 2.1 Invocations
+
+
+You had 4 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+
+Shops:
+D:4 [
+
+Annotations:
+D:4 Eustachio
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are completely covered in rugged brown scales. (AC +3, +7% HP)
+You have supernaturally acute eyesight. (SInv)
+Armour fits poorly on your strangely shaped body.
+You can roll at nearby foes to attack.
+You have a long armoured tail.
+
+Message History
+
+Eustachio is almost dead.
+Eustachio gestures wildly while chanting.
+Eustachio blinks!
+Eustachio hits you but does no damage.
+You closely miss Eustachio.
+Eustachio is almost dead.
+Eustachio hits you but does no damage.
+You barely miss Eustachio.
+Eustachio is almost dead.
+Eustachio closely misses you.
+You closely miss Eustachio.
+Eustachio is almost dead.
+Eustachio casts a spell.
+You closely miss Eustachio.
+Eustachio is almost dead.
+Eustachio mumbles some strange words.
+Eustachio blinks!
+Eustachio screams, "This atrocity can only be purified with blood!"
+Eustachio gestures wildly while chanting.
+The quasit barely misses you. The quasit claws you.
+The quasit claws you but does no damage.
+The shadow imp hits you.
+You hit Eustachio.
+Your weapon exudes an aura of protection.
+Eustachio is almost dead.
+The white imp hits you.
+* * * LOW HITPOINT WARNING * * *
+The white imp freezes you.
+* * * LOW HITPOINT WARNING * * *
+The quasit barely misses you.
+The quasit claws you but does no damage. x2
+Unknown command.
+Unknown command.
+Unknown command.
+You hit Eustachio but do no damage. You tail-slap Eustachio.
+Eustachio is almost dead.
+The iron imp disappears in a puff of smoke!
+The shadow imp gestures at you.
+Pain shoots through your body!
+You die...
+
+     #########
+   ###.......#####
+    .'.......(...
+     #.........###
+     #...........#
+     #.@5......#
+     #.5@......#
+     #.§5......#
+     #.........######
+     #...............
+     #...≈≈≈..######
+     ##.≈≈≈≈≈.#
+      #...∩≈≈)#
+....# ##≈≈≈≈≈.#   #######
+ ....  ##≈≈≈..#   #......
+
+
+You could see Eustachio, a quasit (summoned), a white imp (summoned) and a
+shadow imp (summoned).
+
+Vanquished Creatures
+  A lemure (D:4)
+  A water moccasin skeleton (D:3)
+  Natasha (twice) (D:3)
+  3 adders
+  3 gnolls (D:2)
+  A worm (D:3)
+  2 dart slugs (D:3)
+  2 orcs (D:3)
+  7 ball pythons
+  4 endoplasms
+  4 giant cockroaches
+  7 goblins
+  5 hobgoblins
+  6 jackals
+  3 quokkas
+  4 bats
+  5 frilled lizards
+  7 kobolds
+  2 rats (D:1)
+69 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | Abyss:1  | code2828 the Palentonga Abyssal Knight began the quest for
+                  | the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 19/19 MP: 2/2
+    67 | Abyss:1  | Noticed a large abomination
+    68 | Abyss:1  | Noticed a crimson imp
+    81 | D:1      | Escaped the Abyss
+   564 | D:1      | Reached * piety under Lugonu
+   568 | D:1      | Reached XP level 2. HP: 17/25 MP: 3/3
+  1818 | D:2      | Found a faded altar of an unknown god.
+  1823 | D:2      | Reached XP level 3. HP: 32/32 MP: 4/4
+  1856 | D:2      | HP: 1/32 [gnoll (5)]
+  1858 | D:2      | Reached skill level 1 in Dodging
+  2538 | D:2      | Reached XP level 4. HP: 35/39 MP: 5/5
+  2978 | D:3      | Reached ** piety under Lugonu
+  3058 | D:3      | Reached skill level 4 in Fighting
+  3058 | D:3      | Reached XP level 5. HP: 27/44 MP: 6/6
+  3499 | D:3      | Noticed Natasha
+  3539 | D:3      | Killed Natasha
+  3540 | D:3      | Reached skill level 1 in Short Blades
+  3915 | D:3      | Noticed Natasha
+  3927 | D:3      | Killed Natasha
+  4647 | D:4      | Noticed a lemure
+  4686 | D:4      | Killed a lemure
+  5231 | D:4      | Found Jaufeac's Antique Armour Boutique.
+  5234 | D:4      | Noticed Eustachio
+  5286 | D:4      | Killed from afar by a shadow imp
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      amcnicky_arrival_feature_with_door, layout_basic
+D:2:      layout_basic, chequers_ecumenical_altar_island
+D:3:      layout_basic, uniq_natasha
+D:4:      layout_basic, serial_shops, nicolae_shop_waterfront,
+          kennysheep_potato, uniq_eustachio, uniq_pikel,
+          uniq_crazy_yiuf_cottage, uniq_edmund
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Armour         |        2       |  2.7
+Dodging        |        1       |  1.7
+Fighting       |           4    |  4.1
+Long Blades    |           3    |  3.4
+Short Blades   |              1 |  1.3
+Stealth        |                |  0.3
+Invocations    |                |  2.1
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Falchion          |    96 |     5 ||   101
+       Tailslap          |     8 |    25 ||    33
+       Dagger            |       |   193 ||   193
+Invok: Depart the Abyss  |     1 |       ||     1
+ Abil: Rolling Charge    |     1 |     1 ||     2
+  Use: Scroll            |     1 |     2 ||     3
+       Potion            |       |     3 ||     3
+ Stab: Sleeping          |       |     1 ||     1
+Armor: Leather armour    |    32 |    67 ||    99
+       Ring mail         |       |    19 ||    19
+Dodge: Dodged            |    45 |    83 ||   128
+Rpst.: Falchion          |    12 |     1 ||    13
+

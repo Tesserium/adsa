@@ -1,0 +1,371 @@
+code2828
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  2 stones
+(11, 16, D:1)
+  a +0 short sword
+(21, 28, D:1)
+  a +0 short sword
+(24, 24, D:1)
+  a +0 sling
+(32, 24, D:1)
+  3 stones
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 dagger
+  2 stones
+(5, 16, D:2)
+  a +0 dagger
+(13, 5, D:2)
+  a +0 club
+(14, 14, D:2)
+  a scarf of harm
+(19, 23, D:2)
+  3 stones
+(26, -3, D:2)
+  a +0 short sword
+  4 stones
+(26, -2, D:2)
+  a +0 whip
+  4 stones
+(29, -7, D:2)
+  a +0 short sword
+(32, -7, D:2)
+  a +0 whip
+(37, -11, D:2)
+  a +0 short sword
+(40, -7, D:2)
+  a +0 whip
+  4 stones
+(42, -2, D:2)
+  a +0 dagger
+  a stone
+(42, 0, D:2)
+  a +0 dagger
+  a +0 club
+(43, 28, D:2)
+  5 stones
+(49, 24, D:2)
+  4 poisoned darts
+(51, -14, D:2)
+  3 stones
+(54, 29, D:2)
+  5 poisoned darts
+(55, 31, D:2)
+  a +0 scale mail
+
+Level 3 of the Dungeon
+[Shop] Soyrac's Antique Armour Emporium
+  a +0 leather armour (56 gold)
+  a +0 ring mail (112 gold)
+  a +0 plate armour (644 gold)
+  a +0 ring mail of poison resistance (224 gold)
+  a +0 robe (19 gold)
+  a +0 leather armour (56 gold)
+[Shop] Ameciw's General Store
+  a +0 flail (42 gold)
+  7 stones (8 gold)
+  a book of Storms (384 gold)
+  a +0 spear (36 gold)
+  a scroll of butterflies (48 gold)
+  2 poisoned darts (9 gold)
+(0, 0, D:3)
+  8 stones
+(4, -9, D:3)
+  3 boomerangs
+(11, 30, D:3)
+  2 stones
+(13, 0, D:3)
+  7 stones
+(15, 18, D:3)
+  a +0 dagger
+(16, 18, D:3)
+  a +0 dagger
+(18, 19, D:3)
+  a +0 dagger
+(20, 13, D:3)
+  a +0 hand axe
+(20, 14, D:3)
+  3 boomerangs
+  a +0 club
+(21, 8, D:3)
+  a +0 ring mail
+(22, 8, D:3)
+  a +0 scale mail
+  a boomerang
+  a +0 dagger
+(25, -6, D:3)
+  a +0 spear
+(25, 0, D:3)
+  a +0 club
+(26, 3, D:3)
+  a +0 scale mail
+  a +0 club
+(39, 16, D:3)
+  a +0 dagger
+(40, 27, D:3)
+  a +0 club
+(45, -1, D:3)
+  5 stones
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 hand axe
+(10, 16, D:4)
+  a +2 scale mail of willpower
+(10, 27, D:4)
+  a +0 dagger
+  a +0 robe
+(11, 27, D:4)
+  a +0 dagger
+  a +0 robe
+(11, 30, D:4)
+  a +0 club
+  a +0 leather armour
+(28, 21, D:4)
+  a +0 robe
+(28, 25, D:4)
+  a +0 flail
+  a +0 whip
+(28, 26, D:4)
+  a +0 leather armour
+  a +0 whip
+(31, 15, D:4)
+  a +0 short sword
+(32, 20, D:4)
+  a +6 ring of strength
+(33, 6, D:4)
+  an amulet of faith
+(34, 14, D:4)
+  a +0 club
+(35, 5, D:4)
+  a scroll of brand weapon
+(35, 6, D:4)
+  11 gold pieces
+(35, 23, D:4)
+  a +0 flail
+(36, 22, D:4)
+  a +4 short sword of draining
+(39, -5, D:4)
+  a +0 dagger
+(40, -5, D:4)
+  a +0 club
+(41, -5, D:4)
+  a +0 short sword
+  a +0 animal skin
+  a +2 helmet
+(41, 15, D:4)
+  a +0 dagger
+  a +0 sling
+  a +0 club
+  a +0 sling
+(42, -5, D:4)
+  a +0 robe
+(44, 11, D:4)
+  a +1 scimitar of holy wrath
+  a +0 robe
+(46, -5, D:4)
+  a +0 club
+(51, 38, D:4)
+  a +0 leather armour
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 robe
+(19, 27, D:5)
+  a +0 buckler
+(22, -11, D:5)
+  a +0 ring mail
+(25, -20, D:5)
+  6 poisoned darts
+(28, -3, D:5)
+  5 poisoned darts
+(41, -15, D:5)
+  5 boomerangs
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 trident
+(10, 7, D:6)
+  a +0 spear
+(13, -4, D:6)
+  8 stones
+(16, 27, D:6)
+  a +0 mace
+(16, 28, D:6)
+  a +0 hand axe
+(18, 26, D:6)
+  a +0 mace
+  a +0 leather armour
+(21, 22, D:6)
+  a +0 short sword
+(21, 23, D:6)
+  a +0 whip
+(25, 6, D:6)
+  a +0 scythe
+  a +0 robe
+(31, -12, D:6)
+  a +0 leather armour
+(32, 12, D:6)
+  a +0 spear
+(36, 1, D:6)
+  a +0 long sword
+(44, -7, D:6)
+  a +4 dire flail of venom
+  a +0 leather armour
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  3 stones
+(1, -17, D:7)
+  9 stones
+(11, -46, D:7)
+  a +0 dagger
+(12, -2, D:7)
+  a +0 morningstar
+  2 boomerangs
+(13, -40, D:7)
+  a +0 war axe
+  a +2 robe of positive energy
+  a +3 falchion
+  a +0 robe
+(14, -40, D:7)
+  a +0 spear
+  a +0 robe
+(18, -18, D:7)
+  a +0 trident
+(27, -9, D:7)
+  a +0 dagger
+(28, -25, D:7)
+  a +0 club
+  a +0 ring mail
+(29, -25, D:7)
+  a +1 dagger of venom
+  a +0 ring mail
+  a +0 dire flail
+  a +0 plate armour
+(29, -16, D:7)
+  a +0 robe
+  a +0 dagger
+(37, -20, D:7)
+  a +0 flail
+(37, -11, D:7)
+  the +1 leather armour "Watay" {Harm rPois Str-3}
+    Str:       It affects your strength (-3).
+    rPois:     It protects you from poison.
+    Harm:      It increases damage dealt and taken.
+(40, -10, D:7)
+  6 stones
+(53, -20, D:7)
+  a +2 antimagic halberd
+(54, -31, D:7)
+  5 stones
+(54, -24, D:7)
+  a +0 mace
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a +0 ring mail
+(2, -20, D:8)
+  4 stones
+(11, -3, D:8)
+  a +0 whip
+  a +0 chain mail
+(11, -2, D:8)
+  a +0 hand axe
+  a boomerang
+  a +0 leather armour
+  a +0 whip
+  a +0 ring mail
+  a +0 dagger
+  a +1 robe of positive energy
+(11, -1, D:8)
+  a +0 whip
+  a +0 ring mail
+(12, -18, D:8)
+  a +3 scimitar of flaming
+  a +0 robe
+(13, -11, D:8)
+  a +1 whip of freezing
+  a +1 robe
+(15, -10, D:8)
+  a +0 dagger
+  a +0 cloak
+  a wand of charming (4)
+(15, 11, D:8)
+  11 gold pieces
+(24, 21, D:8)
+  8 stones
+(29, -7, D:8)
+  a +0 leather armour
+(33, 1, D:8)
+  a +0 falchion
+(36, -25, D:8)
+  a +0 mace
+(37, -26, D:8)
+  a +0 dagger
+  a +0 dagger
+  a +0 robe
+(37, -15, D:8)
+  a +0 ring mail
+(41, -22, D:8)
+  a +0 club
+  a +0 leather armour
+  a +1 falchion of holy wrath
+(41, -21, D:8)
+  5 stones
+(42, -21, D:8)
+  a +0 short sword
+(43, -20, D:8)
+  a +0 flail
+(43, -3, D:8)
+  a +0 robe
+(44, -16, D:8)
+  2 boomerangs
+(47, -31, D:8)
+  7 stones
+(48, -16, D:8)
+  a +0 scale mail
+(50, -11, D:8)
+  a +0 scale mail
+(56, -28, D:8)
+  a +0 falchion
+(72, 13, D:8)
+  5 stones
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a +0 shortbow
+(0, 2, D:9)
+  a +0 shortbow
+(2, -14, D:9)
+  a wand of charming (3)
+(2, -8, D:9)
+  15 gold pieces
+(11, -11, D:9)
+  a +0 robe
+  a +0 dagger
+(12, -18, D:9)
+  a +0 long sword
+(12, -13, D:9)
+  a +0 falchion
+(12, -12, D:9)
+  a +0 club
+  a +0 chain mail
+  a +0 dire flail
+(18, -17, D:9)
+  4 potions of degeneration
+(27, 7, D:9)
+  6 stones
+(31, 5, D:9)
+  a +0 mace
+(31, 10, D:9)
+  a +0 giant spiked club
+  a +0 giant club
+
+the Ecumenical Temple
+(0, 24, Temple)
+  2 scrolls of butterflies
+

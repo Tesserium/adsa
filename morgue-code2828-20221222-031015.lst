@@ -1,0 +1,766 @@
+code2828
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 leather armour
+(1, 15, D:1)
+  a +0 dagger
+(4, 27, D:1)
+  a +0 whip
+(4, 41, D:1)
+  a +0 dagger
+(17, 14, D:1)
+  a +0 club
+(18, 15, D:1)
+  a +0 dagger
+(29, 42, D:1)
+  a +0 dagger
+(31, 50, D:1)
+  7 stones
+(33, 51, D:1)
+  a book of Hexes
+
+Level 2 of the Dungeon
+[Shop] Defieff's Book Emporium
+  a book of Scorching (330 gold)
+  a book of Necromancy (264 gold)
+  a book of Geomancy (198 gold)
+  the Precepts of Pollution (198 gold)
+    Spells                            Type                      Level
+     a - Spider Form                   Transmutation/Poison          3
+     b - Corpse Rot                    Necromancy/Poison/Air         4
+    
+    
+    Trog disapproves of the use of such an item.
+  a book of Displacement (264 gold)
+  an Everburning Encyclopedia (286 gold)
+  a book of Debilitation (220 gold)
+(0, 0, D:2)
+  a +0 short sword
+(5, -2, D:2)
+  a +0 mace
+(11, 23, D:2)
+  a +0 sling
+(15, 24, D:2)
+  a +0 dagger
+(17, 36, D:2)
+  a +0 dagger
+(20, 1, D:2)
+  a +0 mace
+(20, 3, D:2)
+  a +0 hammer of holy wrath
+(20, 51, D:2)
+  5 stones
+(21, -1, D:2)
+  a +0 hammer
+(21, 0, D:2)
+  a +0 hammer
+(21, 2, D:2)
+  a +0 hammer
+(21, 4, D:2)
+  a +0 hammer
+(21, 5, D:2)
+  a +0 hammer
+(21, 8, D:2)
+  a +0 hammer
+(21, 9, D:2)
+  a +0 hammer
+(21, 10, D:2)
+  a +0 hammer
+(22, -2, D:2)
+  a +0 hammer
+(22, 1, D:2)
+  a +0 hammer
+(22, 6, D:2)
+  a +0 hammer
+(22, 7, D:2)
+  a +3 quarterstaff of chaos
+  a +0 animal skin
+(22, 8, D:2)
+  a +0 hammer
+(22, 9, D:2)
+  a +0 hammer
+(23, -3, D:2)
+  a +0 hammer
+(23, -2, D:2)
+  a +0 hammer
+(23, 8, D:2)
+  a +0 hammer
+(23, 9, D:2)
+  a +0 hammer
+(23, 10, D:2)
+  a +0 hammer
+(28, 39, D:2)
+  a +0 dagger
+
+Level 3 of the Dungeon
+[Shop] Kimovib's Antique Armour Emporium
+  a +0 ring mail (112 gold)
+  a +0 chain mail (126 gold)
+  an orb of mayhem (364 gold)
+  a +0 scale mail (112 gold)
+  a +0 leather armour (56 gold)
+  a +0 ring mail (112 gold)
+  a +0 robe (19 gold)
+  a +0 ring mail (112 gold)
+(0, 0, D:3)
+  a +0 short sword
+(8, 7, D:3)
+  a +0 robe
+(13, -4, D:3)
+  a +0 hand axe
+  a +0 scale mail
+(13, -3, D:3)
+  a +0 dagger
+  a +0 robe
+(13, -2, D:3)
+  a +0 dagger
+  a +0 ring mail
+  a +0 hand axe
+  a +0 leather armour
+(21, -18, D:3)
+  a book of the Hunter
+(21, -2, D:3)
+  Ozocubu's Autobiography
+(29, -30, D:3)
+  a +0 flail
+(29, -6, D:3)
+  a +0 spear
+(38, 17, D:3)
+  a +0 leather armour
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 spear
+(0, 8, D:4)
+  a book of Geomancy
+(1, -33, D:4)
+  a +0 club
+  a +0 dagger
+(11, -38, D:4)
+  a +0 ring mail
+(15, -24, D:4)
+  a +0 whip
+(17, -31, D:4)
+  a +0 flail
+(18, -34, D:4)
+  a +0 flail
+  a +0 whip
+  a +0 club
+  a +0 robe
+(19, -34, D:4)
+  a +0 spear
+(21, -9, D:4)
+  a +0 mace
+(33, -40, D:4)
+  a +0 leather armour
+(41, -1, D:4)
+  a +0 shortbow
+(47, -22, D:4)
+  a +0 ring mail
+(47, -15, D:4)
+  a +0 sling
+  a +0 dagger
+(53, -20, D:4)
+  8 stones
+(55, -23, D:4)
+  a +0 leather armour
+(62, -18, D:4)
+  a +0 ring mail
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  6 poisoned darts
+(5, -31, D:5)
+  the +3 woodcutter's axe {vorpal}
+    It inflicts extra damage upon your enemies.
+(16, -13, D:5)
+  7 stones
+(21, -9, D:5)
+  6 poisoned darts
+(29, -10, D:5)
+  a +0 mace
+(31, -13, D:5)
+  a +3 dagger
+(50, -18, D:5)
+  a +0 dagger
+
+Level 6 of the Dungeon
+[Shop] Ginaydushre's Weapon Shop
+  the +10 dark maul {vorpal} (800 gold)
+    It inflicts extra damage upon your enemies.
+  a +0 mace (36 gold)
+  a +0 dagger (24 gold)
+  a +7 quarterstaff of speed (588 gold)
+  a +0 hand axe (36 gold)
+  4 curare-tipped darts (28 gold)
+  6 stones (7 gold)
+  a +1 glaive of freezing (224 gold)
+  a +2 vampiric spear (252 gold)
+  5 stones (6 gold)
+(0, 0, D:6)
+  a +0 giant club
+(2, 24, D:6)
+  a book of Changes
+(16, 21, D:6)
+  a book of Chaos
+(17, 15, D:6)
+  a +0 great sword
+(19, -13, D:6)
+  a +0 spear
+(19, -12, D:6)
+  a +0 vampiric halberd
+(19, -10, D:6)
+  a +0 spear
+(20, -13, D:6)
+  a +0 spear
+(21, -13, D:6)
+  a +0 halberd
+(30, -7, D:6)
+  5 stones
+(39, 13, D:6)
+  a +0 long sword
+
+Level 7 of the Dungeon
+[Shop] Kurohilu's Self-Improvement Boutique
+  a manual of Dodging (1040 gold)
+  a manual of Fighting (1040 gold)
+  a manual of Axes (1040 gold)
+  a manual of Conjurations (1040 gold)
+(0, 0, D:7)
+  a +0 robe
+(4, -13, D:7)
+  a +0 dagger
+(10, -17, D:7)
+  a +0 short sword
+(10, -16, D:7)
+  a +0 short sword
+  7 poisoned darts
+(11, -18, D:7)
+  a +0 short sword
+(11, -17, D:7)
+  a +0 whip
+  7 poisoned darts
+  a +0 short sword
+(18, -22, D:7)
+  a book of Lightning
+(35, -43, D:7)
+  a +0 helmet
+(45, -52, D:7)
+  a +0 leather armour
+(48, 4, D:7)
+  a +0 ring mail
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a book of Burglary
+(3, 5, D:8)
+  a +0 robe
+  a +0 whip
+(4, 6, D:8)
+  a +0 flail
+(4, 7, D:8)
+  a +0 leather armour
+  a +0 dagger
+  a +0 flail
+  a +0 flail
+(4, 26, D:8)
+  6 boomerangs
+(9, 19, D:8)
+  a +0 flail
+  a +0 robe
+  a +0 flail
+  a +0 robe
+  a +3 long sword
+  a +0 robe
+(16, 12, D:8)
+  a +0 robe
+  a +0 mace
+(21, -1, D:8)
+  a phantom mirror
+(22, 23, D:8)
+  a +3 scimitar
+  a +0 robe
+(23, -2, D:8)
+  a +0 leather armour
+  a +0 long sword
+(25, 22, D:8)
+  a +0 ring mail
+(25, 25, D:8)
+  a +0 hand axe
+(26, -3, D:8)
+  a +0 flail
+  a +0 leather armour
+(27, -1, D:8)
+  a +0 short sword
+  a +0 short sword
+  a +0 short sword
+  a +0 dagger
+  a curare-tipped dart
+  a +0 dagger
+  5 stones
+(27, 17, D:8)
+  a +0 spear
+(43, 0, D:8)
+  5 stones
+
+Level 9 of the Dungeon
+[Shop] Veimil Asir's Distillery
+  a potion of magic (96 gold)
+  a potion of cancellation (96 gold)
+  a potion of magic (96 gold)
+  a potion of degeneration (12 gold)
+  a potion of brilliance (48 gold)
+  a potion of attraction (36 gold)
+  a potion of flight (36 gold)
+(0, 0, D:9)
+  a +0 short sword
+(11, -23, D:9)
+  2 poisoned darts
+  a +0 club
+(11, -22, D:9)
+  a +0 plate armour
+  a +0 short sword
+  6 stones
+  a +0 dagger
+  4 poisoned darts
+  a +0 short sword
+(11, -21, D:9)
+  a +0 short sword
+(11, 16, D:9)
+  7 stones
+(15, -27, D:9)
+  a +0 short sword
+  5 stones
+  a +0 club
+(15, -26, D:9)
+  5 poisoned darts
+  a +0 dagger
+(19, -28, D:9)
+  a +0 hand axe
+(20, -31, D:9)
+  a +0 leather armour
+  a +2 vorpal falchion
+(20, -29, D:9)
+  a +0 whip
+(20, -23, D:9)
+  a +0 whip
+(25, 4, D:9)
+  a +0 shortbow
+(25, 5, D:9)
+  a +0 giant club
+  a +0 giant club
+(40, -15, D:9)
+  a +0 whip
+  a stone
+  a +0 club
+(40, -3, D:9)
+  4 large rocks
+(41, -15, D:9)
+  a curare-tipped dart
+  a +0 whip
+(53, 2, D:9)
+  a +0 leather armour
+
+Level 10 of the Dungeon
+(0, 0, D:10)
+  a +0 dagger
+(5, 37, D:10)
+  a book of Armaments
+(5, 42, D:10)
+  a +0 chain mail
+(6, 36, D:10)
+  a +0 ring mail
+(9, 33, D:10)
+  a +0 ring mail
+  a +0 battleaxe
+(9, 35, D:10)
+  a +0 shortbow
+(9, 44, D:10)
+  7 stones
+(11, 36, D:10)
+  a +0 robe
+(12, 37, D:10)
+  a +0 robe
+(12, 42, D:10)
+  2 stones
+(13, 39, D:10)
+  a +0 cloak
+(17, 42, D:10)
+  a +0 ring mail
+(29, 3, D:10)
+  a +0 dagger
+  a +0 robe
+(29, 30, D:10)
+  an amulet of magic regeneration
+(30, 3, D:10)
+  a +0 dagger
+  a +0 robe
+  a +0 dagger
+  a +0 robe
+(32, 3, D:10)
+  a book of Storms
+(43, 16, D:10)
+  a +0 war axe
+(43, 22, D:10)
+  a +0 spear
+(44, 42, D:10)
+  a +0 chain mail
+(46, 37, D:10)
+  a +0 leather armour
+
+Level 11 of the Dungeon
+(0, 0, D:11)
+  2 poisoned darts
+(1, -27, D:11)
+  6 poisoned darts
+(5, -55, D:11)
+  a +0 hand axe
+(11, -52, D:11)
+  a +0 flail
+  a +0 broad axe
+(12, -52, D:11)
+  a +0 trident
+(14, -33, D:11)
+  the +0 ring mail "Myrphouc" {rElec rPois rC- Stlth+}
+    rC:        It makes you vulnerable to cold.
+    rElec:     It insulates you from electricity.
+    rPois:     It protects you from poison.
+    Stlth:     It makes you more stealthy.
+  a +0 trident
+(16, -36, D:11)
+  a +0 scale mail
+  6 javelins
+  the +2 hammer "Junwiduu" {elec, rElec rPois Stlth+}
+    It occasionally discharges a powerful burst of electricity upon striking a
+    foe.
+    
+    rElec:     It insulates you from electricity.
+    rPois:     It protects you from poison.
+    Stlth:     It makes you more stealthy.
+(19, 1, D:11)
+  9 stones
+(28, -33, D:11)
+  a +0 ring mail
+(37, 6, D:11)
+  a +0 giant club
+  a +0 giant club
+(39, -36, D:11)
+  a +0 great mace
+(68, -31, D:11)
+  a +0 shortbow
+
+Level 12 of the Dungeon
+(0, 0, D:12)
+  a +0 leather armour
+(4, 17, D:12)
+  a +0 chain mail
+(4, 31, D:12)
+  4 stones
+  a +0 short sword
+(6, -6, D:12)
+  7 stones
+(6, 31, D:12)
+  a +0 dagger
+(6, 32, D:12)
+  6 poisoned darts
+  a +0 short sword
+(8, -12, D:12)
+  5 poisoned darts
+(11, 6, D:12)
+  a +0 robe
+  a +0 dagger
+(12, 16, D:12)
+  a +0 dagger
+  4 stones
+  a +0 whip
+(12, 17, D:12)
+  a +0 morningstar
+  a curare-tipped dart
+  a +0 dagger
+  a +0 robe
+  a +0 dagger
+(17, 17, D:12)
+  a +0 leather armour
+(18, 14, D:12)
+  a +0 falchion
+(18, 15, D:12)
+  a +4 ring mail of willpower
+(18, 22, D:12)
+  a +0 hand axe
+(19, 14, D:12)
+  a +0 robe
+(19, 15, D:12)
+  a +0 shortbow
+(20, 19, D:12)
+  a +0 leather armour
+  a +0 mace
+  a +0 scale mail
+  a +0 whip
+  a +0 plate armour
+  a +0 halberd
+  a +0 leather armour
+  a +0 falchion
+  a +0 leather armour
+  a +0 whip
+(20, 20, D:12)
+  a +0 robe
+  a +0 dagger
+  a +0 short sword
+  a +0 robe
+  a +0 dagger
+(21, 19, D:12)
+  a +0 chain mail
+  a +0 war axe
+(22, 19, D:12)
+  a +0 club
+  3 silver boomerangs
+  a +0 leather armour
+(24, 18, D:12)
+  a +0 dagger
+  a +0 robe
+(24, 25, D:12)
+  a book of Minor Magic
+(27, 6, D:12)
+  a +0 leather armour
+(34, 7, D:12)
+  a lightning rod (4/4)
+(40, 30, D:12)
+  a +0 robe
+(44, 0, D:12)
+  2 stones
+(51, 22, D:12)
+  5 stones
+(52, -4, D:12)
+  a ring of resist corrosion
+
+the Ecumenical Temple
+
+Level 1 of the Lair of Beasts
+(6, 23, Lair:1)
+  7 stones
+(10, -8, Lair:1)
+  a +0 club
+(11, 4, Lair:1)
+  a potion of ambrosia
+(15, 26, Lair:1)
+  9 stones
+(16, 3, Lair:1)
+  a scroll of vulnerability
+(17, 1, Lair:1)
+  a +0 ring mail
+(17, 3, Lair:1)
+  a +0 helmet
+(17, 4, Lair:1)
+  a staff of death
+  (unseen)
+(25, 19, Lair:1)
+  a +0 leather armour
+(38, 12, Lair:1)
+  a +0 arbalest
+(38, 42, Lair:1)
+  a +0 long sword
+
+Level 2 of the Lair of Beasts
+(2, -24, Lair:2)
+  4 javelins
+(12, -1, Lair:2)
+  a +0 sling
+(16, -15, Lair:2)
+  a +0 war axe
+(35, -17, Lair:2)
+  a +4 vorpal dire flail
+(44, -20, Lair:2)
+  a +0 robe
+(51, -30, Lair:2)
+  a +0 leather armour
+
+Level 3 of the Lair of Beasts
+(0, 0, Lair:3)
+  a stone
+(1, -16, Lair:3)
+  a +0 leather armour
+(28, 30, Lair:3)
+  a ring of ice
+  an amulet of magic regeneration
+(41, 36, Lair:3)
+  a +0 plate armour
+(42, 18, Lair:3)
+  a +0 war axe
+(47, 39, Lair:3)
+  a +0 ring mail
+(54, -15, Lair:3)
+  7 stones
+(59, 5, Lair:3)
+  5 stones
+
+Level 4 of the Lair of Beasts
+(10, 37, Lair:4)
+  a +1 demon whip
+(11, 53, Lair:4)
+  a +0 dagger
+(14, 21, Lair:4)
+  7 stones
+(18, 48, Lair:4)
+  a +0 scale mail
+(23, 29, Lair:4)
+  a +2 longbow of flaming
+(23, 43, Lair:4)
+  a +0 robe
+(31, 7, Lair:4)
+  7 stones
+(33, 12, Lair:4)
+  an orb of mayhem
+(38, 16, Lair:4)
+  a piece from Xom's chessboard (15/15)
+(41, 0, Lair:4)
+  Sif Muna's Volume of Congelation and the Compass
+    Spells                            Type                      Level
+     a - Portal Projectile             Hexes/Translocation           3
+     b - Lesser Beckoning              Translocation                 3
+     c - Iskenderun's Mystic Blast     Conjuration/Translocation     4
+     d - Ice Form                      Ice/Transmutation             4
+    
+    
+    Trog disapproves of the use of such an item.
+(48, 0, Lair:4)
+  a +0 falchion
+(61, 41, Lair:4)
+  a +0 falchion
+
+Level 5 of the Lair of Beasts
+(0, 0, Lair:5)
+  3 stones
+(1, -15, Lair:5)
+  a +0 dagger
+(2, 25, Lair:5)
+  a staff of death
+(13, 23, Lair:5)
+  a book of the Tundra
+(26, 9, Lair:5)
+  Great Wizards, Vol. VII
+(26, 10, Lair:5)
+  a +0 rapier
+(27, 9, Lair:5)
+  the +4 ring mail "Taribb" {Rampage *Corrode Regen+ Dex+8}
+    Dex:       It affects your dexterity (+8).
+    Regen:     It increases your rate of health regeneration.
+    *Corrode:  It may corrode you when you take damage.
+    Rampage:   It bestows one free step when moving towards enemies.
+(28, 10, Lair:5)
+  a +0 chain mail
+(29, 10, Lair:5)
+  3 stones
+(52, 18, Lair:5)
+  a book of Rime
+(52, 26, Lair:5)
+  a +0 robe
+(56, 21, Lair:5)
+  6 scrolls of amnesia
+
+Level 1 of the Swamp
+(0, 0, Swamp:1)
+  5 stones
+(9, 9, Swamp:1)
+  19 gold pieces
+(11, 8, Swamp:1)
+  3 stones
+(12, 7, Swamp:1)
+  a +0 hand axe
+(14, 1, Swamp:1)
+  9 stones
+(34, 17, Swamp:1)
+  a +0 sling
+(37, 34, Swamp:1)
+  a +0 flail
+(39, 42, Swamp:1)
+  8 stones
+(40, 11, Swamp:1)
+  5 stones
+(42, 13, Swamp:1)
+  3 stones
+(45, 14, Swamp:1)
+  9 stones
+(45, 17, Swamp:1)
+  4 stones
+(45, 18, Swamp:1)
+  8 stones
+(46, 17, Swamp:1)
+  a +0 broad axe
+  5 stones
+(47, 13, Swamp:1)
+  6 stones
+(48, 11, Swamp:1)
+  a +0 spear
+(49, 11, Swamp:1)
+  a +0 spear
+  a +0 buckler
+(50, 23, Swamp:1)
+  5 stones
+
+Level 2 of the Swamp
+(0, 0, Swamp:2)
+  a +0 hand axe
+(5, 27, Swamp:2)
+  7 stones
+(19, 18, Swamp:2)
+  7 stones
+(20, 27, Swamp:2)
+  a +0 mace
+(28, 21, Swamp:2)
+  a +0 pair of gloves
+(29, 0, Swamp:2)
+  a +0 tower shield
+
+Level 3 of the Swamp
+(0, 0, Swamp:3)
+  a +0 spear
+(0, 1, Swamp:3)
+  a +0 spear
+(5, -10, Swamp:3)
+  8 stones
+(7, -11, Swamp:3)
+  2 poisoned darts
+(8, -10, Swamp:3)
+  8 stones
+  a +0 spear
+(11, -10, Swamp:3)
+  a +1 robe of fire resistance
+(19, -8, Swamp:3)
+  a +0 spear
+(25, -21, Swamp:3)
+  +0 swamp dragon scales
+(26, 12, Swamp:3)
+  a +0 barding
+(28, 12, Swamp:3)
+  a +0 pair of boots
+(29, -6, Swamp:3)
+  a +0 great sword
+(29, 9, Swamp:3)
+  a +0 robe
+(29, 10, Swamp:3)
+  an amulet of regeneration
+  a +0 barding
+(29, 14, Swamp:3)
+  a +0 pair of boots
+(36, 4, Swamp:3)
+  a +0 buckler
+  a +0 spear
+
+Level 4 of the Swamp
+(0, 0, Swamp:4)
+  5 stones
+(5, -3, Swamp:4)
+  a +0 chain mail
+(15, -8, Swamp:4)
+  a +0 falchion
+(17, -1, Swamp:4)
+  a bog body corpse
+  a necrophage corpse
+
+Level 1 of the Spider Nest
+(0, 0, Spider:1)
+  a +0 spear
+(14, 8, Spider:1)
+  a potion of attraction
+

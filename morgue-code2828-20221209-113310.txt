@@ -1,0 +1,431 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-422-g946f484 (webtiles) character file.
+
+Game seed: 5841309002379815509
+
+4205 code2828 the Shield-Bearer (level 10, -5/100 HPs)
+             Began as a Troll Fighter on Dec 9, 2022.
+             Was a Follower of Qazlal.
+             Slain by a komodo dragon (28 damage)
+             ... on level 8 of the Dungeon.
+             The game lasted 00:22:01 (6302 turns).
+
+code2828 the Shield-Bearer (Troll Fighter)          Turns: 6302, Time: 00:22:02
+
+Health: -5/100     AC:  6    Str: 26    XL:     10   Next: 8%
+Magic:  9/9        EV: 16    Int:  4    God:    Qazlal [*.....]
+Gold:   385        SH:  6    Dex: 13    Spells: 9/9 levels left
+
+rFire   . . .      SeeInvis .   h - +6 quarterstaff (vorpal)
+rCold   . . .      Faith    .   (shield currently unavailable)
+rNeg    . . .      Spirit   .   b - +0 robe
+rPois   .          Reflect  +   (helmet restricted)
+rElec   .          Harm     .   i - +1 cloak {Stlth+}
+rCorr   .          Rampage  .   (gloves unavailable)
+Will    .....                   (boots unavailable)
+Stlth   ++........              t - amulet of reflection
+HPRegen 1.16/turn               f - +4 ring of evasion
+MPRegen 0.11/turn               (no ring)
+
+@: about to teleport
+A: large, unfitting armour, claws 3, regeneration 1, shaggy fur 1, tough skin 1
+a: Renounce Religion
+
+
+You were on level 8 of the Dungeon.
+You worshipped Qazlal.
+Qazlal was aware of your devotion.
+You visited 2 branches of the dungeon, and saw 9 of its levels.
+
+You collected 439 gold pieces.
+You spent 54 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ h - a +6 vorpal quarterstaff (weapon)
+ A - a +2 flail of venom
+ O - a +2 morningstar of freezing
+Missiles
+ a - 12 poisoned darts (quivered)
+Armour
+ b - a +0 robe (worn)
+ c - a +0 kite shield
+ i - a +1 cloak of stealth (worn)
+Jewellery
+ f - a +4 ring of evasion (left claw)
+ j - an amulet of regeneration
+ t - an amulet of reflection (around neck)
+ x - a ring of ice
+ M - a ring of protection from fire
+Wands
+ s - a wand of mindburst (15)
+ z - a wand of paralysis (18)
+ D - a wand of flame (4)
+Scrolls
+ e - 2 scrolls of amnesia {unknown}
+ k - 4 scrolls of teleportation
+ l - 3 scrolls of enchant weapon
+ m - a scroll of butterflies {unknown}
+ n - 3 scrolls of noise
+ o - 2 scrolls of vulnerability {unknown}
+ r - a scroll of summoning
+ u - a scroll of fear {unknown}
+ v - 2 scrolls of identify {unknown}
+ w - 2 scrolls of poison {unknown}
+ y - a scroll of magic mapping {unknown}
+ J - a scroll of immolation {unknown}
+ P - a scroll of blinking {unknown}
+Potions
+ d - a potion of might
+ g - a potion of lignification {unknown}
+ p - a potion of mutation {unknown}
+ q - a potion of resistance {unknown}
+ B - 2 potions of flight
+ C - a potion of ambrosia {unknown}
+ E - 2 potions of brilliance {unknown}
+ F - 2 potions of haste
+ G - 2 potions of cancellation {unknown}
+ H - a potion of berserk rage {unknown}
+ K - a potion of attraction {unknown}
+ L - a potion of invisibility {unknown}
+ N - a potion of curing
+Miscellaneous
+ I - a tin of tremorstones (2/2)
+
+
+   Skills:
+ + Level 6.6 Fighting
+ + Level 6.9 Maces & Flails
+ + Level 6.6 Dodging
+ + Level 7.3 Shields
+
+
+You had 9 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Blink                    Tloc           0%         N/A       65%         2
+ Ensorcelled Hibernation  Hex/Ice        0%         N/A       65%         2
+ Ignite Poison            Fire/Tmut/Pois 0%         N/A       86%         3
+ Spider Form              Tmut/Pois      0%         N/A       86%         3
+ Vhi's Electric Charge    Tloc/Air       0%         N/A       86%         3
+ Airstrike                Air            0%         2d(0-16)  99%         4
+ Anguish                  Hex/Necr       0%         N/A       99%         4
+ Leda's Liquefaction      Hex/Erth       0%         N/A       99%         4
+ Manifold Assault         Tloc           0%         N/A       99%         4
+ Sticky Flame             Conj/Fire      0%         2d3       99%         4
+ Summon Lightning Spire   Summ/Air       0%         N/A       99%         4
+ Arcjolt                  Conj/Air       0%         1d10      100%        5
+ Lee's Rapid Deconstruct  Erth           0%         3d4*      100%        5
+ Lightning Bolt           Conj/Air       0%         1d11      100%        5
+ Statue Form              Tmut/Erth      0%         N/A       100%        6
+ Malign Gateway           Summ/Tloc      0%         N/A       100%        7
+ Storm Form               Tmut/Air       0%         N/A       100%        7
+ Ignition                 Fire           0%         3d3       100%        8
+ Maxwell's Capacitive Co  Air            0%         ∞         100%        8
+ Summon Horrible Things   Summ           0%         N/A       100%        8
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)         Zot: 26565       Temple (1/1) D:7      Zot: 5790       
+   Lair (0/5) D:8                      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:8 [
+
+Annotations:
+D:8 2 transporters, birdsarechill's ghost, novice DrBe
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have claws for hands.
+Your natural rate of healing is unusually fast.
+You are covered in fur. (AC +1)
+You have tough skin. (AC +1)
+
+Message History
+
+The komodo dragon barely misses you.
+You barely miss the komodo dragon. You block the komodo dragon's attack.
+You hit the komodo dragon.
+The komodo dragon is lightly wounded.
+The komodo dragon barely misses you. The komodo dragon bites you!!
+You sock the komodo dragon!
+The komodo dragon is heavily wounded.
+The komodo dragon bites you!!
+You closely miss the komodo dragon.
+The komodo dragon is heavily wounded.
+The komodo dragon bites you!!
+* * * LOW HITPOINT WARNING * * *
+You barely miss the komodo dragon.
+The komodo dragon is heavily wounded.
+The komodo dragon barely misses you.
+You hit the komodo dragon.
+The komodo dragon is heavily wounded.
+The komodo dragon barely misses you.
+You hit the komodo dragon.
+The komodo dragon is severely wounded.
+The komodo dragon barely misses you.
+You feel better. The komodo dragon misses you.
+You feel better.
+The komodo dragon completely misses you.
+The komodo dragon attacks as you move away!
+You block the komodo dragon's attack.
+The komodo dragon hisses menacingly.
+The slime creature quivers.
+You hit the komodo dragon.
+The komodo dragon is almost dead.
+The komodo dragon bites you!!
+* * * LOW HITPOINT WARNING * * *
+You feel better. The komodo dragon bites you!!
+* * * LOW HITPOINT WARNING * * *
+You feel better. You block the komodo dragon's attack.
+As you read the scroll of teleportation, it crumbles to dust.
+You feel strangely unstable. The komodo dragon bites you.
+* * * LOW HITPOINT WARNING * * *
+You feel better. The komodo dragon bites you!!
+You die...
+
+    #..#.# #.............#####.##
+    .....! <.............).###...
+   ###########/..........#[....##
+             ##.#...#.####...#)#
+              #.#...#.##....[#z##
+       ..  .. #.#...#.##.....#..#
+       ..##.. #.#...#.#......#.#.
+       .#?.#. #.#...#.#...####.##
+##.    (O..W©##)@○....#...#_+..#
+.##    ########l##.#.##...####..
+#..    .©.....#D##.#.##......#.#
+       .......#J##.#.###.....#..
+           #.D...............#.#
+        #....##.##.#..###....#..
+   ###  #.##  #.......# #.##.#
+   ..         #.##.#..#
+   .#         #.##.#..#
+
+
+You could see a slime creature, a komodo dragon and a steam dragon.
+
+Vanquished Creatures
+  Joseph (D:7)
+  Prince Ribbit (D:6)
+  A slime creature (D:8)
+  2 wyverns
+  Eustachio (D:4)
+  3 swamp worms (D:7)
+  A water moccasin (D:7)
+  Duvessa (D:7)
+  2 black bears
+  2 sky beasts (D:6)
+  2 centaurs
+  An ogre (D:5)
+  2 phantoms
+  A kobold brigand (D:6)
+  A necrophage (D:7)
+  3 bullfrogs
+  5 wights
+  Dowan (D:7)
+  4 killer bees (D:8)
+  4 hounds
+  3 orc priests (D:6)
+  A gnoll bouda (D:7)
+  5 iguanas
+  Natasha (thrice) (D:4)
+  3 orc wizards (D:6)
+  10 adders
+  5 gnolls (D:7)
+  3 white imps (D:6)
+  2 ufetubi
+  A worm (D:2)
+  4 dart slugs
+  8 orcs
+  8 ball pythons
+  3 bats (D:1)
+  2 bat skeletons (D:2)
+  A bat zombie (D:2)
+  12 endoplasms
+  2 hobgoblins
+  6 jackals
+  8 kobolds
+  3 quokkas
+  A ball python zombie (D:2)
+  7 frilled lizards
+  10 goblins
+  A jackal zombie (D:2)
+  A quokka zombie (D:2)
+  5 rats
+157 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  3 wights (D:8)
+3 creatures vanquished.
+
+Vanquished Creatures (others)
+  2 kobolds (D:6)
+  5 demonic plants (D:2)
+  16 fungi
+  13 plants
+  2 withered plants (D:2)
+38 creatures vanquished.
+
+Grand Total: 198 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Troll Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 22/22 MP: 0/0
+   168 | D:1      | Reached XP level 2. HP: 26/29 MP: 1/1
+   542 | D:1      | Reached skill level 3 in Shields
+   650 | D:1      | Reached XP level 3. HP: 36/36 MP: 2/2
+  1079 | D:2      | Found a faded altar of an unknown god.
+  1236 | D:2      | Reached XP level 4. HP: 44/44 MP: 3/3
+  1621 | D:3      | Noticed a black bear
+  1621 | D:3      | Found a bloodstained altar of Trog.
+  1640 | D:3      | Killed a black bear
+  1641 | D:3      | Reached XP level 5. HP: 50/53 MP: 4/4
+  2022 | D:3      | Found a blossoming altar of Fedhas.
+  2034 | D:3      | Found a shadowy altar of Dithmenos.
+  2460 | D:4      | Noticed Eustachio
+  2477 | D:4      | Reached XP level 6. HP: 58/61 MP: 5/5
+  2494 | D:4      | Killed Eustachio
+  2495 | D:4      | Reached skill level 4 in Shields
+  2615 | D:4      | Noticed Natasha
+  2634 | D:4      | Killed Natasha
+  2705 | D:4      | Noticed Natasha
+  2716 | D:4      | Killed Natasha
+  2827 | D:4      | Found a sparkling altar of Nemelex Xobeh.
+  2857 | D:4      | Noticed Natasha
+  2863 | D:4      | Killed Natasha
+  2976 | D:5      | Entered Level 5 of the Dungeon
+  3019 | D:5      | Found a basalt altar of Yredelemnul.
+  3053 | D:5      | Reached XP level 7. HP: 69/70 MP: 6/6
+  4023 | D:6      | Reached skill level 5 in Shields
+  4023 | D:6      | Reached XP level 8. HP: 71/79 MP: 7/7
+  4110 | D:6      | Identified the +7 sling "Bialunom" {elec, rN+ rCorr Int+3}
+  4152 | D:6      | Reached skill level 5 in Maces & Flails
+  4155 | D:6      | Reached skill level 5 in Fighting
+  4232 | D:6      | Reached skill level 5 in Dodging
+  4241 | D:6      | Noticed Prince Ribbit
+  4250 | D:6      | Killed Prince Ribbit
+  4400 | D:6      | Reached skill level 6 in Shields
+  4496 | D:6      | Reached XP level 9. HP: 69/73 MP: 8/8
+  5039 | D:7      | Found a staircase to the Ecumenical Temple.
+  5044 | Temple   | Entered the Ecumenical Temple
+  5236 | Temple   | Became a worshipper of Qazlal Stormbringer
+  5332 | D:7      | Noticed Joseph
+  5347 | D:7      | Killed Joseph
+  5474 | D:7      | Noticed Dowan
+  5474 | D:7      | Noticed Duvessa
+  5482 | D:7      | Killed Duvessa
+  5495 | D:7      | Killed Dowan
+  5496 | D:7      | Reached skill level 7 in Shields
+  5559 | D:7      | Found a glowing silver altar of Zin.
+  5689 | D:7      | Found a sacrificial altar of Ru.
+  5934 | D:8      | Found a broken altar of Ashenzari.
+  6068 | D:8      | Found Maas's Armour Shop.
+  6082 | D:8      | Bought a +0 cloak for 54 gold pieces
+  6138 | D:8      | Found a staircase to the Lair.
+  6139 | D:8      | Noticed a komodo dragon
+  6164 | D:8      | Reached XP level 10. HP: 52/100 MP: 9/9
+  6227 | D:8      | Reached * piety under Qazlal
+  6280 | D:8      | Found a transporter.
+  6280 | D:8      | Found a transporter.
+  6281 | D:8      | Noticed birdsarechill's ghost (novice DrBe)
+  6283 | D:8      | Noticed a two-headed ogre
+  6302 | D:8      | Slain by a komodo dragon
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      evilmike_arrival_plus, layout_loops_corners, minmay_split_cup_small
+D:2:      layout_basic, shapermc_ecumenical_altar_gd, serial_undead,
+          serial_undead_d, serial_undead_d, serial_undead_f, serial_undead_a
+D:3:      layout_loops_corners, bloody_trog, fedhas_altar_3,
+          lemuel_doored_altar, hangedman_abyss_or_decor_stabs
+D:4:      layout_rooms, nemelex_spade_bored_becter,
+          amcnicky_mini_corridor_feature, uniq_natasha, uniq_eustachio
+D:5:      layout_basic, mainiacjoe_overflow_tiny_flanked
+D:6:      cheibrodos_quashed, layout_cave_pools, uniq_prince_ribbit1
+D:7:      layout_loops_ring, overflow_temple_1_default, zin_scriptorium,
+          minmay_temple_entry_wispy, enter_bailey_5, worms_lemuel, uniq_joseph,
+          uniq_duvessa
+D:8:      layout_loops_cross, ashenzari_conservatory_becter,
+          david_lair_shrubbed, serial_shops, nicolae_diamond_shop,
+          gammafunk_ghost_smash, feat_on_display
+Temple:   nicolae_temple_bog_church
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Maces & Flails |  2           3     4  5  6 |  6.9
+Shields        |     3           4  5  6  7 |  7.3
+Fighting       |           3     4     5  6 |  6.6
+Dodging        |           3        4  5  6 |  6.6
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Flail             |   145 |   209 |   282 |       ||   636
+       Quarterstaff      |       |       |    36 |    26 ||    62
+  Use: Potion            |       |     2 |     6 |     6 ||    14
+       Scroll            |       |       |     4 |     2 ||     6
+ Stab: Sleeping          |     4 |     3 |     7 |       ||    14
+       Distracted        |       |     1 |       |       ||     1
+Armor: Robe              |    62 |   129 |    55 |     4 ||   250
+Dodge: Dodged            |    64 |   199 |   172 |    34 ||   469
+Block: Kite shield       |    63 |   202 |   246 |       ||   511
+       Reflection        |       |       |     9 |       ||     9
+       Other             |       |       |    12 |    11 ||    23
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   6525 |   6063 |    462 |      9 |   4240 |   9 |  725.0 |
+       Dungeon |   6315 |   5869 |    446 |      9 |   4090 |   8 |  789.4 |
+        Temple |    209 |    193 |     16 |      0 |    150 |   1 |  209.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 1071 daAuts
+     D:7: 980 daAuts
+     D:5: 933 daAuts
+     D:3: 836 daAuts
+     D:6: 789 daAuts
+     D:4: 644 daAuts
+     D:2: 626 daAuts
+     D:8: 433 daAuts
+  Temple: 209 daAuts
+

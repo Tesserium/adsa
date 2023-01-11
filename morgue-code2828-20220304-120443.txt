@@ -1,0 +1,292 @@
+ Dungeon Crawl Stone Soup version 0.29-a0-234-g0dae59b (webtiles) character file.
+
+Game seed: 5201525128136286109
+
+448 code2828 the Chiller (level 6, -3/32 HPs)
+             Began as a Deep Elf Ice Elementalist on Mar 4, 2022.
+             Slain by a two-headed ogre
+             ... wielding a +0 giant club
+              (8 damage)
+             ... on level 6 of the Dungeon.
+             The game lasted 00:44:58 (4927 turns).
+
+code2828 the Chiller (Deep Elf Ice Elementalist)    Turns: 4927, Time: 00:44:59
+
+Health: -3/32      AC:  7    Str:  5    XL:     6   Next: 73%
+Magic:  15/16      EV:  7    Int: 22    God:    
+Gold:   76         SH:  5    Dex: 15    Spells: 12/16 levels left
+
+rFire   . . .      SeeInvis .   i - +0 trident
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   z - +0 scale mail
+rPois   .          Reflect  +   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   e - +0 pair of boots
+Stlth   +.........              c - amulet of reflection
+HPRegen 0.10/turn               (no ring)
+MPRegen 0.15/turn               (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 6 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 6 of its levels.
+You also visited: Sewer.
+
+You collected 76 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ b - a +1 short sword of distortion
+ i - a +0 trident (weapon)
+ q - a +0 mace
+ r - a +4 dagger
+ s - a +0 trident
+Missiles
+ k - 57 stones
+ m - a curare-tipped dart
+ v - 6 poisoned darts
+Armour
+ a - a +0 robe
+ e - a +0 pair of boots (worn)
+ l - a +0 ring mail
+ x - a +0 leather armour
+ z - a +0 scale mail (worn)
+Jewellery
+ c - an amulet of reflection (around neck)
+Scrolls
+ g - 2 scrolls of identify {unknown}
+ j - a scroll of amnesia {unknown}
+ o - a scroll of enchant weapon {unknown}
+ t - 2 scrolls of summoning
+ u - a scroll of blinking
+ w - a scroll of brand weapon {unknown}
+ y - a scroll of teleportation {unknown}
+Potions
+ d - a potion of mutation {unknown}
+ f - 2 potions of curing {unknown}
+ h - 2 potions of attraction {unknown}
+ p - 3 potions of might {unknown}
+
+
+   Skills:
+ * Level 1.5 Polearms
+ + Level 4.5 Dodging
+ + Level 4.7 Stealth
+ * Level 5.5 Spellcasting
+ + Level 5.6 Ice Magic
+
+
+You had 12 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Freeze                Ice            100%       1d11      26%         1
+b - Ozocubu's Armour      Ice            30%        N/A       58%         3
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Frozen Ramparts          Ice            60%        1d8       58%         3
+ Hailstorm                Conj/Ice       18%        3d6       100%        4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)              Sewer (visited)         
+Temple: D:4-7       
+
+Altars:
+Ashenzari
+Hepliaklqana
+Vehumet
+Xom
+Zin
+
+Shops:
+D:3 *
+
+Message History
+
+You feel sick.
+You start resting. You feel sick. x7
+You are no longer poisoned.
+You start resting.
+Magic restored.
+You start resting.
+HP restored.
+You see here an adder corpse.
+You see here a +0 scale mail.
+z - a +0 scale mail
+You start removing your armour.
+You continue taking off your +0 ring mail. x4
+You finish taking off your +0 ring mail.
+You start putting on your armour.
+You continue putting on your +0 scale mail. x5
+You finish putting on your +0 scale mail.
+You start putting on your amulet.
+You continue putting on your amulet of reflection. x5
+You finish putting on your amulet of reflection.
+You feel a shielding aura gather around you.
+c - an amulet of reflection (around neck)
+You now have 76 gold pieces (gained 16).
+A two-headed ogre comes into view. It is wielding a +0 giant club and a +0 dire
+flail.
+Found an escape hatch in the ceiling.
+The two-headed ogre shouts in stereo!
+Found 14 gold pieces and a scale mail.
+Press: ? - help, v - describe, . - travel
+Here: a two-headed ogre, wielding a +0 giant club and a +0 dire flail
+The floor.
+You freeze the two-headed ogre!
+The two-headed ogre is lightly wounded.
+The two-headed ogre barely misses you.
+The two-headed ogre hits you with a +0 dire flail!!
+Ouch! That really hurt!
+You feel much better.
+The two-headed ogre hits you with a +0 giant club!!
+Ouch! That really hurt!
+* * * LOW HITPOINT WARNING * * *
+The two-headed ogre hits you with a +0 dire flail!
+You die...
+
+###
+#.#
+#.#################
+#>...†............#####
+#......................
+####.##########........
+   #.#        #@.......
+   ..#        #O.......
+  .###        #<.......
+ #.           #........
+ #            #........
+              #........
+              #........
+              #....$.[.
+
+
+You could see a two-headed ogre.
+
+Vanquished Creatures
+  A kobold brigand (D:7)
+  2 bullfrogs (Sewer)
+  An orc priest (D:3)
+  Jessica (D:3)
+  A gnoll (D:1)
+  5 adders
+  3 dart slugs
+  4 orcs (D:3)
+  11 endoplasms
+  11 giant cockroaches
+  5 hobgoblins
+  9 jackals
+  9 kobolds
+  17 quokkas
+  13 ball pythons
+  5 bats
+  6 frilled lizards
+  7 goblins
+  3 rats
+114 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Deep Elf Ice Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   451 | D:1      | Reached XP level 2. HP: 11/15 MP: 4/8
+  1226 | D:1      | Found a faded altar of an unknown god.
+  1325 | D:1      | Reached XP level 3. HP: 16/19 MP: 7/10
+  1595 | D:1      | Found a broken altar of Ashenzari.
+  2022 | D:2      | Reached XP level 4. HP: 24/24 MP: 11/11
+  2075 | D:2      | You fall into a shaft and drop 1 floor!
+  2099 | D:3      | HP: 1/24 [orc/+0 short sword (2)]
+  2117 | D:3      | Reached skill level 5 in Ice Magic
+  2286 | D:3      | Found Zin's Purification Station.
+  2305 | D:3      | Found a glowing silver altar of Zin.
+  2445 | D:3      | Found a hazy altar of Hepliaklqana.
+  2447 | D:3      | Found a shimmering altar of Xom.
+  2448 | D:3      | Noticed a spectral ugly thing
+  2543 | D:3      | Noticed Jessica
+  2554 | D:3      | Killed Jessica
+  2555 | D:3      | Reached XP level 5. HP: 23/28 MP: 10/13
+  2566 | D:3      | Found a glowing drain.
+  2696 | Sewer    | Entered a sewer
+  3102 | Sewer    | Learned a level 3 spell: Ozocubu's Armour
+  3452 | Sewer    | Reached skill level 5 in Spellcasting
+  3452 | Sewer    | Reached XP level 6. HP: 19/32 MP: 12/15
+  3463 | Sewer    | Reached skill level 1 in Polearms
+  4361 | D:4      | Found a radiant altar of Vehumet.
+  4469 | D:4      | You fall into a shaft and drop 3 floors!
+  4921 | D:6      | Noticed a two-headed ogre
+  4927 | D:6      | Slain by a two-headed ogre
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      minmay_arrival_glassed_features, layout_loops_ring,
+          basic_ecumenical_altar, kennysheep_flooded_box, skrybe_limestone_x
+D:2:      layout_basic, uniq_crazy_yiuf_cottage
+D:3:      layout_loops_ring, regret_index_temple_of_mockery, zin_purify,
+          portal_sewer_entry_f, chequers_serial_rivers_micro_c, uniq_jessica
+D:4:      layout_gridville, nicolae_vehumet_altar_sigil,
+          minmay_temple_entry_waves
+D:6:      layout_basic, amcnicky_altar_gilded, minmay_misc_feat_x,
+          minmay_manual_moon, uniq_duvessa, uniq_pikel, uniq_edmund,
+          uniq_maggie, uniq_blork_the_orc, uniq_prince_ribbit1
+D:7:      layout_loops_ring
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Stealth        |     3     4       |  4.7
+Dodging        |     3        4    |  4.5
+Spellcasting   |           4  5    |  5.5
+Ice Magic      |           5       |  5.6
+Polearms       |                 1 |  1.5
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Club              |    16 |       ||    16
+       Unarmed           |     1 |       ||     1
+       Trident           |    20 |    46 ||    66
+Throw: Stone             |     3 |       ||     3
+       Dart              |       |     5 ||     5
+ Cast: Freeze            |    53 |   108 ||   161
+  Use: Potion            |       |     3 ||     3
+       Scroll            |       |     1 ||     1
+ Stab: Sleeping          |     1 |       ||     1
+Armor: Robe              |     8 |       ||     8
+       Ring mail         |    19 |    62 ||    81
+Dodge: Dodged            |    61 |    82 ||   143
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   5184 |   5176 |      8 |   2434 |    515 |   7 |  740.6 |
+       Dungeon |   3529 |   3521 |      8 |   1805 |    426 |   6 |  588.2 |
+         Sewer |   1654 |   1654 |      0 |    629 |     89 |   1 | 1654.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 1846 daAuts
+   Sewer: 1654 daAuts
+     D:3: 866 daAuts
+     D:7: 259 daAuts
+     D:2: 246 daAuts
+     D:6: 198 daAuts
+     D:4: 111 daAuts
+

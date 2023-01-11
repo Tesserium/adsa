@@ -1,0 +1,347 @@
+ Dungeon Crawl Stone Soup version 0.29.1-2-gbd0b4ee654 (webtiles) character file.
+
+Game seed: 18267936820707597335
+
+4498 code2828 the Cleaver (level 10, -11/86 HPs)
+             Began as a Hill Orc Abyssal Knight on Dec 19, 2022.
+             Was an Elder of Lugonu.
+             Mangled by a wyvern (13 damage)
+             ... on level 8 of the Dungeon.
+             The game lasted 00:30:25 (10061 turns).
+
+code2828 the Cleaver (Hill Orc Abyssal Knight)     Turns: 10061, Time: 00:30:26
+
+Health: -11/86     AC: 11    Str: 19      XL:     10   Next: 38%
+Magic:  0/17       EV:  8    Int: 10      God:    Lugonu [****..]
+Gold:   400        SH:  3    Dex: 11 (13) Spells: 9/9 levels left
+
+rFire   + . .      SeeInvis +   s - +2 hand axe (venom)
+rCold   + . .      Faith    .   m - +0 buckler of Leaves {rF+}
+rNeg    . . .      Spirit   +   y - +0 chain mail
+rPois   .          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   v - +0 pair of boots {Stlth+}
+Stlth   +.........              e - amulet of guardian spirit
+HPRegen 0.24/turn               d - ring of protection from cold
+MPRegen 0.15/turn               w - ring of see invisible
+
+@: slowed, studying Stealth, very slow
+A: no striking features
+a: Renounce Religion, Depart the Abyss, Bend Space, Banish, Corrupt
+
+
+You were on level 8 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was greatly pleased with you.
+You visited 2 branches of the dungeon, and saw 9 of its levels.
+You visited the Abyss 1 time.
+You also visited: Sewer.
+
+You collected 400 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ s - a +2 hand axe of venom (weapon)
+Missiles
+ l - 10 boomerangs (quivered)
+Armour
+ m - the +0 buckler of Leaves (worn) {rF+}
+   (You found it on level 2 of the Dungeon)   
+   
+   rF:        It protects you from fire.
+ v - a +0 pair of boots of stealth (worn)
+ y - a +0 chain mail (worn)
+Jewellery
+ a - a +6 ring of dexterity
+ d - a ring of protection from cold (left hand)
+ e - an amulet of guardian spirit (around neck)
+ f - a ring of fire
+ w - a ring of see invisible (right hand)
+ z - a ring of wizardry
+ B - a +4 ring of protection
+ H - a ring of protection from cold
+Wands
+ o - a wand of charming (13)
+ q - a wand of roots (3)
+ D - a wand of polymorph (25)
+Scrolls
+ c - a scroll of summoning {unknown}
+ i - a scroll of silence {unknown}
+ k - a scroll of magic mapping {unknown}
+ t - 3 scrolls of poison
+ u - 2 scrolls of amnesia {unknown}
+ x - a scroll of fog {unknown}
+ I - a scroll of identify
+Potions
+ b - 2 potions of invisibility {unknown}
+ j - 8 potions of flight
+ n - 2 potions of attraction {unknown}
+ p - 3 potions of mutation
+ A - 2 potions of might {unknown}
+ C - a potion of degeneration
+ E - 2 potions of haste {unknown}
+ F - 2 potions of magic
+ G - a potion of cancellation {unknown}
+
+
+   Skills:
+ + Level 7.3 Fighting
+ * Level 9.7 Axes
+ + Level 6.2 Armour
+ + Level 4.4 Dodging
+ + Level 4.8 Stealth
+ + Level 4.2 Conjurations
+ * Level 9.5 Invocations
+
+
+You had 9 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Foxfire                  Conj/Fire      16%        2x1d4     91%         1
+ Static Discharge         Conj/Air       4%         3-4/arc   97%         2
+ Sublimation of Blood     Necr           0%         N/A       100%        2
+ Conjure Flame            Conj/Fire      4%         6-21      100%        3
+ Ignite Poison            Fire/Tmut/Pois 0%         N/A       100%        3
+ Inner Flame              Hex/Fire       0%         N/A       100%        3
+ Dispel Undead            Necr           0%         3d6       100%        4
+ Flame Wave               Conj/Fire      4%         2d5       100%        4
+ Petrify                  Tmut/Erth      0%         N/A       100%        4
+ Sticky Flame             Conj/Fire      4%         2d3       100%        4
+ Irradiate                Conj/Tmut      2%         3d12      100%        5
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)         Zot: 26962       Temple (1/1) D:4      Zot: 5834       
+  Sewer (visited)                      
+  Lair: D:8-11      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:5 [
+
+Annotations:
+Abyss:1 Duvessa, Pikel
+
+Message History
+
+The centaur shoots an arrow. The arrow hits you. The hornet stings you.
+You suddenly lose the ability to move! You stop ascending the stairs.
+You feel sick. The centaur shoots an arrow.
+The arrow hits you but does no damage. The hornet stings you.
+You feel as though you will be slow longer.
+The centaur shoots an arrow. The arrow hits you!
+* * * LOW HITPOINT WARNING * * *
+You can move again.
+Okay, then.
+Press: ? - help, Shift-Dir - straight line, f - hornet
+Aim: a hornet (almost dead, very poisoned, chance to affect: 80%)
+The hornet barely resists. You feel sick.
+You kill the centaur!
+Lugonu accepts your kill.
+You block the hornet's attack. The hornet stings you.
+* * * LOW HITPOINT WARNING * * *
+You feel as though you will be slow longer.
+The hornet stings you but does no damage.
+Okay, then.
+It was a potion of magic. Magic courses through your body. You feel sick.
+You are no longer poisoned.
+You kill the hornet!
+Lugonu accepts your kill.
+The wyvern bites you!
+* * * LOW HITPOINT WARNING * * *
+The wyvern completely misses you. The wyvern bites you.
+* * * LOW HITPOINT WARNING * * *
+You feel your strength returning.
+The wyvern misses you. The wyvern bites you!
+* * * LOW HITPOINT WARNING * * *
+You see here a hornet corpse.
+You barely miss the wyvern. You block the wyvern's attack.
+The wyvern closely misses you.
+You hit the wyvern. The wyvern is poisoned.
+The wyvern is lightly wounded.
+The wyvern bites you but does no damage.
+You hit the wyvern. The wyvern looks as sick as possible!
+The wyvern is moderately wounded.
+The wyvern bites you!
+You die...
+
+              ##
+             ...
+            .... ..##
+        ####...  .....###
+     ####......  ........
+.#####.....#           #<
+........)..#           #.
+#####..#@l.#           #+
+  .l...#.<.#
+ #..##.#...#
+...  #.#####
+#.   #.
+.    #.
+     ..
+
+
+You could see a wyvern (extremely poisoned).
+
+Vanquished Creatures
+  Joseph (D:7)
+  A hornet (D:8)
+  3 yaks
+  A water moccasin (D:7)
+  2 ice beasts
+  An orc warrior (D:7)
+  2 black bears
+  3 centaurs
+  A lemure (D:6)
+  3 kobold brigands
+  3 necrophages
+  3 scorpions
+  Dowan (D:6)
+  2 orc priests (D:5)
+  3 jellies
+  2 gnoll boudas
+  10 orc wizards
+  An iguana (D:5)
+  8 gnolls
+  7 river rats (Sewer)
+  14 adders
+  2 shadow imps (D:6)
+  A worm (D:2)
+  4 dart slugs
+  29 orcs
+  19 ball pythons
+  14 bats
+  8 endoplasms
+  4 giant cockroaches
+  11 goblins
+  A hobgoblin (D:4)
+  6 jackals
+  A quokka (D:1)
+  5 frilled lizards
+  19 kobolds
+  27 rats
+223 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | Abyss:1  | code2828 the Hill Orc Abyssal Knight began the quest for
+                  | the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 19/19 MP: 2/2
+    60 | Abyss:1  | Noticed a wretched star
+    68 | D:1      | Escaped the Abyss
+   339 | D:1      | Reached skill level 1 in Dodging
+   339 | D:1      | Reached XP level 2. HP: 12/27 MP: 4/4
+   571 | D:1      | Reached ** piety under Lugonu
+  1317 | D:1      | Reached XP level 3. HP: 33/33 MP: 5/5
+  2093 | D:2      | Identified the +0 buckler of Leaves {rF+}
+  2250 | D:2      | Reached XP level 4. HP: 40/40 MP: 4/6
+  2511 | D:2      | Reached *** piety under Lugonu
+  2996 | D:3      | Reached XP level 5. HP: 44/47 MP: 7/7
+  3516 | D:4      | Found a staircase to the Ecumenical Temple.
+  3528 | Temple   | Entered the Ecumenical Temple
+  3901 | D:4      | Reached XP level 6. HP: 49/53 MP: 6/9
+  4300 | D:4      | Reached **** piety under Lugonu
+  4495 | D:4      | Reached skill level 5 in Axes
+  4575 | D:5      | Entered Level 5 of the Dungeon
+  4627 | D:4      | Reached skill level 5 in Fighting
+  4627 | D:4      | Reached XP level 7. HP: 61/61 MP: 10/10
+  4639 | D:4      | HP: 3/61 [acid (6)]
+  5114 | D:5      | Reached skill level 1 in Conjurations
+  5118 | D:5      | Reached skill level 5 in Invocations
+  5602 | D:5      | Found Kirsasp's Dragon-Slaying Spoils.
+  5641 | D:5      | Found a white marble altar of Elyvilon.
+  5709 | D:5      | Reached XP level 8. HP: 55/69 MP: 7/12
+  6037 | D:6      | Found a glowing drain.
+  6081 | Sewer    | Entered a sewer
+  6457 | Sewer    | Reached ***** piety under Lugonu
+  6528 | Sewer    | Reached skill level 1 in Stealth
+  6801 | D:6      | Noticed Pikel
+  6804 | D:6      | Banished Pikel
+  6805 | D:6      | Reached skill level 5 in Armour
+  6805 | D:6      | Reached XP level 9. HP: 73/75 MP: 7/14
+  6882 | D:6      | Noticed Duvessa
+  6882 | D:6      | Noticed Dowan
+  6887 | D:6      | Banished Duvessa
+  6899 | D:6      | Killed Dowan
+  7007 | D:6      | Found a shadowy altar of Dithmenos.
+  8027 | D:7      | Noticed Joseph
+  8027 | D:7      | Noticed a two-headed ogre
+  8989 | D:7      | Reached XP level 10. HP: 80/84 MP: 14/16
+  9069 | D:7      | Killed Joseph
+ 10010 | D:7      | Banished a two-headed ogre
+ 10049 | D:8      | Paralysed by a hornet for 1 turns
+ 10054 | D:8      | Paralysed by a hornet for 2 turns
+ 10057 | D:8      | HP: 4/86 [wyvern (2)]
+ 10058 | D:8      | HP: 1/86 [wyvern (3)]
+ 10061 | D:8      | Mangled by a wyvern
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      enne_arrival_octagon_isle, layout_basic,
+          amcnicky_mini_corridor_feature, hangedman_decor_points,
+          minmay_pentomino_v2
+D:2:      layout_basic, kennysheep_doodads
+D:3:      layout_rooms, minmay_misc_feat_square, st_stairs_1
+D:4:      layout_basic, minmay_temple_entry_trees
+D:5:      layout_cave_pools, mainiacjoe_overflow_alcove_4,
+          nicolae_shop_dragon_depot
+D:6:      layout_cave_pods, nicolae_dithmenos_shadow_blocks,
+          portal_sewer_entry_b, uniq_duvessa, uniq_pikel
+D:7:      layout_gridville, chequers_serial_rivers_room_a, uniq_joseph
+D:8:      layout_basic, minmay_ruined_shrine, uniq_grum
+Temple:   bh_familiar_temple
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Dodging        |  1           2        3  4    |  4.4
+Axes           |     3        4  5  6  7  9    |  9.7
+Fighting       |        4        5     6     7 |  7.3
+Invocations    |        3     4     5  7  8  9 |  9.5
+Armour         |           3        4  5     6 |  6.2
+Conjurations   |                    1  2  3  4 |  4.2
+Stealth        |                       2  4    |  4.8
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Hand axe          |    68 |    99 |   335 |    32 ||   534
+       Dagger            |    47 |    62 |       |       ||   109
+Throw: Boomerang         |       |     3 |       |       ||     3
+Invok: Depart the Abyss  |     1 |       |       |       ||     1
+       Banish            |       |       |     5 |     2 ||     7
+       Bend Space        |       |       |     3 |     2 ||     5
+  Use: Potion            |     1 |       |     8 |     3 ||    12
+       Scroll            |       |     2 |     4 |     1 ||     7
+Armor: Leather armour    |    22 |     1 |       |       ||    23
+       Scale mail        |       |    55 |       |       ||    55
+       Chain mail        |       |     4 |   178 |    18 ||   200
+Dodge: Dodged            |    98 |    94 |   118 |    11 ||   321
+Block: Buckler           |     1 |    20 |    54 |     6 ||    81
+

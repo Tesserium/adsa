@@ -1,0 +1,112 @@
+code2828
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a stone
+(2, -16, D:1)
+  a +0 dagger
+  a stone
+(6, 19, D:1)
+  a +0 flail
+(8, -22, D:1)
+  a +0 ring mail
+(14, -16, D:1)
+  a +0 dagger
+(15, -17, D:1)
+  a +0 ring mail
+(16, -6, D:1)
+  a +0 whip
+  5 stones
+(16, 32, D:1)
+  a +0 short sword
+(22, 23, D:1)
+  a +0 dagger
+(29, 17, D:1)
+  a +0 dagger
+(33, -7, D:1)
+  a +0 short sword
+  2 stones
+(39, 13, D:1)
+  a +0 leather armour
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +1 dagger of freezing
+(9, -19, D:2)
+  a +0 sling
+(12, 6, D:2)
+  a +0 whip
+(13, 8, D:2)
+  a +0 ring mail
+(20, 4, D:2)
+  a +0 club
+(21, 18, D:2)
+  a +0 cloak
+(22, -4, D:2)
+  a +0 dagger of speed
+(38, 7, D:2)
+  a +0 club
+(41, -5, D:2)
+  a +0 robe
+(50, 2, D:2)
+  a stone
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 dagger
+(3, -38, D:3)
+  a staff of conjuration
+(7, 8, D:3)
+  a +0 club
+(17, -6, D:3)
+  a +0 robe
+(25, -16, D:3)
+  a +0 giant club
+(55, -20, D:3)
+  5 stones
+(57, -15, D:3)
+  a +0 dagger
+
+Level 4 of the Dungeon
+[Shop] Uluoskia's Vocational Training
+  a manual of Invocations (800 gold)
+  a manual of Evocations (800 gold)
+(0, 0, D:4)
+  4 stones
+(6, 18, D:4)
+  a hobgoblin corpse (skeletalised by now)
+(6, 36, D:4)
+  a +0 spear
+(6, 37, D:4)
+  a +0 flail
+  a +0 whip
+(7, 36, D:4)
+  a +0 spear
+(10, 37, D:4)
+  a +0 spear
+(10, 39, D:4)
+  a +0 club
+  a +0 flail
+(11, -4, D:4)
+  a +0 dagger
+(21, 1, D:4)
+  a +0 chain mail
+(24, 38, D:4)
+  a +0 hand axe
+(27, 17, D:4)
+  a +2 robe of fire resistance
+  a +0 scythe
+(29, 9, D:4)
+  a +0 robe
+(29, 13, D:4)
+  3 stones
+  a +0 whip
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  5 poisoned darts
+(0, 3, D:5)
+  a +0 spear
+
+the Ecumenical Temple
+

@@ -1,0 +1,246 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-422-g946f484 (webtiles) character file.
+
+Game seed: 9861920500775717799
+
+253 code2828 the Shooter (level 5, -3/69 HPs)
+             Began as a Minotaur Hunter on Dec 9, 2022.
+             Slain by a gnoll
+             ... wielding a +0 halberd
+              (6 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:05:13 (1132 turns).
+
+code2828 the Shooter (Minotaur Hunter)              Turns: 1132, Time: 00:05:16
+
+Health: -3/69      AC: 22    Str: 17    XL:     5   Next: 90%
+Magic:  4/4        EV:  2    Int:  6    God:    
+Gold:   116        SH:  0    Dex: 14    Spells: 4/4 levels left
+
+rFire   . . .      SeeInvis .   a - +0 shortbow
+rCold   + . .      Faith    .   (shield currently unavailable)
+rNeg    . . .      Spirit   .   (body armour currently unavailable)
+rPois   +          Reflect  .   (helmet currently unavailable)
+rElec   .          Harm     .   (cloak currently unavailable)
+rCorr   .          Rampage  .   (gloves currently unavailable)
+Will    .....      NoTele   +   (boots currently unavailable)
+Stlth   ++........              (no amulet)
+HPRegen 0.31/turn               d - ring of protection from cold
+MPRegen 0.09/turn               (no ring)
+
+@: mighty, brilliant, tree-form (expiring)
+A: stationary, stasis, torment immunity, boosted hp, (horns 2), (retaliatory
+headbutt)
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You were a tree.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 116 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 shortbow (weapon)
+Armour
+ c - a +0 leather armour (melded)
+ h - a +1 pair of gloves (melded)
+ k - a +0 pair of boots (melded)
+Jewellery
+ d - a ring of protection from cold (left branch)
+Scrolls
+ b - 2 scrolls of immolation
+ g - 3 scrolls of identify {unknown}
+ j - 3 scrolls of brand weapon {unknown}
+ l - a scroll of fear {unknown}
+ m - a scroll of noise {unknown}
+ o - a scroll of teleportation {unknown}
+ q - a scroll of blinking {unknown}
+Potions
+ n - 2 potions of cancellation
+
+
+   Skills:
+ + Level 4.2 Fighting
+ + Level 5.4 Ranged Weapons
+ + Level 3.8 Dodging
+ + Level 2.6 Stealth
+
+
+You had 4 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Slow                     Hex            0%         N/A       45%         1
+ Confusing Touch          Hex            0%         N/A       83%         3
+ Vampiric Draining        Necr           0%         2d6       83%         3
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are a tree.
+Your roots penetrate the ground, keeping you stationary.
+You cannot be teleported.
+You are immune to unholy pain and torment.
+Your maximum health is greatly increased.
+Your equipment is partially melded.
+((You have a pair of horns on your head.))
+((You reflexively headbutt those who attack you in melee.))
+
+Message History
+
+The arrow barely misses the gnoll. The gnoll hits you but does no damage.
+Fire: a) +0 shortbow
+Press: ? - help, Shift-Dir - straight line, f/p - gnoll
+Aim: a gnoll, wielding a +0 halberd (lightly wounded, 66% to hit)
+You shoot an arrow. The arrow barely misses the gnoll. x2
+The gnoll completely misses you.
+Fire: a) +0 shortbow
+Press: ? - help, Shift-Dir - straight line, f/p - gnoll
+Aim: a gnoll, wielding a +0 halberd (lightly wounded, 66% to hit)
+You shoot an arrow. The arrow hits the gnoll.
+The gnoll is heavily wounded.
+The gnoll hits you but does no damage. x2
+Fire: a) +0 shortbow
+Press: ? - help, Shift-Dir - straight line, f/p - gnoll
+Aim: a gnoll, wielding a +0 halberd (heavily wounded, 66% to hit)
+You shoot an arrow. The arrow closely misses the gnoll.
+The arrow hits the gnoll.
+The gnoll is almost dead.
+The gnoll hits you from afar with a +0 halberd.
+* * * LOW HITPOINT WARNING * * *
+Fire: a) +0 shortbow
+Press: ? - help, Shift-Dir - straight line, f/p - gnoll
+Aim: a gnoll, wielding a +0 halberd (heavily wounded, 66% to hit)
+You shoot an arrow. The arrow barely misses the gnoll. x2
+The gnoll hits you from afar with a +0 halberd.
+* * * LOW HITPOINT WARNING * * *
+Fire: a) +0 shortbow
+Press: ? - help, Shift-Dir - straight line, f/p - gnoll
+Aim: a gnoll, wielding a +0 halberd (heavily wounded, 66% to hit)
+You shoot an arrow. The arrow hits the gnoll.
+The gnoll is severely wounded.
+The gnoll hits you but does no damage.
+Fire: a) +0 shortbow
+Press: ? - help, Shift-Dir - straight line, f/p - gnoll
+Aim: a gnoll, wielding a +0 halberd (severely wounded, 66% to hit)
+You shoot an arrow.
+The arrow hits the gnoll but does no damage.
+The gnoll is severely wounded.
+The gnoll hits you from afar with a +0 halberd.
+You die...
+
+               ##.
+               #).
+               #)#
+               #.#
+               #g#
+            ####g#
+.......#    #..))#
+.......#       #♣#
+.......#      ##)#
+.......#      #..#
+≈......##   # #.##
+≈.†.....#   #.#.#
+≈.......#   #.#.#
+........#####.#.#######
+)...................... ..>.
+........#####.....#######..#
+
+
+You could see 2 gnolls.
+
+Vanquished Creatures
+  Sigmund (D:2)
+  Robin (D:2)
+  2 gnolls (D:2)
+  3 adders (D:2)
+  A dart slug (D:1)
+  3 bats
+  An endoplasm (D:1)
+  A giant cockroach (D:1)
+  15 goblins
+  5 hobgoblins
+  3 jackals (D:1)
+  A quokka (D:1)
+  3 ball pythons
+  3 frilled lizards (D:1)
+  A kobold (D:2)
+  A rat (D:1)
+45 creatures vanquished.
+
+Vanquished Creatures (others)
+  10 plants (D:2)
+10 creatures vanquished.
+
+Grand Total: 55 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | code2828 the Minotaur Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 0/0
+    40 | D:1      | Reached skill level 1 in Stealth
+   114 | D:1      | Reached XP level 2. HP: 25/25 MP: 1/1
+   706 | D:2      | Reached XP level 3. HP: 31/31 MP: 2/2
+   803 | D:2      | Noticed Sigmund
+   812 | D:2      | Killed Sigmund
+   813 | D:2      | Reached skill level 5 in Ranged Weapons
+   813 | D:2      | Reached XP level 4. HP: 14/40 MP: 3/3
+   813 | D:2      | Reached XP level 5. HP: 16/46 MP: 4/4
+  1089 | D:2      | Noticed Robin
+  1112 | D:2      | Killed Robin
+  1130 | D:2      | HP: 2/69 [gnoll/+0 halberd (5)]
+  1132 | D:2      | Slain by a gnoll
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_houses_and_road, layout_basic, minmay_misc_feat_ornament
+D:2:      layout_basic, corexii_item_surrounded_by_moat, nicolae_grassy_gnolls,
+          uniq_robin, uniq_sigmund
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Stealth        |  1     2 |  2.6
+Fighting       |     3  4 |  4.2
+Ranged Weapons |        5 |  5.4
+Dodging        |        3 |  3.8
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+ Fire: Shortbow          |    70 |    54 ||   124
+  Use: Potion            |     1 |     4 ||     5
+Armor: Leather armour    |    12 |    10 ||    22
+       Skin              |       |    45 ||    45
+Dodge: Dodged            |    25 |    18 ||    43
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   1166 |   1128 |     38 |      0 |    876 |   2 |  583.0 |
+       Dungeon |   1166 |   1128 |     38 |      0 |    876 |   2 |  583.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 714 daAuts
+     D:2: 451 daAuts
+

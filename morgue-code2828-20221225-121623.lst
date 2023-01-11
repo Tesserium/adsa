@@ -1,0 +1,55 @@
+code2828
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 animal skin
+(17, -14, D:1)
+  a +0 robe
+(18, -4, D:1)
+  a +0 dagger
+(21, -11, D:1)
+  21 arrows
+(22, 2, D:1)
+  21 sling bullets
+(26, -38, D:1)
+  a +0 club
+  5 stones
+  a +0 club
+(33, 10, D:1)
+  a +0 dagger
+(44, -7, D:1)
+  22 stones
+(56, 5, D:1)
+  a +0 club
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  17 bolts
+(14, 16, D:2)
+  a +0 helmet
+(20, 35, D:2)
+  a book of Party Tricks
+(28, 40, D:2)
+  a ring of magical power
+(29, 40, D:2)
+  a +0 club
+(51, 22, D:2)
+  a +0 dagger
+(55, 44, D:2)
+  19 arrows
+(59, 37, D:2)
+  a +0 dagger
+  3 stones
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a potion of curing
+(0, 2, D:3)
+  a potion of heal wounds
+(7, 9, D:3)
+  a worm corpse
+(14, -5, D:3)
+  a worm corpse
+(20, -9, D:3)
+  a scroll of vulnerability
+
