@@ -1,2 +1,13 @@
 *.ts
 *.ttyrec
+morgue*
+.DS_Store
+a.*
+a.*/
+*.html
+*where
+*.lst
+*.map
+*.where
+*.txt
+code2828
