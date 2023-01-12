@@ -1,6 +1,7 @@
 *.ts
 *.ttyrec
 morgue*
+*.swp
 .DS_Store
 a.*
 a.*/
