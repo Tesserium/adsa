@@ -9,6 +9,7 @@
 #define TEOPMASK_CAO	(1<<0)
 #define TEOPMASK_CKO	(1<<1)
 #define TEOPMASK_CPO	(1<<2)
+#define TEOPMASK_TXT	(1<<15)
 #define TEOPMASK_LST	(1<<16)
 #define TEOPMASK_TS		(1<<17)
 #define TEOPMASK_TTYREC	(1<<18)
@@ -26,8 +27,8 @@
 #define TEOPMASK_STAT	(1<<30)
 #define TEOPMASK_DEBUG	(1<<31)
 #define CAO "http://crawl.akrasiac.org/rawdata/"
-#define CKO "https://crawl.kelbi.org/crawl/morgue"
-#define CPO "https://crawl.project357.org/morgue"
+#define CKO "https://crawl.kelbi.org/crawl/morgue/"
+#define CPO "https://crawl.project357.org/morgue/"
 using namespace std;
 using namespace std::filesystem;
 CURL* curl_handle;
@@ -54,16 +55,25 @@ struct TeR
 };
 
 vector<TeR> v; // vector that stores every game
+vector<pair<int,int> >q; // vector that stores every file need to download
 const char short_gods[27][20]={"Ash","Beogh","Chei","Dith","Ely","Fedhas","Gozag","Hep","Ignis","Jiyva","Kiku","Lugonu","Makhleb","Nemelex","Oka","Pake","Qazlal","Ru","Sif","Trog","Uskayaw","Veh","Wu Jian","Xom","Yred","Zin","TSO"};
 const char long_gods[27][40]={"Ashenzari","Beogh","Cheibriados","Dithmenos","Elyvilon","Fedhas Medash","Gozag Ym Sagoz","Hepliaklqana","Ignis","Jiyva","Kikubaaqudgha","Lugonu","Makhleb","Nemelex Xobeh","Okawaru","Pakellas","Qazlal","Ru","Sif Muna","Trog","Uskayaw","Vehumet","Wu Jian Council","Xom","Yredelemnul","Zin","The Shining One"};
 const char full_gods[27][100]={""}; // will be the gods with their titles
-char* p[10];
+vector<string> p;
 size_t pindex=0;
 
 size_t write_data(char *ptr, size_t size, size_t nmemb, void *userdata)
 {
-	printf("%zu: %s\n",pindex++,ptr);		
+	string hey=static_cast<string>(ptr);
+	if(p.size()==pindex)p.push_back(static_cast<string>(""));
+	p[pindex].append(hey);
 	return size*nmemb;
+}
+
+size_t write_file(char *ptr, size_t size, size_t nmemb, void *userdata)
+{
+	size_t written=fwrite(ptr,size,nmemb,(FILE*)userdata);
+    return written;
 }
 
 /*
@@ -81,7 +91,7 @@ size_t write_data(char *ptr, size_t size, size_t nmemb, void *userdata)
 int parse_opts(int argc, const char** argv)
 {
 	int r=0;
-	bool nosite=true;
+	bool nosite=true,nodown=true;
 	if(argc==1)r|=TEOPMASK_EMPTY;
 	for(int i=1;i<argc;i++)
 	{
@@ -107,11 +117,16 @@ int parse_opts(int argc, const char** argv)
 					switch(argv[i][j])
 					{
 						case 'a':r|=TEOPMASK_CAO;nosite=0;break;
+						case 'b':break;
 						case 'd':r|=TEOPMASK_DEBUG;break;
 						case 'h':r|=TEOPMASK_HELP;break;
 						case 'k':r|=TEOPMASK_CKO;nosite=0;break;
 						case 'p':r|=TEOPMASK_CPO;nosite=0;break;
-						case 'b':case 'm':case 'M':case 's':case 't':case ',':break;
+						case 'm':r|=TEOPMASK_TXT;nodown=0;break;
+						case 'M':r|=TEOPMASK_LST;nodown=0;break;
+						case 's':r|=TEOPMASK_TS;nodown=0;break;
+						case 't':r|=TEOPMASK_TTYREC;nodown=0;break;
+						case ',':r|=TEOPMASK_DUMP;nodown=0;break;
 						default:r|=TEOPMASK_UKOPT;break;
 					}
 					j++;
@@ -123,7 +138,43 @@ int parse_opts(int argc, const char** argv)
 	{
 		r|=(TEOPMASK_CAO|TEOPMASK_CPO|TEOPMASK_CKO);
 	}
+	if(nodown)
+	{
+		r|=(TEOPMASK_TXT|TEOPMASK_LST|TEOPMASK_TS|TEOPMASK_TTYREC|TEOPMASK_DUMP);
+	}
 	return r;
+}
+
+void grab(string g_,int opts)
+{
+	char sit[1000]="";
+	switch(g_[g_.length()-1])
+	{
+		case 'a':strcpy(sit,CAO);break;
+		case 'k':strcpy(sit,CKO);break;
+		case 'p':strcpy(sit,CPO);break;
+		default:break;
+	}
+	string g=g_;
+	// morgue.txt
+	while(opts&TEOPMASK_TXT)
+	{
+		size_t po=g.find(static_cast<string>(">morgue-"));
+		if(po==string::npos)break;
+		g.erase(0,po+2);
+		po++;
+		string file=g.substr(po,27+username.length()-1);
+		if(file[file.length()-2]!='x')continue;
+		FILE* f=fopen(file.c_str(),"wb");
+		char site[1000]="";
+		strcpy(site,sit);
+		strcat(site,username.c_str());
+		curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, f);
+		curl_easy_setopt(curl_handle, CURLOPT_URL, strcat(site,file.c_str()));
+		cout<<file<<'\t'<<site<<endl;
+		curl_easy_perform(curl_handle);
+		fclose(f);
+	}
 }
 
 int main(int argc, const char** argv)
@@ -146,7 +197,7 @@ int main(int argc, const char** argv)
 		cout<<"\t-d: for debug use only\n";
 		cout<<"\t-h: prints this help\n";
 		cout<<"\t-k: download from CKO\n";
-		cout<<"\t-m: only download morgue.txt files (ignored)\n";
+		cout<<"\t-m: only download morgue.txt files\n";
 		cout<<"\t-M: also download morgue.lst/morgue.map files (ignored)\n";
 		cout<<"\t-p: download from CPO\n";
 		cout<<"\t-s: also download timestamp files (ignored)\n";
@@ -162,16 +213,27 @@ int main(int argc, const char** argv)
      * 4. Grab the informatino from morgues
      * 5. Output stats, and give some comments (implememt later)
      */
+	username.append(static_cast<string>("/"));
 	curl_global_init(CURL_GLOBAL_ALL);
 	curl_handle=curl_easy_init();
-	curl_easy_setopt(curl_handle, CURLOPT_VERBOSE, 0L);
-	curl_easy_setopt(curl_handle, CURLOPT_NOPROGRESS, 1L);
+	curl_easy_setopt(curl_handle, CURLOPT_VERBOSE, 1L);
+	curl_easy_setopt(curl_handle, CURLOPT_NOPROGRESS, 0L);
 	curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_data);
-	curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, p);
-	curl_easy_setopt(curl_handle, CURLOPT_URL, "https://tesserium.githu.io/");
-	//curl_easy_perform(curl_handle);
+	curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, nullptr);
+	char str[10000]=CAO;
+	if(opts&TEOPMASK_CAO)curl_easy_setopt(curl_handle, CURLOPT_URL, strcat(str,username.c_str())),curl_easy_perform(curl_handle),p[pindex].append(static_cast<string>("a")),pindex++;
+	strcpy(str,CKO);
+	if(opts&TEOPMASK_CKO)curl_easy_setopt(curl_handle, CURLOPT_URL, strcat(str,username.c_str())),curl_easy_perform(curl_handle),p[pindex].append(static_cast<string>("k")),pindex++;
+	strcpy(str,CPO);
+	if(opts&TEOPMASK_CPO)curl_easy_setopt(curl_handle, CURLOPT_URL, strcat(str,username.c_str())),curl_easy_perform(curl_handle),p[pindex].append(static_cast<string>("p")),pindex++;
+	curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_file);
+	for(vector<string>::iterator it=p.begin();it!=p.end();it++)
+	{
+		string gra=*it;
+		grab(gra,opts);
+	}
+
 	curl_easy_cleanup(curl_handle);
 	curl_global_cleanup();
-
     return 0;
 }
