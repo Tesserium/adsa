@@ -1,5 +1,7 @@
-//TODO: Merge files into one. We're not experienced with multi-file programming. May reserve a header file for future use.
-
+/*TODO: Fix numerous severe bugs that greatly prevents user from properly running the program
+ * Bugs fixed list:
+ * 1. 
+ */
 #include<curl/curl.h>
 #include<iostream>
 #include<string>
