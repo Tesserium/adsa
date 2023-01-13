@@ -1,6 +1,11 @@
 /*TODO: Fix numerous severe bugs that greatly prevents user from properly running the program
  * Bugs fixed list:
- * 1. 
+ * 1. Now can deal with compressed morgues.
+ * 2. Erase was before assigning the filename, now reversed.
+ * 
+ * Unfixed known bugs:
+ * 3. Akrasiac morgues sometimes is count twice.
+ * 4. Produced useless info even without `-v`.
  */
 #include<curl/curl.h>
 #include<iostream>
@@ -84,6 +89,18 @@ size_t write_file(char *ptr, size_t size, size_t nmemb, void *userdata)
     return written;
 }
 
+// TODO: Implement this function
+void check_compression()
+{
+	int p=system("gzip");
+	int q=system("bzip2");
+	int r=system("xz");
+	if(p==1)
+	{
+		cerr<<"Your system does not have gzip and thus cannot decompress some archived morgues.\n";
+	}
+}
+
 /*
  * int has 31 non-sign bits.
  * the sign bit is set if the debug option `-d` is given
@@ -134,7 +151,7 @@ int parse_opts(int argc, const char** argv)
 						case 'M':r|=TEOPMASK_LST;nodown=0;break;
 						case 's':r|=TEOPMASK_TS;nodown=0;break;
 						case 't':r|=TEOPMASK_TTYREC;nodown=0;break;
-						case 'v':r|=TEOPMASK_VERB;break;
+						case 'v':r|=TEOPMASK_VERB;break;		
 						case ',':r|=TEOPMASK_DUMP;nodown=0;break;
 						default:r|=TEOPMASK_UKOPT;break;
 					}
@@ -150,13 +167,14 @@ int parse_opts(int argc, const char** argv)
 	if(nodown)
 	{
 		r|=(TEOPMASK_TXT|TEOPMASK_LST|TEOPMASK_TS|TEOPMASK_TTYREC|TEOPMASK_DUMP);
+		r|=TEOPMASK_NONE;
 	}
 	return r;
 }
 
 void grab(string g_,int opts)
 {
-	cout<<"entered grab()\n";
+	size_t tmp=q.size();
 	char sit[1000]="";
 	cout<<4;
 	switch(g_[g_.length()-1])
@@ -171,28 +189,48 @@ void grab(string g_,int opts)
 	// morgue.txt
 	while(opts&TEOPMASK_TXT)
 	{
+		bool archiv=0;
 		size_t po=g.find(static_cast<string>(">morgue-"));
 		if(po==string::npos)
 		{
-			cout<<"there is no morgue files anymore!\ng="<<g;
 			break;
 		}
-		g.erase(0,po+2);
 		po++;
-		string file=g.substr(po,27+username.length()-1);
-		if(file[file.length()-2]!='x')continue;
+		string file=g.substr(po,30+username.length()-1);
+		g.erase(0,po+2);	
+		if(file[file.length()-5]!='x')
+		{
+			cerr<<"Found file "<<file<<", but it does not seem to be a morgue\n";
+			continue;
+		}
+		if(file[file.length()-1]=='z')
+		{
+			archiv=1;
+			if(file[file.length()-2]=='b')file.append("2");
+		}
+		else file.erase(file.length()-3);
 		FILE* f=fopen(file.c_str(),"wb");
 		char site[1000]="";
 		strcpy(site,sit);
 		strcat(site,username.c_str());
 		curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, f);
 		curl_easy_setopt(curl_handle, CURLOPT_URL, strcat(site,file.c_str()));
-		q.push_back(file);
-		cerr<<"Fetching "<<file<<endl;
+		if(!archiv)q.push_back(file);
+		else q.push_back(file.substr(0,27+username.length()-1));
 		curl_easy_perform(curl_handle);
 		fclose(f);
 		cerr<<"Fetched "<<file<<endl;
+		if(archiv) // is archive
+		{
+			cerr<<"The file is an archive. Decompressing using command `";
+			char cmd[1000]="gzip -d -f  ";
+			strncat(cmd,file.c_str(),900);
+			cerr<<cmd<<"`\n";
+			int rety=system(cmd);
+			if(rety)cerr<<"Decompression failed!\n";
+		}
 	}
+	cout<<"Added "<<q.size()-tmp<<" more games on site "<<sit<<endl;
 }
 
 void comb(TeR& r)
