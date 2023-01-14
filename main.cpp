@@ -1,5 +1,11 @@
-//TODO: Merge files into one. We're not experienced with multi-file programming. May reserve a header file for future use.
-
+/*TODO: Fix numerous severe bugs that greatly prevents user from properly running the program
+ * Bugs fixed list:
+ * 1. Now can deal with compressed morgues.
+ * 2. Erase was before assigning the filename, now reversed.
+ * 3. Akrasiac morgues sometimes is count twice.
+ * 4. Hexslinger (Hs) is He for some reason
+ * 5. Produced useless info even without `-v`.
+ */
 #include<curl/curl.h>
 #include<iostream>
 #include<string>
@@ -69,7 +75,6 @@ size_t pindex=0;
 
 size_t write_data(char *ptr, size_t size, size_t nmemb, void *userdata)
 {
-	cout<<'.'<<flush;
 	string hey=static_cast<string>(ptr);
 	if(p.size()==pindex)p.push_back(static_cast<string>(""));
 	p[pindex].append(hey);
@@ -80,6 +85,18 @@ size_t write_file(char *ptr, size_t size, size_t nmemb, void *userdata)
 {
 	size_t written=fwrite(ptr,size,nmemb,(FILE*)userdata);
     return written;
+}
+
+// TODO: Implement this function
+void check_compression()
+{
+	int p=system("gzip");
+	int q=system("bzip2");
+	int r=system("xz");
+	if(p==1)
+	{
+		cerr<<"Your system does not have gzip and thus cannot decompress some archived morgues.\n";
+	}
 }
 
 /*
@@ -132,7 +149,7 @@ int parse_opts(int argc, const char** argv)
 						case 'M':r|=TEOPMASK_LST;nodown=0;break;
 						case 's':r|=TEOPMASK_TS;nodown=0;break;
 						case 't':r|=TEOPMASK_TTYREC;nodown=0;break;
-						case 'v':r|=TEOPMASK_VERB;break;
+						case 'v':r|=TEOPMASK_VERB;break;		
 						case ',':r|=TEOPMASK_DUMP;nodown=0;break;
 						default:r|=TEOPMASK_UKOPT;break;
 					}
@@ -148,15 +165,14 @@ int parse_opts(int argc, const char** argv)
 	if(nodown)
 	{
 		r|=(TEOPMASK_TXT|TEOPMASK_LST|TEOPMASK_TS|TEOPMASK_TTYREC|TEOPMASK_DUMP);
+		r|=TEOPMASK_NONE;
 	}
 	return r;
 }
 
 void grab(string g_,int opts)
 {
-	cout<<"entered grab()\n";
 	char sit[1000]="";
-	cout<<4;
 	switch(g_[g_.length()-1])
 	{
 		case 'a':strcpy(sit,CAO);break;
@@ -164,32 +180,46 @@ void grab(string g_,int opts)
 		case 'p':strcpy(sit,CPO);break;
 		default:break;
 	}
-	cout<<5;
 	string g=g_;
 	// morgue.txt
 	while(opts&TEOPMASK_TXT)
 	{
+		bool archiv=0;
 		size_t po=g.find(static_cast<string>(">morgue-"));
 		if(po==string::npos)
 		{
-			cout<<"there is no morgue files anymore!\ng="<<g;
 			break;
 		}
-		g.erase(0,po+2);
 		po++;
-		string file=g.substr(po,27+username.length()-1);
-		if(file[file.length()-2]!='x')continue;
+		string file=g.substr(po,30+username.length()-1);
+		g.erase(0,po+6);	
+		if(file[file.length()-5]!='x')
+		{
+			continue;
+		}
+		if(file[file.length()-1]=='z')
+		{
+			archiv=1;
+			if(file[file.length()-2]=='b')file.append("2");
+		}
+		else file.erase(file.length()-3);
 		FILE* f=fopen(file.c_str(),"wb");
 		char site[1000]="";
 		strcpy(site,sit);
 		strcat(site,username.c_str());
 		curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, f);
 		curl_easy_setopt(curl_handle, CURLOPT_URL, strcat(site,file.c_str()));
-		q.push_back(file);
-		cerr<<"Fetching "<<file<<endl;
+		if(!archiv)q.push_back(file);
+		else q.push_back(file.substr(0,27+username.length()-1));
 		curl_easy_perform(curl_handle);
 		fclose(f);
-		cerr<<"Fetched "<<file<<endl;
+		if(archiv) // is archive
+		{
+			char cmd[1000]="gzip -d -f  ";
+			strncat(cmd,file.c_str(),900);
+			int rety=system(cmd);
+			if(rety)cerr<<"Decompression failed!\n";
+		}
 	}
 }
 
@@ -323,14 +353,10 @@ void stats(string filename)
             else if((!xl)&&(!go)&&((var=c.find("XL: "))!=string::npos))
             {
                 // xl
-                //TODO: XL NEED WORK!! scan: start counting when a number char is found, stop counting otherwise
                 while(!isdigit(c[var++]));
-                //r.x.insert(r.x.begin(),c[var]);
-                //r.x.insert(r.x.begin(),c[var-1]);
 				if(!isdigit(c[var]))r.x=c[var-1]-'0';
 				else r.x=(c[var-1]-'0')*10+(c[var]-'0');
 				// god
-                //TODO: OLD VERSIONS
                 i.getline(&cc[0],100);
                 c=cc;
                 var=c.find("God: ");
@@ -409,13 +435,10 @@ int main(int argc, const char** argv)
 	curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_data);
 	curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, nullptr);
 	char str[10000]=CAO;
-	cout<<"Fetching file list from " CAO;
 	if(opts&TEOPMASK_CAO)curl_easy_setopt(curl_handle, CURLOPT_URL, strcat(str,username.c_str())),curl_easy_perform(curl_handle),p[pindex].append(static_cast<string>("a")),pindex++;
 	strcpy(str,CKO);
-	cout<<"\netching file list from " CKO;
 	if(opts&TEOPMASK_CKO)curl_easy_setopt(curl_handle, CURLOPT_URL, strcat(str,username.c_str())),curl_easy_perform(curl_handle),p[pindex].append(static_cast<string>("k")),pindex++;
 	strcpy(str,CPO);
-	cout<<"\nFetching file list from " CPO;
 	if(opts&TEOPMASK_CPO)curl_easy_setopt(curl_handle, CURLOPT_URL, strcat(str,username.c_str())),curl_easy_perform(curl_handle),p[pindex].append(static_cast<string>("p")),pindex++;
 	curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_file);
 	for(vector<string>::iterator it=p.begin();it!=p.end();it++)
@@ -430,15 +453,18 @@ int main(int argc, const char** argv)
 	}
 	sort(v.begin(),v.end(),cmp);
 	size_t sum=0;
+	TeR last;
 	for(vector<TeR>::iterator it=v.begin();it!=v.end();it++)
 	{
 		TeR r=*it;
-        sum+=r.score;
+		if(r.filen==last.filen)continue;
+		sum+=r.score;
         string godstr;
         godstr.push_back('^');
         if(r.god)godstr.append(static_cast<string>(short_gods[r.god=='1'?26:r.god-'A']));
         cout<<r.score<<"\t\t"<<r.x<<"\t"<<r.playtime<<"\t"<<r.combo.s<<r.combo.b<<((!r.god)?"\t":godstr)<<"\t\t"<<r.v<<endl;
-    }   
+		last=r;
+	}   
 
 	curl_easy_cleanup(curl_handle);
 	curl_global_cleanup();
