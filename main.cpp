@@ -172,7 +172,6 @@ int parse_opts(int argc, const char** argv)
 
 void grab(string g_,int opts)
 {
-	size_t tmp=q.size();
 	char sit[1000]="";
 	switch(g_[g_.length()-1])
 	{
@@ -210,7 +209,6 @@ void grab(string g_,int opts)
 		strcat(site,username.c_str());
 		curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, f);
 		curl_easy_setopt(curl_handle, CURLOPT_URL, strcat(site,file.c_str()));
-			int ag=q.size();
 		if(!archiv)q.push_back(file);
 		else q.push_back(file.substr(0,27+username.length()-1));
 		curl_easy_perform(curl_handle);
@@ -355,14 +353,10 @@ void stats(string filename)
             else if((!xl)&&(!go)&&((var=c.find("XL: "))!=string::npos))
             {
                 // xl
-                //TODO: XL NEED WORK!! scan: start counting when a number char is found, stop counting otherwise
                 while(!isdigit(c[var++]));
-                //r.x.insert(r.x.begin(),c[var]);
-                //r.x.insert(r.x.begin(),c[var-1]);
 				if(!isdigit(c[var]))r.x=c[var-1]-'0';
 				else r.x=(c[var-1]-'0')*10+(c[var]-'0');
 				// god
-                //TODO: OLD VERSIONS
                 i.getline(&cc[0],100);
                 c=cc;
                 var=c.find("God: ");
