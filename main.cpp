@@ -2,10 +2,9 @@
  * Bugs fixed list:
  * 1. Now can deal with compressed morgues.
  * 2. Erase was before assigning the filename, now reversed.
- * 
- * Unfixed known bugs:
  * 3. Akrasiac morgues sometimes is count twice.
- * 4. Produced useless info even without `-v`.
+ * 4. Hexslinger (Hs) is He for some reason
+ * 5. Produced useless info even without `-v`.
  */
 #include<curl/curl.h>
 #include<iostream>
@@ -76,7 +75,6 @@ size_t pindex=0;
 
 size_t write_data(char *ptr, size_t size, size_t nmemb, void *userdata)
 {
-	cout<<'.'<<flush;
 	string hey=static_cast<string>(ptr);
 	if(p.size()==pindex)p.push_back(static_cast<string>(""));
 	p[pindex].append(hey);
@@ -176,7 +174,6 @@ void grab(string g_,int opts)
 {
 	size_t tmp=q.size();
 	char sit[1000]="";
-	cout<<4;
 	switch(g_[g_.length()-1])
 	{
 		case 'a':strcpy(sit,CAO);break;
@@ -184,7 +181,6 @@ void grab(string g_,int opts)
 		case 'p':strcpy(sit,CPO);break;
 		default:break;
 	}
-	cout<<5;
 	string g=g_;
 	// morgue.txt
 	while(opts&TEOPMASK_TXT)
@@ -197,10 +193,9 @@ void grab(string g_,int opts)
 		}
 		po++;
 		string file=g.substr(po,30+username.length()-1);
-		g.erase(0,po+2);	
+		g.erase(0,po+6);	
 		if(file[file.length()-5]!='x')
 		{
-			cerr<<"Found file "<<file<<", but it does not seem to be a morgue\n";
 			continue;
 		}
 		if(file[file.length()-1]=='z')
@@ -215,22 +210,19 @@ void grab(string g_,int opts)
 		strcat(site,username.c_str());
 		curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, f);
 		curl_easy_setopt(curl_handle, CURLOPT_URL, strcat(site,file.c_str()));
+			int ag=q.size();
 		if(!archiv)q.push_back(file);
 		else q.push_back(file.substr(0,27+username.length()-1));
 		curl_easy_perform(curl_handle);
 		fclose(f);
-		cerr<<"Fetched "<<file<<endl;
 		if(archiv) // is archive
 		{
-			cerr<<"The file is an archive. Decompressing using command `";
 			char cmd[1000]="gzip -d -f  ";
 			strncat(cmd,file.c_str(),900);
-			cerr<<cmd<<"`\n";
 			int rety=system(cmd);
 			if(rety)cerr<<"Decompression failed!\n";
 		}
 	}
-	cout<<"Added "<<q.size()-tmp<<" more games on site "<<sit<<endl;
 }
 
 void comb(TeR& r)
@@ -449,13 +441,10 @@ int main(int argc, const char** argv)
 	curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_data);
 	curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, nullptr);
 	char str[10000]=CAO;
-	cout<<"Fetching file list from " CAO;
 	if(opts&TEOPMASK_CAO)curl_easy_setopt(curl_handle, CURLOPT_URL, strcat(str,username.c_str())),curl_easy_perform(curl_handle),p[pindex].append(static_cast<string>("a")),pindex++;
 	strcpy(str,CKO);
-	cout<<"\netching file list from " CKO;
 	if(opts&TEOPMASK_CKO)curl_easy_setopt(curl_handle, CURLOPT_URL, strcat(str,username.c_str())),curl_easy_perform(curl_handle),p[pindex].append(static_cast<string>("k")),pindex++;
 	strcpy(str,CPO);
-	cout<<"\nFetching file list from " CPO;
 	if(opts&TEOPMASK_CPO)curl_easy_setopt(curl_handle, CURLOPT_URL, strcat(str,username.c_str())),curl_easy_perform(curl_handle),p[pindex].append(static_cast<string>("p")),pindex++;
 	curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_file);
 	for(vector<string>::iterator it=p.begin();it!=p.end();it++)
@@ -470,15 +459,18 @@ int main(int argc, const char** argv)
 	}
 	sort(v.begin(),v.end(),cmp);
 	size_t sum=0;
+	TeR last;
 	for(vector<TeR>::iterator it=v.begin();it!=v.end();it++)
 	{
 		TeR r=*it;
-        sum+=r.score;
+		if(r.filen==last.filen)continue;
+		sum+=r.score;
         string godstr;
         godstr.push_back('^');
         if(r.god)godstr.append(static_cast<string>(short_gods[r.god=='1'?26:r.god-'A']));
         cout<<r.score<<"\t\t"<<r.x<<"\t"<<r.playtime<<"\t"<<r.combo.s<<r.combo.b<<((!r.god)?"\t":godstr)<<"\t\t"<<r.v<<endl;
-    }   
+		last=r;
+	}   
 
 	curl_easy_cleanup(curl_handle);
 	curl_global_cleanup();
