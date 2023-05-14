@@ -265,7 +265,7 @@ void comb(TeR& r)
     // backgrounds
     //TODO: add backgrounds. currently replaceing it with the first 2 letters
     string s2=b.combo_string;
-    size_t tmp=114514;
+    size_t tmp=05;
     b.combo_string=cbs;
     if(s2=="Hedge Wizard") // Hedge Wizard
     {
@@ -278,6 +278,7 @@ void comb(TeR& r)
     else if(s2=="Conjurer")b.b[0]='C',b.b[1]='j';
     else if(s2=="Wanderer")b.b[0]='W',b.b[1]='n';
     else if(s2=="Wizard")b.b[0]='W',b.b[1]='z';
+	else if(s2=="Hexslinger")b.b[0]='H',b.b[1]='s';
     else b.b[0]=s2[0],b.b[1]=s2[1];
     r.combo=b;
 }
@@ -452,10 +453,11 @@ int main(int argc, const char** argv)
 		stats(st);
 	}
 	sort(v.begin(),v.end(),cmp);
-	size_t sum=0;
+	size_t sum=0,num=0;
 	TeR last;
 	for(vector<TeR>::iterator it=v.begin();it!=v.end();it++)
 	{
+		num++;
 		TeR r=*it;
 		if(r.filen==last.filen)continue;
 		sum+=r.score;
@@ -464,7 +466,8 @@ int main(int argc, const char** argv)
         if(r.god)godstr.append(static_cast<string>(short_gods[r.god=='1'?26:r.god-'A']));
         cout<<r.score<<"\t\t"<<r.x<<"\t"<<r.playtime<<"\t"<<r.combo.s<<r.combo.b<<((!r.god)?"\t":godstr)<<"\t\t"<<r.v<<endl;
 		last=r;
-	}   
+	}
+    cout<<"Average "<<sum/(double)num<<" pts";
 
 	curl_easy_cleanup(curl_handle);
 	curl_global_cleanup();
