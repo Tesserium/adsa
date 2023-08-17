@@ -134,427 +134,412 @@ int parse_opts(int argc, const char** argv)
 		else if(!strcmp(argv[i],"update"))r|=TEOPMASK_FETCH,r|=TEOPMASK_IGNEX;
 		else if(!strcmp(argv[i],"stat"))r|=TEOPMASK_STAT;
 		else if(!strcmp(argv[i],"auto"))r|=TEOPMASK_FETCH,r|=TEOPMASK_IGNEX,r|=TEOPMASK_STAT;
-		else if(isalpha(argv[i][0]))r|=TEOPMASK_UKCOMM;
-		else if(argv[i][0]=='-')
+		else if(isalpha(argv[i][0]))r|=TEOPMASK_NCOMM;
+		else r|=TEOPMASK_UKCOMM;
+		// option given
+		for(int j=1;argv[i][j];j++)
 		{
-			if(argv[i][1]=='-') // is a username in `--username` syntax
+			switch(argv[i][j])
 			{
-				r|=TEOPMASK_USER;
-				username=static_cast<string>(argv[i]);
-				username.erase(username.begin());
-				username.erase(username.begin());
-			}
-			else // option
-			{
-				int j=1;
-				while(argv[i][j])
-				{
-					switch(argv[i][j])
-					{
-						// -a: download from CAO
-						// -b: download from CBRO
-						// -d: for debug use only
-						// -h: prints this help
-						// -k: download from CKO
-						// -m: only download morgue.txt files
-						// -M: also download morgue.lst/morgue.map files
-						// -O<filename>: output result to <filename>
-						// -p: download from CPO
-						// -s: also download timestamp files
-						// -t: also download ttyrecs
-						// -u: download from CUE
-						// -v: show progress and other informations
-						// -x: download from CXC
-						// -,: also download character dumps
-						case 'a':r|=TEOPMASK_CAO;nosite=0;break;
-						case 'd':r|=TEOPMASK_DEBUG;break;
-						case 'h':r|=TEOPMASK_HELP;break;
-						case 'k':r|=TEOPMASK_CKO;nosite=0;break;
-						case 'm':r|=TEOPMASK_TXT;nodown=0;break;
-						case 'p':r|=TEOPMASK_CPO;nosite=0;break;
-						case 'v':r|=TEOPMASK_VERB;break;
-						// options that need special care
-						case 'O':break;
-						// TODO: UNFINISHED ONES
-						case 'b':r|=TEOPMASK_CBRO;nosite=0;break;
-						case 'u':r|=TEOPMASK_CUE;nosite=0;break;
-						case 'x':r|=TEOPMASK_CXC;nosite=0;break;
-                        case 'M':r|=TEOPMASK_LST;nodown=0;break;
-                        case 's':r|=TEOPMASK_TS;nodown=0;break;
-                        case 't':r|=TEOPMASK_TTYREC;nodown=0;break;
-						case ',':r|=TEOPMASK_DUMP;nodown=0;break;
-						default:r|=TEOPMASK_UKOPT;break;
-					}
-					if(argv[i][j]=='O')
-					{
-						char outfile[1000]="";
-						strcpy(outfile,argv[i]+j+1);
-						freopen(outfile,"w",stdout);
-						break;
-					}
-					j++;
-				}
+				case 'C':nosite=false;break;
+				case 'c':r|=TEOPMASK_CAO;break;
+				case 'K':r|=TEOPMASK_CKO;break;
+				case 'P':r|=TEOPMASK_CPO;break;
+				case 'X':r|=TEOPMASK_CXC;break;
+				case 'U':r|=TEOPMASK_CUE;break;
+				case 'B':r|=TEOPMASK_CBRO;break;
+				case 't':r|=TEOPMASK_TXT;break;
+				case 'm':r|=TEOPMASK_LST;break;
+				case 's':r|=TEOPMASK_TS;break;
+				case 'T':r|=TEOPMASK_TTYREC;break;
+				case 'd':r|=TEOPMASK_DUMP;nodown=0;break;
+				case '-':r|=TEOPMASK_DEBUG;break;
+				default:r|=TEOPMASK_UKOPT;
 			}
 		}
+		if(nosite)r|=TEOPMASK_NONE;
+		if(nodown)r|=TEOPMASK_NONE;
 	}
-	if(nosite)
-	{
-		r|=(TEOPMASK_CAO|TEOPMASK_CPO|TEOPMASK_CKO);
-	}
-	if(nodown)
-	{
-		r|=(TEOPMASK_TXT|TEOPMASK_LST|TEOPMASK_TS|TEOPMASK_TTYREC|TEOPMASK_DUMP);
-		r|=TEOPMASK_NONE;
-	}
+	if((r&(TEOPMASK_FETCH|TEOPMASK_STAT|TEOPMASK_NCOMM))!=0)nosite=false;
+	if(nosite)r|=TEOPMASK_NONE;
 	return r;
 }
 
-// g_: file as a string; opts: options.
-void grab(string g_,int opts)
+void fetch_n(int n)
 {
-	char sit[1000]=""; // what site is this file?
-	switch(g_[g_.length()-1])
-	{
-		case 'a':strcpy(sit,CAO);break;
-		case 'k':strcpy(sit,CKO);break;
-		case 'p':strcpy(sit,CPO);break;
-		default:break;
-	}
-	string g=g_; // make a copy cuz we gotta change it int the future
-	// morgue.txt
-	while(opts&TEOPMASK_TXT)
-	{
-		// is archived?
-		bool archiv=0;
-		// position of a string that symbols filename
-		size_t po=g.find(static_cast<string>(">morgue-"));
-		if(po==string::npos)
-		{
-			// not found: no more morgues.
-			break;
-		}
-		po++;
-		// get the filename
-		// a typical morgue filename is `morgue-code2828-20230816-024418.txt.gz`, that'll be 30 chars + length of username 
-		string file=g.substr(po,30+username.length()-1);
-		// remove the symbolic substr to avoid repeated downloading
-		g.erase(0,po+6);
-		// is not a txt
-		if(file[file.length()-5]!='x')
-		{
-			continue;
-		}
-		// is a compressed file
-		if(file[file.length()-1]=='z')
-		{
-			archiv=1;
-			// bzip2 files end with bz2 not bz so we need to append this 2 to make it work properly
-			if(file[file.length()-2]=='b')file.append("2");
-		}
-		// else it is not a archive, so we remove that last 3 characters to reveal the .txt extension
-		else file.erase(file.length()-3);
-		// fetch & write to file
-		FILE* f=fopen(file.c_str(),"wb");
-		char site[1000]="";
-		strcpy(site,sit);
-		strcat(site,username.c_str());
-		curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, f);
-		curl_easy_setopt(curl_handle, CURLOPT_URL, strcat(site,file.c_str()));
-		// if not archive: directly push back file.
-		if(!archiv)q.push_back(file);
-		// if an archive: remove the archive extension for further stat analyzing.
-		else q.push_back(file.substr(0,27+username.length()-1));
-		// the real job
-		curl_easy_perform(curl_handle);
-		fclose(f);
-		if(archiv) // is archive
-		{
-			// defaults to gzip archive. TODO: implement other archivers later on.
-			char cmd[1000]="gzip -d -f  ";
-			strncat(cmd,file.c_str(),900);
-			int rety=system(cmd);
-			if(rety)cerr<<"Decompression failed!\n";
-		}
-	}
-}
-
-void comb(TeR& r)
-{
-	TeCombo b=r.combo;
-    string cbs=b.combo_string;
-	// double word species? draconian? these has special abbrs
-    bool is_double_sp=false,drc=0;
-    b.combo_string.erase(b.combo_string.begin(),b.combo_string.begin()+b.combo_string.find(" ")+1);
-    string s1=b.combo_string.substr(0,b.combo_string.find(" "));
-    if((s1=="Red"||s1=="White"||s1=="Green"||s1=="Yellow"||s1=="Grey"||s1=="Black"||s1=="Purple"||s1=="Pale") // is a colored Dr
-        &&b.combo_string.substr(0,min(b.combo_string.length()-1,8UL))!="Grey Elf") // but not a Grey Elf
-        drc=1;
-	// remove the first 'word'
-	// after removal, colored Dr has the raw combo left, double word Sps has the second word left. Everything else has only the Bg left.
-    b.combo_string.erase(0,b.combo_string.find(" ")+1);
-    if(drc)
-    {   
-        b.Dr_color=s1;
-        s1=b.combo_string.substr(0,b.combo_string.find(" "));
-        b.combo_string.erase(0,b.combo_string.find(" ")+1);
-    }   
-    if(s1=="Deep"||s1=="Hill"||s1=="Mountain"||s1=="Sludge"||s1=="Grey"||s1=="Vine"||s1=="Lava") // is a 2-word species
-    {   
-        is_double_sp=true;
-        s1.append(" ");
-        s1.append(b.combo_string.substr(0,b.combo_string.find(" ")));
-    }   
-    if(is_double_sp)
-    {   
-        b.s[0]=s1[0];
-        b.s[1]=s1[s1.find(" ")+1];
-        b.combo_string.erase(0,b.combo_string.find(" ")+1);
-    }   
-    else if(s1=="Armataur")b.s[0]='A',b.s[1]='t';
-    else if(s1=="Demigod")b.s[0]='D',b.s[1]='g';
-    else if(s1=="Demonspawn")b.s[0]='D',b.s[1]='s';
-    else if(s1=="Gnome")b.s[0]='G',b.s[1]='m';
-    else if(s1=="Gargoyle")b.s[0]='G',b.s[1]='r';
-    else if(s1=="Merfolk")b.s[0]='M',b.s[1]='f';
-    else if(s1=="Mayflytaur")b.s[0]='M',b.s[1]='y';
-    else if(s1=="Octopode")b.s[0]='O',b.s[1]='p';
-    else if(s1=="Vampire")b.s[0]='V',b.s[1]='p';
-    else b.s[0]=s1[0],b.s[1]=s1[1];
-    // backgrounds
-    string s2=b.combo_string;
-    size_t tmp=05;
-    b.combo_string=cbs;
-    if(s2=="Hedge Wizard") // Hedge Wizard
-    {
-        if(r.v[1]<'9'&&r.v[1]>='6')b.b[0]='W',b.b[1]='z';// old hw
-        else b.b[0]='H',b.b[1]='W';//new hw
-    }
-    else if((tmp=s2.find(' '))!=string::npos)b.b[0]=s2[0],b.b[1]=s2[tmp+1]; // is a double bg
-    else if(s2=="Transmuter")b.b[0]='T',b.b[1]='m';
-    else if(s2=="Warper")b.b[0]='W',b.b[1]='r';
-    else if(s2=="Conjurer")b.b[0]='C',b.b[1]='j';
-    else if(s2=="Wanderer")b.b[0]='W',b.b[1]='n';
-    else if(s2=="Wizard")b.b[0]='W',b.b[1]='z';
-	else if(s2=="Hexslinger")b.b[0]='H',b.b[1]='s';
-    else b.b[0]=s2[0],b.b[1]=s2[1];
-    r.combo=b;
-}
-
-void stats(string filename)
-{
-	// initialize the game struct
-    TeR r;
-    r.filen=filename;
-    r.score=0;
-    r.god='P';
-    r.x=-1;
-    r.playtime=filename.substr(7+username.length(),15);
-    r.playtime=r.playtime.insert(4,static_cast<string>("."));
-    r.playtime=r.playtime.insert(7,static_cast<string>("."));
-    r.playtime=r.playtime.insert(13,static_cast<string>(":"));
-    r.playtime=r.playtime.insert(16,static_cast<string>(":"));
-    ifstream i(filename);
-    string c="nothing here!";
-    bool ve=0, // VErsion
-         sc=0, // SCore
-         cb=0, // ComBo
-         tu=0, // TUrn
-         xl=0, // XL
-         go=0; // GOd
-    while(!i.eof())
-    {
-        if(ve&&sc&&cb&&xl&&go)break;
-        char cc[100]="\0";
-        i.getline(&cc[0],100);
-        c=cc;
-        size_t var=0;
-        int j=0;
-        while(c[j++]==0&&j<c.length());
-        if(j==c.length())continue;
-        if(j==0)j++;
-        for(;j<c.length();j++)
-        {
-            // check version
-            if((!ve)&&c[j-1]=='0'&&c[j]=='.')
-            {
-                j++;
-                if(j>=c.length()-2)break;
-                string k;
-                while(j<c.length()&&c[j-2]!='-')
-                {
-                    k.insert(k.end(),c[j++]);
-                }
-                r.v=k;
-                ve=1;
-            }
-            // check score
-            else if(c.find(" HPs)")!=string::npos&&(!sc))
-            {
-                for(int z=0;z<c.length()&&c[z]>='0';z++)
-                {
-                    r.score*=10;
-                    r.score+=c[z]-'0';
-                }
-                sc=1;
-                break;
-            }
-            // check combo
-            else if((!cb)&&(var=c.find("Began as "))!=string::npos)
-            {
-                size_t end=c.find(" on ");
-                if(end==string::npos)break;
-                var+=9;
-                r.combo.combo_string=c.substr(var,end-var);
-                cb=1;
-                break;
-            }
-            // check XL & god
-            else if((!xl)&&(!go)&&((var=c.find("XL: "))!=string::npos))
-            {
-                // xl
-                while(!isdigit(c[var++]));
-				if(!isdigit(c[var]))r.x=c[var-1]-'0';
-				else r.x=(c[var-1]-'0')*10+(c[var]-'0');
-				// god
-                i.getline(&cc[0],100);
-                c=cc;
-                var=c.find("God: ");
-                if(var==string::npos)return;
-                //var+=8;//! <--here
-                var++;
-                bool athe=0;
-                while(!((c[var]<='Z'&&c[var]>='A')||c[var]=='t'))
-                {
-                    var++;
-                    if(var==c.length()-1)
-                    {
-                        athe=1;
-                        break;
-                    }
-                }
-                r.god=athe?0:tou(c[var]);
-                if(r.god=='T'&&(c[min(var+1,c.length()-1)]=='h'))r.god='1'; // is TSO (1)
-                xl=go=1;
-                break;
-            }
-        }
-    }
-	// Figure out what combo the game is.
-    comb(r);
-    v.push_back(r);
-}
-
-bool cmp(TeR a,TeR b)
-{
-	if(a.score!=b.score)return a.score>b.score;
-	return strcmp(a.playtime.c_str(),b.playtime.c_str())<0;
-}
-
-int main(int argc, const char** argv)
-{
-	int opts=parse_opts(argc,argv);
-	if(opts<0)
-	{
-		cout<<"opts="<<opts<<endl;
-		cout<<"username="<<username<<endl;
-		return 0;
-	}
-	if(opts&TEOPMASK_UKOPT)cout<<"Unknown option.\n";
-	if(opts&TEOPMASK_UKCOMM)cout<<"Unknown command.\n";
-	if(opts&(TEOPMASK_HELP|TEOPMASK_EMPTY))
-	{
-		// TODO: update usage
-		cout<<"Usage: "<<argv[0]<<" <fetch/update/auto/stat> [options]\n";
-		cout<<"  where [options] can be `--username` where you specify your username or one of the following:\n";
-		cout<<"\t-a: download from CAO\n";
-		cout<<"\t-b: download from CBRO (ignored)\n";
-		cout<<"\t-d: for debug use only\n";
-		cout<<"\t-h: prints this help\n";
-		cout<<"\t-k: download from CKO\n";
-		cout<<"\t-m: only download morgue.txt files\n";
-		cout<<"\t-M: also download morgue.lst/morgue.map files (ignored)\n";
-		cout<<"\t-p: download from CPO\n";
-		cout<<"\t-s: also download timestamp files (ignored)\n";
-		cout<<"\t-t: also download ttyrecs (ignored)\n";
-		cout<<"\t-v: show progress and other informations\n";
-		cout<<"\t-,: also download character dumps (ignored)\n";
-		cout<<"The program downloads everything in you user directory of every known webtiles site by default. To select your desired files, use the options -m, -M, -s, -t and -, above.\n";
-		return 0;
-	}
-	/*
-     * 1. Fetch information from websites
-     * 2. Find the links in fetched indexes
-     * 3. Download morgue files
-     * 4. Grab the information from morgues
-     * 5. Output stats, and give some comments (implememt later)
-     */
-	username.append(static_cast<string>("/"));
-	curl_global_init(CURL_GLOBAL_ALL);
-	curl_handle=curl_easy_init();
-	curl_easy_setopt(curl_handle, CURLOPT_VERBOSE, 0L);
-	curl_easy_setopt(curl_handle, CURLOPT_NOPROGRESS, (long)(!static_cast<bool>(opts&TEOPMASK_VERB)));
+	// fstream owo;
+	// owo.open("whatisthis",ios::out|ios::trunc);
+	// owo<<p[0];
+	// owo.close();
+	
+	CURLcode res;
+	int downbit=0;
+	ifstream owo;
+	// owo.open("whatisthis");
+	// owo>>p[pindex];
+	// owo.close();
+	// owo.open("thisshouldbe");
+	// owo>>p[pindex];
+	// owo.close();
+	// const char* urls[5]={CBRO,CXC,CUE,CPO,CKO};
+	// int downbit=0;
+	// if(((t>>2)&1)==1)
+	// {
+	// 	// p[pindex]=p[pindex].substr(0,p[pindex].size()-1);
+	// 	// owo.open("thisshouldbe",ios::out|ios::trunc);
+	// 	// owo<<p[pindex]<<endl;
+	// 	// owo.close();
+	// 	owo.open("thisshouldbe");
+	// 	owo>>p[pindex];
+	// 	owo.close();
+	// 	owo.open("whatisthis",ios::out|ios::trunc);
+	// 	owo<<p[pindex]<<endl;
+	// 	owo.close();
+	// }
+	// else
+	// {
+	// 	owo.open("whatisthis");
+	// 	owo>>p[pindex];
+	// 	owo.close();
+	// }
+	// p[0]=""
+	
 	curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_data);
-	curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, nullptr);
-	// download from cao
-	// TODO: push strcpy into each if statement. alloc str before everything. free & delete it afterwards.
-	// Download list from CAO. Append a after the file to note its origin.
-	char str[10000]=CAO;
-	if(opts&TEOPMASK_CAO)curl_easy_setopt(curl_handle, CURLOPT_URL, strcat(str,username.c_str())),curl_easy_perform(curl_handle),p[pindex].append(static_cast<string>("a")),pindex++;
-	// Download list from CKO. Append k after the file to note its origin.
-	strcpy(str,CKO);
-	if(opts&TEOPMASK_CKO)curl_easy_setopt(curl_handle, CURLOPT_URL, strcat(str,username.c_str())),curl_easy_perform(curl_handle),p[pindex].append(static_cast<string>("k")),pindex++;
-	// Download list from CPO. Append p after the file to note its origin.
-	strcpy(str,CPO);
-	if(opts&TEOPMASK_CPO)curl_easy_setopt(curl_handle, CURLOPT_URL, strcat(str,username.c_str())),curl_easy_perform(curl_handle),p[pindex].append(static_cast<string>("p")),pindex++;
-	// Start getting files.
-	curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_file);
-	for(vector<string>::iterator it=p.begin();it!=p.end();it++)
+	curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, NULL);
+	curl_easy_setopt(curl_handle, CURLOPT_USERAGENT, "libcurl-agent/1.0");
+	curl_easy_setopt(curl_handle, CURLOPT_AUTOREFERER, 1);
+	curl_easy_setopt(curl_handle, CURLOPT_FOLLOWLOCATION, 1);
+	curl_easy_setopt(curl_handle, CURLOPT_MAXREDIRS, 5);
+	
+	if(p[pindex].size()==0)return;
+	string p_static_copy = p[pindex];
+	if(p_static_copy[0]=='\0')return;
+	char *urls[5]={(char*)CBRO,(char*)CXC,(char*)CUE,(char*)CPO,(char*)CKO};
+	if(((n>>0)&1)==1)
 	{
-		// For every list downloaded, do grab():
-		string gra=*it;
-		grab(gra,opts);
-	}
-	// after grabbing we have the file on local storage & file names in q, a vector<string>.
-	// foreach st:q analyze it stats by calling stats().
-	for(vector<string>::iterator it=q.begin();it!=q.end();it++)
-	{
-		string st=*it;
-		stats(st);
-	}
-	sort(v.begin(),v.end(),cmp);
-	size_t sum=0,num=0;
-	int god_max=-1;
-	char god_max_type;
-	TeR last;
-	cout<<"Score\t\tXL\tPlaytime\t\tCombo\t\t\tVersion"<<endl;
-	for(vector<TeR>::iterator it=v.begin();it!=v.end();it++)
-	{
-		TeR r=*it;
-		// for some reason there might be multiple files with the same name. to avoid repetition here we manually skip those of the same name
-		if(r.filen==last.filen)continue;
-		num++;
-		sum+=r.score;
-        string godstr;
-		if(r.god)
+		for(int i=0;i<5;i++)
 		{
-			godstr.push_back('^');
-			int this_god_times=++gwt[god_to_num(r.god)];
-			if(this_god_times>=god_max)god_max=this_god_times,god_max_type=r.god;
-			godstr.append(static_cast<string>(short_gods[god_to_num(r.god)]));
+			string myurl = p_static_copy + urls[i];
+			curl_easy_setopt(curl_handle, CURLOPT_URL, myurl.c_str());
+			curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_data);
+			res = curl_easy_perform(curl_handle);
+			if (res != CURLE_OK) {
+				fprintf(stderr, "curl_easy_perform() failed: %s\n", curl_easy_strerror(res));
+			}
+			else
+			{
+				owo.open("temp.tar.gz",ios::binary|ios::out|ios::trunc);
+				owo.write(p[pindex].c_str(),p[pindex].size());
+				owo.close();
+				owo.open("temp.tar.gz",ios::binary|ios::in);
+				curl_easy_setopt(curl_handle, CURLOPT_URL, urls[i]);
+				curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_file);
+				FILE *ofile = fopen("temp.tar.gz", "wb");
+				if (ofile)
+				{
+					curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, ofile);
+					res = curl_easy_perform(curl_handle);
+					fclose(ofile);
+				}
+				owo.close();
+				if (res != CURLE_OK) {
+					fprintf(stderr, "curl_easy_perform() failed: %s\n", curl_easy_strerror(res));
+				}
+				owo.open("temp.tar.gz",ios::binary|ios::in);
+				owo.read(p[pindex].data(),p[pindex].size());
+				owo.close();
+				curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, NULL);
+			}
 		}
-		cout<<r.score<<"\t\t"<<r.x<<"\t"<<r.playtime<<"\t"<<r.combo.s<<r.combo.b<<((!r.god)?"\t":godstr)<<"\t\t"<<r.v<<endl;
-		last=r;
 	}
-    cout<<"Average score: "<<sum/(double)num<<" pts."<<endl;
-	cout<<(god_max==-1?"You are a pure athiest and hasn't worshipped any god until now!\n":"You have worshipped ");
-	if(god_max+1)
+	if(((n>>1)&1)==1)
 	{
-		cout<<long_gods[god_to_num(god_max_type)]<<" for "<<god_max<<" times."<<endl;
-		// TODO: Give comment on god choice. such as (chei): "u sure have a slow-paced and easy life!"
+		string myurl = p_static_copy + CAO;
+		curl_easy_setopt(curl_handle, CURLOPT_URL, myurl.c_str());
+		curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_data);
+		res = curl_easy_perform(curl_handle);
+		if (res != CURLE_OK) {
+			fprintf(stderr, "curl_easy_perform() failed: %s\n", curl_easy_strerror(res));
+		}
+		else
+		{
+			owo.open("temp.tar.gz",ios::binary|ios::out|ios::trunc);
+			owo.write(p[pindex].c_str(),p[pindex].size());
+			owo.close();
+			owo.open("temp.tar.gz",ios::binary|ios::in);
+			curl_easy_setopt(curl_handle, CURLOPT_URL, CAO);
+			curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_file);
+			FILE *ofile = fopen("temp.tar.gz", "wb");
+			if (ofile)
+			{
+				curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, ofile);
+				res = curl_easy_perform(curl_handle);
+				fclose(ofile);
+			}
+			owo.close();
+			if (res != CURLE_OK) {
+				fprintf(stderr, "curl_easy_perform() failed: %s\n", curl_easy_strerror(res));
+			}
+			owo.open("temp.tar.gz",ios::binary|ios::in);
+			owo.read(p[pindex].data(),p[pindex].size());
+			owo.close();
+			curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, NULL);
+		}
 	}
-	cout<<flush;
+	if(((n>>2)&1)==1)
+	{
+		string myurl = p_static_copy + CKO;
+		curl_easy_setopt(curl_handle, CURLOPT_URL, myurl.c_str());
+		curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_data);
+		res = curl_easy_perform(curl_handle);
+		if (res != CURLE_OK) {
+			fprintf(stderr, "curl_easy_perform() failed: %s\n", curl_easy_strerror(res));
+		}
+		else
+		{
+			owo.open("temp.tar.gz",ios::binary|ios::out|ios::trunc);
+			owo.write(p[pindex].c_str(),p[pindex].size());
+			owo.close();
+			owo.open("temp.tar.gz",ios::binary|ios::in);
+			curl_easy_setopt(curl_handle, CURLOPT_URL, CKO);
+			curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_file);
+			FILE *ofile = fopen("temp.tar.gz", "wb");
+			if (ofile)
+			{
+				curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, ofile);
+				res = curl_easy_perform(curl_handle);
+				fclose(ofile);
+			}
+			owo.close();
+			if (res != CURLE_OK) {
+				fprintf(stderr, "curl_easy_perform() failed: %s\n", curl_easy_strerror(res));
+			}
+			owo.open("temp.tar.gz",ios::binary|ios::in);
+			owo.read(p[pindex].data(),p[pindex].size());
+			owo.close();
+			curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, NULL);
+		}
+	}
+	if(((n>>3)&1)==1)
+	{
+		string myurl = p_static_copy + CPO;
+		curl_easy_setopt(curl_handle, CURLOPT_URL, myurl.c_str());
+		curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_data);
+		res = curl_easy_perform(curl_handle);
+		if (res != CURLE_OK) {
+			fprintf(stderr, "curl_easy_perform() failed: %s\n", curl_easy_strerror(res));
+		}
+		else
+		{
+			owo.open("temp.tar.gz",ios::binary|ios::out|ios::trunc);
+			owo.write(p[pindex].c_str(),p[pindex].size());
+			owo.close();
+			owo.open("temp.tar.gz",ios::binary|ios::in);
+			curl_easy_setopt(curl_handle, CURLOPT_URL, CPO);
+			curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_file);
+			FILE *ofile = fopen("temp.tar.gz", "wb");
+			if (ofile)
+			{
+				curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, ofile);
+				res = curl_easy_perform(curl_handle);
+				fclose(ofile);
+			}
+			owo.close();
+			if (res != CURLE_OK) {
+				fprintf(stderr, "curl_easy_perform() failed: %s\n", curl_easy_strerror(res));
+			}
+			owo.open("temp.tar.gz",ios::binary|ios::in);
+			owo.read(p[pindex].data(),p[pindex].size());
+			owo.close();
+			curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, NULL);
+		}
+	}
+	if(((n>>4)&1)==1)
+	{
+		string myurl = p_static_copy + CXC;
+		curl_easy_setopt(curl_handle, CURLOPT_URL, myurl.c_str());
+		curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_data);
+		res = curl_easy_perform(curl_handle);
+		if (res != CURLE_OK) {
+			fprintf(stderr, "curl_easy_perform() failed: %s\n", curl_easy_strerror(res));
+		}
+		else
+		{
+			owo.open("temp.tar.gz",ios::binary|ios::out|ios::trunc);
+			owo.write(p[pindex].c_str(),p[pindex].size());
+			owo.close();
+			owo.open("temp.tar.gz",ios::binary|ios::in);
+			curl_easy_setopt(curl_handle, CURLOPT_URL, CXC);
+			curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_file);
+			FILE *ofile = fopen("temp.tar.gz", "wb");
+			if (ofile)
+			{
+				curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, ofile);
+				res = curl_easy_perform(curl_handle);
+				fclose(ofile);
+			}
+			owo.close();
+			if (res != CURLE_OK) {
+				fprintf(stderr, "curl_easy_perform() failed: %s\n", curl_easy_strerror(res));
+			}
+			owo.open("temp.tar.gz",ios::binary|ios::in);
+			owo.read(p[pindex].data(),p[pindex].size());
+			owo.close();
+			curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, NULL);
+		}
+	}
+	if(((n>>5)&1)==1)
+	{
+		string myurl = p_static_copy + CUE;
+		curl_easy_setopt(curl_handle, CURLOPT_URL, myurl.c_str());
+		curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_data);
+		res = curl_easy_perform(curl_handle);
+		if (res != CURLE_OK) {
+			fprintf(stderr, "curl_easy_perform() failed: %s\n", curl_easy_strerror(res));
+		}
+		else
+		{
+			owo.open("temp.tar.gz",ios::binary|ios::out|ios::trunc);
+			owo.write(p[pindex].c_str(),p[pindex].size());
+			owo.close();
+			owo.open("temp.tar.gz",ios::binary|ios::in);
+			curl_easy_setopt(curl_handle, CURLOPT_URL, CUE);
+			curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_file);
+			FILE *ofile = fopen("temp.tar.gz", "wb");
+			if (ofile)
+			{
+				curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, ofile);
+				res = curl_easy_perform(curl_handle);
+				fclose(ofile);
+			}
+			owo.close();
+			if (res != CURLE_OK) {
+				fprintf(stderr, "curl_easy_perform() failed: %s\n", curl_easy_strerror(res));
+			}
+			owo.open("temp.tar.gz",ios::binary|ios::in);
+			owo.read(p[pindex].data(),p[pindex].size());
+			owo.close();
+			curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, NULL);
+		}
+	}
+	// owo.open("whatisthis");
+	// owo>>p[pindex];
+	// owo.close();
+	// owo.open("thisshouldbe",ios::out|ios::trunc);
+	// owo<<p[pindex];
+	// owo.close();
+	// if(downbit==1)
+	// {
+	// 	for(int i=0;i<5;i++)
+	// 	{
+	// 		string myurl = p[pindex] + urls[i];
+	// 		curl_easy_setopt(curl_handle, CURLOPT_URL, myurl.c_str());
+	// 		curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_file);
+	// 		res = curl_easy_perform(curl_handle);
+	// 		if (res != CURLE_OK) {
+	// 			fprintf(stderr, "curl_easy_perform() failed: %s\n", curl_easy_strerror(res));
+	// 		}
+	// 	}
+	// }
+	// if(downbit==2)
+	// {
+	// 	string myurl = p[pindex] + CAO;
+	// 	curl_easy_setopt(curl_handle, CURLOPT_URL, myurl.c_str());
+	// 	curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_file);
+	// 	res = curl_easy_perform(curl_handle);
+	// 	if (res != CURLE_OK) {
+	// 		fprintf(stderr, "curl_easy_perform() failed: %s\n", curl_easy_strerror(res));
+	// 	}
+	// }
+	// if(downbit==3)
+	// {
+	// 	string myurl = p[pindex] + CKO;
+	// 	curl_easy_setopt(curl_handle, CURLOPT_URL, myurl.c_str());
+	// 	curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_file);
+	// 	res = curl_easy_perform(curl_handle);
+	// 	if (res != CURLE_OK) {
+	// 		fprintf(stderr, "curl_easy_perform() failed: %s\n", curl_easy_strerror(res));
+	// 	}
+	// }
+	// if(downbit==4)
+	// {
+	// 	string myurl = p[pindex] + CPO;
+	// 	curl_easy_setopt(curl_handle, CURLOPT_URL, myurl.c_str());
+	// 	curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_file);
+	// 	res = curl_easy_perform(curl_handle);
+	// 	if (res != CURLE_OK) {
+	// 		fprintf(stderr, "curl_easy_perform() failed: %s\n", curl_easy_strerror(res));
+	// 	}
+	// }
+	// if(downbit==5)
+	// {
+	// 	string myurl = p[pindex] + CXC;
+	// 	curl_easy_setopt(curl_handle, CURLOPT_URL, myurl.c_str());
+	// 	curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_file);
+	// 	res = curl_easy_perform(curl_handle);
+	// 	if (res != CURLE_OK) {
+	// 		fprintf(stderr, "curl_easy_perform() failed: %s\n", curl_easy_strerror(res));
+	// 	}
+	// }
+	// if(downbit==6)
+	// {
+	// 	string myurl = p[pindex] + CUE;
+	// 	curl_easy_setopt(curl_handle, CURLOPT_URL, myurl.c_str());
+	// 	curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_file);
+	// 	res = curl_easy_perform(curl_handle);
+	// 	if (res != CURLE_OK) {
+	// 		fprintf(stderr, "curl_easy_perform() failed: %s\n", curl_easy_strerror(res));
+	// 	}
+	// }
+	// curl_easy_setopt(curl_handle, CURLOPT_URL, urls[downbit]);
+	// curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_file);
+	// res = curl_easy_perform(curl_handle);
+	// if (res != CURLE_OK) {
+	// 	fprintf(stderr, "curl_easy_perform() failed: %s\n", curl_easy_strerror(res));
+	// }
+}
 
+void display_usage()
+{
+	printf("Usage: omiread [-htmsTkKPCXUB] [user] [user]...\n");
+	printf("\n");
+	printf("  -h    Display this help message.\n");
+	printf("  -t    Only download the timestamp file.\n");
+	printf("  -m    Only download the morgue list and the map file.\n");
+	printf("  -s    Only download ttyrecs.\n");
+	printf("  -T    Only download character dumps.\n");
+	printf("  -k    Only download morgue.txt (default).\n");
+	printf("  -K    Download ttyrecs and character dumps (default).\n");
+	printf("  -P    Download morgues from CPO server (default).\n");
+	printf("  -C    Download morgues from CAO server.\n");
+	printf("  -X    Download morgues from CXC server.\n");
+	printf("  -U    Download morgues from CUE server.\n");
+	printf("  -B    Download morgues from CBRO server.\n");
+}
+
+int main(int argc, const char **argv)
+{
+	check_compression();
+	curl_global_init(CURL_GLOBAL_DEFAULT);
+	curl_handle = curl_easy_init();
+	int option_bits = parse_opts(argc, argv);
+	int down_bits = option_bits & 0x1F;
+	if (option_bits & TEOPMASK_HELP || option_bits & TEOPMASK_UKCOMM || option_bits & TEOPMASK_UKOPT) {
+		display_usage();
+		return 0;
+	}
+	if (option_bits & TEOPMASK_STAT) {
+		// Handle stat command
+	}
+	if (option_bits & TEOPMASK_FETCH) {
+		if (option_bits & TEOPMASK_DEBUG) {
+			cout << "Downloading options: " << down_bits << endl;
+		}
+		for (pindex = 0; pindex < p.size(); ++pindex) {
+			fetch_n(down_bits);
+		}
+	}
 	curl_easy_cleanup(curl_handle);
 	curl_global_cleanup();
-    return 0;
+	return 0;
 }
