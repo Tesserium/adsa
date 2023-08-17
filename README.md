@@ -48,7 +48,7 @@ Score		XL	Playtime		Combo			Version
 4		1	2022.12.07-00:16:08	GrFi			30-a
 1		1	2022.11.23-00:31:49	DrFE			30-a
 Average score: 3420.91 pts.
-You have worshipped Trog for 18 times.
+You have worshipped Trog for 18 times. // comment: thats the god you worshipped the most
 ```
 
 ## Contribution
