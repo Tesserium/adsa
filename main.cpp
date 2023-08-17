@@ -158,6 +158,7 @@ int parse_opts(int argc, const char** argv)
 						// -k: download from CKO
 						// -m: only download morgue.txt files
 						// -M: also download morgue.lst/morgue.map files
+						// -O<filename>: output result to <filename>
 						// -p: download from CPO
 						// -s: also download timestamp files
 						// -t: also download ttyrecs
@@ -171,7 +172,9 @@ int parse_opts(int argc, const char** argv)
 						case 'k':r|=TEOPMASK_CKO;nosite=0;break;
 						case 'm':r|=TEOPMASK_TXT;nodown=0;break;
 						case 'p':r|=TEOPMASK_CPO;nosite=0;break;
-						case 'v':r|=TEOPMASK_VERB;break;		
+						case 'v':r|=TEOPMASK_VERB;break;
+						// options that need special care
+						case 'O':break;
 						// TODO: UNFINISHED ONES
 						case 'b':r|=TEOPMASK_CBRO;nosite=0;break;
 						case 'u':r|=TEOPMASK_CUE;nosite=0;break;
@@ -181,6 +184,13 @@ int parse_opts(int argc, const char** argv)
                         case 't':r|=TEOPMASK_TTYREC;nodown=0;break;
 						case ',':r|=TEOPMASK_DUMP;nodown=0;break;
 						default:r|=TEOPMASK_UKOPT;break;
+					}
+					if(argv[i][j]=='O')
+					{
+						char outfile[1000]="";
+						strcpy(outfile,argv[i]+j+1);
+						freopen(outfile,"w",stdout);
+						break;
 					}
 					j++;
 				}
@@ -516,6 +526,7 @@ int main(int argc, const char** argv)
 	int god_max=-1;
 	char god_max_type;
 	TeR last;
+	cout<<"Score\t\tXL\tPlaytime\t\tCombo\t\t\tVersion"<<endl;
 	for(vector<TeR>::iterator it=v.begin();it!=v.end();it++)
 	{
 		TeR r=*it;
