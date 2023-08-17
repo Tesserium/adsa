@@ -1,11 +1,3 @@
-/*TODO: Fix numerous severe bugs that greatly prevents user from properly running the program
- * Bugs fixed list:
- * 1. Now can deal with compressed morgues.
- * 2. Erase was before assigning the filename, now reversed.
- * 3. Akrasiac morgues sometimes is count twice.
- * 4. Hexslinger (Hs) is He for some reason
- * 5. Produced useless info even without `-v`.
- */
 #include<curl/curl.h>
 #include<iostream>
 #include<string>
@@ -17,6 +9,9 @@
 #define TEOPMASK_CAO	(1<<0)
 #define TEOPMASK_CKO	(1<<1)
 #define TEOPMASK_CPO	(1<<2)
+#define TEOPMASK_CXC    (1<<3)
+#define TEOPMASK_CUE    (1<<4)
+#define TEOPMASK_CBRO   (1<<5)
 #define TEOPMASK_VERB	(1<<14)
 #define TEOPMASK_TXT	(1<<15)
 #define TEOPMASK_LST	(1<<16)
@@ -32,13 +27,20 @@
 #define TEOPMASK_UKCOMM	(1<<26)
 #define TEOPMASK_UKOPT	(1<<27)
 #define TEOPMASK_FETCH	(1<<28)
+// means IGNore EXisting files
 #define TEOPMASK_IGNEX	(1<<29)
 #define TEOPMASK_STAT	(1<<30)
 #define TEOPMASK_DEBUG	(1<<31)
 #define CAO "http://crawl.akrasiac.org/rawdata/"
 #define CKO "https://crawl.kelbi.org/crawl/morgue/"
 #define CPO "https://crawl.project357.org/morgue/"
-#define tou(x) (('a'<=x&&x<='z')?(x-'a'+'A'):x)
+// TODO: Put in real links.
+#define CBRO "https://example.com/"
+#define CXC "https://example.com/"
+#define CUE "https://example.com/"
+// quick to upper
+#define tou(x) (('a'<=(x)&&(x)<='z')?((x)-'a'+'A'):(x))
+#define god_to_num(y) (('A'<=(y)&&(y)<='Z')?(int)((y)-'A'):(((y)=='1')?26:-1))
 using namespace std;
 using namespace std::filesystem;
 CURL* curl_handle;
@@ -52,6 +54,7 @@ struct TeCombo
 	string Dr_color="";
 };
 
+// everything a game should have
 struct TeR
 {
 	string v;
@@ -67,12 +70,19 @@ struct TeR
 
 vector<TeR> v; // vector that stores every game
 vector<string> q; // vector that stores every morgue file
+int gwt[27]={0}; // God Worshipped Times
+int spt[100]={0}; // SPecied played Times
+int bgt[100]={0}; // BackGround played Times
+// short names for displaying
 const char short_gods[27][20]={"Ash","Beogh","Chei","Dith","Ely","Fedhas","Gozag","Hep","Ignis","Jiyva","Kiku","Lugonu","Makhleb","Nemelex","Oka","Pake","Qazlal","Ru","Sif","Trog","Uskayaw","Veh","Wu Jian","Xom","Yred","Zin","TSO"};
+// trivial names
 const char long_gods[27][40]={"Ashenzari","Beogh","Cheibriados","Dithmenos","Elyvilon","Fedhas Medash","Gozag Ym Sagoz","Hepliaklqana","Ignis","Jiyva","Kikubaaqudgha","Lugonu","Makhleb","Nemelex Xobeh","Okawaru","Pakellas","Qazlal","Ru","Sif Muna","Trog","Uskayaw","Vehumet","Wu Jian Council","Xom","Yredelemnul","Zin","The Shining One"};
 const char full_gods[27][100]={""}; // will be the gods with their titles
+// all the games
 vector<string> p;
 size_t pindex=0;
 
+// two curl writing functions
 size_t write_data(char *ptr, size_t size, size_t nmemb, void *userdata)
 {
 	string hey=static_cast<string>(ptr);
@@ -102,8 +112,9 @@ void check_compression()
 /*
  * int has 31 non-sign bits.
  * the sign bit is set if the debug option `-d` is given
- * bits 0,1,2 stands for if downloads from CAO, CKO and CPO, respectively
- * bits 16,17,18,19 indicates whether morgue.lst/map, timestamp, ttyrecs and character dumps should be downloaded, respectively
+ * bits 0,1,2,3,4 stands for if downloads from CAO, CKO, CPO, CXC, CUE and CBRO respectively
+ * bit 14 is set if verbose is specified.
+ * bits 15,16,17,18,19 indicates whether morgue.txt, morgue.lst/map, timestamp, ttyrecs and character dumps should be downloaded, respectively
  * bit 20 is set if `-h` is found in the options
  * bit 21 is set if none of -mMst, is given
  * bit 22 is set if nothing at all is given
@@ -117,15 +128,16 @@ int parse_opts(int argc, const char** argv)
 	bool nosite=true,nodown=true;
 	if(argc==1)r|=TEOPMASK_EMPTY;
 	for(int i=1;i<argc;i++)
-	{
+	{	
+		// command given
 		if(!strcmp(argv[i],"fetch"))r|=TEOPMASK_FETCH;
 		else if(!strcmp(argv[i],"update"))r|=TEOPMASK_FETCH,r|=TEOPMASK_IGNEX;
 		else if(!strcmp(argv[i],"stat"))r|=TEOPMASK_STAT;
-		else if(!strcmp(argv[i],"auto"))r|=TEOPMASK_FETCH,r|=TEOPMASK_STAT;
+		else if(!strcmp(argv[i],"auto"))r|=TEOPMASK_FETCH,r|=TEOPMASK_IGNEX,r|=TEOPMASK_STAT;
 		else if(isalpha(argv[i][0]))r|=TEOPMASK_UKCOMM;
 		else if(argv[i][0]=='-')
 		{
-			if(argv[i][1]=='-') // username
+			if(argv[i][1]=='-') // is a username in `--username` syntax
 			{
 				r|=TEOPMASK_USER;
 				username=static_cast<string>(argv[i]);
@@ -139,17 +151,34 @@ int parse_opts(int argc, const char** argv)
 				{
 					switch(argv[i][j])
 					{
+						// -a: download from CAO
+						// -b: download from CBRO
+						// -d: for debug use only
+						// -h: prints this help
+						// -k: download from CKO
+						// -m: only download morgue.txt files
+						// -M: also download morgue.lst/morgue.map files
+						// -p: download from CPO
+						// -s: also download timestamp files
+						// -t: also download ttyrecs
+						// -u: download from CUE
+						// -v: show progress and other informations
+						// -x: download from CXC
+						// -,: also download character dumps
 						case 'a':r|=TEOPMASK_CAO;nosite=0;break;
-						case 'b':break;
 						case 'd':r|=TEOPMASK_DEBUG;break;
 						case 'h':r|=TEOPMASK_HELP;break;
 						case 'k':r|=TEOPMASK_CKO;nosite=0;break;
-						case 'p':r|=TEOPMASK_CPO;nosite=0;break;
 						case 'm':r|=TEOPMASK_TXT;nodown=0;break;
-						case 'M':r|=TEOPMASK_LST;nodown=0;break;
-						case 's':r|=TEOPMASK_TS;nodown=0;break;
-						case 't':r|=TEOPMASK_TTYREC;nodown=0;break;
+						case 'p':r|=TEOPMASK_CPO;nosite=0;break;
 						case 'v':r|=TEOPMASK_VERB;break;		
+						// TODO: UNFINISHED ONES
+						case 'b':r|=TEOPMASK_CBRO;nosite=0;break;
+						case 'u':r|=TEOPMASK_CUE;nosite=0;break;
+						case 'x':r|=TEOPMASK_CXC;nosite=0;break;
+                        case 'M':r|=TEOPMASK_LST;nodown=0;break;
+                        case 's':r|=TEOPMASK_TS;nodown=0;break;
+                        case 't':r|=TEOPMASK_TTYREC;nodown=0;break;
 						case ',':r|=TEOPMASK_DUMP;nodown=0;break;
 						default:r|=TEOPMASK_UKOPT;break;
 					}
@@ -170,9 +199,10 @@ int parse_opts(int argc, const char** argv)
 	return r;
 }
 
+// g_: file as a string; opts: options.
 void grab(string g_,int opts)
 {
-	char sit[1000]="";
+	char sit[1000]=""; // what site is this file?
 	switch(g_[g_.length()-1])
 	{
 		case 'a':strcpy(sit,CAO);break;
@@ -180,41 +210,56 @@ void grab(string g_,int opts)
 		case 'p':strcpy(sit,CPO);break;
 		default:break;
 	}
-	string g=g_;
+	string g=g_; // make a copy cuz we gotta change it int the future
 	// morgue.txt
 	while(opts&TEOPMASK_TXT)
 	{
+		// is archived?
 		bool archiv=0;
+		// position of a string that symbols filename
 		size_t po=g.find(static_cast<string>(">morgue-"));
 		if(po==string::npos)
 		{
+			// not found: no more morgues.
 			break;
 		}
 		po++;
+		// get the filename
+		// a typical morgue filename is `morgue-code2828-20230816-024418.txt.gz`, that'll be 30 chars + length of username 
 		string file=g.substr(po,30+username.length()-1);
-		g.erase(0,po+6);	
+		// remove the symbolic substr to avoid repeated downloading
+		g.erase(0,po+6);
+		// is not a txt
 		if(file[file.length()-5]!='x')
 		{
 			continue;
 		}
+		// is a compressed file
 		if(file[file.length()-1]=='z')
 		{
 			archiv=1;
+			// bzip2 files end with bz2 not bz so we need to append this 2 to make it work properly
 			if(file[file.length()-2]=='b')file.append("2");
 		}
+		// else it is not a archive, so we remove that last 3 characters to reveal the .txt extension
 		else file.erase(file.length()-3);
+		// fetch & write to file
 		FILE* f=fopen(file.c_str(),"wb");
 		char site[1000]="";
 		strcpy(site,sit);
 		strcat(site,username.c_str());
 		curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, f);
 		curl_easy_setopt(curl_handle, CURLOPT_URL, strcat(site,file.c_str()));
+		// if not archive: directly push back file.
 		if(!archiv)q.push_back(file);
+		// if an archive: remove the archive extension for further stat analyzing.
 		else q.push_back(file.substr(0,27+username.length()-1));
+		// the real job
 		curl_easy_perform(curl_handle);
 		fclose(f);
 		if(archiv) // is archive
 		{
+			// defaults to gzip archive. TODO: implement other archivers later on.
 			char cmd[1000]="gzip -d -f  ";
 			strncat(cmd,file.c_str(),900);
 			int rety=system(cmd);
@@ -227,12 +272,15 @@ void comb(TeR& r)
 {
 	TeCombo b=r.combo;
     string cbs=b.combo_string;
+	// double word species? draconian? these has special abbrs
     bool is_double_sp=false,drc=0;
     b.combo_string.erase(b.combo_string.begin(),b.combo_string.begin()+b.combo_string.find(" ")+1);
     string s1=b.combo_string.substr(0,b.combo_string.find(" "));
     if((s1=="Red"||s1=="White"||s1=="Green"||s1=="Yellow"||s1=="Grey"||s1=="Black"||s1=="Purple"||s1=="Pale") // is a colored Dr
         &&b.combo_string.substr(0,min(b.combo_string.length()-1,8UL))!="Grey Elf") // but not a Grey Elf
         drc=1;
+	// remove the first 'word'
+	// after removal, colored Dr has the raw combo left, double word Sps has the second word left. Everything else has only the Bg left.
     b.combo_string.erase(0,b.combo_string.find(" ")+1);
     if(drc)
     {   
@@ -263,7 +311,6 @@ void comb(TeR& r)
     else if(s1=="Vampire")b.s[0]='V',b.s[1]='p';
     else b.s[0]=s1[0],b.s[1]=s1[1];
     // backgrounds
-    //TODO: add backgrounds. currently replaceing it with the first 2 letters
     string s2=b.combo_string;
     size_t tmp=05;
     b.combo_string=cbs;
@@ -285,6 +332,7 @@ void comb(TeR& r)
 
 void stats(string filename)
 {
+	// initialize the game struct
     TeR r;
     r.filen=filename;
     r.score=0;
@@ -381,6 +429,7 @@ void stats(string filename)
             }
         }
     }
+	// Figure out what combo the game is.
     comb(r);
     v.push_back(r);
 }
@@ -404,6 +453,7 @@ int main(int argc, const char** argv)
 	if(opts&TEOPMASK_UKCOMM)cout<<"Unknown command.\n";
 	if(opts&(TEOPMASK_HELP|TEOPMASK_EMPTY))
 	{
+		// TODO: update usage
 		cout<<"Usage: "<<argv[0]<<" <fetch/update/auto/stat> [options]\n";
 		cout<<"  where [options] can be `--username` where you specify your username or one of the following:\n";
 		cout<<"\t-a: download from CAO\n";
@@ -422,10 +472,10 @@ int main(int argc, const char** argv)
 		return 0;
 	}
 	/*
-     * 1. Fetch information from websites (CAO, CKO)
+     * 1. Fetch information from websites
      * 2. Find the links in fetched indexes
      * 3. Download morgue files
-     * 4. Grab the informatino from morgues
+     * 4. Grab the information from morgues
      * 5. Output stats, and give some comments (implememt later)
      */
 	username.append(static_cast<string>("/"));
@@ -435,18 +485,27 @@ int main(int argc, const char** argv)
 	curl_easy_setopt(curl_handle, CURLOPT_NOPROGRESS, (long)(!static_cast<bool>(opts&TEOPMASK_VERB)));
 	curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_data);
 	curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, nullptr);
+	// download from cao
+	// TODO: push strcpy into each if statement. alloc str before everything. free & delete it afterwards.
+	// Download list from CAO. Append a after the file to note its origin.
 	char str[10000]=CAO;
 	if(opts&TEOPMASK_CAO)curl_easy_setopt(curl_handle, CURLOPT_URL, strcat(str,username.c_str())),curl_easy_perform(curl_handle),p[pindex].append(static_cast<string>("a")),pindex++;
+	// Download list from CKO. Append k after the file to note its origin.
 	strcpy(str,CKO);
 	if(opts&TEOPMASK_CKO)curl_easy_setopt(curl_handle, CURLOPT_URL, strcat(str,username.c_str())),curl_easy_perform(curl_handle),p[pindex].append(static_cast<string>("k")),pindex++;
+	// Download list from CPO. Append p after the file to note its origin.
 	strcpy(str,CPO);
 	if(opts&TEOPMASK_CPO)curl_easy_setopt(curl_handle, CURLOPT_URL, strcat(str,username.c_str())),curl_easy_perform(curl_handle),p[pindex].append(static_cast<string>("p")),pindex++;
+	// Start getting files.
 	curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_file);
 	for(vector<string>::iterator it=p.begin();it!=p.end();it++)
 	{
+		// For every list downloaded, do grab():
 		string gra=*it;
 		grab(gra,opts);
 	}
+	// after grabbing we have the file on local storage & file names in q, a vector<string>.
+	// foreach st:q analyze it stats by calling stats().
 	for(vector<string>::iterator it=q.begin();it!=q.end();it++)
 	{
 		string st=*it;
@@ -454,20 +513,35 @@ int main(int argc, const char** argv)
 	}
 	sort(v.begin(),v.end(),cmp);
 	size_t sum=0,num=0;
+	int god_max=-1;
+	char god_max_type;
 	TeR last;
 	for(vector<TeR>::iterator it=v.begin();it!=v.end();it++)
 	{
-		num++;
 		TeR r=*it;
+		// for some reason there might be multiple files with the same name. to avoid repetition here we manually skip those of the same name
 		if(r.filen==last.filen)continue;
+		num++;
 		sum+=r.score;
         string godstr;
-        godstr.push_back('^');
-        if(r.god)godstr.append(static_cast<string>(short_gods[r.god=='1'?26:r.god-'A']));
-        cout<<r.score<<"\t\t"<<r.x<<"\t"<<r.playtime<<"\t"<<r.combo.s<<r.combo.b<<((!r.god)?"\t":godstr)<<"\t\t"<<r.v<<endl;
+		if(r.god)
+		{
+			godstr.push_back('^');
+			int this_god_times=++gwt[god_to_num(r.god)];
+			if(this_god_times>=god_max)god_max=this_god_times,god_max_type=r.god;
+			godstr.append(static_cast<string>(short_gods[god_to_num(r.god)]));
+		}
+		cout<<r.score<<"\t\t"<<r.x<<"\t"<<r.playtime<<"\t"<<r.combo.s<<r.combo.b<<((!r.god)?"\t":godstr)<<"\t\t"<<r.v<<endl;
 		last=r;
 	}
-    cout<<"Average "<<sum/(double)num<<" pts";
+    cout<<"Average score: "<<sum/(double)num<<" pts."<<endl;
+	cout<<(god_max==-1?"You are a pure athiest and hasn't worshipped any god until now!\n":"You have worshipped ");
+	if(god_max+1)
+	{
+		cout<<long_gods[god_to_num(god_max_type)]<<" for "<<god_max<<" times."<<endl;
+		// TODO: Give comment on god choice. such as (chei): "u sure have a slow-paced and easy life!"
+	}
+	cout<<flush;
 
 	curl_easy_cleanup(curl_handle);
 	curl_global_cleanup();
