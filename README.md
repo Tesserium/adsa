@@ -52,5 +52,5 @@ You have worshipped Trog for 18 times.
 ```
 
 ## Contribution
-The best way to contribute to this project is to join Tesserium! Ask any owner of Tesserium for more details.
+The best way to contribute to this project is to join Tesserium! E-mail me <tmp_0x02@null.net> or any owner of the team for more details.
 
