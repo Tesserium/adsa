@@ -31,6 +31,7 @@ jobs:
       - run:
           name: "Build"
           command: |
+            ls
             g++ -Wall -O2 -std=c++17 -Icurl-8.2.1/include -Lcurl-8.2.1/lib -o adsa main.cpp -lcurl
       - store_artifacts:
           path: adsa
