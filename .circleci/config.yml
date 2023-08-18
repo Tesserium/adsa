@@ -13,12 +13,12 @@ jobs:
       - run:
           name: "Prepare curl"
           command: |
-            "curl https://curl.se/download/curl-8.2.1.tar.gz > curl-8.2.1.tar.gz"
-            "tar xf curl-8.2.1.tar.gz"
-            "cd curl-8.2.1"
-            "./configure --with-gnutls"
-            "make"
-            "cd .."
+            bash -c "curl -O https://curl.se/download/curl-8.2.1.tar.gz"
+            tar xf curl-8.2.1.tar.gz
+            cd curl-8.2.1
+            ./configure --with-gnutls
+            make
+            cd ..
   build:
     # Specify the execution environment. You can specify an image from Docker Hub or use one of our convenience images from CircleCI's Developer Hub.
     # See: https://circleci.com/docs/configuration-reference/#executor-job
