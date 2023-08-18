@@ -30,23 +30,28 @@ jobs:
       - checkout
       - run:
           name: "Build"
-          command: "g++ -Wall -O2 -std=c++17 -Icurl-8.2.1/include -Lcurl-8.2.1/lib -o adsa main.cpp -lcurl"
+          command: |
+            g++ -Wall -O2 -std=c++17 -Icurl-8.2.1/include -Lcurl-8.2.1/lib -o adsa main.cpp -lcurl
+            bash -c "./adsa -pOexample_output.txt"
       - store_artifacts:
           path: adsa
           destination: adsa
-  test:
-    docker:
-      - image: cimg/base:stable
-    steps:
-      - checkout
-      - build
-      - run:
-          name: "Tests"
-          command: |
-            bash -c "./adsa -pOexample_output.txt"
       - store_artifacts:
           path: example_output.txt
           destination: example_output.txt
+      
+  # test:
+  #   docker:
+  #     - image: cimg/base:stable
+  #   steps:
+  #     - checkout
+  #     - run:
+  #         name: "Tests"
+  #         command: |
+  #           bash -c "./adsa -pOexample_output.txt"
+  #     - store_artifacts:
+  #         path: example_output.txt
+  #         destination: example_output.txt
 
 workflows:
   default-workflow:
