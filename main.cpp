@@ -153,11 +153,11 @@ int parse_opts(int argc, const char** argv)
 					{
 						// -a: download from CAO
 						// -b: download from CBRO
-						// -d: for debug use only
+						// -d: also download character dumps
 						// -h: prints this help
 						// -k: download from CKO
+						// -l: also download morgue.lst/morgue.map files
 						// -m: only download morgue.txt files
-						// -M: also download morgue.lst/morgue.map files
 						// -O<filename>: output result to <filename>
 						// -p: download from CPO
 						// -s: also download timestamp files
@@ -165,24 +165,24 @@ int parse_opts(int argc, const char** argv)
 						// -u: download from CUE
 						// -v: show progress and other informations
 						// -x: download from CXC
-						// -,: also download character dumps
+						// -,: for debug use only
 						case 'a':r|=TEOPMASK_CAO;nosite=0;break;
-						case 'd':r|=TEOPMASK_DEBUG;break;
 						case 'h':r|=TEOPMASK_HELP;break;
 						case 'k':r|=TEOPMASK_CKO;nosite=0;break;
 						case 'm':r|=TEOPMASK_TXT;nodown=0;break;
 						case 'p':r|=TEOPMASK_CPO;nosite=0;break;
 						case 'v':r|=TEOPMASK_VERB;break;
+						case ',':r|=TEOPMASK_DEBUG;break;
 						// options that need special care
 						case 'O':break;
 						// TODO: UNFINISHED ONES
 						case 'b':r|=TEOPMASK_CBRO;nosite=0;break;
 						case 'u':r|=TEOPMASK_CUE;nosite=0;break;
 						case 'x':r|=TEOPMASK_CXC;nosite=0;break;
-                        case 'M':r|=TEOPMASK_LST;nodown=0;break;
+                        case 'l':r|=TEOPMASK_LST;nodown=0;break;
                         case 's':r|=TEOPMASK_TS;nodown=0;break;
                         case 't':r|=TEOPMASK_TTYREC;nodown=0;break;
-						case ',':r|=TEOPMASK_DUMP;nodown=0;break;
+						case 'd':r|=TEOPMASK_DUMP;nodown=0;break;
 						default:r|=TEOPMASK_UKOPT;break;
 					}
 					if(argv[i][j]=='O')
@@ -466,19 +466,14 @@ int main(int argc, const char** argv)
 		// TODO: update usage
 		cout<<"Usage: "<<argv[0]<<" <fetch/update/auto/stat> [options]\n";
 		cout<<"  where [options] can be `--username` where you specify your username or one of the following:\n";
+		cout<<"\t-O<filename>: redirect stdout to a file with name <filename>\n";
 		cout<<"\t-a: download from CAO\n";
-		cout<<"\t-b: download from CBRO (ignored)\n";
-		cout<<"\t-d: for debug use only\n";
 		cout<<"\t-h: prints this help\n";
 		cout<<"\t-k: download from CKO\n";
-		cout<<"\t-m: only download morgue.txt files\n";
-		cout<<"\t-M: also download morgue.lst/morgue.map files (ignored)\n";
+		cout<<"\t-m: download txts (current default behavior)\n";
 		cout<<"\t-p: download from CPO\n";
-		cout<<"\t-s: also download timestamp files (ignored)\n";
-		cout<<"\t-t: also download ttyrecs (ignored)\n";
 		cout<<"\t-v: show progress and other informations\n";
-		cout<<"\t-,: also download character dumps (ignored)\n";
-		cout<<"The program downloads everything in you user directory of every known webtiles site by default. To select your desired files, use the options -m, -M, -s, -t and -, above.\n";
+		cout<<"\t-,: for debug use only\n";
 		return 0;
 	}
 	/*
