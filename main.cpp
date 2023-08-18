@@ -544,7 +544,7 @@ int main(int argc, const char** argv)
 	cout<<(god_max==-1?"You are a pure athiest and hasn't worshipped any god until now!\n":"You have worshipped ");
 	if(god_max+1)
 	{
-		cout<<long_gods[god_to_num(god_max_type)]<<" for "<<god_max<<" times."<<endl;
+		cout<<long_gods[god_to_num(god_max_type)]<<" for "<<god_max<<" times, which is the most among all gods."<<endl;
 		// TODO: Give comment on god choice. such as (chei): "u sure have a slow-paced and easy life!"
 	}
 	cout<<flush;

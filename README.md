@@ -7,8 +7,7 @@ Usage:
 + k => kelbi
 + p => project357
 + v => verbose
-
-* The usage that `-h` shows is **NOT** true. It may get updated soon. See [#8](https://github.com/Tesserium/adsa/issues/8) for more information. 
+Or do `./adsa -h` for more information.
 
 If you don't specify any username the author's (@code2828) will be used by default.
 
@@ -48,7 +47,7 @@ Score		XL	Playtime		Combo			Version
 4		1	2022.12.07-00:16:08	GrFi			30-a
 1		1	2022.11.23-00:31:49	DrFE			30-a
 Average score: 3420.91 pts.
-You have worshipped Trog for 18 times. // comment: thats the god you worshipped the most
+You have worshipped Trog for 18 times, which is the most among all gods.
 ```
 
 ## Contribution
