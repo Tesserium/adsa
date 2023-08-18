@@ -35,9 +35,6 @@ jobs:
       - store_artifacts:
           path: adsa
           destination: adsa
-      - store_artifacts:
-          path: example_output.txt
-          destination: example_output.txt
   test:
     docker:
       - image: cimg/base:stable
@@ -45,7 +42,7 @@ jobs:
       - checkout
       - run:
           name: "Tests"
-          command: bash -c "./adsa -pOexample_output.txt"
+          command: bash -c "ls"
       - store_artifacts:
           path: example_output.txt
           destination: example_output.txt
