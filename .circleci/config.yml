@@ -13,7 +13,8 @@ jobs:
       - run:
           name: "Prepare curl"
           command: |
-            "wget -O \"https://curl.se/download/curl-8.2.1.tar.gz\""
+            "sudo apt-get install curl"
+            "curl -O https://curl.se/download/curl-8.2.1.tar.gz"
             "tar xf curl-8.2.1.tar.gz"
             "cd curl-8.2.1"
             "./configure --with-gnutls"
