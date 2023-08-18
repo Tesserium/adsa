@@ -5,20 +5,20 @@ version: 2.1
 # Define a job to be invoked later in a workflow.
 # See: https://circleci.com/docs/configuration-reference/#jobs
 jobs:
-  getcurl:
-    docker:
-      - image: cimg/base:stable
-    steps:
-      - checkout
-      - run:
-          name: "Prepare curl"
-          command: |
-            bash -c "curl -O https://curl.se/download/curl-8.2.1.tar.gz"
-            tar xf curl-8.2.1.tar.gz
-            cd curl-8.2.1
-            ./configure --with-gnutls
-            make
-            cd ..
+  # getcurl:
+  #   docker:
+  #     - image: cimg/base:stable
+  #   steps:
+  #     - checkout
+  #     - run:
+  #         name: "Prepare curl"
+  #         command: |
+  #           bash -c "curl -O https://curl.se/download/curl-8.2.1.tar.gz"
+  #           tar xf curl-8.2.1.tar.gz
+  #           cd curl-8.2.1
+  #           ./configure --with-gnutls
+  #           make
+  #           cd ..
   build:
     # Specify the execution environment. You can specify an image from Docker Hub or use one of our convenience images from CircleCI's Developer Hub.
     # See: https://circleci.com/docs/configuration-reference/#executor-job
@@ -31,19 +31,19 @@ jobs:
       - run:
           name: "Build"
           command: |
-            ls
             g++ -Wall -O2 -std=c++17 -Icurl-8.2.1/include -Lcurl-8.2.1/lib -o adsa main.cpp -lcurl
+            bash -c "./adsa -pvOexample_output.txt"
       - store_artifacts:
           path: adsa
           destination: adsa
-  test:
-    docker:
-      - image: cimg/base:stable
-    steps:
-      - checkout
-      - run:
-          name: "Tests"
-          command: bash -c "ls"
+  # test:
+  #   docker:
+  #     - image: cimg/base:stable
+  #   steps:
+  #     - checkout
+  #     - run:
+  #         name: "Tests"
+  #         command: bash -c "ls"
       - store_artifacts:
           path: example_output.txt
           destination: example_output.txt
@@ -51,10 +51,11 @@ jobs:
 workflows:
   default-workflow:
     jobs:
-      - getcurl
-      - build:
-          requires:
-            - getcurl
-      - test:
-          requires:
-            - build
+      - build
+      # - getcurl
+      # - build:
+          # requires:
+            # - getcurl
+      # - test:
+          # requires:
+            # - build
