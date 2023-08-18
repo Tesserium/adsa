@@ -39,6 +39,7 @@ jobs:
       - image: cimg/base:stable
     steps:
       - checkout
+      - build
       - run:
           name: "Tests"
           command: |
