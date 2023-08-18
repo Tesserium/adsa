@@ -42,7 +42,7 @@ jobs:
       - run:
           name: "Tests"
           command: |
-            "./adsa -pOexample_output.txt"
+            bash -c "./adsa -pOexample_output.txt"
       - store_artifacts:
           path: example_output.txt
           destination: example_output.txt
