@@ -13,8 +13,7 @@ jobs:
       - run:
           name: "Prepare curl"
           command: |
-            "apk update && apk add curl"
-            "curl -O https://curl.se/download/curl-8.2.1.tar.gz"
+            "bash -c \"curl -O https://curl.se/download/curl-8.2.1.tar.gz\""
             "tar xf curl-8.2.1.tar.gz"
             "cd curl-8.2.1"
             "./configure --with-gnutls"
