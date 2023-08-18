@@ -13,7 +13,7 @@ jobs:
       - run:
           name: "Prepare curl"
           command: |
-            "sudo apt-get install curl"
+            "apk update && apk add curl"
             "curl -O https://curl.se/download/curl-8.2.1.tar.gz"
             "tar xf curl-8.2.1.tar.gz"
             "cd curl-8.2.1"
