@@ -52,8 +52,8 @@ workflows:
     jobs:
       - getcurl
       - build:
-        requires:
-          - getcurl
+          requires:
+            - getcurl
       - test:
-        requires:
-          - build
+          requires:
+            - build
