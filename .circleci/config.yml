@@ -13,7 +13,7 @@ jobs:
       - run:
           name: "Prepare curl"
           command: |
-            "which curl"
+            "curl"
             "tar xf curl-8.2.1.tar.gz"
             "cd curl-8.2.1"
             "./configure --with-gnutls"
