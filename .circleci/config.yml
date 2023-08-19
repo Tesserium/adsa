@@ -32,7 +32,7 @@ jobs:
           name: "Build"
           command: |
             g++ -Wall -O2 -std=c++17 -Icurl-8.2.1/include -Lcurl-8.2.1/lib -o adsa main.cpp -lcurl
-            bash -c "./adsa -pvOexample_output.txt"
+            bash -c "./adsa update -p2Oexample_output.txt"
       - store_artifacts:
           path: adsa
           destination: adsa

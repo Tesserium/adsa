@@ -86,6 +86,7 @@ const char full_gods[27][100]={""}; // will be the gods with their titles
 // all the games
 vector<string> p;
 size_t pindex=0;
+string wd="."; // Working Directory
 
 // two curl writing functions
 size_t write_data(char *ptr, size_t size, size_t nmemb, void *userdata)
@@ -159,6 +160,7 @@ int parse_opts(int argc, const char** argv)
 						// -a: download from CAO
 						// -b: download from CBRO
 						// -d: also download character dumps
+						// -D: directory to put the files
 						// -h: prints this help
 						// -k: download from CKO
 						// -l: also download morgue.lst/morgue.map files
@@ -185,7 +187,7 @@ int parse_opts(int argc, const char** argv)
 						case '3':r|=TEOPMASK_VERB;verbosity=3;break;
 						case ',':r|=TEOPMASK_DEBUG;break;
 						// options that need special care
-						case 'O':break;
+						case 'O':case 'D':break;
 						// TODO: UNFINISHED ONES
 						case 'b':r|=TEOPMASK_CBRO;nosite=0;break;
 						case 'u':r|=TEOPMASK_CUE;nosite=0;break;
@@ -202,6 +204,11 @@ int parse_opts(int argc, const char** argv)
 						strcpy(outfile,argv[i]+j+1);
 						freopen(outfile,"w",stdout);
 						break;
+					}
+					else if(argv[i][j]=='D')
+					{
+						// not implemented.
+						r|=TEOPMASK_UKOPT;uko='D';
 					}
 					j++;
 				}
@@ -264,6 +271,17 @@ void grab(string g_,int opts)
 		}
 		// else it is not a archive, so we remove that last 3 characters to reveal the .txt extension
 		else file.erase(file.length()-3);
+		// is the file already there?
+		if(opts&TEOPMASK_IGNEX)
+		{
+			if(exists(file.substr(0,27+username.length()-1)))
+			{
+				if(v2)cerr<<"File "<<file.substr(0,27+username.length()-1)<<" exists. Ignoring download request.\n";
+				if(!archiv)q.push_back(file);
+				else q.push_back(file.substr(0,27+username.length()-1));
+				continue;
+			}
+		}
 		// fetch & write to file
 		FILE* f=fopen(file.c_str(),"wb");
 		char site[1000]="";
@@ -595,3 +613,4 @@ int main(int argc, const char** argv)
 	curl_global_cleanup();
     return 0;
 }
+
