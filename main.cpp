@@ -41,6 +41,9 @@
 // quick to upper
 #define tou(x) (('a'<=(x)&&(x)<='z')?((x)-'a'+'A'):(x))
 #define god_to_num(y) (('A'<=(y)&&(y)<='Z')?(int)((y)-'A'):(((y)=='1')?26:-1))
+#define v1 (verbosity>=1)
+#define v2 (verbosity>=2)
+#define v3 (verbosity>=3)
 using namespace std;
 using namespace std::filesystem;
 CURL* curl_handle;
@@ -73,6 +76,8 @@ vector<string> q; // vector that stores every morgue file
 int gwt[27]={0}; // God Worshipped Times
 int spt[100]={0}; // SPecied played Times
 int bgt[100]={0}; // BackGround played Times
+int verbosity=0;
+char uko='\0';
 // short names for displaying
 const char short_gods[27][20]={"Ash","Beogh","Chei","Dith","Ely","Fedhas","Gozag","Hep","Ignis","Jiyva","Kiku","Lugonu","Makhleb","Nemelex","Oka","Pake","Qazlal","Ru","Sif","Trog","Uskayaw","Veh","Wu Jian","Xom","Yred","Zin","TSO"};
 // trivial names
@@ -81,6 +86,7 @@ const char full_gods[27][100]={""}; // will be the gods with their titles
 // all the games
 vector<string> p;
 size_t pindex=0;
+string wd="."; // Working Directory
 
 // two curl writing functions
 size_t write_data(char *ptr, size_t size, size_t nmemb, void *userdata)
@@ -113,7 +119,7 @@ void check_compression()
  * int has 31 non-sign bits.
  * the sign bit is set if the debug option `-d` is given
  * bits 0,1,2,3,4 stands for if downloads from CAO, CKO, CPO, CXC, CUE and CBRO respectively
- * bit 14 is set if verbose is specified.
+ * bit 14 is set if any level of verbose (including 0) is specified.
  * bits 15,16,17,18,19 indicates whether morgue.txt, morgue.lst/map, timestamp, ttyrecs and character dumps should be downloaded, respectively
  * bit 20 is set if `-h` is found in the options
  * bit 21 is set if none of -mMst, is given
@@ -154,6 +160,7 @@ int parse_opts(int argc, const char** argv)
 						// -a: download from CAO
 						// -b: download from CBRO
 						// -d: also download character dumps
+						// -D: directory to put the files
 						// -h: prints this help
 						// -k: download from CKO
 						// -l: also download morgue.lst/morgue.map files
@@ -163,18 +170,24 @@ int parse_opts(int argc, const char** argv)
 						// -s: also download timestamp files
 						// -t: also download ttyrecs
 						// -u: download from CUE
-						// -v: show progress and other informations
 						// -x: download from CXC
+						// -0: verbose level 0 (no effect, only sets the VERB flag)
+						// -1: verbose level 1
+						// -2: verbose level 2
+						// -3: verbose level 3
 						// -,: for debug use only
 						case 'a':r|=TEOPMASK_CAO;nosite=0;break;
 						case 'h':r|=TEOPMASK_HELP;break;
 						case 'k':r|=TEOPMASK_CKO;nosite=0;break;
 						case 'm':r|=TEOPMASK_TXT;nodown=0;break;
 						case 'p':r|=TEOPMASK_CPO;nosite=0;break;
-						case 'v':r|=TEOPMASK_VERB;break;
+						case '0':r|=TEOPMASK_VERB;verbosity=0;break;
+						case '1':r|=TEOPMASK_VERB;verbosity=1;break;
+						case '2':r|=TEOPMASK_VERB;verbosity=2;break;
+						case '3':r|=TEOPMASK_VERB;verbosity=3;break;
 						case ',':r|=TEOPMASK_DEBUG;break;
 						// options that need special care
-						case 'O':break;
+						case 'O':case 'D':break;
 						// TODO: UNFINISHED ONES
 						case 'b':r|=TEOPMASK_CBRO;nosite=0;break;
 						case 'u':r|=TEOPMASK_CUE;nosite=0;break;
@@ -183,7 +196,7 @@ int parse_opts(int argc, const char** argv)
                         case 's':r|=TEOPMASK_TS;nodown=0;break;
                         case 't':r|=TEOPMASK_TTYREC;nodown=0;break;
 						case 'd':r|=TEOPMASK_DUMP;nodown=0;break;
-						default:r|=TEOPMASK_UKOPT;break;
+						default:r|=TEOPMASK_UKOPT;uko=argv[i][j];break;
 					}
 					if(argv[i][j]=='O')
 					{
@@ -191,6 +204,11 @@ int parse_opts(int argc, const char** argv)
 						strcpy(outfile,argv[i]+j+1);
 						freopen(outfile,"w",stdout);
 						break;
+					}
+					else if(argv[i][j]=='D')
+					{
+						// not implemented.
+						r|=TEOPMASK_UKOPT;uko='D';
 					}
 					j++;
 				}
@@ -209,7 +227,7 @@ int parse_opts(int argc, const char** argv)
 	return r;
 }
 
-// g_: file as a string; opts: options.
+// g_: file list as a string; opts: options.
 void grab(string g_,int opts)
 {
 	char sit[1000]=""; // what site is this file?
@@ -253,6 +271,17 @@ void grab(string g_,int opts)
 		}
 		// else it is not a archive, so we remove that last 3 characters to reveal the .txt extension
 		else file.erase(file.length()-3);
+		// is the file already there?
+		if(opts&TEOPMASK_IGNEX)
+		{
+			if(exists(file.substr(0,27+username.length()-1)))
+			{
+				if(v2)cerr<<"File "<<file.substr(0,27+username.length()-1)<<" exists. Ignoring download request.\n";
+				if(!archiv)q.push_back(file);
+				else q.push_back(file.substr(0,27+username.length()-1));
+				continue;
+			}
+		}
 		// fetch & write to file
 		FILE* f=fopen(file.c_str(),"wb");
 		char site[1000]="";
@@ -265,6 +294,7 @@ void grab(string g_,int opts)
 		// if an archive: remove the archive extension for further stat analyzing.
 		else q.push_back(file.substr(0,27+username.length()-1));
 		// the real job
+		if(v1)cerr<<"Fetching file "<<file<<"..."<<endl;
 		curl_easy_perform(curl_handle);
 		fclose(f);
 		if(archiv) // is archive
@@ -455,25 +485,37 @@ int main(int argc, const char** argv)
 	int opts=parse_opts(argc,argv);
 	if(opts<0)
 	{
-		cout<<"opts="<<opts<<endl;
-		cout<<"username="<<username<<endl;
+		cerr<<"opts="<<opts<<endl;
+		cerr<<"username="<<username<<endl;
 		return 0;
 	}
-	if(opts&TEOPMASK_UKOPT)cout<<"Unknown option.\n";
-	if(opts&TEOPMASK_UKCOMM)cout<<"Unknown command.\n";
+	if(opts&TEOPMASK_UKOPT)
+	{
+		cerr<<"Unknown option `-"<<uko<<"`.\n";
+		cerr<<"Supported options: -Oahkmpv0123,"<<endl;
+		cerr<<"Run `"<<argv[0]<<" -h` for more information."<<endl;
+		return 3;
+	}
+	if(opts&TEOPMASK_UKCOMM)
+	{
+		cerr<<"Unknown command.\n";
+		return 4;
+	}
 	if(opts&(TEOPMASK_HELP|TEOPMASK_EMPTY))
 	{
-		// TODO: update usage
-		cout<<"Usage: "<<argv[0]<<" <fetch/update/auto/stat> [options]\n";
-		cout<<"  where [options] can be `--username` where you specify your username or one of the following:\n";
-		cout<<"\t-O<filename>: redirect stdout to a file with name <filename>\n";
-		cout<<"\t-a: download from CAO\n";
-		cout<<"\t-h: prints this help\n";
-		cout<<"\t-k: download from CKO\n";
-		cout<<"\t-m: download txts (current default behavior)\n";
-		cout<<"\t-p: download from CPO\n";
-		cout<<"\t-v: show progress and other informations\n";
-		cout<<"\t-,: for debug use only\n";
+		cerr<<"Usage: "<<argv[0]<<" [options]\n";
+		cerr<<"  where [options] can be `--username` where you specify your username or one of the following:\n";
+		cerr<<"\t-O<filename>: redirect stdout to a file with name <filename>\n";
+		cerr<<"\t-a: download from CAO\n";
+		cerr<<"\t-h: prints this help\n";
+		cerr<<"\t-k: download from CKO\n";
+		cerr<<"\t-m: download txts (current default behavior)\n";
+		cerr<<"\t-p: download from CPO\n";
+		cerr<<"\t-0: verbose level 0 (no effect)\n";
+		cerr<<"\t-1: verbose level 1\n";
+		cerr<<"\t-2: verbose level 2\n";
+		cerr<<"\t-3: verbose level 3\n";
+		cerr<<"\t-,: for debug use only\n";
 		return 0;
 	}
 	/*
@@ -487,20 +529,38 @@ int main(int argc, const char** argv)
 	curl_global_init(CURL_GLOBAL_ALL);
 	curl_handle=curl_easy_init();
 	curl_easy_setopt(curl_handle, CURLOPT_VERBOSE, 0L);
-	curl_easy_setopt(curl_handle, CURLOPT_NOPROGRESS, (long)(!static_cast<bool>(opts&TEOPMASK_VERB)));
+	curl_easy_setopt(curl_handle, CURLOPT_NOPROGRESS, (long)(verbosity<2));
 	curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_data);
 	curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, nullptr);
 	// download from cao
 	// TODO: push strcpy into each if statement. alloc str before everything. free & delete it afterwards.
 	// Download list from CAO. Append a after the file to note its origin.
 	char str[10000]=CAO;
-	if(opts&TEOPMASK_CAO)curl_easy_setopt(curl_handle, CURLOPT_URL, strcat(str,username.c_str())),curl_easy_perform(curl_handle),p[pindex].append(static_cast<string>("a")),pindex++;
+	if(opts&TEOPMASK_CAO)
+	{
+		if(v1)cerr<<"Downloading list from CAO (" CAO<<username<<")..."<<endl;
+		curl_easy_setopt(curl_handle, CURLOPT_URL, strcat(str,username.c_str()));
+		curl_easy_perform(curl_handle),p[pindex].append(static_cast<string>("a"));
+		pindex++;
+	}
 	// Download list from CKO. Append k after the file to note its origin.
 	strcpy(str,CKO);
-	if(opts&TEOPMASK_CKO)curl_easy_setopt(curl_handle, CURLOPT_URL, strcat(str,username.c_str())),curl_easy_perform(curl_handle),p[pindex].append(static_cast<string>("k")),pindex++;
+	if(opts&TEOPMASK_CKO)
+	{
+		if(v1)cerr<<"Downloading list from CKO (" CKO<<username<<")..."<<endl;
+		curl_easy_setopt(curl_handle, CURLOPT_URL, strcat(str,username.c_str()));
+		curl_easy_perform(curl_handle),p[pindex].append(static_cast<string>("k"));
+		pindex++;
+	}
 	// Download list from CPO. Append p after the file to note its origin.
 	strcpy(str,CPO);
-	if(opts&TEOPMASK_CPO)curl_easy_setopt(curl_handle, CURLOPT_URL, strcat(str,username.c_str())),curl_easy_perform(curl_handle),p[pindex].append(static_cast<string>("p")),pindex++;
+	if(opts&TEOPMASK_CPO)
+	{
+		if(v1)cerr<<"Downloading list from CPO (" CPO<<username<<")..."<<endl;
+		curl_easy_setopt(curl_handle, CURLOPT_URL, strcat(str,username.c_str()));
+		curl_easy_perform(curl_handle),p[pindex].append(static_cast<string>("p"));
+		pindex++;
+	}
 	// Start getting files.
 	curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_file);
 	for(vector<string>::iterator it=p.begin();it!=p.end();it++)
@@ -553,3 +613,4 @@ int main(int argc, const char** argv)
 	curl_global_cleanup();
     return 0;
 }
+
