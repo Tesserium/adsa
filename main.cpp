@@ -514,7 +514,7 @@ int main(int argc, const char** argv)
 	if(opts&TEOPMASK_UKOPT)
 	{
 		cerr<<"Unknown option `-"<<uko<<"`.\n";
-		cerr<<"Supported options: -Oahkmpv0123,"<<endl;
+		cerr<<"Supported options: -Oahkmp01234,"<<endl;
 		cerr<<"Run `"<<argv[0]<<" -h` for more information."<<endl;
 		return 3;
 	}
@@ -537,7 +537,8 @@ int main(int argc, const char** argv)
 		cerr<<"\t-1: verbose level 1\n";
 		cerr<<"\t-2: verbose level 2\n";
 		cerr<<"\t-3: verbose level 3\n";
-		cerr<<"\t-,: for debug use only\n";
+		cerr<<"\t-4: verbose level 4, for developer only (prints a good deal of stuff!)\n";
+		cerr<<"\t-,: for debug use\n";
 		return 0;
 	}
 	/*
