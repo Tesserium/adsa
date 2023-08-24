@@ -622,7 +622,7 @@ int main(int argc, const char** argv)
 			if(this_god_times>=god_max)god_max=this_god_times,god_max_type=r.god;
 			godstr.append(static_cast<string>(short_gods[god_to_num(r.god)]));
 		}
-		cout<<r.score<<"\t\t"<<r.turn<<"\t"<<rnd(r.score/(double)r.turn)<<"\t\t"<<r.x<<"\t"<<r.playtime<<"\t"<<r.combo.s<<r.combo.b<<((!r.god)?"\t":godstr)<<"\t\t"<<r.v<<endl;
+		cout<<r.score<<"\t\t"<<r.turn<<"\t"<<((r.score||r.turn)?rnd(r.score/(double)r.turn):0)<<"\t\t"<<r.x<<"\t"<<r.playtime<<"\t"<<r.combo.s<<r.combo.b<<((!r.god)?"\t":godstr)<<"\t\t"<<r.v<<endl;
 		last=r;
 	}
     cout<<"Average score: "<<sum/(double)num<<" pts."<<endl;
