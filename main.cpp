@@ -348,7 +348,8 @@ void comb(TeR& r)
     else if(s1=="Armataur")b.s[0]='A',b.s[1]='t';
     else if(s1=="Demigod")b.s[0]='D',b.s[1]='g';
     else if(s1=="Demonspawn")b.s[0]='D',b.s[1]='s';
-    else if(s1=="Gnome")b.s[0]='G',b.s[1]='m';
+    else if(s1=="Fairy")b.s[0]='F',b.s[1]='a';
+	else if(s1=="Gnome")b.s[0]='G',b.s[1]='m';
     else if(s1=="Gargoyle")b.s[0]='G',b.s[1]='r';
     else if(s1=="Merfolk")b.s[0]='M',b.s[1]='f';
     else if(s1=="Mayflytaur")b.s[0]='M',b.s[1]='y';
