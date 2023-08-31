@@ -348,7 +348,8 @@ void comb(TeR& r)
     else if(s1=="Armataur")b.s[0]='A',b.s[1]='t';
     else if(s1=="Demigod")b.s[0]='D',b.s[1]='g';
     else if(s1=="Demonspawn")b.s[0]='D',b.s[1]='s';
-    else if(s1=="Gnome")b.s[0]='G',b.s[1]='m';
+    else if(s1=="Fairy")b.s[0]='F',b.s[1]='a';
+	else if(s1=="Gnome")b.s[0]='G',b.s[1]='m';
     else if(s1=="Gargoyle")b.s[0]='G',b.s[1]='r';
     else if(s1=="Merfolk")b.s[0]='M',b.s[1]='f';
     else if(s1=="Mayflytaur")b.s[0]='M',b.s[1]='y';
@@ -514,7 +515,7 @@ int main(int argc, const char** argv)
 	if(opts&TEOPMASK_UKOPT)
 	{
 		cerr<<"Unknown option `-"<<uko<<"`.\n";
-		cerr<<"Supported options: -Oahkmpv0123,"<<endl;
+		cerr<<"Supported options: -Oahkmp01234,"<<endl;
 		cerr<<"Run `"<<argv[0]<<" -h` for more information."<<endl;
 		return 3;
 	}
@@ -537,7 +538,8 @@ int main(int argc, const char** argv)
 		cerr<<"\t-1: verbose level 1\n";
 		cerr<<"\t-2: verbose level 2\n";
 		cerr<<"\t-3: verbose level 3\n";
-		cerr<<"\t-,: for debug use only\n";
+		cerr<<"\t-4: verbose level 4, for developer only (prints a good deal of stuff!)\n";
+		cerr<<"\t-,: for debug use\n";
 		return 0;
 	}
 	/*
@@ -622,7 +624,7 @@ int main(int argc, const char** argv)
 			if(this_god_times>=god_max)god_max=this_god_times,god_max_type=r.god;
 			godstr.append(static_cast<string>(short_gods[god_to_num(r.god)]));
 		}
-		cout<<r.score<<"\t\t"<<r.turn<<"\t"<<rnd(r.score/(double)r.turn)<<"\t\t"<<r.x<<"\t"<<r.playtime<<"\t"<<r.combo.s<<r.combo.b<<((!r.god)?"\t":godstr)<<"\t\t"<<r.v<<endl;
+		cout<<r.score<<"\t\t"<<r.turn<<"\t"<<((r.score||r.turn)?rnd(r.score/(double)r.turn):0)<<"\t\t"<<r.x<<"\t"<<r.playtime<<"\t"<<r.combo.s<<r.combo.b<<((!r.god)?"\t":godstr)<<"\t\t"<<r.v<<endl;
 		last=r;
 	}
     cout<<"Average score: "<<sum/(double)num<<" pts."<<endl;
