@@ -1,4 +1,5 @@
 #include<curl/curl.h>
+#include<cmath>
 #include<iostream>
 #include<string>
 #include<algorithm>
@@ -44,6 +45,8 @@
 #define v1 (verbosity>=1)
 #define v2 (verbosity>=2)
 #define v3 (verbosity>=3)
+#define v4 (verbosity>=4)
+#define rnd(x) (floor((double)(x)*100000.0+0.5)/100000.0)
 using namespace std;
 using namespace std::filesystem;
 CURL* curl_handle;
@@ -175,6 +178,7 @@ int parse_opts(int argc, const char** argv)
 						// -1: verbose level 1
 						// -2: verbose level 2
 						// -3: verbose level 3
+						// -4: verbose level 4, for developer only
 						// -,: for debug use only
 						case 'a':r|=TEOPMASK_CAO;nosite=0;break;
 						case 'h':r|=TEOPMASK_HELP;break;
@@ -185,6 +189,7 @@ int parse_opts(int argc, const char** argv)
 						case '1':r|=TEOPMASK_VERB;verbosity=1;break;
 						case '2':r|=TEOPMASK_VERB;verbosity=2;break;
 						case '3':r|=TEOPMASK_VERB;verbosity=3;break;
+						case '4':r|=TEOPMASK_VERB;verbosity=4;break;
 						case ',':r|=TEOPMASK_DEBUG;break;
 						// options that need special care
 						case 'O':case 'D':break;
@@ -343,7 +348,8 @@ void comb(TeR& r)
     else if(s1=="Armataur")b.s[0]='A',b.s[1]='t';
     else if(s1=="Demigod")b.s[0]='D',b.s[1]='g';
     else if(s1=="Demonspawn")b.s[0]='D',b.s[1]='s';
-    else if(s1=="Gnome")b.s[0]='G',b.s[1]='m';
+    else if(s1=="Fairy")b.s[0]='F',b.s[1]='r';
+	else if(s1=="Gnome")b.s[0]='G',b.s[1]='m';
     else if(s1=="Gargoyle")b.s[0]='G',b.s[1]='r';
     else if(s1=="Merfolk")b.s[0]='M',b.s[1]='f';
     else if(s1=="Mayflytaur")b.s[0]='M',b.s[1]='y';
@@ -372,7 +378,9 @@ void comb(TeR& r)
 
 void stats(string filename)
 {
+	if(v3)cerr<<"Going through "<<filename<<"...\n";
 	// initialize the game struct
+	if(v4)cerr<<"Initializing game struct.\n";
     TeR r;
     r.filen=filename;
     r.score=0;
@@ -391,12 +399,14 @@ void stats(string filename)
          tu=0, // TUrn
          xl=0, // XL
          go=0; // GOd
+	if(v4)cerr<<"Searching "<<filename<<"...\n";
     while(!i.eof())
     {
         if(ve&&sc&&cb&&xl&&go)break;
-        char cc[100]="\0";
-        i.getline(&cc[0],100);
+        char cc[1000]="\0";
+        i.getline(&cc[0],1000); // previously 100, that causes problems!!
         c=cc;
+		if(v4)cerr<<"Current line:\t<LINE_START>"<<c<<"<LINE_END>\n";
         size_t var=0;
         int j=0;
         while(c[j++]==0&&j<c.length());
@@ -467,6 +477,19 @@ void stats(string filename)
                 xl=go=1;
                 break;
             }
+			// check turns & spent time (not implemented)
+			else if((!tu)&&((var=c.find("The game lasted"))!=string::npos))
+			{
+				r.turn=0;
+				var+=25;
+				while(isdigit(c[++var])&&var<c.length())
+				{
+					r.turn*=10;
+					r.turn+=c[var]-'0';
+				}
+				tu=1;
+				break;
+			}
         }
     }
 	// Figure out what combo the game is.
@@ -492,7 +515,7 @@ int main(int argc, const char** argv)
 	if(opts&TEOPMASK_UKOPT)
 	{
 		cerr<<"Unknown option `-"<<uko<<"`.\n";
-		cerr<<"Supported options: -Oahkmpv0123,"<<endl;
+		cerr<<"Supported options: -Oahkmp01234,"<<endl;
 		cerr<<"Run `"<<argv[0]<<" -h` for more information."<<endl;
 		return 3;
 	}
@@ -515,7 +538,8 @@ int main(int argc, const char** argv)
 		cerr<<"\t-1: verbose level 1\n";
 		cerr<<"\t-2: verbose level 2\n";
 		cerr<<"\t-3: verbose level 3\n";
-		cerr<<"\t-,: for debug use only\n";
+		cerr<<"\t-4: verbose level 4, for developer only (prints a good deal of stuff!)\n";
+		cerr<<"\t-,: for debug use\n";
 		return 0;
 	}
 	/*
@@ -562,6 +586,7 @@ int main(int argc, const char** argv)
 		pindex++;
 	}
 	// Start getting files.
+	if(v3)cerr<<"Start getting files.\n";
 	curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_file);
 	for(vector<string>::iterator it=p.begin();it!=p.end();it++)
 	{
@@ -569,6 +594,7 @@ int main(int argc, const char** argv)
 		string gra=*it;
 		grab(gra,opts);
 	}
+	if(v3)cerr<<"Start analyzing stats.\n";
 	// after grabbing we have the file on local storage & file names in q, a vector<string>.
 	// foreach st:q analyze it stats by calling stats().
 	for(vector<string>::iterator it=q.begin();it!=q.end();it++)
@@ -576,12 +602,13 @@ int main(int argc, const char** argv)
 		string st=*it;
 		stats(st);
 	}
+	if(v3)cerr<<"Starting output.\n";
 	sort(v.begin(),v.end(),cmp);
 	size_t sum=0,num=0;
 	int god_max=-1;
 	char god_max_type;
 	TeR last;
-	cout<<"Score\t\tXL\tPlaytime\t\tCombo\t\t\tVersion"<<endl;
+	cout<<"Score\t\tTurn\tScore per turn\tXL\tPlaytime\t\tCombo\t\t\tVersion"<<endl;
 	for(vector<TeR>::iterator it=v.begin();it!=v.end();it++)
 	{
 		TeR r=*it;
@@ -597,7 +624,7 @@ int main(int argc, const char** argv)
 			if(this_god_times>=god_max)god_max=this_god_times,god_max_type=r.god;
 			godstr.append(static_cast<string>(short_gods[god_to_num(r.god)]));
 		}
-		cout<<r.score<<"\t\t"<<r.x<<"\t"<<r.playtime<<"\t"<<r.combo.s<<r.combo.b<<((!r.god)?"\t":godstr)<<"\t\t"<<r.v<<endl;
+		cout<<r.score<<"\t\t"<<r.turn<<"\t"<<((r.score||r.turn)?rnd(r.score/(double)r.turn):0)<<"\t\t"<<r.x<<"\t"<<r.playtime<<"\t"<<r.combo.s<<r.combo.b<<((!r.god)?"\t":godstr)<<"\t\t"<<r.v<<endl;
 		last=r;
 	}
     cout<<"Average score: "<<sum/(double)num<<" pts."<<endl;

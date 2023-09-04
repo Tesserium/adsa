@@ -1,17 +1,28 @@
 # ADSA for DCSS 0.11+
 Tesserium ADSA is a tool that aims to automatically downloads morgue files from various known sites accoding to a given username and analyzes then to give statistic data, and also some funny results.
 
+Bloatcrawl and Bcrawl games may glitch because of various code deficiency. See [bcrawl](https://github.com/Tesserium/adsa/labels/bcrawl) & [bloatcrawl](https://github.com/Tesserium/adsa/labels/bloatcrawl) labels for more.
+
 Usage:
-`./adsa -[akpv] --<username>`
-+ a => akrasiac
-+ k => kelbi
-+ p => project357
-+ v => verbose
-Or do `./adsa -h` for more information.
+`./adsa -[Oahkmp01234,] --<username>`
++ `O<filename>` => file to output results 
++ `a` => akrasiac
++ `h` => help
++ `k` => kelbi
++ `m` => morgue txts (default behavior)
++ `p` => project357
++ `0` => verbosity 0
++ `1` => verbosity 1
++ `2` => verbosity 2
++ `3` => verbosity 3
++ `4` => verbosity 4, for developer only (prints a good deal of stuff!)
++ `,` => debug mode, for developer only
+
+Or do `./adsa -h`.
 
 If you don't specify any username the author's (@code2828) will be used by default.
 
-Example output (created by command `adsa -pvOtestout.txt`, tabstop = 8):
+Example output (created by command `adsa -pOtestout.txt`, tabstop = 8):
 ```
 Score		XL	Playtime		Combo			Version
 43232		14	2022.12.06-01:25:32	GrFi^Gozag		30-a
