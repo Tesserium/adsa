@@ -77,7 +77,7 @@ struct TeR
 vector<TeR> v; // vector that stores every game
 vector<string> q; // vector that stores every morgue file
 int gwt[27]={0}; // God Worshipped Times
-int spt[100]={0}; // SPecied played Times
+int spt[100]={0}; // SPecies played Times
 int bgt[100]={0}; // BackGround played Times
 int verbosity=0;
 char uko='\0';
@@ -121,7 +121,7 @@ void check_compression()
 /*
  * int has 31 non-sign bits.
  * the sign bit is set if the debug option `-d` is given
- * bits 0,1,2,3,4 stands for if downloads from CAO, CKO, CPO, CXC, CUE and CBRO respectively
+ * bits 0,1,2,3,4,5 stands for if downloads from CAO, CKO, CPO, CXC, CUE and CBRO respectively
  * bit 14 is set if any level of verbose (including 0) is specified.
  * bits 15,16,17,18,19 indicates whether morgue.txt, morgue.lst/map, timestamp, ttyrecs and character dumps should be downloaded, respectively
  * bit 20 is set if `-h` is found in the options
@@ -547,7 +547,7 @@ int main(int argc, const char** argv)
      * 2. Find the links in fetched indexes
      * 3. Download morgue files
      * 4. Grab the information from morgues
-     * 5. Output stats, and give some comments (implememt later)
+     * 5. Output stats, and give some comments (implement later)
      */
 	username.append(static_cast<string>("/"));
 	curl_global_init(CURL_GLOBAL_ALL);
@@ -616,7 +616,7 @@ int main(int argc, const char** argv)
 		if(r.filen==last.filen)continue;
 		num++;
 		sum+=r.score;
-        string godstr;
+        	string godstr;
 		if(r.god)
 		{
 			godstr.push_back('^');
@@ -627,7 +627,7 @@ int main(int argc, const char** argv)
 		cout<<r.score<<"\t\t"<<r.turn<<"\t"<<((r.score||r.turn)?rnd(r.score/(double)r.turn):0)<<"\t\t"<<r.x<<"\t"<<r.playtime<<"\t"<<r.combo.s<<r.combo.b<<((!r.god)?"\t":godstr)<<"\t\t"<<r.v<<endl;
 		last=r;
 	}
-    cout<<"Average score: "<<sum/(double)num<<" pts."<<endl;
+	cout<<"Average score: "<<sum/(double)num<<" pts."<<endl;
 	cout<<(god_max==-1?"You are a pure athiest and hasn't worshipped any god until now!\n":"You have worshipped ");
 	if(god_max+1)
 	{
