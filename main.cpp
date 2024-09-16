@@ -277,6 +277,7 @@ void grab(string g_,int opts)
 	// is the file already there?
 	if(opts&TEOPMASK_IGNEX)
 	{
+	    if(v3)cerr<<"Checking if file "<<file.substr(0,27+username.length()-1)<<" already exists...\n";
 	    if(exists(file.substr(0,27+username.length()-1)))
 	    {
 		if(v2)cerr<<"File "<<file.substr(0,27+username.length()-1)<<" exists. Ignoring download request.\n";
