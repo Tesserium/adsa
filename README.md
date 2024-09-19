@@ -60,7 +60,3 @@ Score		XL	Playtime		Combo			Version
 Average score: 3420.91 pts.
 You have worshipped Trog for 18 times, which is the most among all gods.
 ```
-
-## Contribution
-The best way to contribute to this project is to join Tesserium! E-mail me <tmp_0x02@null.net> or any owner of the team for more details.
-
