@@ -1,5 +1,5 @@
 # ADSA for DCSS 0.11+
-Tesserium ADSA is a tool that aims to automatically downloads morgue files from various known sites accoding to a given username and analyzes then to give statistic data, and also some funny results.
+Tesserium ADSA is a tool that aims to automatically download morgue files from various known sites accoding to a given username and analyzes then to give statistic data, and also some funny results.
 
 Bloatcrawl and Bcrawl games may glitch because of various code deficiency. See [bcrawl](https://github.com/Tesserium/adsa/labels/bcrawl) & [bloatcrawl](https://github.com/Tesserium/adsa/labels/bloatcrawl) labels for more.
 
